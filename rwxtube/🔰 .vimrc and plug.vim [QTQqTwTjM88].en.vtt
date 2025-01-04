@@ -1,0 +1,2536 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:03.750 align:start position:0%
+ 
+you<00:00:00.280><c> know</c><00:00:00.880><c> so</c><00:00:01.160><c> this</c><00:00:01.560><c> Vim</c><00:00:02.040><c> thing</c><00:00:02.879><c> Vim</c><00:00:03.320><c> this</c><00:00:03.480><c> Vim</c>
+
+00:00:03.750 --> 00:00:03.760 align:start position:0%
+you know so this Vim thing Vim this Vim
+ 
+
+00:00:03.760 --> 00:00:06.230 align:start position:0%
+you know so this Vim thing Vim this Vim
+thing<00:00:03.919><c> that</c><00:00:04.040><c> we've</c><00:00:04.200><c> been</c><00:00:04.560><c> using</c><00:00:05.560><c> the</c><00:00:05.720><c> first</c><00:00:06.160><c> I</c>
+
+00:00:06.230 --> 00:00:06.240 align:start position:0%
+thing that we've been using the first I
+ 
+
+00:00:06.240 --> 00:00:07.630 align:start position:0%
+thing that we've been using the first I
+mean<00:00:06.399><c> we</c><00:00:06.480><c> don't</c><00:00:06.600><c> need</c><00:00:06.720><c> to</c><00:00:06.879><c> talk</c><00:00:07.040><c> about</c><00:00:07.439><c> whether</c>
+
+00:00:07.630 --> 00:00:07.640 align:start position:0%
+mean we don't need to talk about whether
+ 
+
+00:00:07.640 --> 00:00:08.830 align:start position:0%
+mean we don't need to talk about whether
+you<00:00:07.759><c> should</c><00:00:08.000><c> use</c><00:00:08.160><c> Vim</c><00:00:08.320><c> or</c><00:00:08.400><c> not</c><00:00:08.519><c> we</c><00:00:08.639><c> talked</c>
+
+00:00:08.830 --> 00:00:08.840 align:start position:0%
+you should use Vim or not we talked
+ 
+
+00:00:08.840 --> 00:00:10.629 align:start position:0%
+you should use Vim or not we talked
+about<00:00:08.960><c> that</c><00:00:09.080><c> in</c><00:00:09.160><c> a</c><00:00:09.280><c> different</c><00:00:09.519><c> video</c><00:00:10.320><c> now</c><00:00:10.519><c> we</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+about that in a different video now we
+ 
+
+00:00:10.639 --> 00:00:14.110 align:start position:0%
+about that in a different video now we
+need<00:00:10.759><c> to</c><00:00:10.920><c> talk</c><00:00:11.200><c> about</c><00:00:12.200><c> how</c><00:00:12.519><c> to</c><00:00:12.880><c> set</c><00:00:13.280><c> Vim</c><00:00:13.719><c> up</c><00:00:13.960><c> in</c>
+
+00:00:14.110 --> 00:00:14.120 align:start position:0%
+need to talk about how to set Vim up in
+ 
+
+00:00:14.120 --> 00:00:17.310 align:start position:0%
+need to talk about how to set Vim up in
+the<00:00:14.320><c> terminal</c><00:00:14.960><c> and</c><00:00:15.160><c> this</c><00:00:16.039><c> unfortunately</c><00:00:17.039><c> is</c>
+
+00:00:17.310 --> 00:00:17.320 align:start position:0%
+the terminal and this unfortunately is
+ 
+
+00:00:17.320 --> 00:00:22.269 align:start position:0%
+the terminal and this unfortunately is
+not<00:00:17.840><c> really</c><00:00:18.400><c> explained</c><00:00:19.519><c> anywhere</c><00:00:20.519><c> so</c><00:00:21.519><c> um</c><00:00:22.119><c> and</c>
+
+00:00:22.269 --> 00:00:22.279 align:start position:0%
+not really explained anywhere so um and
+ 
+
+00:00:22.279 --> 00:00:23.990 align:start position:0%
+not really explained anywhere so um and
+I<00:00:22.400><c> I</c><00:00:22.480><c> want</c><00:00:22.600><c> to</c><00:00:22.680><c> be</c><00:00:22.840><c> really</c><00:00:23.000><c> clear</c><00:00:23.279><c> here</c><00:00:23.599><c> we're</c>
+
+00:00:23.990 --> 00:00:24.000 align:start position:0%
+I I want to be really clear here we're
+ 
+
+00:00:24.000 --> 00:00:29.710 align:start position:0%
+I I want to be really clear here we're
+talking<00:00:24.760><c> about</c><00:00:26.039><c> them</c><00:00:27.039><c> not</c><00:00:27.560><c> neovim</c><00:00:28.560><c> not</c><00:00:28.880><c> bi</c>
+
+00:00:29.710 --> 00:00:29.720 align:start position:0%
+talking about them not neovim not bi
+ 
+
+00:00:29.720 --> 00:00:31.910 align:start position:0%
+talking about them not neovim not bi
+even<00:00:29.960><c> even</c><00:00:30.080><c> though</c><00:00:30.199><c> it's</c><00:00:30.400><c> similar</c><00:00:31.400><c> and</c><00:00:31.800><c> of</c>
+
+00:00:31.910 --> 00:00:31.920 align:start position:0%
+even even though it's similar and of
+ 
+
+00:00:31.920 --> 00:00:34.389 align:start position:0%
+even even though it's similar and of
+course<00:00:32.119><c> not</c><00:00:32.320><c> Ed</c><00:00:32.680><c> or</c><00:00:32.800><c> any</c><00:00:32.920><c> of</c><00:00:33.040><c> those</c><00:00:33.239><c> others</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+course not Ed or any of those others
+ 
+
+00:00:34.399 --> 00:00:36.950 align:start position:0%
+course not Ed or any of those others
+so<00:00:35.399><c> uh</c><00:00:35.760><c> I</c><00:00:35.840><c> just</c><00:00:35.920><c> want</c><00:00:36.040><c> to</c><00:00:36.160><c> be</c><00:00:36.320><c> really</c><00:00:36.520><c> clear</c><00:00:36.760><c> on</c>
+
+00:00:36.950 --> 00:00:36.960 align:start position:0%
+so uh I just want to be really clear on
+ 
+
+00:00:36.960 --> 00:00:38.270 align:start position:0%
+so uh I just want to be really clear on
+that<00:00:37.239><c> particular</c><00:00:37.680><c> point</c><00:00:37.960><c> I'm</c><00:00:38.040><c> not</c>
+
+00:00:38.270 --> 00:00:38.280 align:start position:0%
+that particular point I'm not
+ 
+
+00:00:38.280 --> 00:00:40.110 align:start position:0%
+that particular point I'm not
+particularly<00:00:38.800><c> bashing</c><00:00:39.239><c> neim</c><00:00:39.760><c> or</c><00:00:39.840><c> any</c><00:00:40.000><c> of</c>
+
+00:00:40.110 --> 00:00:40.120 align:start position:0%
+particularly bashing neim or any of
+ 
+
+00:00:40.120 --> 00:00:41.430 align:start position:0%
+particularly bashing neim or any of
+those<00:00:40.280><c> other</c><00:00:40.440><c> things</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+those other things
+ 
+
+00:00:41.440 --> 00:00:43.430 align:start position:0%
+those other things
+today<00:00:42.440><c> uh</c><00:00:42.600><c> but</c><00:00:42.719><c> I</c><00:00:42.800><c> think</c><00:00:42.920><c> it's</c><00:00:43.039><c> important</c><00:00:43.320><c> that</c>
+
+00:00:43.430 --> 00:00:43.440 align:start position:0%
+today uh but I think it's important that
+ 
+
+00:00:43.440 --> 00:00:45.790 align:start position:0%
+today uh but I think it's important that
+you<00:00:43.520><c> know</c><00:00:43.840><c> that</c><00:00:44.399><c> the</c><00:00:44.719><c> the</c><00:00:45.000><c> reason</c><00:00:45.239><c> I</c><00:00:45.399><c> say</c><00:00:45.640><c> that</c>
+
+00:00:45.790 --> 00:00:45.800 align:start position:0%
+you know that the the reason I say that
+ 
+
+00:00:45.800 --> 00:00:47.910 align:start position:0%
+you know that the the reason I say that
+is<00:00:46.000><c> because</c><00:00:46.800><c> people</c><00:00:47.199><c> site</c><00:00:47.559><c> one</c><00:00:47.680><c> of</c><00:00:47.760><c> the</c>
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+is because people site one of the
+ 
+
+00:00:47.920 --> 00:00:49.990 align:start position:0%
+is because people site one of the
+advantages<00:00:48.360><c> of</c><00:00:48.520><c> neovim</c><00:00:49.239><c> is</c><00:00:49.360><c> that</c><00:00:49.520><c> it</c><00:00:49.640><c> has</c><00:00:49.760><c> a</c>
+
+00:00:49.990 --> 00:00:50.000 align:start position:0%
+advantages of neovim is that it has a
+ 
+
+00:00:50.000 --> 00:00:52.549 align:start position:0%
+advantages of neovim is that it has a
+much<00:00:50.360><c> cleaner</c><00:00:50.879><c> easier</c><00:00:51.680><c> happier</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+much cleaner easier happier
+ 
+
+00:00:52.559 --> 00:00:54.990 align:start position:0%
+much cleaner easier happier
+configuration<00:00:53.199><c> I</c><00:00:53.320><c> disagree</c><00:00:53.760><c> completely</c><00:00:54.760><c> but</c>
+
+00:00:54.990 --> 00:00:55.000 align:start position:0%
+configuration I disagree completely but
+ 
+
+00:00:55.000 --> 00:00:57.750 align:start position:0%
+configuration I disagree completely but
+that's<00:00:55.280><c> what</c><00:00:55.440><c> they</c><00:00:55.640><c> say</c><00:00:56.160><c> so</c><00:00:57.160><c> if</c><00:00:57.320><c> you</c><00:00:57.520><c> are</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+that's what they say so if you are
+ 
+
+00:00:57.760 --> 00:00:58.990 align:start position:0%
+that's what they say so if you are
+coming<00:00:58.000><c> to</c><00:00:58.160><c> this</c><00:00:58.320><c> video</c><00:00:58.600><c> because</c><00:00:58.719><c> you</c><00:00:58.800><c> want</c><00:00:58.879><c> to</c>
+
+00:00:58.990 --> 00:00:59.000 align:start position:0%
+coming to this video because you want to
+ 
+
+00:00:59.000 --> 00:01:01.830 align:start position:0%
+coming to this video because you want to
+set<00:00:59.199><c> up</c><00:00:59.640><c> them</c><00:01:00.160><c> and</c><00:01:00.280><c> you</c><00:01:00.840><c> think</c><00:01:01.160><c> that</c><00:01:01.320><c> the</c><00:01:01.480><c> video</c>
+
+00:01:01.830 --> 00:01:01.840 align:start position:0%
+set up them and you think that the video
+ 
+
+00:01:01.840 --> 00:01:03.470 align:start position:0%
+set up them and you think that the video
+is<00:01:01.960><c> going</c><00:01:02.039><c> to</c><00:01:02.160><c> work</c><00:01:02.320><c> for</c><00:01:02.480><c> neim</c><00:01:03.079><c> I</c><00:01:03.160><c> need</c><00:01:03.280><c> to</c><00:01:03.359><c> make</c>
+
+00:01:03.470 --> 00:01:03.480 align:start position:0%
+is going to work for neim I need to make
+ 
+
+00:01:03.480 --> 00:01:06.070 align:start position:0%
+is going to work for neim I need to make
+sure<00:01:03.640><c> you</c><00:01:03.719><c> know</c><00:01:03.879><c> that</c><00:01:04.040><c> that's</c><00:01:04.199><c> not</c><00:01:04.400><c> true</c><00:01:05.080><c> right</c>
+
+00:01:06.070 --> 00:01:06.080 align:start position:0%
+sure you know that that's not true right
+ 
+
+00:01:06.080 --> 00:01:08.910 align:start position:0%
+sure you know that that's not true right
+um<00:01:07.000><c> Neo</c><00:01:07.600><c> as</c><00:01:07.680><c> far</c><00:01:07.840><c> as</c><00:01:08.040><c> I</c><00:01:08.159><c> know</c><00:01:08.479><c> actually</c><00:01:08.680><c> I</c><00:01:08.759><c> could</c>
+
+00:01:08.910 --> 00:01:08.920 align:start position:0%
+um Neo as far as I know actually I could
+ 
+
+00:01:08.920 --> 00:01:10.830 align:start position:0%
+um Neo as far as I know actually I could
+be<00:01:09.040><c> wrong</c><00:01:09.200><c> on</c><00:01:09.400><c> this</c><00:01:09.600><c> but</c><00:01:09.960><c> NE</c><00:01:10.159><c> I</c><00:01:10.240><c> think</c><00:01:10.360><c> neim</c>
+
+00:01:10.830 --> 00:01:10.840 align:start position:0%
+be wrong on this but NE I think neim
+ 
+
+00:01:10.840 --> 00:01:14.710 align:start position:0%
+be wrong on this but NE I think neim
+configuration<00:01:11.880><c> files</c><00:01:12.880><c> uh</c><00:01:13.080><c> are</c>
+
+00:01:14.710 --> 00:01:14.720 align:start position:0%
+configuration files uh are
+ 
+
+00:01:14.720 --> 00:01:18.350 align:start position:0%
+configuration files uh are
+incompatible<00:01:15.720><c> uh</c><00:01:16.159><c> with</c><00:01:16.960><c> Vim</c><00:01:17.600><c> configuration</c>
+
+00:01:18.350 --> 00:01:18.360 align:start position:0%
+incompatible uh with Vim configuration
+ 
+
+00:01:18.360 --> 00:01:21.789 align:start position:0%
+incompatible uh with Vim configuration
+files<00:01:19.119><c> um</c><00:01:19.520><c> and</c><00:01:20.200><c> uh</c><00:01:20.360><c> neovim</c><00:01:20.840><c> people</c><00:01:21.079><c> love</c><00:01:21.360><c> to</c>
+
+00:01:21.789 --> 00:01:21.799 align:start position:0%
+files um and uh neovim people love to
+ 
+
+00:01:21.799 --> 00:01:25.190 align:start position:0%
+files um and uh neovim people love to
+hate<00:01:22.079><c> on</c><00:01:22.880><c> something</c><00:01:23.200><c> called</c><00:01:23.560><c> Vim</c><00:01:24.200><c> script</c>
+
+00:01:25.190 --> 00:01:25.200 align:start position:0%
+hate on something called Vim script
+ 
+
+00:01:25.200 --> 00:01:27.710 align:start position:0%
+hate on something called Vim script
+which<00:01:25.360><c> is</c><00:01:25.479><c> the</c><00:01:25.759><c> language</c><00:01:26.640><c> of</c><00:01:27.079><c> that</c><00:01:27.200><c> we</c><00:01:27.360><c> use</c><00:01:27.560><c> in</c>
+
+00:01:27.710 --> 00:01:27.720 align:start position:0%
+which is the language of that we use in
+ 
+
+00:01:27.720 --> 00:01:30.590 align:start position:0%
+which is the language of that we use in
+the<00:01:27.840><c> vmrc</c><00:01:28.479><c> file</c><00:01:29.159><c> to</c><00:01:29.400><c> this</c><00:01:29.520><c> video</c><00:01:29.960><c> is</c><00:01:30.119><c> not</c><00:01:30.360><c> going</c>
+
+00:01:30.590 --> 00:01:30.600 align:start position:0%
+the vmrc file to this video is not going
+ 
+
+00:01:30.600 --> 00:01:33.510 align:start position:0%
+the vmrc file to this video is not going
+to<00:01:30.840><c> break</c><00:01:31.280><c> down</c><00:01:31.799><c> the</c><00:01:32.040><c> content</c><00:01:32.680><c> of</c><00:01:32.799><c> the</c><00:01:32.920><c> bmrc</c>
+
+00:01:33.510 --> 00:01:33.520 align:start position:0%
+to break down the content of the bmrc
+ 
+
+00:01:33.520 --> 00:01:35.389 align:start position:0%
+to break down the content of the bmrc
+file<00:01:33.759><c> that</c><00:01:33.880><c> is</c><00:01:34.000><c> a</c><00:01:34.200><c> separate</c><00:01:34.520><c> video</c><00:01:35.040><c> probably</c>
+
+00:01:35.389 --> 00:01:35.399 align:start position:0%
+file that is a separate video probably
+ 
+
+00:01:35.399 --> 00:01:38.950 align:start position:0%
+file that is a separate video probably
+sep<00:01:35.920><c> several</c><00:01:36.520><c> separate</c><00:01:37.079><c> videos</c><00:01:38.079><c> um</c><00:01:38.520><c> this</c><00:01:38.640><c> is</c>
+
+00:01:38.950 --> 00:01:38.960 align:start position:0%
+sep several separate videos um this is
+ 
+
+00:01:38.960 --> 00:01:40.870 align:start position:0%
+sep several separate videos um this is
+this<00:01:39.360><c> video</c><00:01:39.560><c> is</c><00:01:39.680><c> going</c><00:01:39.759><c> to</c><00:01:39.920><c> tell</c><00:01:40.079><c> you</c><00:01:40.640><c> where</c>
+
+00:01:40.870 --> 00:01:40.880 align:start position:0%
+this video is going to tell you where
+ 
+
+00:01:40.880 --> 00:01:44.429 align:start position:0%
+this video is going to tell you where
+all<00:01:41.079><c> the</c><00:01:41.320><c> files</c><00:01:42.079><c> go</c><00:01:43.079><c> and</c><00:01:43.439><c> I'll</c><00:01:43.640><c> suggest</c><00:01:44.040><c> to</c><00:01:44.159><c> you</c>
+
+00:01:44.429 --> 00:01:44.439 align:start position:0%
+all the files go and I'll suggest to you
+ 
+
+00:01:44.439 --> 00:01:46.310 align:start position:0%
+all the files go and I'll suggest to you
+one<00:01:44.759><c> way</c><00:01:45.119><c> that</c><00:01:45.240><c> you</c><00:01:45.320><c> can</c><00:01:45.479><c> make</c><00:01:45.600><c> it</c><00:01:45.719><c> easy</c><00:01:46.040><c> to</c><00:01:46.159><c> set</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+one way that you can make it easy to set
+ 
+
+00:01:46.320 --> 00:01:48.789 align:start position:0%
+one way that you can make it easy to set
+up<00:01:46.479><c> these</c><00:01:46.640><c> files</c><00:01:47.159><c> anywhere</c><00:01:48.159><c> uh</c><00:01:48.280><c> relatively</c>
+
+00:01:48.789 --> 00:01:48.799 align:start position:0%
+up these files anywhere uh relatively
+ 
+
+00:01:48.799 --> 00:01:50.910 align:start position:0%
+up these files anywhere uh relatively
+quickly<00:01:49.360><c> so</c><00:01:49.920><c> whether</c><00:01:50.200><c> you're</c><00:01:50.439><c> building</c><00:01:50.759><c> a</c>
+
+00:01:50.910 --> 00:01:50.920 align:start position:0%
+quickly so whether you're building a
+ 
+
+00:01:50.920 --> 00:01:53.389 align:start position:0%
+quickly so whether you're building a
+container<00:01:51.479><c> or</c><00:01:51.680><c> you're</c><00:01:51.840><c> setting</c><00:01:52.119><c> up</c><00:01:52.240><c> a</c><00:01:52.399><c> desktop</c>
+
+00:01:53.389 --> 00:01:53.399 align:start position:0%
+container or you're setting up a desktop
+ 
+
+00:01:53.399 --> 00:01:56.789 align:start position:0%
+container or you're setting up a desktop
+or<00:01:53.560><c> server</c><00:01:54.280><c> or</c><00:01:54.520><c> whatever</c><00:01:55.240><c> you</c><00:01:55.360><c> can</c><00:01:55.719><c> just</c><00:01:56.439><c> go</c><00:01:56.600><c> in</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+or server or whatever you can just go in
+ 
+
+00:01:56.799 --> 00:01:58.630 align:start position:0%
+or server or whatever you can just go in
+there<00:01:56.960><c> and</c><00:01:57.200><c> clone</c><00:01:57.520><c> your</c><00:01:57.719><c> dot</c><00:01:58.039><c> files</c><00:01:58.320><c> and</c><00:01:58.479><c> then</c>
+
+00:01:58.630 --> 00:01:58.640 align:start position:0%
+there and clone your dot files and then
+ 
+
+00:01:58.640 --> 00:02:00.270 align:start position:0%
+there and clone your dot files and then
+use<00:01:58.840><c> that</c><00:01:59.039><c> there</c><00:01:59.159><c> is</c><00:01:59.280><c> a</c><00:01:59.439><c> separate</c><00:01:59.920><c> video</c>
+
+00:02:00.270 --> 00:02:00.280 align:start position:0%
+use that there is a separate video
+ 
+
+00:02:00.280 --> 00:02:03.230 align:start position:0%
+use that there is a separate video
+however<00:02:01.039><c> about</c><00:02:01.560><c> how</c><00:02:01.880><c> to</c><00:02:02.159><c> set</c><00:02:02.360><c> up</c><00:02:02.640><c> and</c><00:02:02.759><c> your</c><00:02:02.960><c> dot</c>
+
+00:02:03.230 --> 00:02:03.240 align:start position:0%
+however about how to set up and your dot
+ 
+
+00:02:03.240 --> 00:02:06.630 align:start position:0%
+however about how to set up and your dot
+files<00:02:03.640><c> and</c><00:02:03.960><c> why</c><00:02:04.159><c> you</c><00:02:04.360><c> might</c><00:02:04.600><c> want</c><00:02:04.719><c> to</c><00:02:04.960><c> do</c><00:02:05.640><c> that</c>
+
+00:02:06.630 --> 00:02:06.640 align:start position:0%
+files and why you might want to do that
+ 
+
+00:02:06.640 --> 00:02:10.190 align:start position:0%
+files and why you might want to do that
+um<00:02:07.640><c> and</c><00:02:08.640><c> so</c><00:02:09.080><c> that</c><00:02:09.319><c> I</c><00:02:09.399><c> think</c><00:02:09.599><c> that</c><00:02:09.720><c> sets</c><00:02:10.000><c> up</c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+um and so that I think that sets up
+ 
+
+00:02:10.200 --> 00:02:12.150 align:start position:0%
+um and so that I think that sets up
+everything<00:02:10.479><c> for</c><00:02:10.679><c> this</c><00:02:10.840><c> video</c><00:02:11.440><c> um</c><00:02:11.800><c> at</c><00:02:11.920><c> the</c>
+
+00:02:12.150 --> 00:02:12.160 align:start position:0%
+everything for this video um at the
+ 
+
+00:02:12.160 --> 00:02:14.509 align:start position:0%
+everything for this video um at the
+beginning<00:02:13.160><c> the</c><00:02:13.879><c> only</c><00:02:14.080><c> thing</c><00:02:14.200><c> we're</c><00:02:14.319><c> going</c><00:02:14.400><c> to</c>
+
+00:02:14.509 --> 00:02:14.519 align:start position:0%
+beginning the only thing we're going to
+ 
+
+00:02:14.519 --> 00:02:17.990 align:start position:0%
+beginning the only thing we're going to
+talk<00:02:14.680><c> about</c><00:02:14.840><c> in</c><00:02:15.000><c> this</c><00:02:15.200><c> video</c><00:02:15.680><c> is</c><00:02:16.680><c> where</c><00:02:17.440><c> are</c>
+
+00:02:17.990 --> 00:02:18.000 align:start position:0%
+talk about in this video is where are
+ 
+
+00:02:18.000 --> 00:02:19.990 align:start position:0%
+talk about in this video is where are
+the<00:02:18.319><c> configuration</c><00:02:18.959><c> files</c><00:02:19.239><c> for</c><00:02:19.480><c> viim</c><00:02:19.879><c> where</c>
+
+00:02:19.990 --> 00:02:20.000 align:start position:0%
+the configuration files for viim where
+ 
+
+00:02:20.000 --> 00:02:23.150 align:start position:0%
+the configuration files for viim where
+do<00:02:20.200><c> they</c><00:02:20.480><c> go</c><00:02:21.480><c> you</c><00:02:21.640><c> know</c><00:02:22.160><c> uh</c><00:02:22.360><c> we</c><00:02:22.519><c> we</c><00:02:22.640><c> will</c><00:02:22.920><c> talk</c>
+
+00:02:23.150 --> 00:02:23.160 align:start position:0%
+do they go you know uh we we will talk
+ 
+
+00:02:23.160 --> 00:02:24.670 align:start position:0%
+do they go you know uh we we will talk
+briefly<00:02:23.519><c> about</c><00:02:23.720><c> how</c><00:02:23.879><c> to</c><00:02:24.000><c> install</c><00:02:24.319><c> Bim</c><00:02:24.519><c> if</c><00:02:24.599><c> you</c>
+
+00:02:24.670 --> 00:02:24.680 align:start position:0%
+briefly about how to install Bim if you
+ 
+
+00:02:24.680 --> 00:02:26.190 align:start position:0%
+briefly about how to install Bim if you
+haven't<00:02:24.920><c> done</c><00:02:25.080><c> that</c><00:02:25.239><c> already</c><00:02:25.640><c> it's</c><00:02:25.879><c> super</c>
+
+00:02:26.190 --> 00:02:26.200 align:start position:0%
+haven't done that already it's super
+ 
+
+00:02:26.200 --> 00:02:28.830 align:start position:0%
+haven't done that already it's super
+easy<00:02:27.200><c> uh</c><00:02:27.360><c> on</c><00:02:27.599><c> on</c><00:02:27.720><c> a</c><00:02:27.840><c> buntu</c><00:02:28.319><c> we're</c><00:02:28.440><c> not</c><00:02:28.560><c> going</c><00:02:28.680><c> to</c>
+
+00:02:28.830 --> 00:02:28.840 align:start position:0%
+easy uh on on a buntu we're not going to
+ 
+
+00:02:28.840 --> 00:02:30.670 align:start position:0%
+easy uh on on a buntu we're not going to
+talk<00:02:29.040><c> about</c><00:02:29.239><c> the</c><00:02:29.360><c> other</c><00:02:30.000><c> distro</c><00:02:30.400><c> that</c><00:02:30.560><c> they're</c>
+
+00:02:30.670 --> 00:02:30.680 align:start position:0%
+talk about the other distro that they're
+ 
+
+00:02:30.680 --> 00:02:32.309 align:start position:0%
+talk about the other distro that they're
+not<00:02:30.840><c> included</c><00:02:31.200><c> in</c><00:02:31.319><c> the</c><00:02:31.440><c> Boost</c><00:02:32.000><c> um</c><00:02:32.120><c> you</c><00:02:32.200><c> can</c>
+
+00:02:32.309 --> 00:02:32.319 align:start position:0%
+not included in the Boost um you can
+ 
+
+00:02:32.319 --> 00:02:35.710 align:start position:0%
+not included in the Boost um you can
+figure<00:02:32.640><c> that</c><00:02:32.760><c> out</c><00:02:32.920><c> it's</c><00:02:33.040><c> not</c><00:02:33.360><c> hard</c><00:02:34.360><c> and</c><00:02:35.200><c> um</c>
+
+00:02:35.710 --> 00:02:35.720 align:start position:0%
+figure that out it's not hard and um
+ 
+
+00:02:35.720 --> 00:02:37.869 align:start position:0%
+figure that out it's not hard and um
+then<00:02:36.280><c> we</c><00:02:36.440><c> talk</c><00:02:36.640><c> about</c><00:02:37.000><c> where</c><00:02:37.200><c> these</c><00:02:37.360><c> files</c><00:02:37.640><c> Go</c>
+
+00:02:37.869 --> 00:02:37.879 align:start position:0%
+then we talk about where these files Go
+ 
+
+00:02:37.879 --> 00:02:38.790 align:start position:0%
+then we talk about where these files Go
+how<00:02:37.959><c> you</c><00:02:38.040><c> can</c><00:02:38.120><c> set</c><00:02:38.239><c> them</c><00:02:38.400><c> up</c><00:02:38.519><c> how</c><00:02:38.640><c> you</c><00:02:38.720><c> can</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+how you can set them up how you can
+ 
+
+00:02:38.800 --> 00:02:41.190 align:start position:0%
+how you can set them up how you can
+reuse<00:02:39.120><c> them</c><00:02:39.280><c> and</c><00:02:39.440><c> stuff</c><00:02:39.879><c> okay</c><00:02:40.680><c> um</c><00:02:40.840><c> again</c><00:02:41.080><c> this</c>
+
+00:02:41.190 --> 00:02:41.200 align:start position:0%
+reuse them and stuff okay um again this
+ 
+
+00:02:41.200 --> 00:02:44.589 align:start position:0%
+reuse them and stuff okay um again this
+is<00:02:41.519><c> very</c><00:02:42.519><c> personalized</c><00:02:43.400><c> to</c><00:02:44.080><c> the</c><00:02:44.239><c> things</c><00:02:44.400><c> that</c>
+
+00:02:44.589 --> 00:02:44.599 align:start position:0%
+is very personalized to the things that
+ 
+
+00:02:44.599 --> 00:02:47.229 align:start position:0%
+is very personalized to the things that
+I<00:02:44.720><c> think</c><00:02:45.080><c> are</c><00:02:45.440><c> important</c><00:02:45.879><c> for</c><00:02:46.239><c> them</c>
+
+00:02:47.229 --> 00:02:47.239 align:start position:0%
+I think are important for them
+ 
+
+00:02:47.239 --> 00:02:48.630 align:start position:0%
+I think are important for them
+everybody's<00:02:47.840><c> got</c><00:02:48.000><c> different</c><00:02:48.239><c> opinions</c>
+
+00:02:48.630 --> 00:02:48.640 align:start position:0%
+everybody's got different opinions
+ 
+
+00:02:48.640 --> 00:02:50.070 align:start position:0%
+everybody's got different opinions
+that's<00:02:48.760><c> what's</c><00:02:48.920><c> so</c><00:02:49.080><c> great</c><00:02:49.280><c> about</c><00:02:49.440><c> Linux</c><00:02:49.879><c> and</c>
+
+00:02:50.070 --> 00:02:50.080 align:start position:0%
+that's what's so great about Linux and
+ 
+
+00:02:50.080 --> 00:02:51.589 align:start position:0%
+that's what's so great about Linux and
+and<00:02:50.159><c> Unix</c><00:02:50.560><c> is</c><00:02:50.680><c> that</c><00:02:50.840><c> you</c><00:02:50.959><c> can</c><00:02:51.159><c> have</c><00:02:51.360><c> different</c>
+
+00:02:51.589 --> 00:02:51.599 align:start position:0%
+and Unix is that you can have different
+ 
+
+00:02:51.599 --> 00:02:53.910 align:start position:0%
+and Unix is that you can have different
+opinions<00:02:52.000><c> you</c><00:02:52.120><c> can</c><00:02:52.720><c> you</c><00:02:52.840><c> can</c><00:02:53.239><c> configure</c><00:02:53.640><c> that</c>
+
+00:02:53.910 --> 00:02:53.920 align:start position:0%
+opinions you can you can configure that
+ 
+
+00:02:53.920 --> 00:02:55.309 align:start position:0%
+opinions you can you can configure that
+crap<00:02:54.159><c> out</c><00:02:54.280><c> of</c><00:02:54.400><c> it</c><00:02:54.519><c> to</c><00:02:54.640><c> make</c><00:02:54.760><c> it</c><00:02:54.920><c> the</c><00:02:55.040><c> way</c><00:02:55.200><c> you</c>
+
+00:02:55.309 --> 00:02:55.319 align:start position:0%
+crap out of it to make it the way you
+ 
+
+00:02:55.319 --> 00:02:58.470 align:start position:0%
+crap out of it to make it the way you
+want<00:02:55.519><c> it</c><00:02:55.800><c> and</c><00:02:56.000><c> that</c><00:02:56.200><c> is</c><00:02:56.440><c> fine</c><00:02:56.760><c> for</c><00:02:57.000><c> you</c><00:02:57.920><c> um</c><00:02:58.159><c> so</c>
+
+00:02:58.470 --> 00:02:58.480 align:start position:0%
+want it and that is fine for you um so
+ 
+
+00:02:58.480 --> 00:03:00.190 align:start position:0%
+want it and that is fine for you um so
+I'm<00:02:58.599><c> just</c><00:02:58.720><c> going</c><00:02:58.840><c> to</c><00:02:59.159><c> share</c><00:02:59.560><c> some</c><00:03:00.000><c> this</c><00:03:00.120><c> with</c>
+
+00:03:00.190 --> 00:03:00.200 align:start position:0%
+I'm just going to share some this with
+ 
+
+00:03:00.200 --> 00:03:02.589 align:start position:0%
+I'm just going to share some this with
+you<00:03:00.360><c> right</c><00:03:00.480><c> now</c><00:03:00.640><c> so</c><00:03:00.800><c> the</c><00:03:00.920><c> first</c><00:03:01.200><c> thing</c><00:03:02.200><c> uh</c><00:03:02.360><c> to</c>
+
+00:03:02.589 --> 00:03:02.599 align:start position:0%
+you right now so the first thing uh to
+ 
+
+00:03:02.599 --> 00:03:04.750 align:start position:0%
+you right now so the first thing uh to
+find<00:03:03.200><c> here</c><00:03:03.920><c> I'm</c><00:03:04.040><c> going</c><00:03:04.120><c> to</c><00:03:04.239><c> turn</c><00:03:04.440><c> this</c><00:03:04.560><c> off</c>
+
+00:03:04.750 --> 00:03:04.760 align:start position:0%
+find here I'm going to turn this off
+ 
+
+00:03:04.760 --> 00:03:07.270 align:start position:0%
+find here I'm going to turn this off
+because<00:03:05.000><c> we</c><00:03:05.120><c> I</c><00:03:05.200><c> don't</c><00:03:05.319><c> want</c><00:03:05.400><c> to</c><00:03:05.840><c> obate</c>
+
+00:03:07.270 --> 00:03:07.280 align:start position:0%
+because we I don't want to obate
+ 
+
+00:03:07.280 --> 00:03:13.270 align:start position:0%
+because we I don't want to obate
+that<00:03:08.280><c> um</c><00:03:09.280><c> so</c><00:03:09.720><c> so</c><00:03:10.319><c> so</c><00:03:10.680><c> here</c><00:03:11.120><c> is</c><00:03:12.120><c> uh</c><00:03:12.360><c> my</c><00:03:12.599><c> DOT</c><00:03:12.920><c> files</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+that um so so so here is uh my DOT files
+ 
+
+00:03:13.280 --> 00:03:14.550 align:start position:0%
+that um so so so here is uh my DOT files
+there's<00:03:13.480><c> again</c><00:03:13.599><c> there's</c><00:03:13.840><c> another</c><00:03:14.080><c> video</c><00:03:14.360><c> on</c>
+
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+there's again there's another video on
+ 
+
+00:03:14.560 --> 00:03:18.550 align:start position:0%
+there's again there's another video on
+this<00:03:15.360><c> so</c><00:03:15.560><c> this</c><00:03:15.680><c> is</c><00:03:15.840><c> a</c><00:03:16.000><c> do</c><00:03:16.239><c> repo</c><00:03:17.159><c> I</c><00:03:17.519><c> this</c><00:03:17.640><c> is</c><00:03:18.400><c> my</c>
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+this so this is a do repo I this is my
+ 
+
+00:03:18.560 --> 00:03:20.390 align:start position:0%
+this so this is a do repo I this is my
+organization<00:03:19.360><c> why</c><00:03:19.480><c> I</c><00:03:19.560><c> put</c><00:03:19.680><c> it</c><00:03:19.799><c> under</c><00:03:20.120><c> Capital</c>
+
+00:03:20.390 --> 00:03:20.400 align:start position:0%
+organization why I put it under Capital
+ 
+
+00:03:20.400 --> 00:03:23.789 align:start position:0%
+organization why I put it under Capital
+repos<00:03:20.799><c> is</c><00:03:21.000><c> explained</c><00:03:21.760><c> elsewhere</c><00:03:22.760><c> um</c><00:03:23.400><c> and</c><00:03:23.519><c> so</c>
+
+00:03:23.789 --> 00:03:23.799 align:start position:0%
+repos is explained elsewhere um and so
+ 
+
+00:03:23.799 --> 00:03:25.949 align:start position:0%
+repos is explained elsewhere um and so
+under<00:03:24.040><c> here</c><00:03:24.200><c> under</c><00:03:24.400><c> the</c><00:03:24.599><c> dot</c><00:03:24.879><c> repo</c><00:03:25.480><c> there</c><00:03:25.599><c> is</c><00:03:25.760><c> a</c>
+
+00:03:25.949 --> 00:03:25.959 align:start position:0%
+under here under the dot repo there is a
+ 
+
+00:03:25.959 --> 00:03:28.869 align:start position:0%
+under here under the dot repo there is a
+Vim<00:03:26.799><c> directory</c><00:03:27.799><c> and</c><00:03:28.159><c> inside</c><00:03:28.480><c> of</c><00:03:28.680><c> that</c>
+
+00:03:28.869 --> 00:03:28.879 align:start position:0%
+Vim directory and inside of that
+ 
+
+00:03:28.879 --> 00:03:30.750 align:start position:0%
+Vim directory and inside of that
+directory<00:03:29.920><c> there's</c><00:03:30.040><c> a</c><00:03:30.120><c> read</c><00:03:30.319><c> me</c><00:03:30.480><c> here</c><00:03:30.640><c> that</c>
+
+00:03:30.750 --> 00:03:30.760 align:start position:0%
+directory there's a read me here that
+ 
+
+00:03:30.760 --> 00:03:35.949 align:start position:0%
+directory there's a read me here that
+talks<00:03:31.000><c> about</c><00:03:31.560><c> it</c><00:03:32.560><c> uh</c><00:03:33.239><c> you</c><00:03:33.360><c> know</c><00:03:33.760><c> this</c><00:03:33.879><c> is</c><00:03:34.959><c> uh</c>
+
+00:03:35.949 --> 00:03:35.959 align:start position:0%
+talks about it uh you know this is uh
+ 
+
+00:03:35.959 --> 00:03:38.270 align:start position:0%
+talks about it uh you know this is uh
+why<00:03:36.080><c> not</c><00:03:36.319><c> bate</c><00:03:36.680><c> plugins</c><00:03:37.480><c> um</c><00:03:37.920><c> because</c><00:03:38.120><c> they</c>
+
+00:03:38.270 --> 00:03:38.280 align:start position:0%
+why not bate plugins um because they
+ 
+
+00:03:38.280 --> 00:03:40.789 align:start position:0%
+why not bate plugins um because they
+suck<00:03:38.680><c> okay</c><00:03:38.959><c> so</c><00:03:39.959><c> if</c><00:03:40.080><c> you</c><00:03:40.239><c> I</c><00:03:40.280><c> mean</c><00:03:40.400><c> you</c><00:03:40.480><c> can</c><00:03:40.599><c> read</c>
+
+00:03:40.789 --> 00:03:40.799 align:start position:0%
+suck okay so if you I mean you can read
+ 
+
+00:03:40.799 --> 00:03:41.990 align:start position:0%
+suck okay so if you I mean you can read
+that<00:03:41.159><c> that's</c><00:03:41.280><c> kind</c><00:03:41.400><c> of</c><00:03:41.519><c> over</c><00:03:41.680><c> your</c><00:03:41.799><c> head</c><00:03:41.920><c> if</c>
+
+00:03:41.990 --> 00:03:42.000 align:start position:0%
+that that's kind of over your head if
+ 
+
+00:03:42.000 --> 00:03:44.309 align:start position:0%
+that that's kind of over your head if
+you're<00:03:42.120><c> a</c><00:03:42.200><c> beginner</c><00:03:42.480><c> boost</c><00:03:42.959><c> person</c><00:03:43.959><c> um</c><00:03:44.159><c> the</c>
+
+00:03:44.309 --> 00:03:44.319 align:start position:0%
+you're a beginner boost person um the
+ 
+
+00:03:44.319 --> 00:03:46.190 align:start position:0%
+you're a beginner boost person um the
+setup<00:03:44.599><c> script</c><00:03:44.920><c> is</c><00:03:45.080><c> super</c><00:03:45.360><c> important</c><00:03:45.920><c> but</c><00:03:46.080><c> and</c>
+
+00:03:46.190 --> 00:03:46.200 align:start position:0%
+setup script is super important but and
+ 
+
+00:03:46.200 --> 00:03:47.910 align:start position:0%
+setup script is super important but and
+this<00:03:46.280><c> is</c><00:03:46.400><c> going</c><00:03:46.519><c> to</c><00:03:46.720><c> kind</c><00:03:46.840><c> of</c><00:03:47.400><c> give</c><00:03:47.680><c> an</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+this is going to kind of give an
+ 
+
+00:03:47.920 --> 00:03:50.110 align:start position:0%
+this is going to kind of give an
+overview<00:03:48.480><c> of</c><00:03:48.640><c> where</c><00:03:48.799><c> all</c><00:03:48.959><c> the</c><00:03:49.080><c> files</c><00:03:49.480><c> go</c><00:03:49.840><c> and</c>
+
+00:03:50.110 --> 00:03:50.120 align:start position:0%
+overview of where all the files go and
+ 
+
+00:03:50.120 --> 00:03:54.470 align:start position:0%
+overview of where all the files go and
+why<00:03:51.120><c> oh</c><00:03:51.319><c> look</c><00:03:51.480><c> Shell</c><00:03:51.920><c> Shell</c><00:03:52.239><c> Che</c><00:03:52.480><c> is</c><00:03:52.760><c> is</c><00:03:52.920><c> mad</c><00:03:53.159><c> at</c>
+
+00:03:54.470 --> 00:03:54.480 align:start position:0%
+why oh look Shell Shell Che is is mad at
+ 
+
+00:03:54.480 --> 00:03:57.550 align:start position:0%
+why oh look Shell Shell Che is is mad at
+me<00:03:55.480><c> oh</c><00:03:55.640><c> I</c><00:03:55.760><c> didn't</c><00:03:56.360><c> okay</c><00:03:56.680><c> shell</c><00:03:57.000><c> check</c><00:03:57.159><c> is</c><00:03:57.319><c> mad</c>
+
+00:03:57.550 --> 00:03:57.560 align:start position:0%
+me oh I didn't okay shell check is mad
+ 
+
+00:03:57.560 --> 00:04:00.110 align:start position:0%
+me oh I didn't okay shell check is mad
+as<00:03:57.840><c> M</c><00:03:58.000><c> as</c><00:03:58.159><c> mad</c><00:03:58.319><c> at</c><00:03:58.480><c> me</c><00:03:59.480><c> all</c><00:03:59.599><c> right</c><00:03:59.840><c> I'm</c><00:03:59.920><c> going</c><00:04:00.040><c> to</c>
+
+00:04:00.110 --> 00:04:00.120 align:start position:0%
+as M as mad at me all right I'm going to
+ 
+
+00:04:00.120 --> 00:04:02.030 align:start position:0%
+as M as mad at me all right I'm going to
+fix<00:04:00.319><c> that</c><00:04:00.480><c> I</c><00:04:00.560><c> guess</c><00:04:00.680><c> I'll</c><00:04:00.840><c> have</c><00:04:00.920><c> to</c><00:04:01.079><c> F</c>
+
+00:04:02.030 --> 00:04:02.040 align:start position:0%
+fix that I guess I'll have to F
+ 
+
+00:04:02.040 --> 00:04:05.789 align:start position:0%
+fix that I guess I'll have to F
+whoopsy<00:04:03.519><c> use</c>
+
+00:04:05.789 --> 00:04:05.799 align:start position:0%
+whoopsy use
+ 
+
+00:04:05.799 --> 00:04:09.110 align:start position:0%
+whoopsy use
+why<00:04:06.799><c> okay</c><00:04:07.159><c> well</c><00:04:07.560><c> I'm</c><00:04:07.760><c> not</c><00:04:07.879><c> doing</c><00:04:08.120><c> that</c><00:04:08.280><c> right</c>
+
+00:04:09.110 --> 00:04:09.120 align:start position:0%
+why okay well I'm not doing that right
+ 
+
+00:04:09.120 --> 00:04:12.949 align:start position:0%
+why okay well I'm not doing that right
+now<00:04:10.120><c> how</c><00:04:10.239><c> about</c><00:04:10.400><c> we</c><00:04:10.560><c> just</c><00:04:10.680><c> use</c><00:04:10.959><c> bash</c>
+
+00:04:12.949 --> 00:04:12.959 align:start position:0%
+now how about we just use bash
+ 
+
+00:04:12.959 --> 00:04:15.349 align:start position:0%
+now how about we just use bash
+instead<00:04:13.959><c> how</c><00:04:14.079><c> about</c>
+
+00:04:15.349 --> 00:04:15.359 align:start position:0%
+instead how about
+ 
+
+00:04:15.359 --> 00:04:17.749 align:start position:0%
+instead how about
+that<00:04:16.359><c> because</c><00:04:16.639><c> everything</c><00:04:17.000><c> I</c><00:04:17.160><c> install</c><00:04:17.519><c> on</c><00:04:17.639><c> is</c>
+
+00:04:17.749 --> 00:04:17.759 align:start position:0%
+that because everything I install on is
+ 
+
+00:04:17.759 --> 00:04:20.670 align:start position:0%
+that because everything I install on is
+going<00:04:17.840><c> to</c><00:04:17.919><c> use</c><00:04:18.160><c> bash</c>
+
+00:04:20.670 --> 00:04:20.680 align:start position:0%
+ 
+ 
+
+00:04:20.680 --> 00:04:26.230 align:start position:0%
+ 
+anyway<00:04:21.680><c> yeah</c><00:04:22.040><c> let's</c><00:04:22.280><c> do</c>
+
+00:04:26.230 --> 00:04:26.240 align:start position:0%
+ 
+ 
+
+00:04:26.240 --> 00:04:30.550 align:start position:0%
+ 
+that<00:04:27.240><c> there</c><00:04:27.400><c> we</c><00:04:27.560><c> go</c><00:04:28.520><c> it's</c><00:04:28.800><c> happier</c><00:04:29.199><c> now</c>
+
+00:04:30.550 --> 00:04:30.560 align:start position:0%
+that there we go it's happier now
+ 
+
+00:04:30.560 --> 00:04:32.830 align:start position:0%
+that there we go it's happier now
+get
+
+00:04:32.830 --> 00:04:32.840 align:start position:0%
+get
+ 
+
+00:04:32.840 --> 00:04:36.590 align:start position:0%
+get
+add<00:04:33.840><c> uh</c><00:04:34.520><c> commit</c><00:04:35.120><c> give</c><00:04:35.240><c> me</c><00:04:35.440><c> one</c>
+
+00:04:36.590 --> 00:04:36.600 align:start position:0%
+add uh commit give me one
+ 
+
+00:04:36.600 --> 00:04:39.710 align:start position:0%
+add uh commit give me one
+second<00:04:37.800><c> uh</c>
+
+00:04:39.710 --> 00:04:39.720 align:start position:0%
+second uh
+ 
+
+00:04:39.720 --> 00:04:45.510 align:start position:0%
+second uh
+switch<00:04:40.800><c> Vim</c><00:04:41.800><c> setup</c><00:04:42.360><c> install</c><00:04:43.120><c> script</c><00:04:43.800><c> to</c><00:04:44.520><c> bash</c>
+
+00:04:45.510 --> 00:04:45.520 align:start position:0%
+switch Vim setup install script to bash
+ 
+
+00:04:45.520 --> 00:04:47.150 align:start position:0%
+switch Vim setup install script to bash
+it's<00:04:45.800><c> actually</c><00:04:46.039><c> safer</c><00:04:46.479><c> and</c><00:04:46.680><c> I</c><00:04:46.759><c> always</c><00:04:46.960><c> have</c>
+
+00:04:47.150 --> 00:04:47.160 align:start position:0%
+it's actually safer and I always have
+ 
+
+00:04:47.160 --> 00:04:52.189 align:start position:0%
+it's actually safer and I always have
+bash<00:04:47.840><c> so</c><00:04:48.840><c> anyway</c><00:04:49.520><c> we</c><00:04:49.639><c> were</c><00:04:49.800><c> using</c><00:04:50.479><c> there</c><00:04:51.199><c> so</c>
+
+00:04:52.189 --> 00:04:52.199 align:start position:0%
+bash so anyway we were using there so
+ 
+
+00:04:52.199 --> 00:04:53.670 align:start position:0%
+bash so anyway we were using there so
+you<00:04:52.360><c> don't</c><00:04:52.520><c> know</c><00:04:52.840><c> you</c><00:04:53.000><c> probably</c><00:04:53.280><c> don't</c><00:04:53.400><c> know</c>
+
+00:04:53.670 --> 00:04:53.680 align:start position:0%
+you don't know you probably don't know
+ 
+
+00:04:53.680 --> 00:04:55.310 align:start position:0%
+you don't know you probably don't know
+bash<00:04:53.880><c> yet</c><00:04:54.080><c> too</c><00:04:54.240><c> much</c><00:04:54.520><c> and</c><00:04:54.720><c> and</c><00:04:54.840><c> that's</c><00:04:55.039><c> okay</c><00:04:55.199><c> if</c>
+
+00:04:55.310 --> 00:04:55.320 align:start position:0%
+bash yet too much and and that's okay if
+ 
+
+00:04:55.320 --> 00:04:58.150 align:start position:0%
+bash yet too much and and that's okay if
+you<00:04:55.680><c> don't</c><00:04:56.680><c> this</c><00:04:56.880><c> first</c><00:04:57.199><c> part</c><00:04:57.479><c> right</c><00:04:57.639><c> here</c><00:04:57.960><c> is</c>
+
+00:04:58.150 --> 00:04:58.160 align:start position:0%
+you don't this first part right here is
+ 
+
+00:04:58.160 --> 00:05:01.270 align:start position:0%
+you don't this first part right here is
+just<00:04:58.360><c> checking</c><00:04:58.720><c> to</c><00:04:58.880><c> see</c><00:05:00.080><c> if</c><00:05:00.360><c> we</c><00:05:00.600><c> have</c><00:05:00.880><c> Vim</c><00:05:01.160><c> on</c>
+
+00:05:01.270 --> 00:05:01.280 align:start position:0%
+just checking to see if we have Vim on
+ 
+
+00:05:01.280 --> 00:05:03.950 align:start position:0%
+just checking to see if we have Vim on
+the<00:05:01.479><c> system</c><00:05:01.840><c> and</c><00:05:02.000><c> this</c><00:05:02.160><c> check</c><00:05:02.759><c> here</c><00:05:03.759><c> uh</c><00:05:03.880><c> it's</c>
+
+00:05:03.950 --> 00:05:03.960 align:start position:0%
+the system and this check here uh it's
+ 
+
+00:05:03.960 --> 00:05:05.590 align:start position:0%
+the system and this check here uh it's
+to<00:05:04.080><c> checking</c><00:05:04.400><c> to</c><00:05:04.560><c> see</c><00:05:04.680><c> if</c><00:05:04.759><c> we</c><00:05:04.840><c> have</c><00:05:04.960><c> Vim</c><00:05:05.199><c> tutor</c>
+
+00:05:05.590 --> 00:05:05.600 align:start position:0%
+to checking to see if we have Vim tutor
+ 
+
+00:05:05.600 --> 00:05:08.469 align:start position:0%
+to checking to see if we have Vim tutor
+on<00:05:05.720><c> the</c><00:05:05.919><c> system</c><00:05:06.880><c> if</c><00:05:07.039><c> you</c><00:05:07.240><c> don't</c><00:05:07.720><c> have</c><00:05:08.080><c> that</c><00:05:08.280><c> you</c>
+
+00:05:08.469 --> 00:05:08.479 align:start position:0%
+on the system if you don't have that you
+ 
+
+00:05:08.479 --> 00:05:11.390 align:start position:0%
+on the system if you don't have that you
+probably<00:05:08.840><c> have</c><00:05:09.039><c> something</c><00:05:09.280><c> called</c><00:05:09.600><c> Vim</c><00:05:10.400><c> tiny</c>
+
+00:05:11.390 --> 00:05:11.400 align:start position:0%
+probably have something called Vim tiny
+ 
+
+00:05:11.400 --> 00:05:13.430 align:start position:0%
+probably have something called Vim tiny
+and<00:05:11.560><c> this</c><00:05:11.639><c> is</c><00:05:11.800><c> just</c><00:05:11.880><c> a</c><00:05:12.039><c> reminder</c><00:05:12.440><c> to</c><00:05:12.639><c> me</c><00:05:13.120><c> that</c><00:05:13.320><c> I</c>
+
+00:05:13.430 --> 00:05:13.440 align:start position:0%
+and this is just a reminder to me that I
+ 
+
+00:05:13.440 --> 00:05:18.350 align:start position:0%
+and this is just a reminder to me that I
+need<00:05:13.639><c> to</c><00:05:13.800><c> do</c><00:05:14.520><c> AP</c><00:05:14.880><c> install</c><00:05:15.560><c> bin</c><00:05:16.560><c> uh</c><00:05:16.800><c> Vim</c><00:05:17.360><c> so</c>
+
+00:05:18.350 --> 00:05:18.360 align:start position:0%
+need to do AP install bin uh Vim so
+ 
+
+00:05:18.360 --> 00:05:20.629 align:start position:0%
+need to do AP install bin uh Vim so
+let's<00:05:18.600><c> just</c><00:05:18.919><c> describe</c><00:05:19.319><c> what</c><00:05:19.400><c> I</c><00:05:19.520><c> mean</c><00:05:19.720><c> by</c><00:05:19.880><c> that</c>
+
+00:05:20.629 --> 00:05:20.639 align:start position:0%
+let's just describe what I mean by that
+ 
+
+00:05:20.639 --> 00:05:24.150 align:start position:0%
+let's just describe what I mean by that
+so<00:05:21.639><c> um</c><00:05:21.919><c> I</c><00:05:22.000><c> believe</c><00:05:22.280><c> the</c><00:05:22.520><c> default</c><00:05:22.840><c> tuntu</c><00:05:23.400><c> server</c>
+
+00:05:24.150 --> 00:05:24.160 align:start position:0%
+so um I believe the default tuntu server
+ 
+
+00:05:24.160 --> 00:05:27.469 align:start position:0%
+so um I believe the default tuntu server
+now<00:05:24.960><c> is</c><00:05:25.240><c> to</c><00:05:25.479><c> install</c><00:05:26.039><c> a</c><00:05:26.240><c> package</c><00:05:26.600><c> called</c><00:05:26.840><c> Vim</c>
+
+00:05:27.469 --> 00:05:27.479 align:start position:0%
+now is to install a package called Vim
+ 
+
+00:05:27.479 --> 00:05:30.550 align:start position:0%
+now is to install a package called Vim
+tiny<00:05:28.479><c> and</c><00:05:28.680><c> it</c><00:05:28.840><c> is</c><00:05:29.240><c> it</c><00:05:29.360><c> does</c><00:05:29.800><c> not</c><00:05:30.000><c> have</c><00:05:30.240><c> all</c><00:05:30.400><c> the</c>
+
+00:05:30.550 --> 00:05:30.560 align:start position:0%
+tiny and it is it does not have all the
+ 
+
+00:05:30.560 --> 00:05:34.830 align:start position:0%
+tiny and it is it does not have all the
+stuff<00:05:30.800><c> of</c><00:05:30.960><c> the</c><00:05:31.120><c> larger</c><00:05:31.600><c> them</c><00:05:32.360><c> bottom</c><00:05:32.680><c> line</c><00:05:33.840><c> and</c>
+
+00:05:34.830 --> 00:05:34.840 align:start position:0%
+stuff of the larger them bottom line and
+ 
+
+00:05:34.840 --> 00:05:37.110 align:start position:0%
+stuff of the larger them bottom line and
+so<00:05:35.039><c> you</c><00:05:35.280><c> probably</c><00:05:35.639><c> want</c><00:05:35.960><c> that</c><00:05:36.400><c> and</c><00:05:36.720><c> and</c><00:05:36.880><c> you'll</c>
+
+00:05:37.110 --> 00:05:37.120 align:start position:0%
+so you probably want that and and you'll
+ 
+
+00:05:37.120 --> 00:05:38.629 align:start position:0%
+so you probably want that and and you'll
+probably<00:05:37.319><c> want</c><00:05:37.440><c> to</c><00:05:37.560><c> do</c><00:05:37.759><c> the</c><00:05:37.919><c> installation</c><00:05:38.440><c> for</c>
+
+00:05:38.629 --> 00:05:38.639 align:start position:0%
+probably want to do the installation for
+ 
+
+00:05:38.639 --> 00:05:41.230 align:start position:0%
+probably want to do the installation for
+that<00:05:39.080><c> um</c><00:05:40.080><c> uh</c><00:05:40.240><c> and</c><00:05:40.360><c> that's</c><00:05:40.479><c> what</c><00:05:40.680><c> that</c><00:05:40.800><c> check</c><00:05:41.080><c> is</c>
+
+00:05:41.230 --> 00:05:41.240 align:start position:0%
+that um uh and that's what that check is
+ 
+
+00:05:41.240 --> 00:05:43.749 align:start position:0%
+that um uh and that's what that check is
+doing<00:05:41.600><c> right</c><00:05:42.039><c> there</c><00:05:43.039><c> uh</c><00:05:43.160><c> this</c><00:05:43.280><c> here</c><00:05:43.479><c> is</c><00:05:43.639><c> it</c>
+
+00:05:43.749 --> 00:05:43.759 align:start position:0%
+doing right there uh this here is it
+ 
+
+00:05:43.759 --> 00:05:46.350 align:start position:0%
+doing right there uh this here is it
+creates<00:05:44.080><c> a</c><00:05:44.400><c> a</c><00:05:44.520><c> hard</c><00:05:44.840><c> link</c><00:05:45.840><c> I'm</c><00:05:45.960><c> sorry</c><00:05:46.199><c> a</c>
+
+00:05:46.350 --> 00:05:46.360 align:start position:0%
+creates a a hard link I'm sorry a
+ 
+
+00:05:46.360 --> 00:05:49.150 align:start position:0%
+creates a a hard link I'm sorry a
+symbolic<00:05:46.800><c> link</c><00:05:47.600><c> and</c><00:05:47.960><c> it</c><00:05:48.120><c> overrides</c><00:05:48.639><c> it</c><00:05:48.800><c> the</c><00:05:48.919><c> F</c>
+
+00:05:49.150 --> 00:05:49.160 align:start position:0%
+symbolic link and it overrides it the F
+ 
+
+00:05:49.160 --> 00:05:51.670 align:start position:0%
+symbolic link and it overrides it the F
+says<00:05:49.440><c> replace</c><00:05:49.840><c> it</c><00:05:50.479><c> PWD</c><00:05:51.080><c> is</c><00:05:51.160><c> the</c><00:05:51.360><c> current</c>
+
+00:05:51.670 --> 00:05:51.680 align:start position:0%
+says replace it PWD is the current
+ 
+
+00:05:51.680 --> 00:05:52.830 align:start position:0%
+says replace it PWD is the current
+working<00:05:52.039><c> directory</c><00:05:52.440><c> wherever</c><00:05:52.720><c> you're</c>
+
+00:05:52.830 --> 00:05:52.840 align:start position:0%
+working directory wherever you're
+ 
+
+00:05:52.840 --> 00:05:56.430 align:start position:0%
+working directory wherever you're
+running<00:05:53.120><c> the</c><00:05:53.240><c> script</c><00:05:54.039><c> um</c><00:05:55.000><c> and</c><00:05:55.600><c> it</c><00:05:55.800><c> takes</c><00:05:56.039><c> the</c>
+
+00:05:56.430 --> 00:05:56.440 align:start position:0%
+running the script um and it takes the
+ 
+
+00:05:56.440 --> 00:05:59.150 align:start position:0%
+running the script um and it takes the
+vimrc<00:05:57.000><c> file</c><00:05:57.280><c> inside</c><00:05:57.560><c> of</c><00:05:57.759><c> this</c><00:05:57.919><c> directory</c><00:05:58.680><c> and</c>
+
+00:05:59.150 --> 00:05:59.160 align:start position:0%
+vimrc file inside of this directory and
+ 
+
+00:05:59.160 --> 00:06:02.430 align:start position:0%
+vimrc file inside of this directory and
+links<00:05:59.759><c> it</c><00:06:00.039><c> makes</c><00:06:00.240><c> a</c><00:06:00.479><c> symbolic</c><00:06:00.880><c> link</c><00:06:01.080><c> toome</c>
+
+00:06:02.430 --> 00:06:02.440 align:start position:0%
+links it makes a symbolic link toome
+ 
+
+00:06:02.440 --> 00:06:06.550 align:start position:0%
+links it makes a symbolic link toome
+vmrc<00:06:03.440><c> uh</c><00:06:03.680><c> this</c><00:06:03.840><c> makes</c><00:06:04.080><c> a</c><00:06:04.280><c> directory</c><00:06:05.280><c> inside</c><00:06:05.840><c> of</c>
+
+00:06:06.550 --> 00:06:06.560 align:start position:0%
+vmrc uh this makes a directory inside of
+ 
+
+00:06:06.560 --> 00:06:08.270 align:start position:0%
+vmrc uh this makes a directory inside of
+VM
+
+00:06:08.270 --> 00:06:08.280 align:start position:0%
+VM
+ 
+
+00:06:08.280 --> 00:06:12.950 align:start position:0%
+VM
+uh<00:06:09.280><c> this</c><00:06:09.400><c> should</c><00:06:09.800><c> probably</c><00:06:10.240><c> be-</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+ 
+ 
+
+00:06:12.960 --> 00:06:14.710 align:start position:0%
+ 
+P
+
+00:06:14.710 --> 00:06:14.720 align:start position:0%
+P
+ 
+
+00:06:14.720 --> 00:06:17.309 align:start position:0%
+P
+um<00:06:15.720><c> oh</c><00:06:15.919><c> I</c><00:06:16.000><c> know</c><00:06:16.160><c> why</c><00:06:16.280><c> I</c><00:06:16.400><c> did</c>
+
+00:06:17.309 --> 00:06:17.319 align:start position:0%
+um oh I know why I did
+ 
+
+00:06:17.319 --> 00:06:20.670 align:start position:0%
+um oh I know why I did
+that<00:06:18.319><c> I</c><00:06:18.440><c> did</c><00:06:18.639><c> that</c><00:06:18.840><c> because-</c><00:06:19.479><c> P</c><00:06:19.680><c> is</c><00:06:19.800><c> not</c><00:06:20.120><c> is</c><00:06:20.280><c> not</c>
+
+00:06:20.670 --> 00:06:20.680 align:start position:0%
+that I did that because- P is not is not
+ 
+
+00:06:20.680 --> 00:06:22.270 align:start position:0%
+that I did that because- P is not is not
+uh<00:06:20.840><c> posix</c><00:06:21.280><c> compliant</c><00:06:21.639><c> but</c><00:06:21.720><c> let's</c><00:06:21.919><c> just</c><00:06:22.039><c> do</c>
+
+00:06:22.270 --> 00:06:22.280 align:start position:0%
+uh posix compliant but let's just do
+ 
+
+00:06:22.280 --> 00:06:24.710 align:start position:0%
+uh posix compliant but let's just do
+this<00:06:22.599><c> instead</c><00:06:23.599><c> uh</c><00:06:23.720><c> if</c><00:06:23.800><c> you</c><00:06:23.880><c> do</c><00:06:24.039><c> DP</c><00:06:24.479><c> it</c><00:06:24.560><c> will</c>
+
+00:06:24.710 --> 00:06:24.720 align:start position:0%
+this instead uh if you do DP it will
+ 
+
+00:06:24.720 --> 00:06:26.589 align:start position:0%
+this instead uh if you do DP it will
+create<00:06:24.960><c> theim</c><00:06:25.520><c> directory</c><00:06:26.000><c> and</c><00:06:26.120><c> then</c><00:06:26.319><c> create</c>
+
+00:06:26.589 --> 00:06:26.599 align:start position:0%
+create theim directory and then create
+ 
+
+00:06:26.599 --> 00:06:30.070 align:start position:0%
+create theim directory and then create
+the<00:06:26.680><c> autoload</c><00:06:27.160><c> directory</c><00:06:27.599><c> so</c><00:06:27.800><c> that's</c><00:06:28.400><c> fine</c><00:06:29.400><c> um</c>
+
+00:06:30.070 --> 00:06:30.080 align:start position:0%
+the autoload directory so that's fine um
+ 
+
+00:06:30.080 --> 00:06:32.990 align:start position:0%
+the autoload directory so that's fine um
+um<00:06:31.080><c> same</c>
+
+00:06:32.990 --> 00:06:33.000 align:start position:0%
+um same
+ 
+
+00:06:33.000 --> 00:06:35.350 align:start position:0%
+um same
+here<00:06:34.000><c> uh</c><00:06:34.240><c> okay</c><00:06:34.360><c> so</c><00:06:34.560><c> this</c><00:06:34.639><c> is</c><00:06:34.759><c> the</c><00:06:34.960><c> symbolic</c>
+
+00:06:35.350 --> 00:06:35.360 align:start position:0%
+here uh okay so this is the symbolic
+ 
+
+00:06:35.360 --> 00:06:38.510 align:start position:0%
+here uh okay so this is the symbolic
+link<00:06:35.639><c> it</c><00:06:35.800><c> says</c><00:06:36.240><c> hey</c><00:06:37.039><c> this</c><00:06:37.560><c> plug</c><00:06:37.880><c> file</c><00:06:38.199><c> that</c><00:06:38.319><c> I</c>
+
+00:06:38.510 --> 00:06:38.520 align:start position:0%
+link it says hey this plug file that I
+ 
+
+00:06:38.520 --> 00:06:41.110 align:start position:0%
+link it says hey this plug file that I
+have<00:06:38.840><c> in</c><00:06:39.000><c> this</c><00:06:39.160><c> directory</c><00:06:39.639><c> right</c><00:06:39.880><c> here</c><00:06:40.880><c> let's</c>
+
+00:06:41.110 --> 00:06:41.120 align:start position:0%
+have in this directory right here let's
+ 
+
+00:06:41.120 --> 00:06:43.990 align:start position:0%
+have in this directory right here let's
+make<00:06:41.319><c> sure</c><00:06:41.880><c> to</c><00:06:42.240><c> put</c><00:06:42.360><c> it</c><00:06:42.520><c> over</c><00:06:42.720><c> there</c><00:06:43.000><c> now</c>
+
+00:06:43.990 --> 00:06:44.000 align:start position:0%
+make sure to put it over there now
+ 
+
+00:06:44.000 --> 00:06:46.070 align:start position:0%
+make sure to put it over there now
+something<00:06:44.479><c> that</c><00:06:44.639><c> I</c><00:06:44.759><c> have</c><00:06:44.880><c> done</c><00:06:45.039><c> in</c><00:06:45.160><c> the</c><00:06:45.360><c> past</c>
+
+00:06:46.070 --> 00:06:46.080 align:start position:0%
+something that I have done in the past
+ 
+
+00:06:46.080 --> 00:06:48.790 align:start position:0%
+something that I have done in the past
+is<00:06:46.919><c> make</c><00:06:47.160><c> these</c><00:06:47.360><c> files</c><00:06:47.720><c> so</c><00:06:47.880><c> they</c><00:06:48.000><c> can</c><00:06:48.199><c> be</c><00:06:48.440><c> seen</c>
+
+00:06:48.790 --> 00:06:48.800 align:start position:0%
+is make these files so they can be seen
+ 
+
+00:06:48.800 --> 00:06:50.430 align:start position:0%
+is make these files so they can be seen
+in<00:06:48.960><c> here</c><00:06:49.120><c> if</c><00:06:49.199><c> somebody</c><00:06:49.440><c> were</c><00:06:49.599><c> to</c><00:06:49.759><c> just</c><00:06:49.960><c> wander</c>
+
+00:06:50.430 --> 00:06:50.440 align:start position:0%
+in here if somebody were to just wander
+ 
+
+00:06:50.440 --> 00:06:53.029 align:start position:0%
+in here if somebody were to just wander
+in<00:06:50.680><c> here</c><00:06:51.400><c> they'd</c><00:06:51.599><c> be</c><00:06:51.759><c> like</c><00:06:52.160><c> I</c><00:06:52.360><c> can't</c><00:06:52.639><c> see</c>
+
+00:06:53.029 --> 00:06:53.039 align:start position:0%
+in here they'd be like I can't see
+ 
+
+00:06:53.039 --> 00:06:57.189 align:start position:0%
+in here they'd be like I can't see
+anything<00:06:54.319><c> right</c><00:06:55.319><c> and</c><00:06:55.960><c> I'm</c><00:06:56.160><c> actually</c><00:06:56.720><c> kind</c><00:06:56.919><c> of</c>
+
+00:06:57.189 --> 00:06:57.199 align:start position:0%
+anything right and I'm actually kind of
+ 
+
+00:06:57.199 --> 00:07:00.469 align:start position:0%
+anything right and I'm actually kind of
+tempted<00:06:57.720><c> to</c><00:06:58.080><c> change</c><00:06:58.560><c> this</c><00:06:58.840><c> right</c><00:06:59.039><c> now</c>
+
+00:07:00.469 --> 00:07:00.479 align:start position:0%
+tempted to change this right now
+ 
+
+00:07:00.479 --> 00:07:03.589 align:start position:0%
+tempted to change this right now
+um<00:07:01.440><c> because</c><00:07:02.440><c> I</c><00:07:02.479><c> mean</c><00:07:02.720><c> I</c><00:07:02.879><c> I</c><00:07:03.000><c> go</c><00:07:03.160><c> back</c><00:07:03.280><c> and</c><00:07:03.400><c> forth</c>
+
+00:07:03.589 --> 00:07:03.599 align:start position:0%
+um because I mean I I go back and forth
+ 
+
+00:07:03.599 --> 00:07:05.990 align:start position:0%
+um because I mean I I go back and forth
+on<00:07:03.759><c> this</c><00:07:03.919><c> particular</c><00:07:04.360><c> case</c><00:07:05.360><c> uh</c><00:07:05.520><c> these</c><00:07:05.840><c> these</c>
+
+00:07:05.990 --> 00:07:06.000 align:start position:0%
+on this particular case uh these these
+ 
+
+00:07:06.000 --> 00:07:08.350 align:start position:0%
+on this particular case uh these these
+files<00:07:06.240><c> were</c><00:07:06.440><c> hidden</c><00:07:06.759><c> you</c><00:07:06.879><c> didn't</c><00:07:07.080><c> see</c><00:07:07.360><c> them</c>
+
+00:07:08.350 --> 00:07:08.360 align:start position:0%
+files were hidden you didn't see them
+ 
+
+00:07:08.360 --> 00:07:09.830 align:start position:0%
+files were hidden you didn't see them
+but<00:07:08.520><c> do</c><00:07:08.680><c> they</c><00:07:08.840><c> really</c><00:07:09.039><c> need</c><00:07:09.199><c> to</c><00:07:09.319><c> be</c><00:07:09.479><c> hidden</c><00:07:09.720><c> in</c>
+
+00:07:09.830 --> 00:07:09.840 align:start position:0%
+but do they really need to be hidden in
+ 
+
+00:07:09.840 --> 00:07:13.390 align:start position:0%
+but do they really need to be hidden in
+the<00:07:09.960><c> setup</c><00:07:10.360><c> directory</c><00:07:11.319><c> right</c><00:07:12.319><c> um</c><00:07:13.000><c> the</c><00:07:13.120><c> reason</c>
+
+00:07:13.390 --> 00:07:13.400 align:start position:0%
+the setup directory right um the reason
+ 
+
+00:07:13.400 --> 00:07:15.270 align:start position:0%
+the setup directory right um the reason
+it's<00:07:13.599><c> that</c><00:07:13.800><c> way</c><00:07:14.000><c> is</c><00:07:14.160><c> so</c><00:07:14.319><c> that</c><00:07:14.520><c> things</c><00:07:14.720><c> are</c><00:07:15.080><c> the</c>
+
+00:07:15.270 --> 00:07:15.280 align:start position:0%
+it's that way is so that things are the
+ 
+
+00:07:15.280 --> 00:07:18.869 align:start position:0%
+it's that way is so that things are the
+same<00:07:16.000><c> exactly</c><00:07:16.440><c> the</c><00:07:16.560><c> way</c><00:07:16.720><c> they</c><00:07:16.840><c> would</c><00:07:17.199><c> be</c><00:07:18.199><c> um</c>
+
+00:07:18.869 --> 00:07:18.879 align:start position:0%
+same exactly the way they would be um
+ 
+
+00:07:18.879 --> 00:07:20.430 align:start position:0%
+same exactly the way they would be um
+but<00:07:19.120><c> one</c><00:07:19.240><c> of</c><00:07:19.360><c> the</c><00:07:19.520><c> things</c><00:07:19.680><c> I</c><00:07:19.879><c> could</c><00:07:20.039><c> do</c><00:07:20.199><c> to</c>
+
+00:07:20.430 --> 00:07:20.440 align:start position:0%
+but one of the things I could do to
+ 
+
+00:07:20.440 --> 00:07:24.189 align:start position:0%
+but one of the things I could do to
+simplify<00:07:21.120><c> this</c><00:07:22.000><c> would</c><00:07:22.199><c> be</c><00:07:22.720><c> to</c><00:07:22.960><c> change</c><00:07:23.520><c> this</c><00:07:23.960><c> to</c>
+
+00:07:24.189 --> 00:07:24.199 align:start position:0%
+simplify this would be to change this to
+ 
+
+00:07:24.199 --> 00:07:28.350 align:start position:0%
+simplify this would be to change this to
+be<00:07:24.759><c> plug</c><00:07:26.080><c> dbim</c><00:07:27.080><c> and</c><00:07:27.240><c> then</c><00:07:27.440><c> to</c>
+
+00:07:28.350 --> 00:07:28.360 align:start position:0%
+be plug dbim and then to
+ 
+
+00:07:28.360 --> 00:07:31.350 align:start position:0%
+be plug dbim and then to
+change<00:07:29.360><c> uh</c><00:07:29.680><c> this</c><00:07:29.800><c> one</c><00:07:29.919><c> to</c><00:07:30.080><c> just</c><00:07:30.199><c> be</c>
+
+00:07:31.350 --> 00:07:31.360 align:start position:0%
+change uh this one to just be
+ 
+
+00:07:31.360 --> 00:07:36.230 align:start position:0%
+change uh this one to just be
+bmrc<00:07:32.360><c> and</c><00:07:32.560><c> if</c><00:07:32.680><c> I</c><00:07:32.840><c> do</c><00:07:33.160><c> that</c><00:07:33.759><c> then</c><00:07:34.800><c> um</c><00:07:35.800><c> the</c><00:07:35.879><c> only</c>
+
+00:07:36.230 --> 00:07:36.240 align:start position:0%
+bmrc and if I do that then um the only
+ 
+
+00:07:36.240 --> 00:07:37.710 align:start position:0%
+bmrc and if I do that then um the only
+problem<00:07:36.479><c> with</c><00:07:36.639><c> that</c><00:07:36.800><c> is</c><00:07:36.919><c> that</c><00:07:37.120><c> like</c><00:07:37.280><c> if</c><00:07:37.599><c> when</c>
+
+00:07:37.710 --> 00:07:37.720 align:start position:0%
+problem with that is that like if when
+ 
+
+00:07:37.720 --> 00:07:39.670 align:start position:0%
+problem with that is that like if when
+I'm<00:07:37.960><c> trying</c><00:07:38.280><c> to</c><00:07:38.680><c> if</c><00:07:38.800><c> we</c><00:07:39.039><c> if</c><00:07:39.080><c> we</c><00:07:39.199><c> move</c><00:07:39.360><c> it</c><00:07:39.479><c> let's</c>
+
+00:07:39.670 --> 00:07:39.680 align:start position:0%
+I'm trying to if we if we move it let's
+ 
+
+00:07:39.680 --> 00:07:41.230 align:start position:0%
+I'm trying to if we if we move it let's
+just<00:07:39.840><c> do</c><00:07:40.039><c> VM</c>
+
+00:07:41.230 --> 00:07:41.240 align:start position:0%
+just do VM
+ 
+
+00:07:41.240 --> 00:07:43.990 align:start position:0%
+just do VM
+RC<00:07:42.240><c> uh</c><00:07:42.479><c> to</c><00:07:42.720><c> VM</c><00:07:42.960><c> RC</c><00:07:43.319><c> the</c><00:07:43.400><c> only</c><00:07:43.680><c> problem</c><00:07:43.879><c> with</c>
+
+00:07:43.990 --> 00:07:44.000 align:start position:0%
+RC uh to VM RC the only problem with
+ 
+
+00:07:44.000 --> 00:07:47.830 align:start position:0%
+RC uh to VM RC the only problem with
+that<00:07:44.120><c> is</c><00:07:44.199><c> that</c><00:07:44.319><c> when</c><00:07:44.440><c> we</c><00:07:44.599><c> go</c><00:07:44.759><c> to</c><00:07:45.520><c> to</c><00:07:45.720><c> edit</c><00:07:46.000><c> it</c><00:07:47.000><c> um</c>
+
+00:07:47.830 --> 00:07:47.840 align:start position:0%
+that is that when we go to to edit it um
+ 
+
+00:07:47.840 --> 00:07:50.309 align:start position:0%
+that is that when we go to to edit it um
+it<00:07:48.240><c> well</c><00:07:48.599><c> I</c><00:07:48.680><c> guess</c><00:07:48.840><c> it</c><00:07:48.960><c> figured</c><00:07:49.280><c> it</c><00:07:49.440><c> out</c><00:07:49.879><c> okay</c>
+
+00:07:50.309 --> 00:07:50.319 align:start position:0%
+it well I guess it figured it out okay
+ 
+
+00:07:50.319 --> 00:07:52.790 align:start position:0%
+it well I guess it figured it out okay
+so<00:07:51.319><c> let's</c><00:07:51.520><c> do</c><00:07:51.680><c> that</c><00:07:51.879><c> I'm</c><00:07:51.960><c> going</c><00:07:52.080><c> to</c><00:07:52.199><c> move</c><00:07:52.400><c> the</c>
+
+00:07:52.790 --> 00:07:52.800 align:start position:0%
+so let's do that I'm going to move the
+ 
+
+00:07:52.800 --> 00:07:53.589 align:start position:0%
+so let's do that I'm going to move the
+VM
+
+00:07:53.589 --> 00:07:53.599 align:start position:0%
+VM
+ 
+
+00:07:53.599 --> 00:07:56.189 align:start position:0%
+VM
+directory<00:07:54.599><c> to</c>
+
+00:07:56.189 --> 00:07:56.199 align:start position:0%
+directory to
+ 
+
+00:07:56.199 --> 00:07:57.790 align:start position:0%
+directory to
+them
+
+00:07:57.790 --> 00:07:57.800 align:start position:0%
+them
+ 
+
+00:07:57.800 --> 00:08:00.990 align:start position:0%
+them
+and<00:07:58.800><c> um</c>
+
+00:08:00.990 --> 00:08:01.000 align:start position:0%
+and um
+ 
+
+00:08:01.000 --> 00:08:03.390 align:start position:0%
+and um
+so<00:08:02.000><c> I</c><00:08:02.039><c> mean</c><00:08:02.240><c> you</c><00:08:02.360><c> could</c><00:08:02.639><c> actually</c><00:08:02.919><c> make</c><00:08:03.199><c> that</c>
+
+00:08:03.390 --> 00:08:03.400 align:start position:0%
+so I mean you could actually make that
+ 
+
+00:08:03.400 --> 00:08:05.589 align:start position:0%
+so I mean you could actually make that
+you<00:08:03.520><c> could</c><00:08:03.720><c> move</c><00:08:04.000><c> Vim</c><00:08:04.280><c> to</c>
+
+00:08:05.589 --> 00:08:05.599 align:start position:0%
+you could move Vim to
+ 
+
+00:08:05.599 --> 00:08:08.469 align:start position:0%
+you could move Vim to
+bmd<00:08:06.599><c> however</c><00:08:06.840><c> you</c><00:08:06.919><c> want</c><00:08:07.080><c> to</c><00:08:07.199><c> do</c>
+
+00:08:08.469 --> 00:08:08.479 align:start position:0%
+bmd however you want to do
+ 
+
+00:08:08.479 --> 00:08:12.309 align:start position:0%
+bmd however you want to do
+this<00:08:09.479><c> but</c><00:08:09.960><c> this</c><00:08:10.120><c> is</c><00:08:10.520><c> this</c><00:08:10.680><c> is</c><00:08:10.879><c> just</c><00:08:11.080><c> all</c><00:08:11.639><c> for</c>
+
+00:08:12.309 --> 00:08:12.319 align:start position:0%
+this but this is this is just all for
+ 
+
+00:08:12.319 --> 00:08:14.589 align:start position:0%
+this but this is this is just all for
+you<00:08:12.960><c> is</c><00:08:13.120><c> to</c><00:08:13.319><c> kind</c><00:08:13.440><c> of</c><00:08:13.560><c> know</c><00:08:13.840><c> how</c><00:08:13.960><c> to</c><00:08:14.120><c> organize</c>
+
+00:08:14.589 --> 00:08:14.599 align:start position:0%
+you is to kind of know how to organize
+ 
+
+00:08:14.599 --> 00:08:19.149 align:start position:0%
+you is to kind of know how to organize
+your<00:08:14.840><c> stuff</c><00:08:15.800><c> right</c><00:08:16.800><c> um</c><00:08:17.800><c> let's</c><00:08:18.039><c> see</c><00:08:18.639><c> play</c><00:08:19.000><c> oh</c>
+
+00:08:19.149 --> 00:08:19.159 align:start position:0%
+your stuff right um let's see play oh
+ 
+
+00:08:19.159 --> 00:08:20.830 align:start position:0%
+your stuff right um let's see play oh
+wait<00:08:19.360><c> wait</c><00:08:19.560><c> wait</c><00:08:19.879><c> so</c><00:08:20.080><c> we</c>
+
+00:08:20.830 --> 00:08:20.840 align:start position:0%
+wait wait wait so we
+ 
+
+00:08:20.840 --> 00:08:27.230 align:start position:0%
+wait wait wait so we
+have<00:08:21.840><c> pwp</c><00:08:22.720><c> plugin</c><00:08:23.639><c> put</c><00:08:24.159><c> plug.</c><00:08:25.000><c> Bim</c>
+
+00:08:27.230 --> 00:08:27.240 align:start position:0%
+have pwp plugin put plug. Bim
+ 
+
+00:08:27.240 --> 00:08:29.230 align:start position:0%
+have pwp plugin put plug. Bim
+autoload<00:08:28.240><c> oh</c><00:08:28.440><c> wait</c><00:08:28.599><c> wait</c><00:08:28.759><c> wait</c><00:08:28.919><c> wait</c><00:08:29.080><c> wait</c>
+
+00:08:29.230 --> 00:08:29.240 align:start position:0%
+autoload oh wait wait wait wait wait
+ 
+
+00:08:29.240 --> 00:08:31.830 align:start position:0%
+autoload oh wait wait wait wait wait
+this<00:08:29.560><c> one</c><00:08:29.800><c> would</c><00:08:30.120><c> be</c><00:08:31.120><c> oh</c><00:08:31.280><c> wait</c><00:08:31.440><c> we</c><00:08:31.520><c> don't</c><00:08:31.680><c> even</c>
+
+00:08:31.830 --> 00:08:31.840 align:start position:0%
+this one would be oh wait we don't even
+ 
+
+00:08:31.840 --> 00:08:34.469 align:start position:0%
+this one would be oh wait we don't even
+need<00:08:32.039><c> that</c><00:08:32.640><c> anymore</c><00:08:33.640><c> I</c><00:08:33.719><c> don't</c><00:08:33.839><c> think</c><00:08:34.000><c> we</c><00:08:34.120><c> need</c>
+
+00:08:34.469 --> 00:08:34.479 align:start position:0%
+need that anymore I don't think we need
+ 
+
+00:08:34.479 --> 00:08:35.829 align:start position:0%
+need that anymore I don't think we need
+the<00:08:34.800><c> the</c>
+
+00:08:35.829 --> 00:08:35.839 align:start position:0%
+the the
+ 
+
+00:08:35.839 --> 00:08:37.710 align:start position:0%
+the the
+vmd<00:08:36.839><c> find</c>
+
+00:08:37.710 --> 00:08:37.720 align:start position:0%
+vmd find
+ 
+
+00:08:37.720 --> 00:08:39.110 align:start position:0%
+vmd find
+[Music]
+
+00:08:39.110 --> 00:08:39.120 align:start position:0%
+[Music]
+ 
+
+00:08:39.120 --> 00:08:42.829 align:start position:0%
+[Music]
+vmd<00:08:40.120><c> vmd</c><00:08:40.640><c> autoload</c><00:08:41.200><c> plugin</c><00:08:41.680><c> Vim</c><00:08:42.640><c> yeah</c><00:08:42.760><c> we</c>
+
+00:08:42.829 --> 00:08:42.839 align:start position:0%
+vmd vmd autoload plugin Vim yeah we
+ 
+
+00:08:42.839 --> 00:08:44.550 align:start position:0%
+vmd vmd autoload plugin Vim yeah we
+don't<00:08:42.959><c> need</c><00:08:43.159><c> any</c><00:08:43.279><c> of</c><00:08:43.440><c> that</c><00:08:43.599><c> now</c><00:08:44.039><c> we</c><00:08:44.159><c> can</c><00:08:44.360><c> just</c>
+
+00:08:44.550 --> 00:08:44.560 align:start position:0%
+don't need any of that now we can just
+ 
+
+00:08:44.560 --> 00:08:46.110 align:start position:0%
+don't need any of that now we can just
+do<00:08:45.120><c> I</c><00:08:45.160><c> mean</c><00:08:45.320><c> the</c><00:08:45.480><c> one</c><00:08:45.600><c> reason</c><00:08:45.800><c> you</c><00:08:45.880><c> would</c><00:08:46.000><c> do</c>
+
+00:08:46.110 --> 00:08:46.120 align:start position:0%
+do I mean the one reason you would do
+ 
+
+00:08:46.120 --> 00:08:47.350 align:start position:0%
+do I mean the one reason you would do
+that<00:08:46.279><c> maybe</c><00:08:46.440><c> you</c><00:08:46.560><c> had</c><00:08:46.760><c> other</c><00:08:47.040><c> stuff</c><00:08:47.279><c> you</c>
+
+00:08:47.350 --> 00:08:47.360 align:start position:0%
+that maybe you had other stuff you
+ 
+
+00:08:47.360 --> 00:08:48.750 align:start position:0%
+that maybe you had other stuff you
+wanted<00:08:47.600><c> to</c><00:08:47.760><c> put</c><00:08:47.880><c> in</c>
+
+00:08:48.750 --> 00:08:48.760 align:start position:0%
+wanted to put in
+ 
+
+00:08:48.760 --> 00:08:51.949 align:start position:0%
+wanted to put in
+there<00:08:49.760><c> um</c><00:08:50.760><c> and</c><00:08:50.880><c> so</c><00:08:51.160><c> that</c><00:08:51.279><c> might</c><00:08:51.480><c> be</c><00:08:51.600><c> a</c><00:08:51.720><c> reason</c>
+
+00:08:51.949 --> 00:08:51.959 align:start position:0%
+there um and so that might be a reason
+ 
+
+00:08:51.959 --> 00:08:54.550 align:start position:0%
+there um and so that might be a reason
+to<00:08:52.160><c> do</c><00:08:52.480><c> it</c><00:08:53.480><c> and</c><00:08:53.720><c> I</c><00:08:53.800><c> think</c><00:08:54.000><c> that's</c><00:08:54.200><c> probably</c><00:08:54.440><c> why</c>
+
+00:08:54.550 --> 00:08:54.560 align:start position:0%
+to do it and I think that's probably why
+ 
+
+00:08:54.560 --> 00:08:56.230 align:start position:0%
+to do it and I think that's probably why
+I<00:08:54.640><c> did</c><00:08:54.760><c> it</c><00:08:54.920><c> but</c><00:08:55.200><c> I'm</c><00:08:55.480><c> going</c><00:08:55.600><c> to</c><00:08:55.760><c> go</c><00:08:55.880><c> ahead</c><00:08:56.080><c> and</c>
+
+00:08:56.230 --> 00:08:56.240 align:start position:0%
+I did it but I'm going to go ahead and
+ 
+
+00:08:56.240 --> 00:08:57.310 align:start position:0%
+I did it but I'm going to go ahead and
+just<00:08:56.399><c> move</c>
+
+00:08:57.310 --> 00:08:57.320 align:start position:0%
+just move
+ 
+
+00:08:57.320 --> 00:08:59.870 align:start position:0%
+just move
+plug<00:08:58.320><c> uh</c><00:08:58.440><c> into</c><00:08:58.680><c> this</c><00:08:58.880><c> directory</c><00:08:59.440><c> so</c><00:08:59.680><c> I'm</c><00:08:59.800><c> going</c>
+
+00:08:59.870 --> 00:08:59.880 align:start position:0%
+plug uh into this directory so I'm going
+ 
+
+00:08:59.880 --> 00:09:01.590 align:start position:0%
+plug uh into this directory so I'm going
+to<00:09:00.279><c> because</c><00:09:00.480><c> then</c><00:09:00.600><c> I</c><00:09:00.680><c> don't</c><00:09:00.920><c> have</c><00:09:01.079><c> less</c><00:09:01.279><c> files</c>
+
+00:09:01.590 --> 00:09:01.600 align:start position:0%
+to because then I don't have less files
+ 
+
+00:09:01.600 --> 00:09:02.550 align:start position:0%
+to because then I don't have less files
+to<00:09:01.760><c> deal</c>
+
+00:09:02.550 --> 00:09:02.560 align:start position:0%
+to deal
+ 
+
+00:09:02.560 --> 00:09:05.310 align:start position:0%
+to deal
+with<00:09:03.560><c> I'm</c><00:09:03.640><c> going</c><00:09:03.760><c> to</c><00:09:03.880><c> put</c><00:09:04.040><c> that</c><00:09:04.160><c> in</c>
+
+00:09:05.310 --> 00:09:05.320 align:start position:0%
+with I'm going to put that in
+ 
+
+00:09:05.320 --> 00:09:10.470 align:start position:0%
+with I'm going to put that in
+here<00:09:06.399><c> and</c><00:09:07.399><c> that</c><00:09:07.800><c> leaves</c><00:09:08.040><c> our</c><00:09:08.240><c> Vim</c><00:09:08.560><c> directory</c>
+
+00:09:10.470 --> 00:09:10.480 align:start position:0%
+here and that leaves our Vim directory
+ 
+
+00:09:10.480 --> 00:09:14.190 align:start position:0%
+here and that leaves our Vim directory
+empty<00:09:11.600><c> and</c><00:09:12.600><c> we</c><00:09:12.680><c> need</c><00:09:12.880><c> an</c><00:09:13.000><c> RMF</c><00:09:13.720><c> because</c><00:09:13.959><c> it's</c>
+
+00:09:14.190 --> 00:09:14.200 align:start position:0%
+empty and we need an RMF because it's
+ 
+
+00:09:14.200 --> 00:09:16.509 align:start position:0%
+empty and we need an RMF because it's
+empty<00:09:14.519><c> because</c><00:09:14.680><c> it's</c><00:09:14.800><c> do</c><00:09:15.040><c> got</c><00:09:15.160><c> anything</c><00:09:15.399><c> in</c><00:09:15.519><c> it</c>
+
+00:09:16.509 --> 00:09:16.519 align:start position:0%
+empty because it's do got anything in it
+ 
+
+00:09:16.519 --> 00:09:19.829 align:start position:0%
+empty because it's do got anything in it
+so<00:09:16.720><c> now</c><00:09:16.839><c> we</c><00:09:17.000><c> just</c><00:09:17.160><c> have</c><00:09:17.360><c> the</c><00:09:17.560><c> two</c><00:09:18.480><c> files</c><00:09:19.480><c> why</c><00:09:19.640><c> is</c>
+
+00:09:19.829 --> 00:09:19.839 align:start position:0%
+so now we just have the two files why is
+ 
+
+00:09:19.839 --> 00:09:21.990 align:start position:0%
+so now we just have the two files why is
+plug
+
+00:09:21.990 --> 00:09:22.000 align:start position:0%
+plug
+ 
+
+00:09:22.000 --> 00:09:24.069 align:start position:0%
+plug
+executable<00:09:23.000><c> oh</c><00:09:23.120><c> no</c><00:09:23.279><c> it's</c><00:09:23.440><c> not</c><00:09:23.600><c> executable</c>
+
+00:09:24.069 --> 00:09:24.079 align:start position:0%
+executable oh no it's not executable
+ 
+
+00:09:24.079 --> 00:09:27.030 align:start position:0%
+executable oh no it's not executable
+it's<00:09:24.240><c> just</c><00:09:24.399><c> a</c><00:09:24.680><c> special</c><00:09:25.040><c> file</c><00:09:25.399><c> so</c><00:09:26.200><c> I</c><00:09:26.279><c> was</c><00:09:26.720><c> it</c><00:09:26.800><c> was</c>
+
+00:09:27.030 --> 00:09:27.040 align:start position:0%
+it's just a special file so I was it was
+ 
+
+00:09:27.040 --> 00:09:28.870 align:start position:0%
+it's just a special file so I was it was
+the<00:09:27.160><c> same</c><00:09:27.399><c> color</c><00:09:27.760><c> so</c><00:09:27.959><c> I</c><00:09:28.040><c> was</c><00:09:28.320><c> confused</c><00:09:28.760><c> there</c>
+
+00:09:28.870 --> 00:09:28.880 align:start position:0%
+the same color so I was confused there
+ 
+
+00:09:28.880 --> 00:09:31.150 align:start position:0%
+the same color so I was confused there
+for<00:09:29.000><c> a</c><00:09:29.120><c> second</c><00:09:29.839><c> so</c><00:09:30.120><c> let's</c><00:09:30.320><c> look</c><00:09:30.440><c> at</c><00:09:30.600><c> my</c><00:09:30.720><c> setup</c>
+
+00:09:31.150 --> 00:09:31.160 align:start position:0%
+for a second so let's look at my setup
+ 
+
+00:09:31.160 --> 00:09:33.470 align:start position:0%
+for a second so let's look at my setup
+script<00:09:32.160><c> I</c><00:09:32.240><c> know</c><00:09:32.440><c> I'm</c><00:09:32.600><c> spending</c><00:09:32.959><c> time</c><00:09:33.200><c> here</c>
+
+00:09:33.470 --> 00:09:33.480 align:start position:0%
+script I know I'm spending time here
+ 
+
+00:09:33.480 --> 00:09:37.590 align:start position:0%
+script I know I'm spending time here
+like<00:09:34.120><c> simplifying</c><00:09:35.320><c> but</c><00:09:36.320><c> it's</c><00:09:36.519><c> worth</c><00:09:36.720><c> it</c><00:09:37.120><c> so</c>
+
+00:09:37.590 --> 00:09:37.600 align:start position:0%
+like simplifying but it's worth it so
+ 
+
+00:09:37.600 --> 00:09:39.670 align:start position:0%
+like simplifying but it's worth it so
+here<00:09:37.760><c> we</c><00:09:37.920><c> make</c><00:09:38.079><c> the</c><00:09:38.320><c> directory</c><00:09:39.320><c> and</c><00:09:39.440><c> then</c><00:09:39.560><c> this</c>
+
+00:09:39.670 --> 00:09:39.680 align:start position:0%
+here we make the directory and then this
+ 
+
+00:09:39.680 --> 00:09:41.670 align:start position:0%
+here we make the directory and then this
+says<00:09:39.920><c> to</c><00:09:40.160><c> sying</c><00:09:40.640><c> plug.</c>
+
+00:09:41.670 --> 00:09:41.680 align:start position:0%
+says to sying plug.
+ 
+
+00:09:41.680 --> 00:09:44.990 align:start position:0%
+says to sying plug.
+whatever<00:09:42.680><c> um</c><00:09:43.480><c> and</c><00:09:44.000><c> so</c><00:09:44.279><c> so</c><00:09:44.440><c> when</c><00:09:44.519><c> we</c><00:09:44.680><c> run</c><00:09:44.880><c> that</c>
+
+00:09:44.990 --> 00:09:45.000 align:start position:0%
+whatever um and so so when we run that
+ 
+
+00:09:45.000 --> 00:09:48.069 align:start position:0%
+whatever um and so so when we run that
+script<00:09:45.839><c> that</c><00:09:46.000><c> script</c><00:09:46.360><c> will</c><00:09:46.560><c> show</c><00:09:46.839><c> you</c><00:09:47.760><c> it</c><00:09:47.880><c> will</c>
+
+00:09:48.069 --> 00:09:48.079 align:start position:0%
+script that script will show you it will
+ 
+
+00:09:48.079 --> 00:09:51.030 align:start position:0%
+script that script will show you it will
+actually<00:09:48.839><c> um</c><00:09:49.839><c> when</c><00:09:49.959><c> you</c><00:09:50.079><c> run</c><00:09:50.279><c> setup</c><00:09:50.600><c> it'll</c><00:09:50.839><c> put</c>
+
+00:09:51.030 --> 00:09:51.040 align:start position:0%
+actually um when you run setup it'll put
+ 
+
+00:09:51.040 --> 00:09:54.990 align:start position:0%
+actually um when you run setup it'll put
+all<00:09:51.200><c> the</c><00:09:51.360><c> stuff</c><00:09:51.600><c> in</c><00:09:51.760><c> the</c><00:09:52.000><c> right</c><00:09:52.680><c> places</c><00:09:53.760><c> okay</c>
+
+00:09:54.990 --> 00:09:55.000 align:start position:0%
+all the stuff in the right places okay
+ 
+
+00:09:55.000 --> 00:10:00.470 align:start position:0%
+all the stuff in the right places okay
+and<00:09:56.000><c> um</c><00:09:56.480><c> so</c><00:09:56.720><c> I</c><00:09:56.839><c> ran</c><00:09:57.079><c> setup</c><00:09:58.000><c> now</c><00:09:58.160><c> when</c><00:09:58.279><c> you</c><00:09:58.440><c> do</c><00:09:58.680><c> LS</c>
+
+00:10:00.470 --> 00:10:00.480 align:start position:0%
+and um so I ran setup now when you do LS
+ 
+
+00:10:00.480 --> 00:10:03.310 align:start position:0%
+and um so I ran setup now when you do LS
+L<00:10:01.480><c> um</c>
+
+00:10:03.310 --> 00:10:03.320 align:start position:0%
+L um
+ 
+
+00:10:03.320 --> 00:10:05.150 align:start position:0%
+L um
+home.
+
+00:10:05.150 --> 00:10:05.160 align:start position:0%
+home.
+ 
+
+00:10:05.160 --> 00:10:09.430 align:start position:0%
+home.
+Vim<00:10:06.160><c> we</c><00:10:06.279><c> can</c><00:10:06.480><c> see</c><00:10:07.480><c> we</c><00:10:07.600><c> have</c><00:10:07.800><c> the</c><00:10:07.959><c> auto</c>
+
+00:10:09.430 --> 00:10:09.440 align:start position:0%
+Vim we can see we have the auto
+ 
+
+00:10:09.440 --> 00:10:12.750 align:start position:0%
+Vim we can see we have the auto
+load<00:10:10.440><c> and</c><00:10:10.760><c> we</c><00:10:10.880><c> see</c><00:10:11.120><c> the</c><00:10:11.399><c> the</c><00:10:11.560><c> Vim</c><00:10:11.920><c> the</c><00:10:12.040><c> plug</c><00:10:12.519><c> the</c>
+
+00:10:12.750 --> 00:10:12.760 align:start position:0%
+load and we see the the Vim the plug the
+ 
+
+00:10:12.760 --> 00:10:15.190 align:start position:0%
+load and we see the the Vim the plug the
+Vim<00:10:13.399><c> directory</c><00:10:14.399><c> uh</c><00:10:14.519><c> is</c><00:10:14.680><c> pointing</c><00:10:14.959><c> to</c><00:10:15.079><c> the</c>
+
+00:10:15.190 --> 00:10:15.200 align:start position:0%
+Vim directory uh is pointing to the
+ 
+
+00:10:15.200 --> 00:10:18.069 align:start position:0%
+Vim directory uh is pointing to the
+right<00:10:15.399><c> thing</c><00:10:15.600><c> now</c><00:10:15.959><c> I</c><00:10:16.399><c> still</c><00:10:17.399><c> you'll</c><00:10:17.640><c> see</c>
+
+00:10:18.069 --> 00:10:18.079 align:start position:0%
+right thing now I still you'll see
+ 
+
+00:10:18.079 --> 00:10:20.350 align:start position:0%
+right thing now I still you'll see
+that's<00:10:18.200><c> what</c><00:10:18.360><c> the</c><00:10:18.480><c> f</c><00:10:18.760><c> was</c><00:10:18.920><c> for</c><00:10:19.800><c> so</c><00:10:20.040><c> before</c><00:10:20.279><c> it</c>
+
+00:10:20.350 --> 00:10:20.360 align:start position:0%
+that's what the f was for so before it
+ 
+
+00:10:20.360 --> 00:10:22.150 align:start position:0%
+that's what the f was for so before it
+was<00:10:20.560><c> pointing</c><00:10:20.959><c> to</c><00:10:21.160><c> the</c><00:10:21.320><c> other</c><00:10:21.600><c> thing</c><00:10:22.000><c> and</c>
+
+00:10:22.150 --> 00:10:22.160 align:start position:0%
+was pointing to the other thing and
+ 
+
+00:10:22.160 --> 00:10:23.790 align:start position:0%
+was pointing to the other thing and
+since<00:10:22.360><c> I</c><00:10:22.440><c> moved</c><00:10:22.760><c> it</c><00:10:22.920><c> now</c><00:10:23.040><c> I</c><00:10:23.120><c> had</c><00:10:23.240><c> to</c><00:10:23.360><c> rerun</c><00:10:23.680><c> the</c>
+
+00:10:23.790 --> 00:10:23.800 align:start position:0%
+since I moved it now I had to rerun the
+ 
+
+00:10:23.800 --> 00:10:26.269 align:start position:0%
+since I moved it now I had to rerun the
+setup<00:10:24.079><c> script</c><00:10:24.760><c> so</c><00:10:24.959><c> this</c><00:10:25.079><c> is</c><00:10:25.320><c> pointing</c><00:10:26.160><c> this</c>
+
+00:10:26.269 --> 00:10:26.279 align:start position:0%
+setup script so this is pointing this
+ 
+
+00:10:26.279 --> 00:10:28.590 align:start position:0%
+setup script so this is pointing this
+shows<00:10:26.640><c> that</c><00:10:26.880><c> inside</c><00:10:27.200><c> of</c><00:10:27.399><c> my</c><00:10:27.720><c> home</c><00:10:28.000><c> directory</c>
+
+00:10:28.590 --> 00:10:28.600 align:start position:0%
+shows that inside of my home directory
+ 
+
+00:10:28.600 --> 00:10:30.150 align:start position:0%
+shows that inside of my home directory
+this<00:10:28.680><c> is</c><00:10:28.800><c> somewhat</c><00:10:29.320><c> confusing</c><00:10:29.760><c> people</c><00:10:29.959><c> think</c>
+
+00:10:30.150 --> 00:10:30.160 align:start position:0%
+this is somewhat confusing people think
+ 
+
+00:10:30.160 --> 00:10:31.870 align:start position:0%
+this is somewhat confusing people think
+they<00:10:30.279><c> have</c><00:10:30.399><c> to</c><00:10:30.519><c> change</c><00:10:30.760><c> stuff</c><00:10:31.000><c> in</c><00:10:31.120><c> Etsy</c><00:10:31.519><c> local</c>
+
+00:10:31.870 --> 00:10:31.880 align:start position:0%
+they have to change stuff in Etsy local
+ 
+
+00:10:31.880 --> 00:10:33.590 align:start position:0%
+they have to change stuff in Etsy local
+and<00:10:32.120><c> places</c><00:10:32.440><c> we'll</c><00:10:32.600><c> talk</c><00:10:32.760><c> about</c><00:10:32.920><c> that</c><00:10:33.040><c> in</c><00:10:33.120><c> a</c>
+
+00:10:33.590 --> 00:10:33.600 align:start position:0%
+and places we'll talk about that in a
+ 
+
+00:10:33.600 --> 00:10:38.150 align:start position:0%
+and places we'll talk about that in a
+second<00:10:34.600><c> um</c><00:10:35.399><c> and</c><00:10:35.680><c> you</c><00:10:35.959><c> home</c><00:10:36.200><c> arix</c><00:10:36.760><c> rob.</c><00:10:37.399><c> VM</c>
+
+00:10:38.150 --> 00:10:38.160 align:start position:0%
+second um and you home arix rob. VM
+ 
+
+00:10:38.160 --> 00:10:42.269 align:start position:0%
+second um and you home arix rob. VM
+autol<00:10:38.720><c> vm.</c><00:10:39.560><c> plug.</c><00:10:40.240><c> VM</c><00:10:41.240><c> and</c><00:10:41.560><c> what</c><00:10:41.720><c> this</c><00:10:41.880><c> is</c><00:10:42.079><c> is</c>
+
+00:10:42.269 --> 00:10:42.279 align:start position:0%
+autol vm. plug. VM and what this is is
+ 
+
+00:10:42.279 --> 00:10:44.069 align:start position:0%
+autol vm. plug. VM and what this is is
+this<00:10:42.399><c> is</c><00:10:42.560><c> lo</c><00:10:42.880><c> the</c><00:10:43.000><c> only</c><00:10:43.200><c> plug-in</c><00:10:43.519><c> manager</c><00:10:43.920><c> that</c>
+
+00:10:44.069 --> 00:10:44.079 align:start position:0%
+this is lo the only plug-in manager that
+ 
+
+00:10:44.079 --> 00:10:46.389 align:start position:0%
+this is lo the only plug-in manager that
+matters<00:10:44.880><c> as</c><00:10:45.000><c> far</c><00:10:45.120><c> as</c><00:10:45.279><c> I'm</c><00:10:45.440><c> concerned</c><00:10:45.880><c> for</c><00:10:46.160><c> for</c>
+
+00:10:46.389 --> 00:10:46.399 align:start position:0%
+matters as far as I'm concerned for for
+ 
+
+00:10:46.399 --> 00:10:48.910 align:start position:0%
+matters as far as I'm concerned for for
+Vim<00:10:47.160><c> we</c><00:10:47.240><c> will</c><00:10:47.399><c> do</c><00:10:47.560><c> a</c><00:10:47.720><c> separate</c><00:10:48.079><c> video</c><00:10:48.440><c> on</c><00:10:48.680><c> the</c>
+
+00:10:48.910 --> 00:10:48.920 align:start position:0%
+Vim we will do a separate video on the
+ 
+
+00:10:48.920 --> 00:10:51.190 align:start position:0%
+Vim we will do a separate video on the
+why<00:10:49.120><c> you</c><00:10:49.279><c> should</c><00:10:49.480><c> use</c><00:10:49.720><c> plug</c><00:10:50.639><c> as</c><00:10:50.760><c> your</c><00:10:50.920><c> plug-in</c>
+
+00:10:51.190 --> 00:10:51.200 align:start position:0%
+why you should use plug as your plug-in
+ 
+
+00:10:51.200 --> 00:10:53.430 align:start position:0%
+why you should use plug as your plug-in
+manager<00:10:51.600><c> and</c><00:10:51.800><c> why</c><00:10:51.959><c> you</c><00:10:52.120><c> should</c><00:10:52.360><c> not</c><00:10:52.720><c> overly</c>
+
+00:10:53.430 --> 00:10:53.440 align:start position:0%
+manager and why you should not overly
+ 
+
+00:10:53.440 --> 00:10:56.550 align:start position:0%
+manager and why you should not overly
+populate<00:10:54.000><c> stuff</c><00:10:54.240><c> in</c><00:10:54.360><c> your</c><00:10:54.519><c> plug</c><00:10:55.279><c> directory</c><00:10:56.279><c> um</c>
+
+00:10:56.550 --> 00:10:56.560 align:start position:0%
+populate stuff in your plug directory um
+ 
+
+00:10:56.560 --> 00:10:57.990 align:start position:0%
+populate stuff in your plug directory um
+and<00:10:56.720><c> as</c><00:10:56.839><c> you</c><00:10:56.959><c> can</c><00:10:57.040><c> see</c><00:10:57.200><c> in</c>
+
+00:10:57.990 --> 00:10:58.000 align:start position:0%
+and as you can see in
+ 
+
+00:10:58.000 --> 00:11:00.670 align:start position:0%
+and as you can see in
+vmrc<00:10:59.000><c> um</c><00:10:59.440><c> here</c><00:10:59.600><c> I'll</c><00:10:59.760><c> go</c><00:10:59.920><c> find</c><00:11:00.120><c> it</c><00:11:00.279><c> there's</c><00:11:00.519><c> the</c>
+
+00:11:00.670 --> 00:11:00.680 align:start position:0%
+vmrc um here I'll go find it there's the
+ 
+
+00:11:00.680 --> 00:11:01.750 align:start position:0%
+vmrc um here I'll go find it there's the
+plug
+
+00:11:01.750 --> 00:11:01.760 align:start position:0%
+plug
+ 
+
+00:11:01.760 --> 00:11:05.190 align:start position:0%
+plug
+stuff<00:11:02.760><c> um</c><00:11:03.440><c> if</c><00:11:03.639><c> plug</c><00:11:03.880><c> is</c><00:11:04.040><c> detected</c><00:11:04.639><c> then</c><00:11:04.880><c> load</c>
+
+00:11:05.190 --> 00:11:05.200 align:start position:0%
+stuff um if plug is detected then load
+ 
+
+00:11:05.200 --> 00:11:08.030 align:start position:0%
+stuff um if plug is detected then load
+the<00:11:05.760><c> plugins</c><00:11:06.760><c> uh</c><00:11:07.040><c> again</c><00:11:07.360><c> another</c><00:11:07.600><c> video</c><00:11:07.880><c> goes</c>
+
+00:11:08.030 --> 00:11:08.040 align:start position:0%
+the plugins uh again another video goes
+ 
+
+00:11:08.040 --> 00:11:10.509 align:start position:0%
+the plugins uh again another video goes
+over<00:11:08.279><c> that</c><00:11:08.440><c> but</c><00:11:08.519><c> there's</c><00:11:08.720><c> the</c><00:11:08.839><c> use</c><00:11:09.000><c> of</c><00:11:09.519><c> plug</c>
+
+00:11:10.509 --> 00:11:10.519 align:start position:0%
+over that but there's the use of plug
+ 
+
+00:11:10.519 --> 00:11:12.949 align:start position:0%
+over that but there's the use of plug
+and<00:11:11.279><c> that</c><00:11:11.519><c> H</c><00:11:11.720><c> that's</c><00:11:11.959><c> the</c><00:11:12.120><c> only</c><00:11:12.519><c> thing</c><00:11:12.760><c> that</c>
+
+00:11:12.949 --> 00:11:12.959 align:start position:0%
+and that H that's the only thing that
+ 
+
+00:11:12.959 --> 00:11:13.949 align:start position:0%
+and that H that's the only thing that
+has<00:11:13.079><c> to</c><00:11:13.200><c> be</c>
+
+00:11:13.949 --> 00:11:13.959 align:start position:0%
+has to be
+ 
+
+00:11:13.959 --> 00:11:17.430 align:start position:0%
+has to be
+pre-populated<00:11:14.959><c> uh</c><00:11:15.120><c> besides</c><00:11:15.600><c> your</c><00:11:15.800><c> vmrc</c><00:11:16.519><c> file</c>
+
+00:11:17.430 --> 00:11:17.440 align:start position:0%
+pre-populated uh besides your vmrc file
+ 
+
+00:11:17.440 --> 00:11:20.269 align:start position:0%
+pre-populated uh besides your vmrc file
+and<00:11:17.760><c> by</c><00:11:17.920><c> the</c><00:11:18.000><c> way</c><00:11:18.360><c> let's</c><00:11:18.560><c> look</c><00:11:18.720><c> at</c><00:11:18.920><c> the</c><00:11:19.279><c> vimrc</c>
+
+00:11:20.269 --> 00:11:20.279 align:start position:0%
+and by the way let's look at the vimrc
+ 
+
+00:11:20.279 --> 00:11:23.629 align:start position:0%
+and by the way let's look at the vimrc
+file<00:11:20.880><c> again</c><00:11:21.440><c> here</c><00:11:22.440><c> uh</c>
+
+00:11:23.629 --> 00:11:23.639 align:start position:0%
+file again here uh
+ 
+
+00:11:23.639 --> 00:11:26.430 align:start position:0%
+file again here uh
+vmrc<00:11:24.639><c> and</c><00:11:24.880><c> you'll</c><00:11:25.160><c> see</c><00:11:25.519><c> that</c><00:11:25.680><c> it</c><00:11:25.839><c> is</c><00:11:26.120><c> now</c>
+
+00:11:26.430 --> 00:11:26.440 align:start position:0%
+vmrc and you'll see that it is now
+ 
+
+00:11:26.440 --> 00:11:30.150 align:start position:0%
+vmrc and you'll see that it is now
+symbolically<00:11:26.959><c> linked</c><00:11:27.959><c> to</c><00:11:28.720><c> this</c><00:11:28.880><c> rep</c><00:11:29.440><c> here</c><00:11:30.079><c> the</c>
+
+00:11:30.150 --> 00:11:30.160 align:start position:0%
+symbolically linked to this rep here the
+ 
+
+00:11:30.160 --> 00:11:31.790 align:start position:0%
+symbolically linked to this rep here the
+thing<00:11:30.320><c> that's</c><00:11:30.519><c> great</c><00:11:30.760><c> about</c><00:11:31.079><c> that</c><00:11:31.360><c> is</c><00:11:31.519><c> that</c><00:11:31.680><c> if</c>
+
+00:11:31.790 --> 00:11:31.800 align:start position:0%
+thing that's great about that is that if
+ 
+
+00:11:31.800 --> 00:11:34.790 align:start position:0%
+thing that's great about that is that if
+you<00:11:31.959><c> make</c><00:11:32.120><c> a</c><00:11:32.360><c> change</c><00:11:33.279><c> whether</c><00:11:33.480><c> you</c><00:11:33.720><c> edit</c><00:11:34.000><c> it</c><00:11:34.399><c> by</c>
+
+00:11:34.790 --> 00:11:34.800 align:start position:0%
+you make a change whether you edit it by
+ 
+
+00:11:34.800 --> 00:11:36.590 align:start position:0%
+you make a change whether you edit it by
+going<00:11:35.120><c> to</c>
+
+00:11:36.590 --> 00:11:36.600 align:start position:0%
+going to
+ 
+
+00:11:36.600 --> 00:11:39.829 align:start position:0%
+going to
+vmrc<00:11:37.600><c> uh</c><00:11:38.120><c> like</c><00:11:38.440><c> this</c><00:11:39.240><c> so</c><00:11:39.440><c> you</c><00:11:39.560><c> just</c><00:11:39.639><c> want</c><00:11:39.760><c> to</c>
+
+00:11:39.829 --> 00:11:39.839 align:start position:0%
+vmrc uh like this so you just want to
+ 
+
+00:11:39.839 --> 00:11:43.069 align:start position:0%
+vmrc uh like this so you just want to
+make<00:11:39.959><c> a</c><00:11:40.120><c> temporary</c><00:11:40.560><c> change</c><00:11:41.600><c> or</c><00:11:42.600><c> you</c><00:11:42.760><c> want</c><00:11:42.880><c> to</c>
+
+00:11:43.069 --> 00:11:43.079 align:start position:0%
+make a temporary change or you want to
+ 
+
+00:11:43.079 --> 00:11:47.190 align:start position:0%
+make a temporary change or you want to
+edit<00:11:43.360><c> it</c><00:11:43.560><c> in</c><00:11:43.800><c> its</c><00:11:44.120><c> location</c><00:11:45.160><c> here</c><00:11:46.160><c> um</c><00:11:46.800><c> you</c><00:11:46.920><c> know</c>
+
+00:11:47.190 --> 00:11:47.200 align:start position:0%
+edit it in its location here um you know
+ 
+
+00:11:47.200 --> 00:11:49.230 align:start position:0%
+edit it in its location here um you know
+you<00:11:47.320><c> can</c><00:11:47.519><c> do</c><00:11:47.760><c> that</c><00:11:48.000><c> you</c><00:11:48.079><c> can</c><00:11:48.279><c> go</c><00:11:48.399><c> ahead</c><00:11:48.680><c> and</c><00:11:48.959><c> and</c>
+
+00:11:49.230 --> 00:11:49.240 align:start position:0%
+you can do that you can go ahead and and
+ 
+
+00:11:49.240 --> 00:11:52.310 align:start position:0%
+you can do that you can go ahead and and
+and<00:11:49.440><c> add</c><00:11:49.839><c> that</c><00:11:50.839><c> um</c><00:11:51.399><c> as</c><00:11:51.519><c> you</c><00:11:51.600><c> can</c><00:11:51.760><c> see</c><00:11:52.079><c> I'm</c><00:11:52.200><c> going</c>
+
+00:11:52.310 --> 00:11:52.320 align:start position:0%
+and add that um as you can see I'm going
+ 
+
+00:11:52.320 --> 00:11:54.269 align:start position:0%
+and add that um as you can see I'm going
+to<00:11:52.440><c> have</c><00:11:52.560><c> to</c><00:11:52.680><c> make</c><00:11:52.880><c> some</c><00:11:53.279><c> get</c><00:11:53.440><c> changes</c><00:11:53.959><c> here</c>
+
+00:11:54.269 --> 00:11:54.279 align:start position:0%
+to have to make some get changes here
+ 
+
+00:11:54.279 --> 00:11:58.150 align:start position:0%
+to have to make some get changes here
+I'm<00:11:54.360><c> going</c><00:11:54.480><c> to</c><00:11:54.720><c> go</c><00:11:55.440><c> get</c><00:11:55.720><c> add.</c><00:11:56.440><c> Vim</c><00:11:57.440><c> you</c><00:11:57.560><c> can</c><00:11:57.800><c> tab</c>
+
+00:11:58.150 --> 00:11:58.160 align:start position:0%
+I'm going to go get add. Vim you can tab
+ 
+
+00:11:58.160 --> 00:12:00.350 align:start position:0%
+I'm going to go get add. Vim you can tab
+complete
+
+00:12:00.350 --> 00:12:00.360 align:start position:0%
+complete
+ 
+
+00:12:00.360 --> 00:12:04.230 align:start position:0%
+complete
+RC<00:12:01.440><c> um</c><00:12:02.440><c> git</c><00:12:02.800><c> status</c><00:12:03.320><c> we're</c><00:12:03.440><c> going</c><00:12:03.560><c> to</c><00:12:03.720><c> do</c><00:12:04.079><c> a</c>
+
+00:12:04.230 --> 00:12:04.240 align:start position:0%
+RC um git status we're going to do a
+ 
+
+00:12:04.240 --> 00:12:08.750 align:start position:0%
+RC um git status we're going to do a
+video<00:12:04.519><c> on</c><00:12:04.720><c> git</c><00:12:05.000><c> as</c><00:12:05.160><c> well</c><00:12:05.720><c> of</c><00:12:06.320><c> course</c><00:12:07.600><c> um</c><00:12:08.600><c> I</c>
+
+00:12:08.750 --> 00:12:08.760 align:start position:0%
+video on git as well of course um I
+ 
+
+00:12:08.760 --> 00:12:10.430 align:start position:0%
+video on git as well of course um I
+probably<00:12:08.959><c> have</c><00:12:09.160><c> several</c><00:12:09.720><c> and</c><00:12:09.880><c> then</c><00:12:10.160><c> we</c><00:12:10.279><c> need</c>
+
+00:12:10.430 --> 00:12:10.440 align:start position:0%
+probably have several and then we need
+ 
+
+00:12:10.440 --> 00:12:14.030 align:start position:0%
+probably have several and then we need
+to<00:12:10.639><c> add</c><00:12:10.839><c> the</c><00:12:10.959><c> new</c><00:12:11.240><c> files</c><00:12:11.680><c> so</c><00:12:11.959><c> get</c><00:12:12.240><c> add</c><00:12:12.959><c> plug</c>
+
+00:12:14.030 --> 00:12:14.040 align:start position:0%
+to add the new files so get add plug
+ 
+
+00:12:14.040 --> 00:12:18.269 align:start position:0%
+to add the new files so get add plug
+them<00:12:15.040><c> uh</c><00:12:15.320><c> get</c><00:12:15.600><c> add</c><00:12:16.480><c> memy</c><00:12:17.480><c> get</c>
+
+00:12:18.269 --> 00:12:18.279 align:start position:0%
+them uh get add memy get
+ 
+
+00:12:18.279 --> 00:12:20.949 align:start position:0%
+them uh get add memy get
+status<00:12:19.279><c> okay</c><00:12:19.480><c> so</c><00:12:19.880><c> I</c><00:12:20.000><c> did</c><00:12:20.199><c> update</c><00:12:20.519><c> the</c><00:12:20.639><c> setup</c>
+
+00:12:20.949 --> 00:12:20.959 align:start position:0%
+status okay so I did update the setup
+ 
+
+00:12:20.959 --> 00:12:23.470 align:start position:0%
+status okay so I did update the setup
+script<00:12:21.320><c> so</c><00:12:21.600><c> get</c><00:12:21.839><c> add</c><00:12:22.279><c> setup</c><00:12:22.680><c> the</c><00:12:22.760><c> GPT</c><00:12:23.240><c> change</c>
+
+00:12:23.470 --> 00:12:23.480 align:start position:0%
+script so get add setup the GPT change
+ 
+
+00:12:23.480 --> 00:12:25.949 align:start position:0%
+script so get add setup the GPT change
+is<00:12:23.600><c> a</c><00:12:23.760><c> different</c><00:12:24.120><c> thing</c><00:12:24.800><c> I</c><00:12:24.920><c> made</c><00:12:25.199><c> that</c><00:12:25.720><c> some</c>
+
+00:12:25.949 --> 00:12:25.959 align:start position:0%
+is a different thing I made that some
+ 
+
+00:12:25.959 --> 00:12:27.910 align:start position:0%
+is a different thing I made that some
+time<00:12:26.160><c> ago</c><00:12:26.360><c> so</c><00:12:26.480><c> that's</c><00:12:26.600><c> a</c><00:12:26.720><c> different</c><00:12:26.959><c> commit</c>
+
+00:12:27.910 --> 00:12:27.920 align:start position:0%
+time ago so that's a different commit
+ 
+
+00:12:27.920 --> 00:12:31.949 align:start position:0%
+time ago so that's a different commit
+get<00:12:28.199><c> status</c><00:12:29.240><c> all</c><00:12:29.360><c> right</c><00:12:29.480><c> so</c><00:12:29.680><c> get</c><00:12:30.199><c> commit</c>
+
+00:12:31.949 --> 00:12:31.959 align:start position:0%
+get status all right so get commit
+ 
+
+00:12:31.959 --> 00:12:33.470 align:start position:0%
+get status all right so get commit
+um
+
+00:12:33.470 --> 00:12:33.480 align:start position:0%
+um
+ 
+
+00:12:33.480 --> 00:12:36.949 align:start position:0%
+um
+uh<00:12:34.480><c> uh</c><00:12:34.760><c> DM</c>
+
+00:12:36.949 --> 00:12:36.959 align:start position:0%
+uh uh DM
+ 
+
+00:12:36.959 --> 00:12:40.189 align:start position:0%
+uh uh DM
+move<00:12:37.959><c> uh</c><00:12:38.320><c> let's</c><00:12:38.480><c> see</c>
+
+00:12:40.189 --> 00:12:40.199 align:start position:0%
+move uh let's see
+ 
+
+00:12:40.199 --> 00:12:44.870 align:start position:0%
+move uh let's see
+make<00:12:41.199><c> uh</c><00:12:41.480><c> them</c><00:12:42.199><c> stuff</c><00:12:42.959><c> easier</c><00:12:43.600><c> to</c>
+
+00:12:44.870 --> 00:12:44.880 align:start position:0%
+make uh them stuff easier to
+ 
+
+00:12:44.880 --> 00:12:48.189 align:start position:0%
+make uh them stuff easier to
+find<00:12:45.880><c> and</c><00:12:46.040><c> then</c><00:12:46.240><c> get</c><00:12:46.600><c> push</c><00:12:47.600><c> and</c><00:12:47.760><c> that'll</c><00:12:48.040><c> push</c>
+
+00:12:48.189 --> 00:12:48.199 align:start position:0%
+find and then get push and that'll push
+ 
+
+00:12:48.199 --> 00:12:50.269 align:start position:0%
+find and then get push and that'll push
+it<00:12:48.320><c> up</c><00:12:48.440><c> to</c><00:12:48.600><c> my</c><00:12:48.760><c> DOT</c><00:12:49.000><c> piles</c><00:12:49.360><c> I</c><00:12:49.440><c> am</c><00:12:49.680><c> editing</c><00:12:50.120><c> on</c>
+
+00:12:50.269 --> 00:12:50.279 align:start position:0%
+it up to my DOT piles I am editing on
+ 
+
+00:12:50.279 --> 00:12:52.590 align:start position:0%
+it up to my DOT piles I am editing on
+the<00:12:50.399><c> main</c><00:12:50.680><c> tree</c><00:12:51.279><c> because</c><00:12:51.519><c> it's</c><00:12:51.680><c> my</c><00:12:51.880><c> DOT</c><00:12:52.199><c> piles</c>
+
+00:12:52.590 --> 00:12:52.600 align:start position:0%
+the main tree because it's my DOT piles
+ 
+
+00:12:52.600 --> 00:12:55.350 align:start position:0%
+the main tree because it's my DOT piles
+otherwise<00:12:52.920><c> I</c><00:12:53.000><c> would</c><00:12:53.199><c> normally</c><00:12:53.600><c> not</c><00:12:53.800><c> do</c><00:12:54.000><c> that</c>
+
+00:12:55.350 --> 00:12:55.360 align:start position:0%
+otherwise I would normally not do that
+ 
+
+00:12:55.360 --> 00:12:58.269 align:start position:0%
+otherwise I would normally not do that
+status<00:12:56.360><c> uh</c><00:12:56.480><c> I'm</c><00:12:56.560><c> going</c><00:12:56.680><c> to</c><00:12:56.839><c> go</c><00:12:56.959><c> ahead</c><00:12:57.199><c> and</c><00:12:57.600><c> add</c>
+
+00:12:58.269 --> 00:12:58.279 align:start position:0%
+status uh I'm going to go ahead and add
+ 
+
+00:12:58.279 --> 00:12:59.750 align:start position:0%
+status uh I'm going to go ahead and add
+this<00:12:58.480><c> other</c><00:12:58.720><c> thing</c><00:12:58.920><c> that</c><00:12:59.199><c> I</c><00:12:59.279><c> forgot</c><00:12:59.519><c> to</c><00:12:59.600><c> add</c>
+
+00:12:59.750 --> 00:12:59.760 align:start position:0%
+this other thing that I forgot to add
+ 
+
+00:12:59.760 --> 00:13:01.030 align:start position:0%
+this other thing that I forgot to add
+the<00:12:59.839><c> other</c><00:13:00.000><c> day</c><00:13:00.199><c> my</c><00:13:00.320><c> chat</c>
+
+00:13:01.030 --> 00:13:01.040 align:start position:0%
+the other day my chat
+ 
+
+00:13:01.040 --> 00:13:06.350 align:start position:0%
+the other day my chat
+GPT<00:13:02.040><c> and</c><00:13:02.199><c> we</c><00:13:02.320><c> could</c><00:13:02.519><c> say</c><00:13:03.040><c> get</c><00:13:03.560><c> commit</c><00:13:04.560><c> uh</c><00:13:05.360><c> add</c>
+
+00:13:06.350 --> 00:13:06.360 align:start position:0%
+GPT and we could say get commit uh add
+ 
+
+00:13:06.360 --> 00:13:08.870 align:start position:0%
+GPT and we could say get commit uh add
+uh<00:13:06.560><c> scripts</c><00:13:07.560><c> uh</c>
+
+00:13:08.870 --> 00:13:08.880 align:start position:0%
+uh scripts uh
+ 
+
+00:13:08.880 --> 00:13:12.310 align:start position:0%
+uh scripts uh
+GPT<00:13:09.880><c> get</c><00:13:10.519><c> push</c><00:13:11.519><c> let</c><00:13:11.639><c> me</c><00:13:11.800><c> make</c><00:13:11.920><c> sure</c><00:13:12.120><c> there's</c>
+
+00:13:12.310 --> 00:13:12.320 align:start position:0%
+GPT get push let me make sure there's
+ 
+
+00:13:12.320 --> 00:13:14.550 align:start position:0%
+GPT get push let me make sure there's
+nothing<00:13:12.560><c> in</c><00:13:12.880><c> there</c><00:13:13.880><c> I</c><00:13:13.959><c> don't</c><00:13:14.120><c> think</c><00:13:14.279><c> there's</c><00:13:14.440><c> a</c>
+
+00:13:14.550 --> 00:13:14.560 align:start position:0%
+nothing in there I don't think there's a
+ 
+
+00:13:14.560 --> 00:13:19.509 align:start position:0%
+nothing in there I don't think there's a
+token<00:13:14.839><c> in</c><00:13:14.959><c> there</c><00:13:15.519><c> nope</c><00:13:16.519><c> okay</c><00:13:17.000><c> so</c><00:13:18.000><c> uh</c><00:13:18.199><c> get</c>
+
+00:13:19.509 --> 00:13:19.519 align:start position:0%
+token in there nope okay so uh get
+ 
+
+00:13:19.519 --> 00:13:23.189 align:start position:0%
+token in there nope okay so uh get
+push<00:13:20.519><c> and</c><00:13:21.360><c> really</c><00:13:21.760><c> that's</c><00:13:22.000><c> it</c><00:13:22.320><c> my</c><00:13:22.519><c> friends</c>
+
+00:13:23.189 --> 00:13:23.199 align:start position:0%
+push and really that's it my friends
+ 
+
+00:13:23.199 --> 00:13:26.110 align:start position:0%
+push and really that's it my friends
+I'll<00:13:23.360><c> put</c><00:13:23.480><c> the</c><00:13:23.600><c> fishies</c><00:13:24.480><c> on</c><00:13:25.480><c> that's</c><00:13:25.680><c> all</c>
+
+00:13:26.110 --> 00:13:26.120 align:start position:0%
+I'll put the fishies on that's all
+ 
+
+00:13:26.120 --> 00:13:29.389 align:start position:0%
+I'll put the fishies on that's all
+that's<00:13:26.320><c> all</c><00:13:26.639><c> there</c><00:13:27.079><c> there</c><00:13:27.600><c> are</c><00:13:28.600><c> essentially</c>
+
+00:13:29.389 --> 00:13:29.399 align:start position:0%
+that's all there there are essentially
+ 
+
+00:13:29.399 --> 00:13:32.110 align:start position:0%
+that's all there there are essentially
+two<00:13:29.720><c> files</c><00:13:30.320><c> that</c><00:13:30.440><c> need</c><00:13:30.639><c> to</c><00:13:30.760><c> be</c><00:13:31.000><c> added</c><00:13:31.959><c> the</c>
+
+00:13:32.110 --> 00:13:32.120 align:start position:0%
+two files that need to be added the
+ 
+
+00:13:32.120 --> 00:13:37.990 align:start position:0%
+two files that need to be added the
+vimrc<00:13:33.160><c> file</c><00:13:34.160><c> um</c><00:13:34.680><c> and</c><00:13:35.360><c> the</c><00:13:36.279><c> Vim</c><00:13:36.720><c> the</c><00:13:36.880><c> plug.</c><00:13:37.600><c> VM</c>
+
+00:13:37.990 --> 00:13:38.000 align:start position:0%
+vimrc file um and the Vim the plug. VM
+ 
+
+00:13:38.000 --> 00:13:40.389 align:start position:0%
+vimrc file um and the Vim the plug. VM
+file<00:13:38.560><c> which</c><00:13:38.760><c> goes</c><00:13:39.079><c> in</c><00:13:39.240><c> your</c><00:13:39.600><c> autoload</c>
+
+00:13:40.389 --> 00:13:40.399 align:start position:0%
+file which goes in your autoload
+ 
+
+00:13:40.399 --> 00:13:43.389 align:start position:0%
+file which goes in your autoload
+directory<00:13:40.839><c> under</c><00:13:41.600><c> VM</c><00:13:42.600><c> those</c><00:13:42.839><c> two</c><00:13:43.079><c> things</c>
+
+00:13:43.389 --> 00:13:43.399 align:start position:0%
+directory under VM those two things
+ 
+
+00:13:43.399 --> 00:13:44.790 align:start position:0%
+directory under VM those two things
+those<00:13:43.519><c> are</c><00:13:43.639><c> the</c><00:13:43.720><c> only</c><00:13:43.920><c> two</c><00:13:44.079><c> files</c><00:13:44.360><c> you</c><00:13:44.480><c> need</c><00:13:44.639><c> to</c>
+
+00:13:44.790 --> 00:13:44.800 align:start position:0%
+those are the only two files you need to
+ 
+
+00:13:44.800 --> 00:13:48.590 align:start position:0%
+those are the only two files you need to
+get<00:13:44.959><c> going</c><00:13:45.959><c> and</c><00:13:46.079><c> then</c><00:13:46.360><c> once</c><00:13:46.600><c> you</c><00:13:46.920><c> start</c><00:13:47.440><c> up</c><00:13:48.320><c> uh</c>
+
+00:13:48.590 --> 00:13:48.600 align:start position:0%
+get going and then once you start up uh
+ 
+
+00:13:48.600 --> 00:13:51.590 align:start position:0%
+get going and then once you start up uh
+them<00:13:49.519><c> you'll</c><00:13:49.760><c> be</c><00:13:50.160><c> it'll</c><00:13:50.560><c> initialize</c><00:13:51.240><c> plug</c><00:13:51.480><c> and</c>
+
+00:13:51.590 --> 00:13:51.600 align:start position:0%
+them you'll be it'll initialize plug and
+ 
+
+00:13:51.600 --> 00:13:53.069 align:start position:0%
+them you'll be it'll initialize plug and
+you<00:13:51.720><c> can</c><00:13:51.920><c> actually</c><00:13:52.199><c> get</c><00:13:52.360><c> it</c><00:13:52.480><c> to</c><00:13:52.639><c> download</c><00:13:52.959><c> the</c>
+
+00:13:53.069 --> 00:13:53.079 align:start position:0%
+you can actually get it to download the
+ 
+
+00:13:53.079 --> 00:13:54.629 align:start position:0%
+you can actually get it to download the
+plugins<00:13:53.440><c> that's</c><00:13:53.600><c> a</c><00:13:53.720><c> separate</c><00:13:54.040><c> video</c><00:13:54.440><c> we'll</c>
+
+00:13:54.629 --> 00:13:54.639 align:start position:0%
+plugins that's a separate video we'll
+ 
+
+00:13:54.639 --> 00:13:58.189 align:start position:0%
+plugins that's a separate video we'll
+talk<00:13:54.839><c> about</c><00:13:55.240><c> how</c><00:13:55.480><c> to</c><00:13:55.759><c> get</c><00:13:56.639><c> all</c><00:13:56.959><c> of</c><00:13:57.240><c> the</c><00:13:57.440><c> plugins</c>
+
+00:13:58.189 --> 00:13:58.199 align:start position:0%
+talk about how to get all of the plugins
+ 
+
+00:13:58.199 --> 00:13:59.710 align:start position:0%
+talk about how to get all of the plugins
+and<00:13:58.480><c> to</c>
+
+00:13:59.710 --> 00:13:59.720 align:start position:0%
+and to
+ 
+
+00:13:59.720 --> 00:14:01.629 align:start position:0%
+and to
+uh<00:13:59.959><c> use</c><00:14:00.279><c> them</c><00:14:00.600><c> and</c><00:14:00.759><c> what</c><00:14:00.880><c> they're</c><00:14:01.079><c> for</c><00:14:01.519><c> that's</c>
+
+00:14:01.629 --> 00:14:01.639 align:start position:0%
+uh use them and what they're for that's
+ 
+
+00:14:01.639 --> 00:14:03.910 align:start position:0%
+uh use them and what they're for that's
+a<00:14:01.920><c> totally</c><00:14:02.240><c> separate</c><00:14:02.560><c> video</c><00:14:02.959><c> so</c><00:14:03.480><c> just</c><00:14:03.759><c> those</c>
+
+00:14:03.910 --> 00:14:03.920 align:start position:0%
+a totally separate video so just those
+ 
+
+00:14:03.920 --> 00:14:06.189 align:start position:0%
+a totally separate video so just those
+two<00:14:04.120><c> files</c><00:14:04.680><c> and</c><00:14:05.040><c> make</c><00:14:05.199><c> sure</c><00:14:05.399><c> you</c><00:14:05.720><c> keep</c><00:14:05.959><c> track</c>
+
+00:14:06.189 --> 00:14:06.199 align:start position:0%
+two files and make sure you keep track
+ 
+
+00:14:06.199 --> 00:14:07.550 align:start position:0%
+two files and make sure you keep track
+of<00:14:06.440><c> those</c><00:14:06.759><c> because</c><00:14:07.079><c> you're</c><00:14:07.240><c> going</c><00:14:07.360><c> to</c>
+
+00:14:07.550 --> 00:14:07.560 align:start position:0%
+of those because you're going to
+ 
+
+00:14:07.560 --> 00:14:09.350 align:start position:0%
+of those because you're going to
+definitely<00:14:07.880><c> want</c><00:14:08.000><c> to</c><00:14:08.160><c> recreate</c><00:14:08.720><c> that</c><00:14:08.920><c> later</c>
+
+00:14:09.350 --> 00:14:09.360 align:start position:0%
+definitely want to recreate that later
+ 
+
+00:14:09.360 --> 00:14:13.959 align:start position:0%
+definitely want to recreate that later
+so<00:14:10.120><c> consider</c><00:14:10.519><c> adop</c><00:14:10.959><c> files</c>
+

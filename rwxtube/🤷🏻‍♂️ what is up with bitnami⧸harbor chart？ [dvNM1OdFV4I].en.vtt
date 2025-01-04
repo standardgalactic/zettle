@@ -1,0 +1,792 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.439 --> 00:00:06.470 align:start position:0%
+ 
+all<00:00:01.919><c> right</c><00:00:02.919><c> we</c><00:00:03.319><c> found</c><00:00:04.319><c> a</c><00:00:04.520><c> bigger</c><00:00:05.080><c> problem</c><00:00:06.080><c> and</c>
+
+00:00:06.470 --> 00:00:06.480 align:start position:0%
+all right we found a bigger problem and
+ 
+
+00:00:06.480 --> 00:00:07.749 align:start position:0%
+all right we found a bigger problem and
+I'm<00:00:06.640><c> just</c><00:00:06.799><c> going</c><00:00:06.879><c> to</c><00:00:07.000><c> show</c><00:00:07.279><c> it</c><00:00:07.480><c> because</c><00:00:07.640><c> it's</c>
+
+00:00:07.749 --> 00:00:07.759 align:start position:0%
+I'm just going to show it because it's
+ 
+
+00:00:07.759 --> 00:00:10.190 align:start position:0%
+I'm just going to show it because it's
+going<00:00:07.839><c> to</c><00:00:08.000><c> be</c><00:00:08.160><c> very</c><00:00:08.360><c> smart</c><00:00:08.800><c> I</c><00:00:09.040><c> I</c><00:00:09.160><c> think</c><00:00:09.400><c> this</c><00:00:09.519><c> is</c>
+
+00:00:10.190 --> 00:00:10.200 align:start position:0%
+going to be very smart I I think this is
+ 
+
+00:00:10.200 --> 00:00:11.589 align:start position:0%
+going to be very smart I I think this is
+one<00:00:10.360><c> of</c><00:00:10.480><c> the</c><00:00:10.599><c> main</c><00:00:10.880><c> reasons</c><00:00:11.200><c> that</c><00:00:11.360><c> I</c><00:00:11.480><c> don't</c>
+
+00:00:11.589 --> 00:00:11.599 align:start position:0%
+one of the main reasons that I don't
+ 
+
+00:00:11.599 --> 00:00:12.430 align:start position:0%
+one of the main reasons that I don't
+like
+
+00:00:12.430 --> 00:00:12.440 align:start position:0%
+like
+ 
+
+00:00:12.440 --> 00:00:16.310 align:start position:0%
+like
+Elm<00:00:13.440><c> um</c><00:00:13.880><c> is</c><00:00:14.000><c> that</c><00:00:14.200><c> this</c><00:00:14.360><c> can</c><00:00:14.759><c> exist</c><00:00:15.759><c> so</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+Elm um is that this can exist so
+ 
+
+00:00:16.320 --> 00:00:19.070 align:start position:0%
+Elm um is that this can exist so
+postgress<00:00:17.320><c> version</c><00:00:17.840><c> 13</c><00:00:18.439><c> there's</c><00:00:18.640><c> a</c>
+
+00:00:19.070 --> 00:00:19.080 align:start position:0%
+postgress version 13 there's a
+ 
+
+00:00:19.080 --> 00:00:21.910 align:start position:0%
+postgress version 13 there's a
+dependency<00:00:20.080><c> not</c><00:00:20.279><c> only</c><00:00:20.640><c> here</c><00:00:21.119><c> but</c><00:00:21.320><c> also</c><00:00:21.640><c> in</c><00:00:21.760><c> the</c>
+
+00:00:21.910 --> 00:00:21.920 align:start position:0%
+dependency not only here but also in the
+ 
+
+00:00:21.920 --> 00:00:23.310 align:start position:0%
+dependency not only here but also in the
+default<00:00:22.279><c> value</c><00:00:22.600><c> spot</c><00:00:22.880><c> which</c><00:00:23.000><c> I've</c><00:00:23.119><c> talked</c>
+
+00:00:23.310 --> 00:00:23.320 align:start position:0%
+default value spot which I've talked
+ 
+
+00:00:23.320 --> 00:00:26.310 align:start position:0%
+default value spot which I've talked
+about<00:00:23.480><c> in</c><00:00:23.599><c> another</c><00:00:24.119><c> video</c><00:00:25.119><c> on</c><00:00:25.480><c> postgress</c>
+
+00:00:26.310 --> 00:00:26.320 align:start position:0%
+about in another video on postgress
+ 
+
+00:00:26.320 --> 00:00:29.990 align:start position:0%
+about in another video on postgress
+version<00:00:26.760><c> 13</c><00:00:27.359><c> that's</c><00:00:27.679><c> app</c><00:00:28.199><c> version</c><00:00:28.679><c> 13</c><00:00:29.439><c> the</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+version 13 that's app version 13 the
+ 
+
+00:00:30.000 --> 00:00:31.790 align:start position:0%
+version 13 that's app version 13 the
+postest<00:00:30.599><c> version</c>
+
+00:00:31.790 --> 00:00:31.800 align:start position:0%
+postest version
+ 
+
+00:00:31.800 --> 00:00:33.350 align:start position:0%
+postest version
+13.16
+
+00:00:33.350 --> 00:00:33.360 align:start position:0%
+13.16
+ 
+
+00:00:33.360 --> 00:00:35.069 align:start position:0%
+13.16
+okay
+
+00:00:35.069 --> 00:00:35.079 align:start position:0%
+okay
+ 
+
+00:00:35.079 --> 00:00:38.190 align:start position:0%
+okay
+and
+
+00:00:38.190 --> 00:00:38.200 align:start position:0%
+ 
+ 
+
+00:00:38.200 --> 00:00:43.670 align:start position:0%
+ 
+um<00:00:39.200><c> yeah</c><00:00:39.399><c> it</c><00:00:39.520><c> says</c><00:00:39.760><c> here</c><00:00:40.039><c> image</c><00:00:41.120><c> 13</c>
+
+00:00:43.670 --> 00:00:43.680 align:start position:0%
+um yeah it says here image 13
+ 
+
+00:00:43.680 --> 00:00:46.470 align:start position:0%
+um yeah it says here image 13
+right<00:00:44.680><c> so</c><00:00:45.039><c> and</c><00:00:45.200><c> and</c><00:00:45.520><c> again</c><00:00:45.760><c> the</c><00:00:45.879><c> values</c><00:00:46.199><c> file</c>
+
+00:00:46.470 --> 00:00:46.480 align:start position:0%
+right so and and again the values file
+ 
+
+00:00:46.480 --> 00:00:48.590 align:start position:0%
+right so and and again the values file
+is<00:00:46.600><c> hardcoded</c><00:00:47.079><c> to</c><00:00:47.199><c> the</c><00:00:47.320><c> Tagg</c><00:00:47.600><c> version</c><00:00:47.840><c> of</c><00:00:47.960><c> post</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+is hardcoded to the Tagg version of post
+ 
+
+00:00:48.600 --> 00:00:50.990 align:start position:0%
+is hardcoded to the Tagg version of post
+version<00:00:48.800><c> of</c><00:00:49.199><c> post</c><00:00:50.199><c> and</c><00:00:50.320><c> maybe</c><00:00:50.559><c> I'm</c><00:00:50.680><c> missing</c>
+
+00:00:50.990 --> 00:00:51.000 align:start position:0%
+version of post and maybe I'm missing
+ 
+
+00:00:51.000 --> 00:00:52.389 align:start position:0%
+version of post and maybe I'm missing
+something<00:00:51.239><c> so</c><00:00:51.360><c> I'm</c><00:00:51.480><c> making</c><00:00:51.680><c> a</c><00:00:51.800><c> video</c><00:00:52.039><c> about</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+something so I'm making a video about
+ 
+
+00:00:52.399 --> 00:00:55.189 align:start position:0%
+something so I'm making a video about
+this<00:00:53.399><c> yet</c><00:00:53.680><c> down</c><00:00:54.000><c> here</c><00:00:54.359><c> we</c><00:00:54.520><c> see</c><00:00:54.840><c> that</c><00:00:55.000><c> the</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+this yet down here we see that the
+ 
+
+00:00:55.199 --> 00:00:57.950 align:start position:0%
+this yet down here we see that the
+repository<00:00:55.960><c> dependency</c><00:00:56.960><c> this</c><00:00:57.079><c> is</c><00:00:57.399><c> this</c><00:00:57.559><c> is</c>
+
+00:00:57.950 --> 00:00:57.960 align:start position:0%
+repository dependency this is this is
+ 
+
+00:00:57.960 --> 00:01:00.549 align:start position:0%
+repository dependency this is this is
+this<00:00:58.079><c> is</c><00:00:58.239><c> how</c><00:00:58.440><c> Helm</c><00:00:58.719><c> does</c><00:00:58.960><c> sub</c><00:00:59.280><c> charts</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+this is how Helm does sub charts
+ 
+
+00:01:00.559 --> 00:01:02.509 align:start position:0%
+this is how Helm does sub charts
+um<00:01:00.760><c> which</c><00:01:00.879><c> I'm</c><00:01:01.039><c> not</c><00:01:01.199><c> very</c><00:01:01.519><c> strong</c><00:01:01.680><c> in</c><00:01:01.960><c> but</c><00:01:02.280><c> this</c>
+
+00:01:02.509 --> 00:01:02.519 align:start position:0%
+um which I'm not very strong in but this
+ 
+
+00:01:02.519 --> 00:01:05.630 align:start position:0%
+um which I'm not very strong in but this
+right<00:01:02.680><c> here</c><00:01:02.879><c> says</c><00:01:03.399><c> that</c><00:01:04.159><c> there</c><00:01:04.320><c> is</c><00:01:04.519><c> a</c><00:01:04.920><c> subchart</c>
+
+00:01:05.630 --> 00:01:05.640 align:start position:0%
+right here says that there is a subchart
+ 
+
+00:01:05.640 --> 00:01:09.749 align:start position:0%
+right here says that there is a subchart
+dependency<00:01:06.439><c> on</c><00:01:06.680><c> version</c><00:01:07.159><c> 15</c><00:01:08.119><c> x.x</c><00:01:09.119><c> of</c><00:01:09.320><c> the</c>
+
+00:01:09.749 --> 00:01:09.759 align:start position:0%
+dependency on version 15 x.x of the
+ 
+
+00:01:09.759 --> 00:01:13.630 align:start position:0%
+dependency on version 15 x.x of the
+chart<00:01:10.759><c> of</c><00:01:10.880><c> the</c><00:01:11.360><c> postgress</c><00:01:12.360><c> chart</c><00:01:12.840><c> the</c><00:01:13.000><c> bitnami</c>
+
+00:01:13.630 --> 00:01:13.640 align:start position:0%
+chart of the postgress chart the bitnami
+ 
+
+00:01:13.640 --> 00:01:15.310 align:start position:0%
+chart of the postgress chart the bitnami
+chart<00:01:14.360><c> for</c>
+
+00:01:15.310 --> 00:01:15.320 align:start position:0%
+chart for
+ 
+
+00:01:15.320 --> 00:01:19.350 align:start position:0%
+chart for
+postgress<00:01:16.520><c> right</c><00:01:17.520><c> and</c><00:01:17.720><c> and</c><00:01:17.880><c> if</c><00:01:18.000><c> we</c><00:01:18.200><c> go</c><00:01:18.439><c> to</c><00:01:19.200><c> um</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+postgress right and and if we go to um
+ 
+
+00:01:19.360 --> 00:01:21.830 align:start position:0%
+postgress right and and if we go to um
+we<00:01:19.479><c> use</c><00:01:19.720><c> the</c><00:01:19.840><c> tool</c><00:01:20.040><c> I</c><00:01:20.159><c> just</c><00:01:20.280><c> wrote</c><00:01:20.880><c> um</c><00:01:21.119><c> to</c><00:01:21.439><c> list</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+we use the tool I just wrote um to list
+ 
+
+00:01:21.840 --> 00:01:25.069 align:start position:0%
+we use the tool I just wrote um to list
+all<00:01:22.119><c> the</c><00:01:22.280><c> charts</c><00:01:22.640><c> for</c><00:01:22.880><c> a</c><00:01:23.200><c> given</c><00:01:24.079><c> version</c><00:01:24.759><c> of</c><00:01:24.880><c> an</c>
+
+00:01:25.069 --> 00:01:25.079 align:start position:0%
+all the charts for a given version of an
+ 
+
+00:01:25.079 --> 00:01:28.710 align:start position:0%
+all the charts for a given version of an
+app<00:01:25.320><c> app</c><00:01:25.759><c> version</c><00:01:26.759><c> we</c><00:01:26.880><c> can</c><00:01:27.040><c> see</c><00:01:27.520><c> that</c><00:01:28.439><c> the</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+app app version we can see that the
+ 
+
+00:01:28.720 --> 00:01:32.389 align:start position:0%
+app app version we can see that the
+charts<00:01:30.079><c> the</c><00:01:30.280><c> chart</c><00:01:30.720><c> versions</c><00:01:31.560><c> for</c><00:01:31.960><c> version</c>
+
+00:01:32.389 --> 00:01:32.399 align:start position:0%
+charts the chart versions for version
+ 
+
+00:01:32.399 --> 00:01:34.910 align:start position:0%
+charts the chart versions for version
+16.4<00:01:33.280><c> of</c><00:01:33.399><c> the</c><00:01:33.520><c> postrest</c>
+
+00:01:34.910 --> 00:01:34.920 align:start position:0%
+16.4 of the postrest
+ 
+
+00:01:34.920 --> 00:01:39.149 align:start position:0%
+16.4 of the postrest
+app<00:01:35.920><c> start</c><00:01:36.439><c> at</c><00:01:36.640><c> 15.5</c><00:01:37.520><c> so</c><00:01:37.720><c> 15.5</c><00:01:38.560><c> is</c><00:01:38.720><c> the</c><00:01:38.880><c> first</c>
+
+00:01:39.149 --> 00:01:39.159 align:start position:0%
+app start at 15.5 so 15.5 is the first
+ 
+
+00:01:39.159 --> 00:01:41.550 align:start position:0%
+app start at 15.5 so 15.5 is the first
+chart<00:01:39.479><c> so</c><00:01:39.759><c> what</c><00:01:39.880><c> we</c><00:01:40.000><c> can</c><00:01:40.240><c> derive</c><00:01:40.600><c> from</c><00:01:40.799><c> that</c><00:01:41.000><c> I</c>
+
+00:01:41.550 --> 00:01:41.560 align:start position:0%
+chart so what we can derive from that I
+ 
+
+00:01:41.560 --> 00:01:45.550 align:start position:0%
+chart so what we can derive from that I
+think<00:01:42.560><c> is</c><00:01:42.960><c> that</c><00:01:43.960><c> there</c><00:01:44.119><c> is</c><00:01:44.280><c> a</c><00:01:44.560><c> hardcoded</c>
+
+00:01:45.550 --> 00:01:45.560 align:start position:0%
+think is that there is a hardcoded
+ 
+
+00:01:45.560 --> 00:01:47.830 align:start position:0%
+think is that there is a hardcoded
+subchart
+
+00:01:47.830 --> 00:01:47.840 align:start position:0%
+subchart
+ 
+
+00:01:47.840 --> 00:01:51.670 align:start position:0%
+subchart
+dependency<00:01:48.840><c> on</c><00:01:49.079><c> the</c><00:01:49.320><c> chart</c><00:01:49.759><c> of</c><00:01:50.000><c> 15</c><00:01:51.000><c> which</c><00:01:51.200><c> is</c><00:01:51.479><c> a</c>
+
+00:01:51.670 --> 00:01:51.680 align:start position:0%
+dependency on the chart of 15 which is a
+ 
+
+00:01:51.680 --> 00:01:54.429 align:start position:0%
+dependency on the chart of 15 which is a
+dependency<00:01:52.320><c> on</c><00:01:52.600><c> postgress</c><00:01:53.439><c> version</c><00:01:54.119><c> app</c>
+
+00:01:54.429 --> 00:01:54.439 align:start position:0%
+dependency on postgress version app
+ 
+
+00:01:54.439 --> 00:01:56.029 align:start position:0%
+dependency on postgress version app
+version
+
+00:01:56.029 --> 00:01:56.039 align:start position:0%
+version
+ 
+
+00:01:56.039 --> 00:01:58.029 align:start position:0%
+version
+16.4<00:01:57.039><c> or</c>
+
+00:01:58.029 --> 00:01:58.039 align:start position:0%
+16.4 or
+ 
+
+00:01:58.039 --> 00:02:06.149 align:start position:0%
+16.4 or
+higher<00:01:59.039><c> and</c><00:01:59.240><c> yet</c><00:01:59.399><c> the</c><00:01:59.560><c> image</c><00:02:00.159><c> here</c><00:02:00.479><c> is</c>
+
+00:02:06.149 --> 00:02:06.159 align:start position:0%
+ 
+ 
+
+00:02:06.159 --> 00:02:09.190 align:start position:0%
+ 
+13.16<00:02:07.159><c> I</c><00:02:07.240><c> don't</c><00:02:07.599><c> know</c><00:02:08.599><c> I</c><00:02:08.679><c> don't</c><00:02:08.800><c> know</c><00:02:08.959><c> what's</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+13.16 I don't know I don't know what's
+ 
+
+00:02:09.200 --> 00:02:12.990 align:start position:0%
+13.16 I don't know I don't know what's
+going<00:02:09.399><c> on</c><00:02:09.679><c> there</c><00:02:10.560><c> but</c><00:02:11.560><c> if</c><00:02:11.800><c> indeed</c><00:02:12.319><c> it</c><00:02:12.480><c> is</c><00:02:12.640><c> using</c>
+
+00:02:12.990 --> 00:02:13.000 align:start position:0%
+going on there but if indeed it is using
+ 
+
+00:02:13.000 --> 00:02:15.589 align:start position:0%
+going on there but if indeed it is using
+so<00:02:13.200><c> the</c><00:02:13.280><c> good</c><00:02:13.400><c> news</c><00:02:13.680><c> here</c><00:02:13.920><c> is</c><00:02:14.680><c> if</c><00:02:14.840><c> indeed</c><00:02:15.319><c> this</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+so the good news here is if indeed this
+ 
+
+00:02:15.599 --> 00:02:18.270 align:start position:0%
+so the good news here is if indeed this
+is<00:02:16.040><c> pulling</c><00:02:16.440><c> in</c><00:02:16.879><c> one</c><00:02:17.080><c> of</c><00:02:17.200><c> the</c><00:02:17.319><c> charts</c><00:02:17.640><c> from</c><00:02:17.879><c> 15</c>
+
+00:02:18.270 --> 00:02:18.280 align:start position:0%
+is pulling in one of the charts from 15
+ 
+
+00:02:18.280 --> 00:02:21.150 align:start position:0%
+is pulling in one of the charts from 15
+Point<00:02:18.640><c> whatever</c><00:02:19.599><c> we</c><00:02:19.840><c> might</c><00:02:20.239><c> actually</c><00:02:20.720><c> end</c><00:02:20.920><c> up</c>
+
+00:02:21.150 --> 00:02:21.160 align:start position:0%
+Point whatever we might actually end up
+ 
+
+00:02:21.160 --> 00:02:23.670 align:start position:0%
+Point whatever we might actually end up
+getting<00:02:21.640><c> automated</c><00:02:22.640><c> backups</c><00:02:23.239><c> through</c><00:02:23.519><c> a</c>
+
+00:02:23.670 --> 00:02:23.680 align:start position:0%
+getting automated backups through a
+ 
+
+00:02:23.680 --> 00:02:25.630 align:start position:0%
+getting automated backups through a
+regular<00:02:24.160><c> Cron</c><00:02:24.519><c> job</c><00:02:24.800><c> which</c><00:02:24.920><c> can</c><00:02:25.040><c> be</c><00:02:25.200><c> configured</c>
+
+00:02:25.630 --> 00:02:25.640 align:start position:0%
+regular Cron job which can be configured
+ 
+
+00:02:25.640 --> 00:02:28.190 align:start position:0%
+regular Cron job which can be configured
+through<00:02:25.800><c> the</c><00:02:25.920><c> values.</c><00:02:26.440><c> yaml</c><00:02:26.879><c> file</c><00:02:27.760><c> that</c><00:02:27.920><c> I</c>
+
+00:02:28.190 --> 00:02:28.200 align:start position:0%
+through the values. yaml file that I
+ 
+
+00:02:28.200 --> 00:02:30.630 align:start position:0%
+through the values. yaml file that I
+found<00:02:28.879><c> in</c><00:02:29.040><c> the</c><00:02:29.319><c> most</c><00:02:29.560><c> recent</c><00:02:29.879><c> recent</c><00:02:30.239><c> version</c>
+
+00:02:30.630 --> 00:02:30.640 align:start position:0%
+found in the most recent recent version
+ 
+
+00:02:30.640 --> 00:02:33.470 align:start position:0%
+found in the most recent recent version
+of<00:02:30.879><c> post</c><00:02:31.239><c> grass's</c><00:02:31.840><c> chart</c><00:02:32.200><c> benami</c>
+
+00:02:33.470 --> 00:02:33.480 align:start position:0%
+of post grass's chart benami
+ 
+
+00:02:33.480 --> 00:02:36.229 align:start position:0%
+of post grass's chart benami
+postgress<00:02:34.480><c> but</c><00:02:34.640><c> that</c><00:02:34.879><c> was</c><00:02:35.160><c> not</c><00:02:35.519><c> in</c><00:02:35.680><c> the</c><00:02:35.840><c> harbor</c>
+
+00:02:36.229 --> 00:02:36.239 align:start position:0%
+postgress but that was not in the harbor
+ 
+
+00:02:36.239 --> 00:02:38.949 align:start position:0%
+postgress but that was not in the harbor
+yaml<00:02:36.760><c> file</c><00:02:37.760><c> Val</c><00:02:38.080><c> out</c><00:02:38.319><c> file</c><00:02:38.519><c> which</c><00:02:38.640><c> we</c><00:02:38.760><c> already</c>
+
+00:02:38.949 --> 00:02:38.959 align:start position:0%
+yaml file Val out file which we already
+ 
+
+00:02:38.959 --> 00:02:40.630 align:start position:0%
+yaml file Val out file which we already
+know<00:02:39.159><c> is</c><00:02:39.360><c> totally</c><00:02:39.680><c> screwed</c><00:02:40.000><c> up</c><00:02:40.200><c> because</c><00:02:40.400><c> it's</c>
+
+00:02:40.630 --> 00:02:40.640 align:start position:0%
+know is totally screwed up because it's
+ 
+
+00:02:40.640 --> 00:02:42.630 align:start position:0%
+know is totally screwed up because it's
+got<00:02:40.959><c> It's</c><00:02:41.159><c> pegged</c><00:02:41.519><c> it's</c><00:02:41.680><c> pegged</c><00:02:41.920><c> to</c><00:02:42.080><c> 13</c>
+
+00:02:42.630 --> 00:02:42.640 align:start position:0%
+got It's pegged it's pegged to 13
+ 
+
+00:02:42.640 --> 00:02:45.949 align:start position:0%
+got It's pegged it's pegged to 13
+because<00:02:42.840><c> of</c><00:02:42.959><c> an</c><00:02:43.120><c> old</c><00:02:44.000><c> um</c><00:02:45.000><c> uh</c><00:02:45.440><c> super</c><00:02:45.680><c> old</c>
+
+00:02:45.949 --> 00:02:45.959 align:start position:0%
+because of an old um uh super old
+ 
+
+00:02:45.959 --> 00:02:48.390 align:start position:0%
+because of an old um uh super old
+dependency<00:02:46.480><c> so</c><00:02:46.720><c> what</c><00:02:46.840><c> I'm</c><00:02:46.959><c> trying</c><00:02:47.159><c> to</c><00:02:47.319><c> say</c><00:02:47.599><c> is</c>
+
+00:02:48.390 --> 00:02:48.400 align:start position:0%
+dependency so what I'm trying to say is
+ 
+
+00:02:48.400 --> 00:02:52.190 align:start position:0%
+dependency so what I'm trying to say is
+the<00:02:48.599><c> harbor</c><00:02:49.400><c> values</c><00:02:50.000><c> file</c><00:02:51.000><c> is</c><00:02:51.640><c> totally</c>
+
+00:02:52.190 --> 00:02:52.200 align:start position:0%
+the harbor values file is totally
+ 
+
+00:02:52.200 --> 00:02:56.910 align:start position:0%
+the harbor values file is totally
+screwed<00:02:52.599><c> up</c><00:02:53.519><c> it's</c><00:02:53.879><c> totally</c><00:02:54.159><c> screwed</c><00:02:54.519><c> up</c><00:02:55.920><c> and</c>
+
+00:02:56.910 --> 00:02:56.920 align:start position:0%
+screwed up it's totally screwed up and
+ 
+
+00:02:56.920 --> 00:02:59.270 align:start position:0%
+screwed up it's totally screwed up and
+there's<00:02:57.120><c> a</c><00:02:57.319><c> very</c><00:02:57.680><c> strong</c><00:02:58.080><c> possibility</c><00:02:59.080><c> that</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+there's a very strong possibility that
+ 
+
+00:02:59.280 --> 00:03:02.910 align:start position:0%
+there's a very strong possibility that
+it's<00:02:59.519><c> missing</c><00:02:59.959><c> in</c><00:03:00.280><c> several</c><00:03:00.959><c> key</c><00:03:01.959><c> areas</c><00:03:02.720><c> that</c>
+
+00:03:02.910 --> 00:03:02.920 align:start position:0%
+it's missing in several key areas that
+ 
+
+00:03:02.920 --> 00:03:04.949 align:start position:0%
+it's missing in several key areas that
+would<00:03:03.040><c> have</c><00:03:03.319><c> come</c><00:03:03.519><c> in</c><00:03:03.799><c> from</c><00:03:04.000><c> the</c><00:03:04.200><c> dependencies</c>
+
+00:03:04.949 --> 00:03:04.959 align:start position:0%
+would have come in from the dependencies
+ 
+
+00:03:04.959 --> 00:03:07.550 align:start position:0%
+would have come in from the dependencies
+chart<00:03:05.760><c> including</c><00:03:06.680><c> the</c><00:03:06.879><c> activation</c><00:03:07.360><c> of</c>
+
+00:03:07.550 --> 00:03:07.560 align:start position:0%
+chart including the activation of
+ 
+
+00:03:07.560 --> 00:03:10.550 align:start position:0%
+chart including the activation of
+backups<00:03:08.120><c> by</c><00:03:08.440><c> changing</c><00:03:09.440><c> one</c><00:03:09.760><c> value</c><00:03:10.080><c> from</c><00:03:10.280><c> false</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+backups by changing one value from false
+ 
+
+00:03:10.560 --> 00:03:11.789 align:start position:0%
+backups by changing one value from false
+to
+
+00:03:11.789 --> 00:03:11.799 align:start position:0%
+to
+ 
+
+00:03:11.799 --> 00:03:15.229 align:start position:0%
+to
+true<00:03:12.799><c> instead</c><00:03:13.159><c> of</c><00:03:13.360><c> writing</c><00:03:14.000><c> your</c><00:03:14.280><c> an</c><00:03:14.440><c> entire</c>
+
+00:03:15.229 --> 00:03:15.239 align:start position:0%
+true instead of writing your an entire
+ 
+
+00:03:15.239 --> 00:03:17.430 align:start position:0%
+true instead of writing your an entire
+postgress<00:03:15.879><c> backup</c><00:03:16.319><c> solution</c><00:03:16.840><c> and</c><00:03:17.080><c> attacking</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+postgress backup solution and attacking
+ 
+
+00:03:17.440 --> 00:03:19.630 align:start position:0%
+postgress backup solution and attacking
+on<00:03:17.680><c> your</c><00:03:17.920><c> own</c><00:03:18.519><c> Cron</c><00:03:18.920><c> job</c><00:03:19.159><c> and</c><00:03:19.280><c> your</c><00:03:19.400><c> own</c>
+
+00:03:19.630 --> 00:03:19.640 align:start position:0%
+on your own Cron job and your own
+ 
+
+00:03:19.640 --> 00:03:21.589 align:start position:0%
+on your own Cron job and your own
+customized<00:03:20.360><c> you</c><00:03:20.440><c> know</c><00:03:20.760><c> customizations</c><00:03:21.440><c> at</c>
+
+00:03:21.589 --> 00:03:21.599 align:start position:0%
+customized you know customizations at
+ 
+
+00:03:21.599 --> 00:03:23.470 align:start position:0%
+customized you know customizations at
+amop<00:03:22.040><c> which</c><00:03:22.159><c> we've</c><00:03:22.400><c> done</c><00:03:22.519><c> in</c><00:03:22.640><c> the</c><00:03:22.840><c> past</c><00:03:23.280><c> we've</c>
+
+00:03:23.470 --> 00:03:23.480 align:start position:0%
+amop which we've done in the past we've
+ 
+
+00:03:23.480 --> 00:03:24.750 align:start position:0%
+amop which we've done in the past we've
+spent<00:03:23.680><c> a</c><00:03:23.760><c> lot</c><00:03:23.840><c> of</c><00:03:23.959><c> time</c><00:03:24.120><c> it's</c><00:03:24.239><c> already</c><00:03:24.480><c> written</c>
+
+00:03:24.750 --> 00:03:24.760 align:start position:0%
+spent a lot of time it's already written
+ 
+
+00:03:24.760 --> 00:03:26.470 align:start position:0%
+spent a lot of time it's already written
+it's<00:03:24.879><c> all</c><00:03:25.120><c> there</c><00:03:25.360><c> it's</c><00:03:25.480><c> all</c><00:03:25.799><c> already</c><00:03:26.159><c> in</c><00:03:26.319><c> the</c>
+
+00:03:26.470 --> 00:03:26.480 align:start position:0%
+it's all there it's all already in the
+ 
+
+00:03:26.480 --> 00:03:29.229 align:start position:0%
+it's all there it's all already in the
+postc<00:03:26.760><c> cross</c><00:03:27.280><c> chart</c><00:03:28.280><c> but</c><00:03:28.439><c> you</c><00:03:28.599><c> just</c><00:03:28.760><c> can't</c><00:03:29.040><c> see</c>
+
+00:03:29.229 --> 00:03:29.239 align:start position:0%
+postc cross chart but you just can't see
+ 
+
+00:03:29.239 --> 00:03:30.270 align:start position:0%
+postc cross chart but you just can't see
+it<00:03:29.400><c> because</c><00:03:29.519><c> you're</c><00:03:29.640><c> just</c><00:03:29.879><c> looking</c><00:03:30.080><c> at</c><00:03:30.159><c> the</c>
+
+00:03:30.270 --> 00:03:30.280 align:start position:0%
+it because you're just looking at the
+ 
+
+00:03:30.280 --> 00:03:32.789 align:start position:0%
+it because you're just looking at the
+anals<00:03:30.680><c> file</c><00:03:31.280><c> the</c><00:03:31.439><c> values</c><00:03:31.760><c> file</c><00:03:31.959><c> for</c><00:03:32.120><c> Harbor</c>
+
+00:03:32.789 --> 00:03:32.799 align:start position:0%
+anals file the values file for Harbor
+ 
+
+00:03:32.799 --> 00:03:34.470 align:start position:0%
+anals file the values file for Harbor
+which<00:03:32.959><c> doesn't</c><00:03:33.360><c> include</c><00:03:33.879><c> all</c><00:03:34.040><c> the</c><00:03:34.159><c> values</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+which doesn't include all the values
+ 
+
+00:03:34.480 --> 00:03:36.390 align:start position:0%
+which doesn't include all the values
+that<00:03:34.560><c> are</c><00:03:34.680><c> potentially</c><00:03:35.040><c> there</c><00:03:35.120><c> for</c><00:03:35.280><c> post</c><00:03:36.280><c> I</c>
+
+00:03:36.390 --> 00:03:36.400 align:start position:0%
+that are potentially there for post I
+ 
+
+00:03:36.400 --> 00:03:37.869 align:start position:0%
+that are potentially there for post I
+could<00:03:36.599><c> very</c><00:03:36.799><c> well</c><00:03:36.959><c> be</c><00:03:37.120><c> getting</c><00:03:37.400><c> something</c>
+
+00:03:37.869 --> 00:03:37.879 align:start position:0%
+could very well be getting something
+ 
+
+00:03:37.879 --> 00:03:40.550 align:start position:0%
+could very well be getting something
+wrong<00:03:38.680><c> here</c><00:03:39.680><c> but</c><00:03:39.879><c> I'm</c><00:03:40.040><c> just</c><00:03:40.159><c> going</c><00:03:40.280><c> to</c><00:03:40.400><c> put</c>
+
+00:03:40.550 --> 00:03:40.560 align:start position:0%
+wrong here but I'm just going to put
+ 
+
+00:03:40.560 --> 00:03:42.030 align:start position:0%
+wrong here but I'm just going to put
+this<00:03:40.720><c> out</c><00:03:40.920><c> there</c><00:03:41.159><c> because</c><00:03:41.439><c> if</c><00:03:41.560><c> you</c><00:03:41.680><c> know</c><00:03:41.879><c> the</c>
+
+00:03:42.030 --> 00:03:42.040 align:start position:0%
+this out there because if you know the
+ 
+
+00:03:42.040 --> 00:03:43.190 align:start position:0%
+this out there because if you know the
+answer<00:03:42.200><c> to</c><00:03:42.360><c> this</c><00:03:42.519><c> you</c><00:03:42.599><c> want</c><00:03:42.680><c> to</c><00:03:42.760><c> put</c><00:03:42.879><c> a</c><00:03:42.959><c> comment</c>
+
+00:03:43.190 --> 00:03:43.200 align:start position:0%
+answer to this you want to put a comment
+ 
+
+00:03:43.200 --> 00:03:45.589 align:start position:0%
+answer to this you want to put a comment
+in<00:03:43.360><c> there</c><00:03:43.519><c> please</c><00:03:43.760><c> do</c><00:03:44.680><c> this</c><00:03:44.799><c> is</c><00:03:45.000><c> making</c><00:03:45.239><c> me</c>
+
+00:03:45.589 --> 00:03:45.599 align:start position:0%
+in there please do this is making me
+ 
+
+00:03:45.599 --> 00:03:47.309 align:start position:0%
+in there please do this is making me
+absolutely<00:03:46.120><c> despise</c><00:03:46.519><c> Helm</c><00:03:46.840><c> even</c><00:03:47.040><c> more</c>
+
+00:03:47.309 --> 00:03:47.319 align:start position:0%
+absolutely despise Helm even more
+ 
+
+00:03:47.319 --> 00:03:49.509 align:start position:0%
+absolutely despise Helm even more
+because<00:03:47.879><c> the</c><00:03:48.040><c> fact</c><00:03:48.200><c> that</c><00:03:48.519><c> this</c><00:03:48.680><c> even</c><00:03:49.000><c> exists</c>
+
+00:03:49.509 --> 00:03:49.519 align:start position:0%
+because the fact that this even exists
+ 
+
+00:03:49.519 --> 00:03:52.030 align:start position:0%
+because the fact that this even exists
+right<00:03:49.680><c> now</c><00:03:50.080><c> if</c><00:03:50.280><c> if</c><00:03:50.400><c> I'm</c><00:03:50.640><c> right</c><00:03:50.840><c> about</c><00:03:51.159><c> this</c>
+
+00:03:52.030 --> 00:03:52.040 align:start position:0%
+right now if if I'm right about this
+ 
+
+00:03:52.040 --> 00:03:54.670 align:start position:0%
+right now if if I'm right about this
+then<00:03:52.280><c> this</c><00:03:52.400><c> is</c><00:03:52.640><c> a</c><00:03:53.040><c> this</c><00:03:53.439><c> this</c><00:03:53.760><c> values</c><00:03:54.200><c> file</c>
+
+00:03:54.670 --> 00:03:54.680 align:start position:0%
+then this is a this this values file
+ 
+
+00:03:54.680 --> 00:03:57.670 align:start position:0%
+then this is a this this values file
+this<00:03:54.959><c> this</c><00:03:55.159><c> harm</c><00:03:55.799><c> this</c><00:03:56.239><c> Helm</c><00:03:56.480><c> chart</c><00:03:57.239><c> did</c><00:03:57.360><c> I</c><00:03:57.519><c> say</c>
+
+00:03:57.670 --> 00:03:57.680 align:start position:0%
+this this harm this Helm chart did I say
+ 
+
+00:03:57.680 --> 00:04:00.069 align:start position:0%
+this this harm this Helm chart did I say
+harm
+
+00:04:00.069 --> 00:04:00.079 align:start position:0%
+harm
+ 
+
+00:04:00.079 --> 00:04:02.270 align:start position:0%
+harm
+it<00:04:00.239><c> literally</c><00:04:00.840><c> allows</c>
+
+00:04:02.270 --> 00:04:02.280 align:start position:0%
+it literally allows
+ 
+
+00:04:02.280 --> 00:04:04.670 align:start position:0%
+it literally allows
+people<00:04:03.280><c> it</c><00:04:03.480><c> it's</c><00:04:03.799><c> it's</c>
+
+00:04:04.670 --> 00:04:04.680 align:start position:0%
+people it it's it's
+ 
+
+00:04:04.680 --> 00:04:07.670 align:start position:0%
+people it it's it's
+completely<00:04:05.680><c> broken</c><00:04:06.280><c> it's</c><00:04:06.480><c> completely</c><00:04:06.879><c> broken</c>
+
+00:04:07.670 --> 00:04:07.680 align:start position:0%
+completely broken it's completely broken
+ 
+
+00:04:07.680 --> 00:04:10.149 align:start position:0%
+completely broken it's completely broken
+because<00:04:08.000><c> it</c><00:04:08.159><c> says</c><00:04:08.840><c> you</c><00:04:09.159><c> have</c><00:04:09.360><c> to</c><00:04:09.599><c> use</c><00:04:10.040><c> the</c>
+
+00:04:10.149 --> 00:04:10.159 align:start position:0%
+because it says you have to use the
+ 
+
+00:04:10.159 --> 00:04:12.670 align:start position:0%
+because it says you have to use the
+chart
+
+00:04:12.670 --> 00:04:12.680 align:start position:0%
+ 
+ 
+
+00:04:12.680 --> 00:04:16.349 align:start position:0%
+ 
+15x<00:04:13.680><c> you</c><00:04:13.840><c> know</c><00:04:14.599><c> but</c><00:04:14.760><c> then</c><00:04:14.879><c> it</c><00:04:15.120><c> also</c><00:04:15.760><c> forces</c><00:04:16.160><c> the</c>
+
+00:04:16.349 --> 00:04:16.359 align:start position:0%
+15x you know but then it also forces the
+ 
+
+00:04:16.359 --> 00:04:19.909 align:start position:0%
+15x you know but then it also forces the
+dependency<00:04:16.880><c> on</c><00:04:17.079><c> postgress</c>
+
+00:04:19.909 --> 00:04:19.919 align:start position:0%
+ 
+ 
+
+00:04:19.919 --> 00:04:23.870 align:start position:0%
+ 
+13<00:04:20.919><c> but</c><00:04:21.079><c> 15.</c><00:04:21.560><c> X</c><00:04:21.720><c> of</c><00:04:21.840><c> the</c><00:04:21.919><c> chart</c><00:04:22.199><c> is</c><00:04:22.360><c> is</c><00:04:22.479><c> version</c>
+
+00:04:23.870 --> 00:04:23.880 align:start position:0%
+13 but 15. X of the chart is is version
+ 
+
+00:04:23.880 --> 00:04:30.240 align:start position:0%
+13 but 15. X of the chart is is version
+16.4<00:04:24.880><c> it's</c><00:04:25.080><c> totally</c><00:04:25.479><c> broken</c><00:04:26.479><c> that's</c><00:04:26.680><c> all</c><00:04:27.240><c> bye</c>
+

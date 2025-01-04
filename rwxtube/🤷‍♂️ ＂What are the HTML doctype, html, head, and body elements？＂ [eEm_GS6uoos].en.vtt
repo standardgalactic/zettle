@@ -1,0 +1,2072 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.400 --> 00:00:04.150 align:start position:0%
+ 
+all<00:00:01.520><c> right</c><00:00:01.719><c> now</c><00:00:01.880><c> that</c><00:00:02.040><c> you</c><00:00:02.360><c> know</c><00:00:03.360><c> the</c><00:00:03.639><c> basic</c>
+
+00:00:04.150 --> 00:00:04.160 align:start position:0%
+all right now that you know the basic
+ 
+
+00:00:04.160 --> 00:00:08.549 align:start position:0%
+all right now that you know the basic
+Syntax<00:00:05.040><c> for</c><00:00:05.600><c> a</c><00:00:05.799><c> web</c><00:00:06.080><c> page</c><00:00:07.040><c> let's</c><00:00:07.319><c> break</c><00:00:07.680><c> down</c>
+
+00:00:08.549 --> 00:00:08.559 align:start position:0%
+Syntax for a web page let's break down
+ 
+
+00:00:08.559 --> 00:00:11.749 align:start position:0%
+Syntax for a web page let's break down
+the<00:00:08.880><c> highest</c><00:00:09.480><c> level</c><00:00:10.480><c> elements</c><00:00:11.480><c> and</c><00:00:11.599><c> we're</c>
+
+00:00:11.749 --> 00:00:11.759 align:start position:0%
+the highest level elements and we're
+ 
+
+00:00:11.759 --> 00:00:13.190 align:start position:0%
+the highest level elements and we're
+going<00:00:11.840><c> to</c><00:00:11.960><c> refer</c><00:00:12.200><c> to</c><00:00:12.280><c> the</c><00:00:12.440><c> specification</c><00:00:13.080><c> and</c>
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+going to refer to the specification and
+ 
+
+00:00:13.200 --> 00:00:15.910 align:start position:0%
+going to refer to the specification and
+we're<00:00:13.400><c> also</c><00:00:13.599><c> going</c><00:00:13.719><c> to</c><00:00:14.000><c> use</c><00:00:15.000><c> uh</c><00:00:15.160><c> vs</c><00:00:15.519><c> code</c><00:00:15.759><c> to</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+we're also going to use uh vs code to
+ 
+
+00:00:15.920 --> 00:00:19.870 align:start position:0%
+we're also going to use uh vs code to
+help<00:00:16.199><c> us</c><00:00:16.880><c> so</c><00:00:17.880><c> um</c><00:00:18.039><c> if</c><00:00:18.119><c> you</c><00:00:18.240><c> type</c><00:00:18.480><c> HTML</c><00:00:19.080><c> F</c><00:00:19.359><c> if</c><00:00:19.439><c> you</c>
+
+00:00:19.870 --> 00:00:19.880 align:start position:0%
+help us so um if you type HTML F if you
+ 
+
+00:00:19.880 --> 00:00:22.870 align:start position:0%
+help us so um if you type HTML F if you
+HTML<00:00:20.519><c> ah</c><00:00:20.800><c> you</c><00:00:21.000><c> type</c><00:00:21.199><c> HTML</c><00:00:21.800><c> you</c><00:00:21.920><c> can</c><00:00:22.039><c> see</c><00:00:22.800><c> you</c>
+
+00:00:22.870 --> 00:00:22.880 align:start position:0%
+HTML ah you type HTML you can see you
+ 
+
+00:00:22.880 --> 00:00:24.670 align:start position:0%
+HTML ah you type HTML you can see you
+can<00:00:23.039><c> push</c><00:00:23.199><c> the</c><00:00:23.320><c> arrow</c><00:00:23.560><c> keys</c><00:00:23.800><c> up</c><00:00:24.000><c> and</c><00:00:24.160><c> down</c><00:00:24.359><c> and</c>
+
+00:00:24.670 --> 00:00:24.680 align:start position:0%
+can push the arrow keys up and down and
+ 
+
+00:00:24.680 --> 00:00:26.550 align:start position:0%
+can push the arrow keys up and down and
+go<00:00:24.800><c> to</c><00:00:24.920><c> HTML</c><00:00:25.359><c> 5</c><00:00:25.560><c> and</c><00:00:25.720><c> hit</c><00:00:25.840><c> enter</c><00:00:26.160><c> and</c><00:00:26.240><c> it</c><00:00:26.320><c> will</c>
+
+00:00:26.550 --> 00:00:26.560 align:start position:0%
+go to HTML 5 and hit enter and it will
+ 
+
+00:00:26.560 --> 00:00:28.230 align:start position:0%
+go to HTML 5 and hit enter and it will
+actually<00:00:26.840><c> fill</c><00:00:27.119><c> out</c><00:00:27.439><c> the</c><00:00:27.560><c> beginning</c><00:00:27.840><c> of</c><00:00:27.920><c> a</c><00:00:28.039><c> web</c>
+
+00:00:28.230 --> 00:00:28.240 align:start position:0%
+actually fill out the beginning of a web
+ 
+
+00:00:28.240 --> 00:00:29.470 align:start position:0%
+actually fill out the beginning of a web
+page<00:00:28.439><c> for</c><00:00:28.599><c> you</c><00:00:28.800><c> we're</c><00:00:28.920><c> going</c><00:00:29.000><c> to</c><00:00:29.119><c> talk</c><00:00:29.279><c> about</c>
+
+00:00:29.470 --> 00:00:29.480 align:start position:0%
+page for you we're going to talk about
+ 
+
+00:00:29.480 --> 00:00:31.150 align:start position:0%
+page for you we're going to talk about
+what<00:00:29.599><c> these</c><00:00:29.759><c> are</c>
+
+00:00:31.150 --> 00:00:31.160 align:start position:0%
+what these are
+ 
+
+00:00:31.160 --> 00:00:33.750 align:start position:0%
+what these are
+um<00:00:31.640><c> so</c><00:00:32.040><c> the</c><00:00:32.200><c> structure</c><00:00:32.559><c> of</c><00:00:32.759><c> this</c><00:00:33.000><c> is</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+um so the structure of this is
+ 
+
+00:00:33.760 --> 00:00:37.430 align:start position:0%
+um so the structure of this is
+documented<00:00:34.760><c> in</c><00:00:35.360><c> the</c><00:00:35.960><c> the</c><00:00:36.440><c> specification</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+documented in the the specification
+ 
+
+00:00:37.440 --> 00:00:42.830 align:start position:0%
+documented in the the specification
+which<00:00:38.120><c> is</c><00:00:39.120><c> where</c><00:00:39.280><c> is</c><00:00:39.360><c> it</c><00:00:39.559><c> here</c><00:00:39.680><c> it</c><00:00:40.120><c> is</c><00:00:41.120><c> um</c><00:00:42.000><c> and</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+which is where is it here it is um and
+ 
+
+00:00:42.840 --> 00:00:45.869 align:start position:0%
+which is where is it here it is um and
+you<00:00:42.960><c> know</c><00:00:43.360><c> this</c><00:00:43.480><c> is</c><00:00:43.680><c> where</c><00:00:43.879><c> we</c><00:00:44.079><c> learn</c><00:00:44.920><c> about</c>
+
+00:00:45.869 --> 00:00:45.879 align:start position:0%
+you know this is where we learn about
+ 
+
+00:00:45.879 --> 00:00:50.590 align:start position:0%
+you know this is where we learn about
+what<00:00:46.640><c> uh</c><00:00:46.800><c> the</c><00:00:46.960><c> dock</c><00:00:47.239><c> type</c><00:00:47.960><c> is</c><00:00:48.960><c> um</c><00:00:49.680><c> writing</c><00:00:50.079><c> HTML</c>
+
+00:00:50.590 --> 00:00:50.600 align:start position:0%
+what uh the dock type is um writing HTML
+ 
+
+00:00:50.600 --> 00:00:51.990 align:start position:0%
+what uh the dock type is um writing HTML
+documents<00:00:51.000><c> this</c><00:00:51.160><c> is</c><00:00:51.360><c> again</c><00:00:51.520><c> the</c><00:00:51.640><c> spec</c><00:00:51.879><c> which</c>
+
+00:00:51.990 --> 00:00:52.000 align:start position:0%
+documents this is again the spec which
+ 
+
+00:00:52.000 --> 00:00:53.310 align:start position:0%
+documents this is again the spec which
+is<00:00:52.120><c> another</c><00:00:52.320><c> video</c><00:00:52.520><c> about</c><00:00:52.800><c> why</c><00:00:52.920><c> and</c><00:00:53.079><c> how</c><00:00:53.160><c> to</c>
+
+00:00:53.310 --> 00:00:53.320 align:start position:0%
+is another video about why and how to
+ 
+
+00:00:53.320 --> 00:00:56.950 align:start position:0%
+is another video about why and how to
+use<00:00:53.480><c> the</c><00:00:54.039><c> spec</c><00:00:55.039><c> and</c><00:00:55.600><c> here</c><00:00:55.719><c> we</c><00:00:55.840><c> go</c><00:00:56.039><c> start</c><00:00:56.359><c> tags</c>
+
+00:00:56.950 --> 00:00:56.960 align:start position:0%
+use the spec and here we go start tags
+ 
+
+00:00:56.960 --> 00:00:58.430 align:start position:0%
+use the spec and here we go start tags
+it's<00:00:57.280><c> we</c><00:00:57.399><c> talk</c><00:00:57.559><c> about</c><00:00:57.680><c> start</c><00:00:57.840><c> and</c><00:00:57.960><c> dead</c><00:00:58.160><c> tags</c>
+
+00:00:58.430 --> 00:00:58.440 align:start position:0%
+it's we talk about start and dead tags
+ 
+
+00:00:58.440 --> 00:01:00.110 align:start position:0%
+it's we talk about start and dead tags
+all<00:00:58.640><c> that</c><00:00:58.840><c> but</c><00:00:58.960><c> the</c><00:00:59.079><c> doc</c><00:00:59.359><c> type</c><00:00:59.559><c> is</c><00:00:59.960><c> important</c>
+
+00:01:00.110 --> 00:01:00.120 align:start position:0%
+all that but the doc type is important
+ 
+
+00:01:00.120 --> 00:01:02.349 align:start position:0%
+all that but the doc type is important
+you<00:01:00.440><c> understand</c><00:01:00.640><c> this</c><00:01:01.519><c> um</c><00:01:01.640><c> the</c><00:01:01.760><c> doc</c><00:01:02.039><c> type</c><00:01:02.199><c> is</c>
+
+00:01:02.349 --> 00:01:02.359 align:start position:0%
+you understand this um the doc type is
+ 
+
+00:01:02.359 --> 00:01:04.710 align:start position:0%
+you understand this um the doc type is
+technically<00:01:02.879><c> not</c><00:01:03.160><c> a</c><00:01:03.320><c> part</c><00:01:03.480><c> of</c><00:01:03.600><c> the</c><00:01:03.760><c> HTML</c><00:01:04.479><c> it</c>
+
+00:01:04.710 --> 00:01:04.720 align:start position:0%
+technically not a part of the HTML it
+ 
+
+00:01:04.720 --> 00:01:07.870 align:start position:0%
+technically not a part of the HTML it
+says<00:01:05.280><c> that</c><00:01:05.680><c> hey</c><00:01:06.320><c> get</c><00:01:06.520><c> ready</c><00:01:07.240><c> here</c><00:01:07.439><c> comes</c><00:01:07.680><c> a</c>
+
+00:01:07.870 --> 00:01:07.880 align:start position:0%
+says that hey get ready here comes a
+ 
+
+00:01:07.880 --> 00:01:11.390 align:start position:0%
+says that hey get ready here comes a
+document<00:01:08.320><c> doc</c><00:01:08.600><c> type</c><00:01:08.840><c> HTML</c><00:01:09.840><c> is</c><00:01:10.080><c> the</c><00:01:10.360><c> only</c><00:01:10.799><c> valid</c>
+
+00:01:11.390 --> 00:01:11.400 align:start position:0%
+document doc type HTML is the only valid
+ 
+
+00:01:11.400 --> 00:01:13.670 align:start position:0%
+document doc type HTML is the only valid
+reason<00:01:11.720><c> to</c><00:01:11.880><c> do</c><00:01:12.159><c> this</c><00:01:12.400><c> you</c><00:01:12.560><c> will</c><00:01:12.759><c> see</c><00:01:13.240><c> lots</c><00:01:13.479><c> and</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+reason to do this you will see lots and
+ 
+
+00:01:13.680 --> 00:01:15.749 align:start position:0%
+reason to do this you will see lots and
+lots<00:01:13.880><c> of</c><00:01:14.159><c> pages</c><00:01:14.560><c> out</c><00:01:14.799><c> there</c><00:01:15.080><c> that</c><00:01:15.240><c> don't</c><00:01:15.520><c> do</c>
+
+00:01:15.749 --> 00:01:15.759 align:start position:0%
+lots of pages out there that don't do
+ 
+
+00:01:15.759 --> 00:01:18.749 align:start position:0%
+lots of pages out there that don't do
+this<00:01:16.640><c> that</c><00:01:16.840><c> use</c><00:01:17.240><c> the</c><00:01:17.439><c> old</c><00:01:17.720><c> one</c><00:01:18.159><c> in</c><00:01:18.320><c> fact</c><00:01:18.520><c> if</c><00:01:18.640><c> you</c>
+
+00:01:18.749 --> 00:01:18.759 align:start position:0%
+this that use the old one in fact if you
+ 
+
+00:01:18.759 --> 00:01:21.310 align:start position:0%
+this that use the old one in fact if you
+want<00:01:18.920><c> to</c><00:01:19.479><c> write</c><00:01:19.720><c> a</c><00:01:19.960><c> web</c><00:01:20.200><c> crawler</c><00:01:20.640><c> to</c><00:01:20.880><c> hack</c><00:01:21.200><c> a</c>
+
+00:01:21.310 --> 00:01:21.320 align:start position:0%
+want to write a web crawler to hack a
+ 
+
+00:01:21.320 --> 00:01:23.710 align:start position:0%
+want to write a web crawler to hack a
+bunch<00:01:21.520><c> of</c><00:01:21.720><c> sites</c><00:01:22.520><c> look</c><00:01:22.680><c> for</c><00:01:22.920><c> all</c><00:01:23.079><c> the</c><00:01:23.240><c> websites</c>
+
+00:01:23.710 --> 00:01:23.720 align:start position:0%
+bunch of sites look for all the websites
+ 
+
+00:01:23.720 --> 00:01:25.749 align:start position:0%
+bunch of sites look for all the websites
+that<00:01:23.960><c> don't</c><00:01:24.240><c> do</c><00:01:24.479><c> this</c><00:01:24.880><c> because</c><00:01:25.119><c> if</c><00:01:25.320><c> they</c><00:01:25.479><c> don't</c>
+
+00:01:25.749 --> 00:01:25.759 align:start position:0%
+that don't do this because if they don't
+ 
+
+00:01:25.759 --> 00:01:27.910 align:start position:0%
+that don't do this because if they don't
+do<00:01:26.000><c> this</c><00:01:26.240><c> their</c><00:01:26.560><c> the</c><00:01:26.720><c> website's</c><00:01:27.200><c> more</c><00:01:27.400><c> than</c><00:01:27.640><c> 20</c>
+
+00:01:27.910 --> 00:01:27.920 align:start position:0%
+do this their the website's more than 20
+ 
+
+00:01:27.920 --> 00:01:29.630 align:start position:0%
+do this their the website's more than 20
+years<00:01:28.079><c> out</c><00:01:28.240><c> of</c><00:01:28.400><c> date</c><00:01:28.560><c> at</c><00:01:28.680><c> this</c><00:01:28.880><c> point</c><00:01:29.200><c> or</c>
+
+00:01:29.630 --> 00:01:29.640 align:start position:0%
+years out of date at this point or
+ 
+
+00:01:29.640 --> 00:01:32.429 align:start position:0%
+years out of date at this point or
+actually<00:01:30.079><c> 15</c><00:01:30.439><c> something</c><00:01:30.759><c> like</c><00:01:30.920><c> that</c><00:01:31.680><c> so</c><00:01:32.280><c> make</c>
+
+00:01:32.429 --> 00:01:32.439 align:start position:0%
+actually 15 something like that so make
+ 
+
+00:01:32.439 --> 00:01:35.109 align:start position:0%
+actually 15 something like that so make
+sure<00:01:32.799><c> you</c><00:01:33.240><c> add</c><00:01:33.479><c> a</c><00:01:33.640><c> doc</c><00:01:33.920><c> type</c><00:01:34.119><c> HTML</c><00:01:34.600><c> to</c><00:01:34.720><c> the</c>
+
+00:01:35.109 --> 00:01:35.119 align:start position:0%
+sure you add a doc type HTML to the
+ 
+
+00:01:35.119 --> 00:01:37.990 align:start position:0%
+sure you add a doc type HTML to the
+beginning<00:01:36.119><c> um</c><00:01:36.560><c> the</c><00:01:36.759><c> next</c><00:01:37.399><c> the</c><00:01:37.520><c> rest</c><00:01:37.680><c> of</c><00:01:37.799><c> the</c>
+
+00:01:37.990 --> 00:01:38.000 align:start position:0%
+beginning um the next the rest of the
+ 
+
+00:01:38.000 --> 00:01:40.630 align:start position:0%
+beginning um the next the rest of the
+structure<00:01:38.680><c> of</c><00:01:38.920><c> of</c><00:01:39.000><c> a</c><00:01:39.200><c> document</c><00:01:39.680><c> can</c><00:01:39.840><c> be</c>
+
+00:01:40.630 --> 00:01:40.640 align:start position:0%
+structure of of a document can be
+ 
+
+00:01:40.640 --> 00:01:44.789 align:start position:0%
+structure of of a document can be
+summarized<00:01:41.640><c> um</c><00:01:42.240><c> pretty</c><00:01:42.520><c> simply</c><00:01:43.280><c> by</c><00:01:44.079><c> dividing</c>
+
+00:01:44.789 --> 00:01:44.799 align:start position:0%
+summarized um pretty simply by dividing
+ 
+
+00:01:44.799 --> 00:01:50.350 align:start position:0%
+summarized um pretty simply by dividing
+the<00:01:45.079><c> page</c><00:01:45.960><c> into</c><00:01:46.640><c> two</c><00:01:47.399><c> main</c><00:01:48.159><c> parts</c><00:01:49.159><c> the</c><00:01:49.479><c> body</c>
+
+00:01:50.350 --> 00:01:50.360 align:start position:0%
+the page into two main parts the body
+ 
+
+00:01:50.360 --> 00:01:52.709 align:start position:0%
+the page into two main parts the body
+and<00:01:51.280><c> the</c>
+
+00:01:52.709 --> 00:01:52.719 align:start position:0%
+and the
+ 
+
+00:01:52.719 --> 00:01:55.270 align:start position:0%
+and the
+head<00:01:53.719><c> uh</c><00:01:53.960><c> I'm</c><00:01:54.119><c> careful</c><00:01:54.360><c> not</c><00:01:54.520><c> to</c><00:01:54.600><c> say</c><00:01:54.799><c> header</c><00:01:55.079><c> or</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+head uh I'm careful not to say header or
+ 
+
+00:01:55.280 --> 00:01:57.270 align:start position:0%
+head uh I'm careful not to say header or
+heading<00:01:55.840><c> those</c><00:01:56.119><c> all</c><00:01:56.399><c> have</c><00:01:56.600><c> a</c><00:01:56.719><c> very</c><00:01:56.960><c> specific</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+heading those all have a very specific
+ 
+
+00:01:57.280 --> 00:01:58.310 align:start position:0%
+heading those all have a very specific
+meaning<00:01:57.560><c> in</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+meaning in
+ 
+
+00:01:58.320 --> 00:02:04.029 align:start position:0%
+meaning in
+HTML<00:01:59.320><c> um</c><00:02:00.200><c> so</c><00:02:01.119><c> that</c><00:02:01.320><c> stuff</c><00:02:01.560><c> is</c><00:02:01.719><c> under</c><00:02:02.439><c> the</c><00:02:02.640><c> HTML</c>
+
+00:02:04.029 --> 00:02:04.039 align:start position:0%
+HTML um so that stuff is under the HTML
+ 
+
+00:02:04.039 --> 00:02:07.870 align:start position:0%
+HTML um so that stuff is under the HTML
+syntax<00:02:05.039><c> uh</c><00:02:05.439><c> par</c><00:02:05.799><c> HTML</c><00:02:06.240><c> document</c><00:02:06.759><c> see</c><00:02:07.119><c> no</c><00:02:07.479><c> no</c>
+
+00:02:07.870 --> 00:02:07.880 align:start position:0%
+syntax uh par HTML document see no no
+ 
+
+00:02:07.880 --> 00:02:09.630 align:start position:0%
+syntax uh par HTML document see no no
+NOP<00:02:08.319><c> NOP</c><00:02:08.640><c> no</c><00:02:08.800><c> we</c><00:02:08.879><c> don't</c><00:02:09.000><c> need</c><00:02:09.119><c> to</c><00:02:09.239><c> do</c><00:02:09.360><c> any</c><00:02:09.520><c> of</c>
+
+00:02:09.630 --> 00:02:09.640 align:start position:0%
+NOP NOP no we don't need to do any of
+ 
+
+00:02:09.640 --> 00:02:11.229 align:start position:0%
+NOP NOP no we don't need to do any of
+that<00:02:09.959><c> where</c><00:02:10.280><c> is</c>
+
+00:02:11.229 --> 00:02:11.239 align:start position:0%
+that where is
+ 
+
+00:02:11.239 --> 00:02:15.350 align:start position:0%
+that where is
+it<00:02:12.239><c> um</c><00:02:12.599><c> this</c><00:02:12.760><c> might</c><00:02:12.959><c> be</c><00:02:13.160><c> a</c><00:02:13.319><c> place</c><00:02:13.599><c> where</c><00:02:14.280><c> W3</c><00:02:15.280><c> uh</c>
+
+00:02:15.350 --> 00:02:15.360 align:start position:0%
+it um this might be a place where W3 uh
+ 
+
+00:02:15.360 --> 00:02:17.150 align:start position:0%
+it um this might be a place where W3 uh
+HTML<00:02:15.920><c> tutorial</c><00:02:16.360><c> might</c><00:02:16.480><c> be</c><00:02:16.599><c> better</c><00:02:16.800><c> for</c><00:02:16.959><c> you</c><00:02:17.080><c> if</c>
+
+00:02:17.150 --> 00:02:17.160 align:start position:0%
+HTML tutorial might be better for you if
+ 
+
+00:02:17.160 --> 00:02:18.670 align:start position:0%
+HTML tutorial might be better for you if
+you<00:02:17.239><c> want</c><00:02:17.319><c> to</c><00:02:17.440><c> go</c><00:02:17.519><c> through</c><00:02:17.720><c> W3</c>
+
+00:02:18.670 --> 00:02:18.680 align:start position:0%
+you want to go through W3
+ 
+
+00:02:18.680 --> 00:02:21.430 align:start position:0%
+you want to go through W3
+schools<00:02:19.680><c> um</c><00:02:20.239><c> just</c><00:02:20.560><c> I</c><00:02:20.680><c> I</c><00:02:20.760><c> talked</c><00:02:20.959><c> at</c><00:02:21.080><c> the</c><00:02:21.239><c> other</c>
+
+00:02:21.430 --> 00:02:21.440 align:start position:0%
+schools um just I I talked at the other
+ 
+
+00:02:21.440 --> 00:02:23.229 align:start position:0%
+schools um just I I talked at the other
+video<00:02:21.680><c> about</c><00:02:21.879><c> being</c><00:02:22.080><c> careful</c><00:02:22.480><c> to</c><00:02:22.640><c> get</c><00:02:22.760><c> to</c><00:02:22.920><c> make</c>
+
+00:02:23.229 --> 00:02:23.239 align:start position:0%
+video about being careful to get to make
+ 
+
+00:02:23.239 --> 00:02:26.110 align:start position:0%
+video about being careful to get to make
+you<00:02:23.319><c> don't</c><00:02:23.480><c> depend</c><00:02:23.760><c> on</c><00:02:23.959><c> this</c><00:02:24.599><c> entirely</c><00:02:25.599><c> um</c><00:02:25.959><c> but</c>
+
+00:02:26.110 --> 00:02:26.120 align:start position:0%
+you don't depend on this entirely um but
+ 
+
+00:02:26.120 --> 00:02:28.190 align:start position:0%
+you don't depend on this entirely um but
+this<00:02:26.319><c> will</c><00:02:26.720><c> give</c><00:02:26.879><c> you</c><00:02:27.160><c> the</c><00:02:27.319><c> basic</c><00:02:27.640><c> structure</c>
+
+00:02:28.190 --> 00:02:28.200 align:start position:0%
+this will give you the basic structure
+ 
+
+00:02:28.200 --> 00:02:30.589 align:start position:0%
+this will give you the basic structure
+here<00:02:28.519><c> and</c><00:02:28.640><c> you</c><00:02:28.720><c> can</c><00:02:28.920><c> go</c><00:02:29.200><c> check</c><00:02:29.400><c> it</c><00:02:29.519><c> out</c><00:02:30.080><c> um</c>
+
+00:02:30.589 --> 00:02:30.599 align:start position:0%
+here and you can go check it out um
+ 
+
+00:02:30.599 --> 00:02:32.430 align:start position:0%
+here and you can go check it out um
+there's<00:02:31.000><c> there's</c><00:02:31.560><c> this</c><00:02:31.680><c> is</c><00:02:31.800><c> one</c><00:02:31.920><c> of</c><00:02:32.040><c> the</c><00:02:32.160><c> many</c>
+
+00:02:32.430 --> 00:02:32.440 align:start position:0%
+there's there's this is one of the many
+ 
+
+00:02:32.440 --> 00:02:34.190 align:start position:0%
+there's there's this is one of the many
+places<00:02:33.080><c> uh</c><00:02:33.200><c> I</c><00:02:33.280><c> talk</c><00:02:33.519><c> about</c><00:02:33.800><c> where</c><00:02:33.920><c> you</c><00:02:34.040><c> should</c>
+
+00:02:34.190 --> 00:02:34.200 align:start position:0%
+places uh I talk about where you should
+ 
+
+00:02:34.200 --> 00:02:37.509 align:start position:0%
+places uh I talk about where you should
+learn<00:02:34.440><c> it</c><00:02:34.640><c> preo</c><00:02:35.000><c> Camp's</c><00:02:35.280><c> another</c><00:02:35.519><c> one</c><00:02:36.400><c> but</c><00:02:37.120><c> um</c>
+
+00:02:37.509 --> 00:02:37.519 align:start position:0%
+learn it preo Camp's another one but um
+ 
+
+00:02:37.519 --> 00:02:39.270 align:start position:0%
+learn it preo Camp's another one but um
+you<00:02:37.640><c> know</c><00:02:37.879><c> find</c><00:02:38.080><c> your</c><00:02:38.280><c> best</c><00:02:38.480><c> resource</c><00:02:38.959><c> but</c><00:02:39.159><c> I</c>
+
+00:02:39.270 --> 00:02:39.280 align:start position:0%
+you know find your best resource but I
+ 
+
+00:02:39.280 --> 00:02:42.070 align:start position:0%
+you know find your best resource but I
+do<00:02:39.599><c> recommend</c><00:02:40.120><c> that</c><00:02:40.200><c> you</c><00:02:40.319><c> go</c><00:02:40.440><c> to</c><00:02:40.560><c> the</c><00:02:41.080><c> standard</c>
+
+00:02:42.070 --> 00:02:42.080 align:start position:0%
+do recommend that you go to the standard
+ 
+
+00:02:42.080 --> 00:02:43.790 align:start position:0%
+do recommend that you go to the standard
+um<00:02:42.480><c> that</c><00:02:42.599><c> you</c><00:02:42.720><c> at</c><00:02:42.840><c> least</c><00:02:43.000><c> know</c><00:02:43.280><c> how</c><00:02:43.400><c> to</c><00:02:43.560><c> go</c><00:02:43.640><c> to</c>
+
+00:02:43.790 --> 00:02:43.800 align:start position:0%
+um that you at least know how to go to
+ 
+
+00:02:43.800 --> 00:02:47.229 align:start position:0%
+um that you at least know how to go to
+the<00:02:43.959><c> standard</c><00:02:44.959><c> to</c><00:02:45.159><c> look</c><00:02:45.280><c> it</c><00:02:45.440><c> up</c><00:02:46.239><c> um</c><00:02:46.920><c> is</c><00:02:47.040><c> this</c>
+
+00:02:47.229 --> 00:02:47.239 align:start position:0%
+the standard to look it up um is this
+ 
+
+00:02:47.239 --> 00:02:51.309 align:start position:0%
+the standard to look it up um is this
+HTML<00:02:47.800><c> 5</c><00:02:48.200><c> yes</c><00:02:48.400><c> HTML</c><00:02:48.840><c> versus</c><00:02:49.200><c> XML</c><00:02:50.200><c> common</c>
+
+00:02:51.309 --> 00:02:51.319 align:start position:0%
+HTML 5 yes HTML versus XML common
+ 
+
+00:02:51.319 --> 00:02:53.149 align:start position:0%
+HTML 5 yes HTML versus XML common
+infrastructure<00:02:52.319><c> um</c><00:02:52.560><c> I'm</c><00:02:52.720><c> looking</c><00:02:52.920><c> for</c><00:02:53.040><c> the</c>
+
+00:02:53.149 --> 00:02:53.159 align:start position:0%
+infrastructure um I'm looking for the
+ 
+
+00:02:53.159 --> 00:02:56.229 align:start position:0%
+infrastructure um I'm looking for the
+web<00:02:53.400><c> page</c><00:02:53.640><c> part</c><00:02:54.560><c> Ving</c><00:02:55.080><c> resources</c><00:02:55.800><c> oh</c><00:02:56.000><c> wait</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+web page part Ving resources oh wait
+ 
+
+00:02:56.239 --> 00:02:57.910 align:start position:0%
+web page part Ving resources oh wait
+this<00:02:56.360><c> is</c>
+
+00:02:57.910 --> 00:02:57.920 align:start position:0%
+this is
+ 
+
+00:02:57.920 --> 00:03:00.910 align:start position:0%
+this is
+um<00:02:58.920><c> I'm</c><00:02:59.080><c> missing</c><00:02:59.480><c> I'm</c><00:02:59.599><c> missing</c><00:02:59.959><c> ing</c><00:03:00.120><c> my</c><00:03:00.319><c> link</c>
+
+00:03:00.910 --> 00:03:00.920 align:start position:0%
+um I'm missing I'm missing ing my link
+ 
+
+00:03:00.920 --> 00:03:03.990 align:start position:0%
+um I'm missing I'm missing ing my link
+where<00:03:01.080><c> is</c><00:03:01.200><c> it</c><00:03:01.959><c> um</c><00:03:02.959><c> the</c><00:03:03.080><c> elements</c><00:03:03.400><c> of</c><00:03:03.519><c> HTML</c>
+
+00:03:03.990 --> 00:03:04.000 align:start position:0%
+where is it um the elements of HTML
+ 
+
+00:03:04.000 --> 00:03:05.229 align:start position:0%
+where is it um the elements of HTML
+there<00:03:04.120><c> we</c><00:03:04.280><c> go</c><00:03:04.519><c> that's</c><00:03:04.640><c> what</c><00:03:04.760><c> I</c><00:03:04.840><c> wanted</c><00:03:05.120><c> the</c>
+
+00:03:05.229 --> 00:03:05.239 align:start position:0%
+there we go that's what I wanted the
+ 
+
+00:03:05.239 --> 00:03:08.149 align:start position:0%
+there we go that's what I wanted the
+elements<00:03:05.560><c> of</c><00:03:05.720><c> HTML</c><00:03:06.720><c> so</c><00:03:07.159><c> again</c><00:03:07.319><c> an</c><00:03:07.480><c> element</c><00:03:08.040><c> is</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+elements of HTML so again an element is
+ 
+
+00:03:08.159 --> 00:03:10.830 align:start position:0%
+elements of HTML so again an element is
+a<00:03:08.319><c> key</c><00:03:08.560><c> value</c><00:03:09.120><c> could</c><00:03:09.280><c> be</c><00:03:09.440><c> a</c><00:03:09.599><c> start</c><00:03:09.799><c> and</c><00:03:09.920><c> end</c><00:03:10.200><c> tag</c>
+
+00:03:10.830 --> 00:03:10.840 align:start position:0%
+a key value could be a start and end tag
+ 
+
+00:03:10.840 --> 00:03:12.630 align:start position:0%
+a key value could be a start and end tag
+you<00:03:10.959><c> know</c><00:03:11.080><c> it's</c><00:03:11.280><c> got</c><00:03:11.560><c> the</c><00:03:11.879><c> the</c><00:03:12.000><c> tags</c><00:03:12.280><c> are</c><00:03:12.519><c> the</c>
+
+00:03:12.630 --> 00:03:12.640 align:start position:0%
+you know it's got the the tags are the
+ 
+
+00:03:12.640 --> 00:03:14.589 align:start position:0%
+you know it's got the the tags are the
+things<00:03:12.840><c> with</c><00:03:13.000><c> the</c><00:03:13.239><c> angle</c><00:03:13.560><c> brackets</c><00:03:14.280><c> around</c>
+
+00:03:14.589 --> 00:03:14.599 align:start position:0%
+things with the angle brackets around
+ 
+
+00:03:14.599 --> 00:03:15.670 align:start position:0%
+things with the angle brackets around
+them<00:03:14.799><c> the</c><00:03:14.920><c> less</c><00:03:15.120><c> than</c><00:03:15.239><c> are</c><00:03:15.319><c> greater</c><00:03:15.519><c> than</c>
+
+00:03:15.670 --> 00:03:15.680 align:start position:0%
+them the less than are greater than
+ 
+
+00:03:15.680 --> 00:03:17.470 align:start position:0%
+them the less than are greater than
+signs<00:03:16.480><c> and</c><00:03:16.599><c> then</c><00:03:16.720><c> we</c><00:03:16.840><c> here</c><00:03:17.000><c> here</c><00:03:17.120><c> we</c><00:03:17.200><c> have</c><00:03:17.319><c> the</c>
+
+00:03:17.470 --> 00:03:17.480 align:start position:0%
+signs and then we here here we have the
+ 
+
+00:03:17.480 --> 00:03:19.830 align:start position:0%
+signs and then we here here we have the
+document<00:03:17.920><c> so</c><00:03:18.080><c> we</c><00:03:18.159><c> have</c><00:03:18.239><c> the</c><00:03:18.319><c> HTML</c><00:03:18.840><c> element</c><00:03:19.720><c> uh</c>
+
+00:03:19.830 --> 00:03:19.840 align:start position:0%
+document so we have the HTML element uh
+ 
+
+00:03:19.840 --> 00:03:21.229 align:start position:0%
+document so we have the HTML element uh
+we<00:03:19.920><c> can</c><00:03:20.080><c> click</c><00:03:20.239><c> on</c><00:03:20.400><c> that</c><00:03:20.599><c> and</c><00:03:20.720><c> then</c><00:03:20.879><c> learn</c>
+
+00:03:21.229 --> 00:03:21.239 align:start position:0%
+we can click on that and then learn
+ 
+
+00:03:21.239 --> 00:03:23.430 align:start position:0%
+we can click on that and then learn
+about<00:03:21.480><c> the</c><00:03:21.560><c> HTML</c><00:03:22.080><c> element</c><00:03:23.080><c> uh</c><00:03:23.159><c> you</c><00:03:23.280><c> don't</c>
+
+00:03:23.430 --> 00:03:23.440 align:start position:0%
+about the HTML element uh you don't
+ 
+
+00:03:23.440 --> 00:03:25.390 align:start position:0%
+about the HTML element uh you don't
+necessarily<00:03:24.000><c> have</c><00:03:24.120><c> to</c><00:03:24.280><c> know</c><00:03:24.680><c> about</c><00:03:24.879><c> the</c><00:03:25.040><c> Dom</c>
+
+00:03:25.390 --> 00:03:25.400 align:start position:0%
+necessarily have to know about the Dom
+ 
+
+00:03:25.400 --> 00:03:28.710 align:start position:0%
+necessarily have to know about the Dom
+but<00:03:25.680><c> but</c><00:03:25.879><c> before</c><00:03:26.120><c> we</c><00:03:26.280><c> get</c><00:03:26.440><c> too</c><00:03:26.799><c> far</c><00:03:27.360><c> along</c><00:03:28.360><c> um</c><00:03:28.640><c> I</c>
+
+00:03:28.710 --> 00:03:28.720 align:start position:0%
+but but before we get too far along um I
+ 
+
+00:03:28.720 --> 00:03:30.350 align:start position:0%
+but but before we get too far along um I
+do<00:03:28.879><c> want</c><00:03:28.959><c> to</c><00:03:29.159><c> talk</c><00:03:29.319><c> about</c><00:03:29.480><c> the</c><00:03:30.040><c> I</c><00:03:30.120><c> should</c><00:03:30.239><c> have</c>
+
+00:03:30.350 --> 00:03:30.360 align:start position:0%
+do want to talk about the I should have
+ 
+
+00:03:30.360 --> 00:03:31.350 align:start position:0%
+do want to talk about the I should have
+talked<00:03:30.560><c> about</c><00:03:30.640><c> it</c><00:03:30.720><c> in</c><00:03:30.799><c> the</c><00:03:30.879><c> other</c><00:03:31.040><c> video</c><00:03:31.239><c> but</c>
+
+00:03:31.350 --> 00:03:31.360 align:start position:0%
+talked about it in the other video but
+ 
+
+00:03:31.360 --> 00:03:34.030 align:start position:0%
+talked about it in the other video but
+now<00:03:31.480><c> is</c><00:03:31.599><c> a</c><00:03:31.760><c> good</c><00:03:31.920><c> time</c><00:03:32.280><c> so</c><00:03:33.080><c> what</c><00:03:33.280><c> is</c><00:03:33.480><c> the</c><00:03:33.680><c> Dom</c>
+
+00:03:34.030 --> 00:03:34.040 align:start position:0%
+now is a good time so what is the Dom
+ 
+
+00:03:34.040 --> 00:03:36.030 align:start position:0%
+now is a good time so what is the Dom
+the<00:03:34.159><c> Dom</c><00:03:34.519><c> is</c><00:03:34.680><c> the</c><00:03:34.920><c> document</c><00:03:35.360><c> object</c><00:03:35.680><c> model</c>
+
+00:03:36.030 --> 00:03:36.040 align:start position:0%
+the Dom is the document object model
+ 
+
+00:03:36.040 --> 00:03:39.190 align:start position:0%
+the Dom is the document object model
+that<00:03:36.159><c> governs</c><00:03:36.720><c> all</c><00:03:36.879><c> of</c><00:03:37.080><c> this</c><00:03:37.319><c> stuff</c><00:03:38.319><c> um</c><00:03:38.920><c> h</c><00:03:39.120><c> i</c>
+
+00:03:39.190 --> 00:03:39.200 align:start position:0%
+that governs all of this stuff um h i
+ 
+
+00:03:39.200 --> 00:03:41.270 align:start position:0%
+that governs all of this stuff um h i
+did<00:03:39.360><c> another</c><00:03:39.640><c> video</c><00:03:40.040><c> on</c><00:03:40.200><c> the</c><00:03:40.360><c> document</c><00:03:40.799><c> web</c>
+
+00:03:41.270 --> 00:03:41.280 align:start position:0%
+did another video on the document web
+ 
+
+00:03:41.280 --> 00:03:43.390 align:start position:0%
+did another video on the document web
+versus<00:03:41.959><c> the</c><00:03:42.239><c> applications</c><00:03:42.760><c> web</c><00:03:43.000><c> streaming</c>
+
+00:03:43.390 --> 00:03:43.400 align:start position:0%
+versus the applications web streaming
+ 
+
+00:03:43.400 --> 00:03:44.750 align:start position:0%
+versus the applications web streaming
+web<00:03:43.599><c> and</c><00:03:43.720><c> stuff</c><00:03:43.959><c> like</c><00:03:44.120><c> that</c><00:03:44.280><c> make</c><00:03:44.400><c> sure</c><00:03:44.560><c> you</c>
+
+00:03:44.750 --> 00:03:44.760 align:start position:0%
+web and stuff like that make sure you
+ 
+
+00:03:44.760 --> 00:03:46.429 align:start position:0%
+web and stuff like that make sure you
+watch<00:03:45.080><c> that</c><00:03:45.760><c> uh</c><00:03:45.879><c> to</c><00:03:46.200><c> understand</c><00:03:46.319><c> the</c>
+
+00:03:46.429 --> 00:03:46.439 align:start position:0%
+watch that uh to understand the
+ 
+
+00:03:46.439 --> 00:03:48.229 align:start position:0%
+watch that uh to understand the
+difference<00:03:46.720><c> but</c><00:03:46.840><c> the</c><00:03:47.000><c> document</c><00:03:47.439><c> web</c><00:03:47.879><c> is</c><00:03:48.040><c> the</c>
+
+00:03:48.229 --> 00:03:48.239 align:start position:0%
+difference but the document web is the
+ 
+
+00:03:48.239 --> 00:03:52.190 align:start position:0%
+difference but the document web is the
+original<00:03:48.760><c> web</c><00:03:49.720><c> and</c><00:03:50.159><c> the</c><00:03:50.720><c> Paradigm</c><00:03:51.519><c> for</c>
+
+00:03:52.190 --> 00:03:52.200 align:start position:0%
+original web and the Paradigm for
+ 
+
+00:03:52.200 --> 00:03:55.470 align:start position:0%
+original web and the Paradigm for
+knowledge<00:03:52.799><c> you</c><00:03:52.920><c> know</c><00:03:53.079><c> transfer</c><00:03:53.799><c> is</c><00:03:54.480><c> document</c>
+
+00:03:55.470 --> 00:03:55.480 align:start position:0%
+knowledge you know transfer is document
+ 
+
+00:03:55.480 --> 00:03:57.429 align:start position:0%
+knowledge you know transfer is document
+as<00:03:55.680><c> in</c><00:03:56.239><c> you</c><00:03:56.400><c> know</c><00:03:56.879><c> something</c><00:03:57.159><c> with</c><00:03:57.280><c> a</c>
+
+00:03:57.429 --> 00:03:57.439 align:start position:0%
+as in you know something with a
+ 
+
+00:03:57.439 --> 00:03:59.229 align:start position:0%
+as in you know something with a
+paragraph<00:03:57.959><c> a</c><00:03:58.120><c> section</c><00:03:58.560><c> and</c><00:03:58.720><c> all</c><00:03:58.879><c> that</c><00:03:59.000><c> kind</c><00:03:59.120><c> of</c>
+
+00:03:59.229 --> 00:03:59.239 align:start position:0%
+paragraph a section and all that kind of
+ 
+
+00:03:59.239 --> 00:04:01.229 align:start position:0%
+paragraph a section and all that kind of
+thing<00:04:00.120><c> and</c><00:04:00.280><c> it's</c><00:04:00.400><c> really</c><00:04:00.560><c> important</c><00:04:00.840><c> you</c>
+
+00:04:01.229 --> 00:04:01.239 align:start position:0%
+thing and it's really important you
+ 
+
+00:04:01.239 --> 00:04:03.429 align:start position:0%
+thing and it's really important you
+understand<00:04:01.439><c> that</c><00:04:01.760><c> because</c><00:04:02.680><c> the</c><00:04:02.920><c> document</c>
+
+00:04:03.429 --> 00:04:03.439 align:start position:0%
+understand that because the document
+ 
+
+00:04:03.439 --> 00:04:07.069 align:start position:0%
+understand that because the document
+object<00:04:04.239><c> model</c><00:04:05.239><c> um</c><00:04:06.000><c> which</c><00:04:06.319><c> we</c><00:04:06.439><c> will</c><00:04:06.680><c> not</c><00:04:06.920><c> get</c>
+
+00:04:07.069 --> 00:04:07.079 align:start position:0%
+object model um which we will not get
+ 
+
+00:04:07.079 --> 00:04:09.910 align:start position:0%
+object model um which we will not get
+into<00:04:07.840><c> too</c><00:04:08.239><c> deeply</c><00:04:09.239><c> we're</c><00:04:09.360><c> going</c><00:04:09.439><c> to</c><00:04:09.680><c> but</c><00:04:09.799><c> it</c>
+
+00:04:09.910 --> 00:04:09.920 align:start position:0%
+into too deeply we're going to but it
+ 
+
+00:04:09.920 --> 00:04:11.309 align:start position:0%
+into too deeply we're going to but it
+does<00:04:10.079><c> help</c><00:04:10.239><c> you</c><00:04:10.680><c> understand</c><00:04:10.879><c> this</c><00:04:11.159><c> the</c>
+
+00:04:11.309 --> 00:04:11.319 align:start position:0%
+does help you understand this the
+ 
+
+00:04:11.319 --> 00:04:15.509 align:start position:0%
+does help you understand this the
+structure<00:04:12.200><c> of</c><00:04:12.959><c> of</c><00:04:13.079><c> a</c><00:04:13.280><c> document</c><00:04:13.720><c> in</c><00:04:14.400><c> general</c><00:04:15.400><c> um</c>
+
+00:04:15.509 --> 00:04:15.519 align:start position:0%
+structure of of a document in general um
+ 
+
+00:04:15.519 --> 00:04:18.030 align:start position:0%
+structure of of a document in general um
+the<00:04:15.640><c> idea</c><00:04:15.920><c> of</c><00:04:16.000><c> it</c><00:04:16.160><c> having</c><00:04:16.639><c> heading</c><00:04:17.639><c> and</c><00:04:17.919><c> you</c>
+
+00:04:18.030 --> 00:04:18.040 align:start position:0%
+the idea of it having heading and you
+ 
+
+00:04:18.040 --> 00:04:20.469 align:start position:0%
+the idea of it having heading and you
+know<00:04:18.400><c> Footers</c><00:04:19.320><c> and</c><00:04:19.680><c> paragraphs</c><00:04:20.160><c> and</c><00:04:20.280><c> things</c>
+
+00:04:20.469 --> 00:04:20.479 align:start position:0%
+know Footers and paragraphs and things
+ 
+
+00:04:20.479 --> 00:04:25.670 align:start position:0%
+know Footers and paragraphs and things
+like<00:04:20.880><c> that</c><00:04:21.880><c> um</c><00:04:22.280><c> that</c><00:04:22.440><c> is</c><00:04:22.639><c> the</c><00:04:23.320><c> fundamental</c><00:04:24.520><c> uh</c>
+
+00:04:25.670 --> 00:04:25.680 align:start position:0%
+like that um that is the fundamental uh
+ 
+
+00:04:25.680 --> 00:04:30.310 align:start position:0%
+like that um that is the fundamental uh
+original<00:04:26.680><c> original</c><00:04:27.320><c> idea</c><00:04:28.520><c> behind</c><00:04:29.520><c> um</c><00:04:30.039><c> behind</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+original original idea behind um behind
+ 
+
+00:04:30.320 --> 00:04:33.510 align:start position:0%
+original original idea behind um behind
+HTML<00:04:31.080><c> and</c><00:04:31.280><c> so</c><00:04:31.520><c> the</c><00:04:31.720><c> document</c><00:04:32.199><c> object</c><00:04:32.600><c> model</c>
+
+00:04:33.510 --> 00:04:33.520 align:start position:0%
+HTML and so the document object model
+ 
+
+00:04:33.520 --> 00:04:35.749 align:start position:0%
+HTML and so the document object model
+has<00:04:33.880><c> has</c><00:04:34.199><c> has</c><00:04:34.320><c> maintained</c><00:04:34.800><c> that</c><00:04:35.000><c> now</c><00:04:35.600><c> the</c>
+
+00:04:35.749 --> 00:04:35.759 align:start position:0%
+has has has maintained that now the
+ 
+
+00:04:35.759 --> 00:04:37.390 align:start position:0%
+has has has maintained that now the
+document<00:04:36.160><c> object</c><00:04:36.440><c> model</c><00:04:36.680><c> refers</c><00:04:37.039><c> to</c><00:04:37.199><c> many</c>
+
+00:04:37.390 --> 00:04:37.400 align:start position:0%
+document object model refers to many
+ 
+
+00:04:37.400 --> 00:04:38.990 align:start position:0%
+document object model refers to many
+other<00:04:37.759><c> things</c>
+
+00:04:38.990 --> 00:04:39.000 align:start position:0%
+other things
+ 
+
+00:04:39.000 --> 00:04:42.270 align:start position:0%
+other things
+besides<00:04:40.000><c> um</c><00:04:40.840><c> you</c><00:04:41.000><c> know</c><00:04:41.320><c> just</c><00:04:41.560><c> how</c><00:04:41.840><c> the</c><00:04:42.080><c> the</c>
+
+00:04:42.270 --> 00:04:42.280 align:start position:0%
+besides um you know just how the the
+ 
+
+00:04:42.280 --> 00:04:45.670 align:start position:0%
+besides um you know just how the the
+page<00:04:42.880><c> is</c><00:04:43.160><c> is</c><00:04:43.759><c> outlined</c><00:04:44.759><c> um</c><00:04:44.960><c> it's</c><00:04:45.160><c> come</c><00:04:45.360><c> to</c>
+
+00:04:45.670 --> 00:04:45.680 align:start position:0%
+page is is outlined um it's come to
+ 
+
+00:04:45.680 --> 00:04:47.270 align:start position:0%
+page is is outlined um it's come to
+include<00:04:46.039><c> things</c><00:04:46.240><c> that</c><00:04:46.440><c> really</c><00:04:46.639><c> don't</c><00:04:46.960><c> fall</c>
+
+00:04:47.270 --> 00:04:47.280 align:start position:0%
+include things that really don't fall
+ 
+
+00:04:47.280 --> 00:04:49.430 align:start position:0%
+include things that really don't fall
+under<00:04:47.600><c> the</c><00:04:47.880><c> category</c><00:04:48.360><c> of</c><00:04:48.560><c> documents</c><00:04:49.080><c> such</c><00:04:49.240><c> as</c>
+
+00:04:49.430 --> 00:04:49.440 align:start position:0%
+under the category of documents such as
+ 
+
+00:04:49.440 --> 00:04:53.029 align:start position:0%
+under the category of documents such as
+divs<00:04:49.919><c> and</c><00:04:50.919><c> and</c><00:04:51.639><c> and</c><00:04:51.880><c> for</c><00:04:52.240><c> that</c>
+
+00:04:53.029 --> 00:04:53.039 align:start position:0%
+divs and and and for that
+ 
+
+00:04:53.039 --> 00:04:57.029 align:start position:0%
+divs and and and for that
+reason<00:04:54.039><c> um</c><00:04:55.000><c> you</c><00:04:55.160><c> know</c><00:04:55.560><c> the</c><00:04:55.840><c> the</c><00:04:56.560><c> the</c><00:04:56.639><c> term</c>
+
+00:04:57.029 --> 00:04:57.039 align:start position:0%
+reason um you know the the the term
+ 
+
+00:04:57.039 --> 00:04:59.990 align:start position:0%
+reason um you know the the the term
+document<00:04:57.479><c> in</c><00:04:57.720><c> Doc</c><00:04:58.160><c> object</c><00:04:58.560><c> model</c><00:04:58.919><c> starts</c><00:04:59.240><c> to</c>
+
+00:04:59.990 --> 00:05:00.000 align:start position:0%
+document in Doc object model starts to
+ 
+
+00:05:00.000 --> 00:05:02.510 align:start position:0%
+document in Doc object model starts to
+kind<00:05:00.120><c> of</c><00:05:00.680><c> you</c><00:05:00.800><c> know</c><00:05:01.080><c> lose</c><00:05:01.479><c> its</c><00:05:01.800><c> value</c><00:05:02.199><c> when</c><00:05:02.360><c> you</c>
+
+00:05:02.510 --> 00:05:02.520 align:start position:0%
+kind of you know lose its value when you
+ 
+
+00:05:02.520 --> 00:05:06.350 align:start position:0%
+kind of you know lose its value when you
+start<00:05:02.759><c> looking</c><00:05:03.440><c> at</c><00:05:04.440><c> uh</c><00:05:04.800><c> using</c><00:05:05.320><c> the</c><00:05:05.560><c> Dom</c><00:05:06.000><c> for</c>
+
+00:05:06.350 --> 00:05:06.360 align:start position:0%
+start looking at uh using the Dom for
+ 
+
+00:05:06.360 --> 00:05:08.070 align:start position:0%
+start looking at uh using the Dom for
+JavaScript<00:05:07.320><c> the</c><00:05:07.400><c> reason</c><00:05:07.600><c> I</c><00:05:07.720><c> thought</c><00:05:07.880><c> about</c>
+
+00:05:08.070 --> 00:05:08.080 align:start position:0%
+JavaScript the reason I thought about
+ 
+
+00:05:08.080 --> 00:05:09.950 align:start position:0%
+JavaScript the reason I thought about
+this<00:05:08.199><c> is</c><00:05:08.400><c> because</c><00:05:08.639><c> this</c><00:05:08.840><c> IDL</c><00:05:09.280><c> the</c><00:05:09.400><c> stand</c><00:05:09.680><c> for</c>
+
+00:05:09.950 --> 00:05:09.960 align:start position:0%
+this is because this IDL the stand for
+ 
+
+00:05:09.960 --> 00:05:13.550 align:start position:0%
+this is because this IDL the stand for
+interface<00:05:10.440><c> definition</c><00:05:11.240><c> language</c><00:05:12.240><c> um</c><00:05:12.960><c> this</c>
+
+00:05:13.550 --> 00:05:13.560 align:start position:0%
+interface definition language um this
+ 
+
+00:05:13.560 --> 00:05:16.430 align:start position:0%
+interface definition language um this
+defines<00:05:14.560><c> uh</c><00:05:15.199><c> stuff</c><00:05:15.520><c> that</c><00:05:15.800><c> normally</c><00:05:16.160><c> you</c><00:05:16.280><c> would</c>
+
+00:05:16.430 --> 00:05:16.440 align:start position:0%
+defines uh stuff that normally you would
+ 
+
+00:05:16.440 --> 00:05:17.350 align:start position:0%
+defines uh stuff that normally you would
+see<00:05:16.600><c> in</c>
+
+00:05:17.350 --> 00:05:17.360 align:start position:0%
+see in
+ 
+
+00:05:17.360 --> 00:05:20.270 align:start position:0%
+see in
+JavaScript<00:05:18.360><c> uh</c><00:05:18.560><c> or</c><00:05:18.759><c> some</c><00:05:18.919><c> other</c><00:05:19.160><c> language</c><00:05:19.479><c> for</c>
+
+00:05:20.270 --> 00:05:20.280 align:start position:0%
+JavaScript uh or some other language for
+ 
+
+00:05:20.280 --> 00:05:22.990 align:start position:0%
+JavaScript uh or some other language for
+manipulating<00:05:21.280><c> this</c><00:05:21.680><c> document</c><00:05:22.160><c> object</c><00:05:22.520><c> model</c>
+
+00:05:22.990 --> 00:05:23.000 align:start position:0%
+manipulating this document object model
+ 
+
+00:05:23.000 --> 00:05:24.830 align:start position:0%
+manipulating this document object model
+so<00:05:23.160><c> this</c><00:05:23.280><c> is</c><00:05:23.880><c> the</c><00:05:24.000><c> way</c><00:05:24.240><c> the</c><00:05:24.400><c> thing</c><00:05:24.520><c> would</c><00:05:24.680><c> be</c>
+
+00:05:24.830 --> 00:05:24.840 align:start position:0%
+so this is the way the thing would be
+ 
+
+00:05:24.840 --> 00:05:27.390 align:start position:0%
+so this is the way the thing would be
+implemented<00:05:25.360><c> underneath</c><00:05:26.319><c> uh</c><00:05:26.680><c> you</c><00:05:26.759><c> know</c><00:05:27.199><c> in</c>
+
+00:05:27.390 --> 00:05:27.400 align:start position:0%
+implemented underneath uh you know in
+ 
+
+00:05:27.400 --> 00:05:28.909 align:start position:0%
+implemented underneath uh you know in
+inside<00:05:27.800><c> of</c><00:05:27.919><c> the</c><00:05:28.000><c> web</c><00:05:28.199><c> browser</c><00:05:28.520><c> or</c><00:05:28.600><c> something</c>
+
+00:05:28.909 --> 00:05:28.919 align:start position:0%
+inside of the web browser or something
+ 
+
+00:05:28.919 --> 00:05:32.309 align:start position:0%
+inside of the web browser or something
+like<00:05:29.080><c> that</c><00:05:30.080><c> um</c><00:05:30.600><c> but</c><00:05:30.800><c> so</c><00:05:31.199><c> I</c><00:05:31.319><c> I</c><00:05:31.440><c> guess</c><00:05:31.560><c> it</c><00:05:31.759><c> suffice</c>
+
+00:05:32.309 --> 00:05:32.319 align:start position:0%
+like that um but so I I guess it suffice
+ 
+
+00:05:32.319 --> 00:05:34.230 align:start position:0%
+like that um but so I I guess it suffice
+to<00:05:32.479><c> say</c><00:05:32.800><c> that</c><00:05:33.160><c> you're</c><00:05:33.319><c> going</c><00:05:33.440><c> to</c><00:05:33.600><c> hear</c><00:05:34.000><c> about</c>
+
+00:05:34.230 --> 00:05:34.240 align:start position:0%
+to say that you're going to hear about
+ 
+
+00:05:34.240 --> 00:05:36.510 align:start position:0%
+to say that you're going to hear about
+the<00:05:34.400><c> Dom</c><00:05:34.759><c> a</c><00:05:34.880><c> lot</c><00:05:35.240><c> about</c><00:05:35.440><c> the</c><00:05:35.639><c> do</c><00:05:36.039><c> document</c>
+
+00:05:36.510 --> 00:05:36.520 align:start position:0%
+the Dom a lot about the do document
+ 
+
+00:05:36.520 --> 00:05:39.710 align:start position:0%
+the Dom a lot about the do document
+object<00:05:36.880><c> model</c><00:05:37.240><c> about</c><00:05:37.440><c> the</c><00:05:37.680><c> idea</c><00:05:38.160><c> that</c><00:05:39.039><c> um</c><00:05:39.520><c> that</c>
+
+00:05:39.710 --> 00:05:39.720 align:start position:0%
+object model about the idea that um that
+ 
+
+00:05:39.720 --> 00:05:41.830 align:start position:0%
+object model about the idea that um that
+everything<00:05:40.319><c> in</c><00:05:40.800><c> in</c><00:05:41.039><c> in</c><00:05:41.160><c> a</c><00:05:41.360><c> particular</c>
+
+00:05:41.830 --> 00:05:41.840 align:start position:0%
+everything in in in a particular
+ 
+
+00:05:41.840 --> 00:05:43.990 align:start position:0%
+everything in in in a particular
+document<00:05:42.360><c> is</c><00:05:42.479><c> a</c><00:05:42.919><c> has</c><00:05:43.080><c> a</c><00:05:43.319><c> document</c><00:05:43.720><c> object</c>
+
+00:05:43.990 --> 00:05:44.000 align:start position:0%
+document is a has a document object
+ 
+
+00:05:44.000 --> 00:05:46.390 align:start position:0%
+document is a has a document object
+model<00:05:44.400><c> so</c><00:05:45.319><c> um</c><00:05:45.479><c> to</c><00:05:45.680><c> give</c><00:05:45.800><c> you</c><00:05:45.880><c> a</c><00:05:45.960><c> sense</c><00:05:46.160><c> of</c><00:05:46.280><c> this</c>
+
+00:05:46.390 --> 00:05:46.400 align:start position:0%
+model so um to give you a sense of this
+ 
+
+00:05:46.400 --> 00:05:47.990 align:start position:0%
+model so um to give you a sense of this
+let<00:05:46.520><c> me</c><00:05:46.759><c> actually</c><00:05:47.000><c> put</c><00:05:47.199><c> something</c><00:05:47.560><c> in</c><00:05:47.759><c> this</c>
+
+00:05:47.990 --> 00:05:48.000 align:start position:0%
+let me actually put something in this
+ 
+
+00:05:48.000 --> 00:05:50.309 align:start position:0%
+let me actually put something in this
+document<00:05:48.440><c> here</c><00:05:49.240><c> and</c><00:05:49.440><c> I'll</c><00:05:49.600><c> show</c><00:05:49.800><c> you</c><00:05:50.000><c> what</c><00:05:50.120><c> I</c>
+
+00:05:50.309 --> 00:05:50.319 align:start position:0%
+document here and I'll show you what I
+ 
+
+00:05:50.319 --> 00:05:54.350 align:start position:0%
+document here and I'll show you what I
+mean<00:05:51.319><c> um</c><00:05:51.759><c> so</c><00:05:52.080><c> when</c><00:05:52.199><c> you</c><00:05:52.360><c> save</c><00:05:52.720><c> this</c><00:05:53.080><c> here</c><00:05:54.080><c> uh</c>
+
+00:05:54.350 --> 00:05:54.360 align:start position:0%
+mean um so when you save this here uh
+ 
+
+00:05:54.360 --> 00:05:56.029 align:start position:0%
+mean um so when you save this here uh
+here<00:05:54.560><c> refresh</c><00:05:54.960><c> here</c><00:05:55.319><c> okay</c><00:05:55.440><c> so</c><00:05:55.639><c> now</c><00:05:55.800><c> we</c><00:05:55.919><c> have</c>
+
+00:05:56.029 --> 00:05:56.039 align:start position:0%
+here refresh here okay so now we have
+ 
+
+00:05:56.039 --> 00:05:57.469 align:start position:0%
+here refresh here okay so now we have
+something<00:05:56.280><c> we</c><00:05:56.400><c> can</c><00:05:56.560><c> insect</c><00:05:56.880><c> element</c><00:05:57.240><c> which</c><00:05:57.319><c> we</c>
+
+00:05:57.469 --> 00:05:57.479 align:start position:0%
+something we can insect element which we
+ 
+
+00:05:57.479 --> 00:05:59.590 align:start position:0%
+something we can insect element which we
+talk<00:05:57.639><c> about</c><00:05:57.800><c> in</c><00:05:57.960><c> another</c><00:05:58.280><c> video</c><00:05:59.240><c> and</c><00:05:59.400><c> you</c><00:05:59.479><c> can</c>
+
+00:05:59.590 --> 00:05:59.600 align:start position:0%
+talk about in another video and you can
+ 
+
+00:05:59.600 --> 00:06:00.950 align:start position:0%
+talk about in another video and you can
+you<00:05:59.639><c> can</c><00:05:59.720><c> click</c><00:05:59.880><c> on</c><00:06:00.080><c> Console</c><00:06:00.560><c> here</c><00:06:00.759><c> and</c><00:06:00.840><c> you</c>
+
+00:06:00.950 --> 00:06:00.960 align:start position:0%
+you can click on Console here and you
+ 
+
+00:06:00.960 --> 00:06:03.270 align:start position:0%
+you can click on Console here and you
+see<00:06:01.120><c> there's</c><00:06:01.319><c> our</c><00:06:01.479><c> dock</c><00:06:01.800><c> type</c><00:06:02.639><c> and</c><00:06:02.880><c> our</c><00:06:03.080><c> head</c>
+
+00:06:03.270 --> 00:06:03.280 align:start position:0%
+see there's our dock type and our head
+ 
+
+00:06:03.280 --> 00:06:06.589 align:start position:0%
+see there's our dock type and our head
+and<00:06:03.400><c> our</c><00:06:03.560><c> body</c><00:06:04.280><c> HTML</c><00:06:05.280><c> and</c><00:06:06.039><c> uh</c><00:06:06.199><c> which</c><00:06:06.400><c> we'll</c>
+
+00:06:06.589 --> 00:06:06.599 align:start position:0%
+and our body HTML and uh which we'll
+ 
+
+00:06:06.599 --> 00:06:07.870 align:start position:0%
+and our body HTML and uh which we'll
+talk<00:06:06.759><c> about</c><00:06:06.960><c> in</c><00:06:07.039><c> a</c><00:06:07.160><c> bit</c><00:06:07.360><c> but</c><00:06:07.479><c> what</c><00:06:07.639><c> I</c><00:06:07.720><c> want</c><00:06:07.800><c> to</c>
+
+00:06:07.870 --> 00:06:07.880 align:start position:0%
+talk about in a bit but what I want to
+ 
+
+00:06:07.880 --> 00:06:08.950 align:start position:0%
+talk about in a bit but what I want to
+show<00:06:08.000><c> you</c><00:06:08.120><c> right</c><00:06:08.240><c> now</c><00:06:08.360><c> is</c><00:06:08.440><c> if</c><00:06:08.520><c> you</c><00:06:08.639><c> go</c><00:06:08.720><c> to</c><00:06:08.840><c> the</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+show you right now is if you go to the
+ 
+
+00:06:08.960 --> 00:06:10.589 align:start position:0%
+show you right now is if you go to the
+console<00:06:09.639><c> this</c><00:06:09.759><c> is</c><00:06:09.919><c> a</c><00:06:10.160><c> little</c><00:06:10.280><c> bit</c><00:06:10.440><c> of</c><00:06:10.520><c> a</c>
+
+00:06:10.589 --> 00:06:10.599 align:start position:0%
+console this is a little bit of a
+ 
+
+00:06:10.599 --> 00:06:12.390 align:start position:0%
+console this is a little bit of a
+preview<00:06:10.880><c> of</c><00:06:11.000><c> the</c><00:06:11.120><c> JavaScript</c><00:06:11.639><c> stuff</c><00:06:12.000><c> which</c>
+
+00:06:12.390 --> 00:06:12.400 align:start position:0%
+preview of the JavaScript stuff which
+ 
+
+00:06:12.400 --> 00:06:14.830 align:start position:0%
+preview of the JavaScript stuff which
+we'll<00:06:12.680><c> eventually</c><00:06:13.120><c> do</c><00:06:13.440><c> but</c><00:06:13.639><c> not</c><00:06:13.840><c> as</c><00:06:13.960><c> a</c><00:06:14.160><c> part</c>
+
+00:06:14.830 --> 00:06:14.840 align:start position:0%
+we'll eventually do but not as a part
+ 
+
+00:06:14.840 --> 00:06:16.189 align:start position:0%
+we'll eventually do but not as a part
+this<00:06:15.080><c> particular</c><00:06:15.440><c> part</c><00:06:15.599><c> of</c><00:06:15.720><c> the</c><00:06:15.759><c> Boost</c><00:06:16.039><c> which</c>
+
+00:06:16.189 --> 00:06:16.199 align:start position:0%
+this particular part of the Boost which
+ 
+
+00:06:16.199 --> 00:06:19.589 align:start position:0%
+this particular part of the Boost which
+we're<00:06:16.440><c> focused</c><00:06:16.759><c> on</c><00:06:17.479><c> documents</c><00:06:18.479><c> um</c><00:06:19.160><c> so</c><00:06:19.479><c> when</c>
+
+00:06:19.589 --> 00:06:19.599 align:start position:0%
+we're focused on documents um so when
+ 
+
+00:06:19.599 --> 00:06:21.270 align:start position:0%
+we're focused on documents um so when
+you<00:06:19.800><c> do</c><00:06:20.240><c> when</c><00:06:20.360><c> you</c><00:06:20.440><c> do</c><00:06:20.680><c> this</c><00:06:20.840><c> you</c><00:06:20.919><c> can</c><00:06:21.039><c> say</c>
+
+00:06:21.270 --> 00:06:21.280 align:start position:0%
+you do when you do this you can say
+ 
+
+00:06:21.280 --> 00:06:24.309 align:start position:0%
+you do when you do this you can say
+document<00:06:21.680><c> and</c><00:06:21.800><c> you</c><00:06:21.960><c> see</c><00:06:22.479><c> that</c><00:06:23.080><c> the</c><00:06:23.319><c> base</c><00:06:23.960><c> of</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+document and you see that the base of
+ 
+
+00:06:24.319 --> 00:06:26.950 align:start position:0%
+document and you see that the base of
+everything<00:06:25.080><c> in</c><00:06:25.360><c> here</c><00:06:25.720><c> is</c><00:06:25.880><c> a</c><00:06:26.120><c> document</c><00:06:26.639><c> so</c><00:06:26.840><c> this</c>
+
+00:06:26.950 --> 00:06:26.960 align:start position:0%
+everything in here is a document so this
+ 
+
+00:06:26.960 --> 00:06:29.670 align:start position:0%
+everything in here is a document so this
+is<00:06:27.160><c> where</c><00:06:27.479><c> this</c><00:06:27.680><c> idea</c><00:06:28.000><c> of</c><00:06:28.160><c> the</c><00:06:28.319><c> Dom</c><00:06:28.800><c> comes</c><00:06:29.120><c> from</c>
+
+00:06:29.670 --> 00:06:29.680 align:start position:0%
+is where this idea of the Dom comes from
+ 
+
+00:06:29.680 --> 00:06:31.230 align:start position:0%
+is where this idea of the Dom comes from
+in<00:06:29.840><c> fact</c><00:06:30.000><c> if</c><00:06:30.080><c> you</c><00:06:30.160><c> do</c><00:06:30.400><c> document</c><00:06:30.720><c> location</c><00:06:31.160><c> you</c>
+
+00:06:31.230 --> 00:06:31.240 align:start position:0%
+in fact if you do document location you
+ 
+
+00:06:31.240 --> 00:06:34.070 align:start position:0%
+in fact if you do document location you
+can<00:06:31.400><c> print</c><00:06:31.639><c> out</c><00:06:32.520><c> um</c><00:06:32.800><c> you</c><00:06:32.919><c> can</c><00:06:33.080><c> see</c><00:06:33.720><c> up</c><00:06:33.919><c> here</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+can print out um you can see up here
+ 
+
+00:06:34.080 --> 00:06:37.150 align:start position:0%
+can print out um you can see up here
+there's<00:06:34.280><c> the</c><00:06:34.720><c> URL</c><00:06:35.720><c> uh</c><00:06:36.000><c> of</c><00:06:36.280><c> of</c><00:06:36.400><c> the</c><00:06:36.599><c> document</c>
+
+00:06:37.150 --> 00:06:37.160 align:start position:0%
+there's the URL uh of of the document
+ 
+
+00:06:37.160 --> 00:06:39.110 align:start position:0%
+there's the URL uh of of the document
+and<00:06:37.280><c> you</c><00:06:37.360><c> can</c><00:06:37.599><c> see</c><00:06:37.840><c> all</c><00:06:38.039><c> the</c><00:06:38.520><c> the</c><00:06:38.639><c> stuff</c><00:06:38.919><c> that</c>
+
+00:06:39.110 --> 00:06:39.120 align:start position:0%
+and you can see all the the stuff that
+ 
+
+00:06:39.120 --> 00:06:41.670 align:start position:0%
+and you can see all the the stuff that
+comes<00:06:39.479><c> with</c><00:06:39.639><c> the</c><00:06:39.840><c> document</c><00:06:40.319><c> object</c><00:06:40.680><c> model</c><00:06:41.599><c> uh</c>
+
+00:06:41.670 --> 00:06:41.680 align:start position:0%
+comes with the document object model uh
+ 
+
+00:06:41.680 --> 00:06:42.990 align:start position:0%
+comes with the document object model uh
+so<00:06:41.840><c> these</c><00:06:41.960><c> are</c><00:06:42.120><c> all</c><00:06:42.319><c> attri</c><00:06:42.680><c> you</c><00:06:42.759><c> know</c><00:06:42.880><c> these</c>
+
+00:06:42.990 --> 00:06:43.000 align:start position:0%
+so these are all attri you know these
+ 
+
+00:06:43.000 --> 00:06:44.430 align:start position:0%
+so these are all attri you know these
+are<00:06:43.120><c> all</c><00:06:43.280><c> things</c><00:06:43.440><c> that</c><00:06:43.560><c> are</c><00:06:43.720><c> happening</c><00:06:44.120><c> behind</c>
+
+00:06:44.430 --> 00:06:44.440 align:start position:0%
+are all things that are happening behind
+ 
+
+00:06:44.440 --> 00:06:48.710 align:start position:0%
+are all things that are happening behind
+the<00:06:44.840><c> scenes</c><00:06:45.840><c> um</c><00:06:46.319><c> with</c><00:06:46.560><c> regard</c><00:06:47.319><c> to</c><00:06:48.319><c> uh</c><00:06:48.520><c> just</c>
+
+00:06:48.710 --> 00:06:48.720 align:start position:0%
+the scenes um with regard to uh just
+ 
+
+00:06:48.720 --> 00:06:50.670 align:start position:0%
+the scenes um with regard to uh just
+this<00:06:48.880><c> you</c><00:06:49.000><c> know</c><00:06:49.199><c> humble</c><00:06:49.720><c> little</c><00:06:50.160><c> document</c>
+
+00:06:50.670 --> 00:06:50.680 align:start position:0%
+this you know humble little document
+ 
+
+00:06:50.680 --> 00:06:54.150 align:start position:0%
+this you know humble little document
+page<00:06:51.039><c> right</c><00:06:51.440><c> here</c><00:06:52.440><c> um</c><00:06:53.160><c> and</c><00:06:53.360><c> again</c><00:06:53.759><c> I'm</c>
+
+00:06:54.150 --> 00:06:54.160 align:start position:0%
+page right here um and again I'm
+ 
+
+00:06:54.160 --> 00:06:56.869 align:start position:0%
+page right here um and again I'm
+avoiding<00:06:54.520><c> the</c><00:06:54.680><c> temptation</c><00:06:55.080><c> to</c><00:06:55.280><c> drill</c><00:06:55.759><c> down</c>
+
+00:06:56.869 --> 00:06:56.879 align:start position:0%
+avoiding the temptation to drill down
+ 
+
+00:06:56.879 --> 00:06:59.589 align:start position:0%
+avoiding the temptation to drill down
+into<00:06:57.879><c> um</c><00:06:58.280><c> into</c><00:06:58.599><c> all</c><00:06:58.720><c> of</c><00:06:58.879><c> this</c><00:06:59.080><c> right</c><00:06:59.199><c> now</c><00:06:59.360><c> we</c>
+
+00:06:59.589 --> 00:06:59.599 align:start position:0%
+into um into all of this right now we
+ 
+
+00:06:59.599 --> 00:07:01.629 align:start position:0%
+into um into all of this right now we
+just<00:06:59.720><c> care</c><00:06:59.919><c> about</c><00:07:00.120><c> the</c><00:07:00.280><c> elements</c><00:07:00.639><c> on</c><00:07:00.800><c> the</c><00:07:01.000><c> page</c>
+
+00:07:01.629 --> 00:07:01.639 align:start position:0%
+just care about the elements on the page
+ 
+
+00:07:01.639 --> 00:07:03.830 align:start position:0%
+just care about the elements on the page
+head<00:07:01.840><c> and</c><00:07:02.080><c> body</c><00:07:02.479><c> so</c><00:07:02.919><c> let's</c><00:07:03.160><c> go</c><00:07:03.319><c> back</c><00:07:03.479><c> and</c><00:07:03.639><c> talk</c>
+
+00:07:03.830 --> 00:07:03.840 align:start position:0%
+head and body so let's go back and talk
+ 
+
+00:07:03.840 --> 00:07:06.710 align:start position:0%
+head and body so let's go back and talk
+about<00:07:04.120><c> that</c><00:07:04.280><c> so</c><00:07:04.520><c> we</c><00:07:04.680><c> see</c><00:07:05.639><c> uh</c><00:07:05.840><c> again</c><00:07:06.120><c> doc</c><00:07:06.479><c> type</c>
+
+00:07:06.710 --> 00:07:06.720 align:start position:0%
+about that so we see uh again doc type
+ 
+
+00:07:06.720 --> 00:07:10.629 align:start position:0%
+about that so we see uh again doc type
+HTML<00:07:07.280><c> is</c><00:07:07.639><c> not</c><00:07:07.960><c> an</c><00:07:08.120><c> element</c><00:07:08.800><c> this</c><00:07:09.000><c> is</c><00:07:09.720><c> um</c><00:07:10.280><c> an</c>
+
+00:07:10.629 --> 00:07:10.639 align:start position:0%
+HTML is not an element this is um an
+ 
+
+00:07:10.639 --> 00:07:13.790 align:start position:0%
+HTML is not an element this is um an
+HTML<00:07:11.639><c> uh</c><00:07:11.759><c> element</c><00:07:12.160><c> if</c><00:07:12.319><c> anything</c><00:07:13.039><c> that's</c><00:07:13.280><c> what</c>
+
+00:07:13.790 --> 00:07:13.800 align:start position:0%
+HTML uh element if anything that's what
+ 
+
+00:07:13.800 --> 00:07:15.830 align:start position:0%
+HTML uh element if anything that's what
+put<00:07:13.960><c> the</c><00:07:14.120><c> initial</c><00:07:14.599><c> exclamation</c><00:07:15.160><c> point</c><00:07:15.759><c> and</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+put the initial exclamation point and
+ 
+
+00:07:15.840 --> 00:07:17.869 align:start position:0%
+put the initial exclamation point and
+then<00:07:15.960><c> we</c><00:07:16.080><c> have</c><00:07:16.240><c> HTML</c><00:07:17.039><c> element</c><00:07:17.479><c> with</c><00:07:17.599><c> this</c>
+
+00:07:17.869 --> 00:07:17.879 align:start position:0%
+then we have HTML element with this
+ 
+
+00:07:17.879 --> 00:07:20.550 align:start position:0%
+then we have HTML element with this
+attribute<00:07:18.440><c> Lang</c><00:07:18.800><c> defining</c><00:07:19.160><c> the</c><00:07:19.479><c> language</c><00:07:20.440><c> uh</c>
+
+00:07:20.550 --> 00:07:20.560 align:start position:0%
+attribute Lang defining the language uh
+ 
+
+00:07:20.560 --> 00:07:22.469 align:start position:0%
+attribute Lang defining the language uh
+that's<00:07:20.680><c> not</c><00:07:21.000><c> mandated</c><00:07:21.680><c> but</c><00:07:21.919><c> you</c><00:07:22.039><c> know</c><00:07:22.280><c> this</c>
+
+00:07:22.469 --> 00:07:22.479 align:start position:0%
+that's not mandated but you know this
+ 
+
+00:07:22.479 --> 00:07:24.990 align:start position:0%
+that's not mandated but you know this
+particular<00:07:23.240><c> template</c><00:07:23.800><c> suggests</c><00:07:24.240><c> we</c><00:07:24.360><c> do</c><00:07:24.599><c> that</c>
+
+00:07:24.990 --> 00:07:25.000 align:start position:0%
+particular template suggests we do that
+ 
+
+00:07:25.000 --> 00:07:26.950 align:start position:0%
+particular template suggests we do that
+we're<00:07:25.160><c> going</c><00:07:25.280><c> to</c><00:07:25.400><c> talk</c><00:07:25.560><c> about</c><00:07:25.840><c> the</c><00:07:26.000><c> utf8</c><00:07:26.840><c> uh</c>
+
+00:07:26.950 --> 00:07:26.960 align:start position:0%
+we're going to talk about the utf8 uh
+ 
+
+00:07:26.960 --> 00:07:28.749 align:start position:0%
+we're going to talk about the utf8 uh
+character<00:07:27.319><c> sets</c><00:07:27.720><c> separately</c><00:07:28.199><c> with</c><00:07:28.319><c> the</c><00:07:28.440><c> meta</c>
+
+00:07:28.749 --> 00:07:28.759 align:start position:0%
+character sets separately with the meta
+ 
+
+00:07:28.759 --> 00:07:31.550 align:start position:0%
+character sets separately with the meta
+tag<00:07:29.120><c> but</c><00:07:29.360><c> but</c><00:07:29.560><c> but</c><00:07:30.080><c> here</c><00:07:30.360><c> is</c><00:07:30.560><c> the</c><00:07:30.720><c> head</c><00:07:31.280><c> which</c>
+
+00:07:31.550 --> 00:07:31.560 align:start position:0%
+tag but but but here is the head which
+ 
+
+00:07:31.560 --> 00:07:34.430 align:start position:0%
+tag but but but here is the head which
+has<00:07:32.120><c> uh</c><00:07:32.280><c> non-printed</c><00:07:33.039><c> stuff</c><00:07:33.280><c> in</c><00:07:33.400><c> it</c><00:07:34.160><c> and</c><00:07:34.280><c> then</c>
+
+00:07:34.430 --> 00:07:34.440 align:start position:0%
+has uh non-printed stuff in it and then
+ 
+
+00:07:34.440 --> 00:07:36.990 align:start position:0%
+has uh non-printed stuff in it and then
+we<00:07:34.560><c> have</c><00:07:34.759><c> the</c><00:07:34.919><c> body</c><00:07:35.680><c> um</c><00:07:36.080><c> which</c><00:07:36.319><c> has</c><00:07:36.639><c> the</c><00:07:36.759><c> stuff</c>
+
+00:07:36.990 --> 00:07:37.000 align:start position:0%
+we have the body um which has the stuff
+ 
+
+00:07:37.000 --> 00:07:39.029 align:start position:0%
+we have the body um which has the stuff
+that<00:07:37.120><c> appears</c><00:07:37.520><c> on</c><00:07:37.680><c> the</c><00:07:37.840><c> page</c><00:07:38.639><c> um</c><00:07:38.759><c> the</c><00:07:38.840><c> only</c>
+
+00:07:39.029 --> 00:07:39.039 align:start position:0%
+that appears on the page um the only
+ 
+
+00:07:39.039 --> 00:07:40.430 align:start position:0%
+that appears on the page um the only
+place<00:07:39.199><c> you</c><00:07:39.319><c> see</c><00:07:39.599><c> stuff</c><00:07:39.800><c> in</c><00:07:39.919><c> the</c><00:07:40.080><c> head</c><00:07:40.280><c> is</c>
+
+00:07:40.430 --> 00:07:40.440 align:start position:0%
+place you see stuff in the head is
+ 
+
+00:07:40.440 --> 00:07:42.670 align:start position:0%
+place you see stuff in the head is
+usually<00:07:40.759><c> in</c><00:07:40.879><c> the</c><00:07:41.039><c> title</c><00:07:41.800><c> which</c><00:07:41.960><c> I</c><00:07:42.080><c> talk</c><00:07:42.319><c> about</c>
+
+00:07:42.670 --> 00:07:42.680 align:start position:0%
+usually in the title which I talk about
+ 
+
+00:07:42.680 --> 00:07:46.149 align:start position:0%
+usually in the title which I talk about
+separately<00:07:43.800><c> um</c><00:07:44.800><c> and</c><00:07:45.479><c> you</c><00:07:45.560><c> see</c><00:07:45.680><c> how</c><00:07:45.800><c> it</c><00:07:45.879><c> say</c>
+
+00:07:46.149 --> 00:07:46.159 align:start position:0%
+separately um and you see how it say
+ 
+
+00:07:46.159 --> 00:07:47.710 align:start position:0%
+separately um and you see how it say
+document<00:07:46.560><c> there</c><00:07:46.919><c> so</c><00:07:47.120><c> we</c><00:07:47.240><c> could</c><00:07:47.360><c> change</c><00:07:47.599><c> that</c>
+
+00:07:47.710 --> 00:07:47.720 align:start position:0%
+document there so we could change that
+ 
+
+00:07:47.720 --> 00:07:51.070 align:start position:0%
+document there so we could change that
+to<00:07:47.879><c> be</c><00:07:48.159><c> whatever</c><00:07:48.479><c> we</c><00:07:48.599><c> wanted</c><00:07:48.960><c> to</c><00:07:49.960><c> um</c><00:07:50.639><c> let's</c><00:07:50.879><c> go</c>
+
+00:07:51.070 --> 00:07:51.080 align:start position:0%
+to be whatever we wanted to um let's go
+ 
+
+00:07:51.080 --> 00:07:52.629 align:start position:0%
+to be whatever we wanted to um let's go
+back<00:07:51.240><c> and</c><00:07:51.440><c> just</c><00:07:51.599><c> finish</c><00:07:51.919><c> reading</c><00:07:52.240><c> the</c>
+
+00:07:52.629 --> 00:07:52.639 align:start position:0%
+back and just finish reading the
+ 
+
+00:07:52.639 --> 00:07:55.189 align:start position:0%
+back and just finish reading the
+specification<00:07:53.639><c> uh</c><00:07:54.039><c> summaries</c><00:07:54.599><c> for</c><00:07:54.960><c> these</c>
+
+00:07:55.189 --> 00:07:55.199 align:start position:0%
+specification uh summaries for these
+ 
+
+00:07:55.199 --> 00:07:57.510 align:start position:0%
+specification uh summaries for these
+other<00:07:55.440><c> element</c><00:07:55.840><c> types</c><00:07:56.639><c> so</c><00:07:56.840><c> we</c><00:07:57.000><c> have</c><00:07:57.240><c> we</c><00:07:57.360><c> have</c>
+
+00:07:57.510 --> 00:07:57.520 align:start position:0%
+other element types so we have we have
+ 
+
+00:07:57.520 --> 00:08:00.230 align:start position:0%
+other element types so we have we have
+HTML<00:07:58.080><c> we</c><00:07:58.199><c> have</c><00:07:58.400><c> head</c><00:07:58.720><c> let's</c><00:07:58.879><c> read</c><00:07:59.080><c> about</c><00:07:59.280><c> that</c>
+
+00:08:00.230 --> 00:08:00.240 align:start position:0%
+HTML we have head let's read about that
+ 
+
+00:08:00.240 --> 00:08:01.869 align:start position:0%
+HTML we have head let's read about that
+so<00:08:00.599><c> what</c><00:08:00.720><c> is</c><00:08:00.840><c> the</c><00:08:01.039><c> head</c><00:08:01.400><c> head</c><00:08:01.639><c> the</c><00:08:01.720><c> first</c>
+
+00:08:01.869 --> 00:08:01.879 align:start position:0%
+so what is the head head the first
+ 
+
+00:08:01.879 --> 00:08:04.270 align:start position:0%
+so what is the head head the first
+element<00:08:02.240><c> HTML</c><00:08:03.199><c> it</c><00:08:03.319><c> has</c><00:08:03.440><c> to</c><00:08:03.560><c> be</c><00:08:03.680><c> the</c><00:08:03.840><c> first</c><00:08:04.159><c> by</c>
+
+00:08:04.270 --> 00:08:04.280 align:start position:0%
+element HTML it has to be the first by
+ 
+
+00:08:04.280 --> 00:08:07.309 align:start position:0%
+element HTML it has to be the first by
+the<00:08:04.520><c> way</c><00:08:05.520><c> um</c><00:08:05.800><c> do</c><00:08:06.199><c> I</c><00:08:06.360><c> frame</c><00:08:06.599><c> don't</c><00:08:06.840><c> care</c><00:08:07.080><c> about</c>
+
+00:08:07.309 --> 00:08:07.319 align:start position:0%
+the way um do I frame don't care about
+ 
+
+00:08:07.319 --> 00:08:09.070 align:start position:0%
+the way um do I frame don't care about
+that<00:08:07.680><c> head</c><00:08:07.919><c> element</c><00:08:08.280><c> start</c><00:08:08.560><c> tag</c><00:08:08.800><c> can</c><00:08:08.919><c> be</c>
+
+00:08:09.070 --> 00:08:09.080 align:start position:0%
+that head element start tag can be
+ 
+
+00:08:09.080 --> 00:08:11.990 align:start position:0%
+that head element start tag can be
+emitted<00:08:09.599><c> if</c><00:08:09.720><c> the</c><00:08:09.840><c> element</c><00:08:10.120><c> is</c><00:08:10.599><c> empty</c><00:08:11.599><c> uh</c><00:08:11.759><c> or</c><00:08:11.879><c> if</c>
+
+00:08:11.990 --> 00:08:12.000 align:start position:0%
+emitted if the element is empty uh or if
+ 
+
+00:08:12.000 --> 00:08:13.430 align:start position:0%
+emitted if the element is empty uh or if
+it's<00:08:12.159><c> firsted</c><00:08:12.479><c> inside</c><00:08:12.680><c> the</c><00:08:13.000><c> so</c><00:08:13.120><c> you</c><00:08:13.240><c> can</c>
+
+00:08:13.430 --> 00:08:13.440 align:start position:0%
+it's firsted inside the so you can
+ 
+
+00:08:13.440 --> 00:08:15.110 align:start position:0%
+it's firsted inside the so you can
+actually<00:08:13.680><c> leave</c><00:08:13.960><c> the</c><00:08:14.080><c> head</c><00:08:14.280><c> element</c><00:08:14.720><c> off</c><00:08:14.960><c> and</c>
+
+00:08:15.110 --> 00:08:15.120 align:start position:0%
+actually leave the head element off and
+ 
+
+00:08:15.120 --> 00:08:17.830 align:start position:0%
+actually leave the head element off and
+as<00:08:15.240><c> you</c><00:08:15.479><c> saw</c><00:08:15.960><c> that's</c><00:08:16.159><c> exactly</c><00:08:16.520><c> what</c><00:08:16.639><c> we</c><00:08:16.800><c> did</c><00:08:17.639><c> uh</c>
+
+00:08:17.830 --> 00:08:17.840 align:start position:0%
+as you saw that's exactly what we did uh
+ 
+
+00:08:17.840 --> 00:08:19.230 align:start position:0%
+as you saw that's exactly what we did uh
+we<00:08:18.000><c> we</c><00:08:18.120><c> could</c><00:08:18.319><c> do</c><00:08:18.520><c> that</c><00:08:18.680><c> and</c><00:08:18.800><c> it</c><00:08:18.879><c> would</c><00:08:19.039><c> be</c>
+
+00:08:19.230 --> 00:08:19.240 align:start position:0%
+we we could do that and it would be
+ 
+
+00:08:19.240 --> 00:08:21.270 align:start position:0%
+we we could do that and it would be
+added<00:08:19.879><c> we</c><00:08:20.000><c> didn't</c><00:08:20.240><c> in</c><00:08:20.400><c> this</c><00:08:20.479><c> one</c><00:08:20.720><c> but</c><00:08:21.080><c> but</c><00:08:21.199><c> we</c>
+
+00:08:21.270 --> 00:08:21.280 align:start position:0%
+added we didn't in this one but but we
+ 
+
+00:08:21.280 --> 00:08:23.990 align:start position:0%
+added we didn't in this one but but we
+could<00:08:21.400><c> leave</c><00:08:21.520><c> it</c><00:08:21.599><c> off</c><00:08:21.720><c> and</c><00:08:21.879><c> be</c><00:08:22.199><c> added</c><00:08:23.199><c> um</c><00:08:23.840><c> let's</c>
+
+00:08:23.990 --> 00:08:24.000 align:start position:0%
+could leave it off and be added um let's
+ 
+
+00:08:24.000 --> 00:08:26.670 align:start position:0%
+could leave it off and be added um let's
+see<00:08:24.159><c> it's</c><00:08:24.240><c> a</c><00:08:24.400><c> global</c><00:08:25.199><c> attribute</c><00:08:26.199><c> uh</c><00:08:26.520><c> it</c>
+
+00:08:26.670 --> 00:08:26.680 align:start position:0%
+see it's a global attribute uh it
+ 
+
+00:08:26.680 --> 00:08:28.749 align:start position:0%
+see it's a global attribute uh it
+contains<00:08:27.319><c> attributes</c><00:08:27.759><c> that</c><00:08:28.000><c> apply</c><00:08:28.520><c> to</c>
+
+00:08:28.749 --> 00:08:28.759 align:start position:0%
+contains attributes that apply to
+ 
+
+00:08:28.759 --> 00:08:30.589 align:start position:0%
+contains attributes that apply to
+everything
+
+00:08:30.589 --> 00:08:30.599 align:start position:0%
+everything
+ 
+
+00:08:30.599 --> 00:08:33.029 align:start position:0%
+everything
+uh<00:08:30.720><c> so</c><00:08:30.879><c> here</c><00:08:31.000><c> we</c><00:08:31.159><c> go</c><00:08:31.680><c> so</c><00:08:32.000><c> here</c><00:08:32.279><c> is</c><00:08:32.479><c> the</c><00:08:32.680><c> head</c><00:08:32.919><c> and</c>
+
+00:08:33.029 --> 00:08:33.039 align:start position:0%
+uh so here we go so here is the head and
+ 
+
+00:08:33.039 --> 00:08:35.829 align:start position:0%
+uh so here we go so here is the head and
+we<00:08:33.159><c> can</c><00:08:33.279><c> have</c><00:08:33.440><c> the</c><00:08:33.560><c> title</c><00:08:33.839><c> in</c><00:08:34.120><c> there</c><00:08:35.120><c> um</c><00:08:35.599><c> so</c>
+
+00:08:35.829 --> 00:08:35.839 align:start position:0%
+we can have the title in there um so
+ 
+
+00:08:35.839 --> 00:08:38.709 align:start position:0%
+we can have the title in there um so
+let's<00:08:36.039><c> let's</c><00:08:36.200><c> keep</c><00:08:36.399><c> going</c><00:08:36.680><c> let's</c><00:08:36.880><c> go</c><00:08:37.120><c> back</c><00:08:37.719><c> to</c>
+
+00:08:38.709 --> 00:08:38.719 align:start position:0%
+let's let's keep going let's go back to
+ 
+
+00:08:38.719 --> 00:08:45.070 align:start position:0%
+let's let's keep going let's go back to
+the<00:08:39.479><c> uh</c><00:08:39.959><c> the</c><00:08:40.240><c> title</c><00:08:41.240><c> okay</c><00:08:41.479><c> so</c><00:08:42.240><c> this</c><00:08:42.399><c> is</c><00:08:43.560><c> um</c><00:08:44.560><c> so</c>
+
+00:08:45.070 --> 00:08:45.080 align:start position:0%
+the uh the title okay so this is um so
+ 
+
+00:08:45.080 --> 00:08:47.430 align:start position:0%
+the uh the title okay so this is um so
+the<00:08:45.160><c> base</c><00:08:45.480><c> in</c><00:08:45.600><c> the</c><00:08:45.720><c> title</c><00:08:46.080><c> appear</c><00:08:46.399><c> in</c><00:08:46.560><c> the</c><00:08:46.760><c> head</c>
+
+00:08:47.430 --> 00:08:47.440 align:start position:0%
+the base in the title appear in the head
+ 
+
+00:08:47.440 --> 00:08:49.630 align:start position:0%
+the base in the title appear in the head
+same<00:08:47.680><c> with</c><00:08:47.839><c> link</c><00:08:48.240><c> I</c><00:08:48.320><c> don't</c><00:08:48.519><c> know</c><00:08:48.720><c> if</c><00:08:48.839><c> we</c><00:08:48.959><c> want</c>
+
+00:08:49.630 --> 00:08:49.640 align:start position:0%
+same with link I don't know if we want
+ 
+
+00:08:49.640 --> 00:08:51.190 align:start position:0%
+same with link I don't know if we want
+talk<00:08:49.839><c> about</c><00:08:50.040><c> and</c><00:08:50.240><c> meta</c><00:08:50.560><c> we're</c><00:08:50.680><c> going</c><00:08:50.800><c> to</c><00:08:51.000><c> talk</c>
+
+00:08:51.190 --> 00:08:51.200 align:start position:0%
+talk about and meta we're going to talk
+ 
+
+00:08:51.200 --> 00:08:53.070 align:start position:0%
+talk about and meta we're going to talk
+about<00:08:51.680><c> these</c><00:08:51.880><c> when</c><00:08:52.040><c> we</c><00:08:52.200><c> talk</c><00:08:52.360><c> about</c><00:08:52.600><c> the</c><00:08:52.800><c> head</c>
+
+00:08:53.070 --> 00:08:53.080 align:start position:0%
+about these when we talk about the head
+ 
+
+00:08:53.080 --> 00:08:54.230 align:start position:0%
+about these when we talk about the head
+element<00:08:53.480><c> we're</c><00:08:53.600><c> going</c><00:08:53.680><c> to</c><00:08:53.760><c> do</c><00:08:53.839><c> a</c><00:08:53.920><c> whole</c><00:08:54.080><c> thing</c>
+
+00:08:54.230 --> 00:08:54.240 align:start position:0%
+element we're going to do a whole thing
+ 
+
+00:08:54.240 --> 00:08:56.269 align:start position:0%
+element we're going to do a whole thing
+just<00:08:54.360><c> on</c><00:08:54.519><c> the</c><00:08:54.640><c> head</c><00:08:54.839><c> element</c><00:08:55.560><c> so</c><00:08:55.760><c> let's</c><00:08:56.040><c> jump</c>
+
+00:08:56.269 --> 00:08:56.279 align:start position:0%
+just on the head element so let's jump
+ 
+
+00:08:56.279 --> 00:08:59.269 align:start position:0%
+just on the head element so let's jump
+forward<00:08:56.640><c> to</c><00:08:56.839><c> the</c><00:08:57.000><c> body</c><00:08:57.440><c> element</c><00:08:58.440><c> um</c><00:08:58.760><c> so</c><00:08:59.040><c> the</c>
+
+00:08:59.269 --> 00:08:59.279 align:start position:0%
+forward to the body element um so the
+ 
+
+00:08:59.279 --> 00:09:02.470 align:start position:0%
+forward to the body element um so the
+the<00:08:59.560><c> body</c><00:08:59.920><c> element</c><00:09:00.920><c> um</c>
+
+00:09:02.470 --> 00:09:02.480 align:start position:0%
+the body element um
+ 
+
+00:09:02.480 --> 00:09:05.310 align:start position:0%
+the body element um
+contains<00:09:03.480><c> uh</c><00:09:03.680><c> all</c><00:09:03.959><c> the</c><00:09:04.079><c> body</c><00:09:04.600><c> and</c><00:09:04.760><c> that</c><00:09:05.040><c> that</c>
+
+00:09:05.310 --> 00:09:05.320 align:start position:0%
+contains uh all the body and that that
+ 
+
+00:09:05.320 --> 00:09:09.949 align:start position:0%
+contains uh all the body and that that
+includes<00:09:06.320><c> um</c><00:09:06.640><c> the</c><00:09:06.880><c> stuff</c><00:09:07.839><c> that</c><00:09:08.839><c> uh</c><00:09:09.519><c> well</c><00:09:09.839><c> let</c>
+
+00:09:09.949 --> 00:09:09.959 align:start position:0%
+includes um the stuff that uh well let
+ 
+
+00:09:09.959 --> 00:09:12.030 align:start position:0%
+includes um the stuff that uh well let
+me<00:09:10.079><c> show</c><00:09:10.320><c> you</c><00:09:10.640><c> so</c><00:09:11.440><c> you're</c><00:09:11.600><c> going</c><00:09:11.680><c> to</c><00:09:11.760><c> see</c><00:09:11.920><c> me</c>
+
+00:09:12.030 --> 00:09:12.040 align:start position:0%
+me show you so you're going to see me
+ 
+
+00:09:12.040 --> 00:09:13.150 align:start position:0%
+me show you so you're going to see me
+doing<00:09:12.240><c> this</c><00:09:12.360><c> a</c><00:09:12.440><c> lot</c><00:09:12.640><c> by</c><00:09:12.760><c> the</c><00:09:12.839><c> way</c><00:09:12.959><c> we're</c><00:09:13.079><c> going</c>
+
+00:09:13.150 --> 00:09:13.160 align:start position:0%
+doing this a lot by the way we're going
+ 
+
+00:09:13.160 --> 00:09:16.670 align:start position:0%
+doing this a lot by the way we're going
+to<00:09:13.279><c> be</c><00:09:13.440><c> going</c><00:09:13.760><c> out</c><00:09:14.000><c> to</c><00:09:14.560><c> the</c><00:09:14.880><c> web</c><00:09:15.880><c> pages</c><00:09:16.360><c> so</c><00:09:16.560><c> I</c>
+
+00:09:16.670 --> 00:09:16.680 align:start position:0%
+to be going out to the web pages so I
+ 
+
+00:09:16.680 --> 00:09:20.509 align:start position:0%
+to be going out to the web pages so I
+can<00:09:16.839><c> find</c><00:09:17.040><c> it</c><00:09:17.240><c> here</c><00:09:17.360><c> we</c><00:09:17.800><c> go</c><00:09:18.800><c> um</c><00:09:19.720><c> one</c><00:09:20.120><c> oh</c><00:09:20.279><c> wait</c><00:09:20.399><c> I</c>
+
+00:09:20.509 --> 00:09:20.519 align:start position:0%
+can find it here we go um one oh wait I
+ 
+
+00:09:20.519 --> 00:09:23.069 align:start position:0%
+can find it here we go um one oh wait I
+was<00:09:20.640><c> right</c><00:09:20.920><c> there</c><00:09:21.360><c> all</c><00:09:21.480><c> right</c><00:09:21.600><c> here</c><00:09:21.720><c> we</c><00:09:21.880><c> go</c><00:09:22.079><c> so</c>
+
+00:09:23.069 --> 00:09:23.079 align:start position:0%
+was right there all right here we go so
+ 
+
+00:09:23.079 --> 00:09:26.389 align:start position:0%
+was right there all right here we go so
+uh<00:09:23.200><c> inspect</c><00:09:23.720><c> element</c><00:09:24.720><c> and</c><00:09:25.079><c> we're</c><00:09:25.240><c> going</c><00:09:25.360><c> to</c><00:09:25.680><c> go</c>
+
+00:09:26.389 --> 00:09:26.399 align:start position:0%
+uh inspect element and we're going to go
+ 
+
+00:09:26.399 --> 00:09:31.750 align:start position:0%
+uh inspect element and we're going to go
+to<00:09:27.399><c> here</c><00:09:27.519><c> you</c><00:09:27.600><c> can</c><00:09:27.800><c> type</c><00:09:28.519><c> document</c><00:09:29.720><c> min.</c>
+
+00:09:31.750 --> 00:09:31.760 align:start position:0%
+to here you can type document min.
+ 
+
+00:09:31.760 --> 00:09:35.150 align:start position:0%
+to here you can type document min.
+body<00:09:32.760><c> body</c><00:09:33.640><c> okay</c><00:09:33.920><c> see</c><00:09:34.120><c> that</c><00:09:34.279><c> how</c><00:09:34.399><c> it</c><00:09:34.560><c> selected</c>
+
+00:09:35.150 --> 00:09:35.160 align:start position:0%
+body body okay see that how it selected
+ 
+
+00:09:35.160 --> 00:09:38.190 align:start position:0%
+body body okay see that how it selected
+it<00:09:36.160><c> and</c><00:09:36.480><c> now</c><00:09:36.680><c> you</c><00:09:36.800><c> can</c><00:09:36.959><c> see</c><00:09:37.480><c> so</c><00:09:37.680><c> I'm</c><00:09:37.800><c> using</c><00:09:38.040><c> the</c>
+
+00:09:38.190 --> 00:09:38.200 align:start position:0%
+it and now you can see so I'm using the
+ 
+
+00:09:38.200 --> 00:09:39.870 align:start position:0%
+it and now you can see so I'm using the
+Dom<00:09:38.600><c> I'm</c><00:09:38.720><c> using</c><00:09:38.959><c> JavaScript</c><00:09:39.519><c> I'm</c><00:09:39.600><c> using</c><00:09:39.800><c> the</c>
+
+00:09:39.870 --> 00:09:39.880 align:start position:0%
+Dom I'm using JavaScript I'm using the
+ 
+
+00:09:39.880 --> 00:09:41.750 align:start position:0%
+Dom I'm using JavaScript I'm using the
+Dom<00:09:40.120><c> from</c><00:09:40.279><c> JavaScript</c><00:09:40.720><c> to</c><00:09:40.839><c> look</c><00:09:40.959><c> it</c><00:09:41.040><c> up</c><00:09:41.680><c> and</c>
+
+00:09:41.750 --> 00:09:41.760 align:start position:0%
+Dom from JavaScript to look it up and
+ 
+
+00:09:41.760 --> 00:09:43.670 align:start position:0%
+Dom from JavaScript to look it up and
+you<00:09:41.880><c> can</c><00:09:42.000><c> see</c><00:09:42.240><c> now</c><00:09:42.399><c> I</c><00:09:42.480><c> can</c><00:09:42.680><c> see</c><00:09:42.959><c> the</c><00:09:43.120><c> attributes</c>
+
+00:09:43.670 --> 00:09:43.680 align:start position:0%
+you can see now I can see the attributes
+ 
+
+00:09:43.680 --> 00:09:46.389 align:start position:0%
+you can see now I can see the attributes
+from<00:09:44.120><c> it</c><00:09:45.120><c> uh</c><00:09:45.360><c> we</c><00:09:45.480><c> can</c><00:09:45.600><c> see</c><00:09:45.839><c> that</c><00:09:45.959><c> there</c><00:09:46.079><c> was</c><00:09:46.240><c> a</c>
+
+00:09:46.389 --> 00:09:46.399 align:start position:0%
+from it uh we can see that there was a
+ 
+
+00:09:46.399 --> 00:09:50.310 align:start position:0%
+from it uh we can see that there was a
+script<00:09:46.800><c> element</c><00:09:47.480><c> injected</c><00:09:48.320><c> into</c><00:09:48.600><c> the</c><00:09:49.040><c> body</c><00:09:50.040><c> uh</c>
+
+00:09:50.310 --> 00:09:50.320 align:start position:0%
+script element injected into the body uh
+ 
+
+00:09:50.320 --> 00:09:54.470 align:start position:0%
+script element injected into the body uh
+this<00:09:50.560><c> was</c><00:09:50.920><c> injected</c><00:09:51.600><c> by</c><00:09:52.560><c> um</c><00:09:53.040><c> by</c><00:09:53.360><c> my</c><00:09:53.959><c> by</c><00:09:54.120><c> my</c><00:09:54.279><c> dark</c>
+
+00:09:54.470 --> 00:09:54.480 align:start position:0%
+this was injected by um by my by my dark
+ 
+
+00:09:54.480 --> 00:09:56.350 align:start position:0%
+this was injected by um by my by my dark
+reader<00:09:55.160><c> if</c><00:09:55.279><c> I</c><00:09:55.360><c> turn</c><00:09:55.519><c> my</c><00:09:55.640><c> dark</c><00:09:55.839><c> reader</c><00:09:56.079><c> off</c><00:09:56.240><c> we</c>
+
+00:09:56.350 --> 00:09:56.360 align:start position:0%
+reader if I turn my dark reader off we
+ 
+
+00:09:56.360 --> 00:09:58.990 align:start position:0%
+reader if I turn my dark reader off we
+all<00:09:56.519><c> go</c><00:09:56.680><c> blind</c><00:09:57.160><c> but</c><00:09:57.320><c> that</c><00:09:57.440><c> stuff</c><00:09:57.640><c> will</c><00:09:57.800><c> go</c><00:09:58.000><c> away</c>
+
+00:09:58.990 --> 00:09:59.000 align:start position:0%
+all go blind but that stuff will go away
+ 
+
+00:09:59.000 --> 00:10:00.630 align:start position:0%
+all go blind but that stuff will go away
+um<00:09:59.120><c> but</c><00:09:59.440><c> as</c><00:09:59.519><c> you</c><00:09:59.600><c> can</c><00:09:59.760><c> see</c><00:10:00.120><c> you</c><00:10:00.240><c> can</c><00:10:00.440><c> actually</c>
+
+00:10:00.630 --> 00:10:00.640 align:start position:0%
+um but as you can see you can actually
+ 
+
+00:10:00.640 --> 00:10:03.230 align:start position:0%
+um but as you can see you can actually
+drill<00:10:01.040><c> down</c><00:10:01.440><c> into</c><00:10:01.720><c> the</c><00:10:01.880><c> docum</c><00:10:02.440><c> object</c><00:10:02.720><c> models</c>
+
+00:10:03.230 --> 00:10:03.240 align:start position:0%
+drill down into the docum object models
+ 
+
+00:10:03.240 --> 00:10:06.590 align:start position:0%
+drill down into the docum object models
+the<00:10:03.399><c> document.</c><00:10:04.120><c> body</c><00:10:05.120><c> um</c><00:10:05.360><c> and</c><00:10:05.480><c> you</c><00:10:05.600><c> can</c><00:10:05.800><c> see</c><00:10:06.480><c> uh</c>
+
+00:10:06.590 --> 00:10:06.600 align:start position:0%
+the document. body um and you can see uh
+ 
+
+00:10:06.600 --> 00:10:08.110 align:start position:0%
+the document. body um and you can see uh
+the<00:10:06.720><c> different</c><00:10:07.120><c> the</c><00:10:07.240><c> different</c><00:10:07.519><c> elements</c>
+
+00:10:08.110 --> 00:10:08.120 align:start position:0%
+the different the different elements
+ 
+
+00:10:08.120 --> 00:10:11.350 align:start position:0%
+the different the different elements
+that<00:10:08.240><c> are</c><00:10:08.440><c> in</c><00:10:08.640><c> here</c><00:10:09.480><c> so</c><00:10:10.480><c> uh</c><00:10:10.600><c> and</c><00:10:10.760><c> there's</c><00:10:11.160><c> code</c>
+
+00:10:11.350 --> 00:10:11.360 align:start position:0%
+that are in here so uh and there's code
+ 
+
+00:10:11.360 --> 00:10:13.470 align:start position:0%
+that are in here so uh and there's code
+injected<00:10:11.680><c> by</c><00:10:11.800><c> live</c><00:10:12.000><c> server</c><00:10:12.279><c> that</c><00:10:12.399><c> is</c><00:10:12.519><c> a</c>
+
+00:10:13.470 --> 00:10:13.480 align:start position:0%
+injected by live server that is a
+ 
+
+00:10:13.480 --> 00:10:17.110 align:start position:0%
+injected by live server that is a
+comment<00:10:14.480><c> and</c><00:10:15.040><c> so</c><00:10:15.600><c> that</c><00:10:15.760><c> gets</c><00:10:16.000><c> us</c><00:10:16.440><c> that</c><00:10:16.600><c> gets</c><00:10:16.800><c> us</c>
+
+00:10:17.110 --> 00:10:17.120 align:start position:0%
+comment and so that gets us that gets us
+ 
+
+00:10:17.120 --> 00:10:19.710 align:start position:0%
+comment and so that gets us that gets us
+down<00:10:17.440><c> to</c><00:10:17.720><c> where</c><00:10:17.880><c> we</c><00:10:18.000><c> want</c><00:10:18.120><c> to</c><00:10:18.360><c> be</c><00:10:19.360><c> uh</c><00:10:19.519><c> which</c>
+
+00:10:19.710 --> 00:10:19.720 align:start position:0%
+down to where we want to be uh which
+ 
+
+00:10:19.720 --> 00:10:22.310 align:start position:0%
+down to where we want to be uh which
+really<00:10:20.320><c> for</c><00:10:20.600><c> right</c><00:10:20.800><c> now</c><00:10:21.360><c> is</c><00:10:21.800><c> what</c><00:10:22.040><c> what</c><00:10:22.160><c> are</c>
+
+00:10:22.310 --> 00:10:22.320 align:start position:0%
+really for right now is what what are
+ 
+
+00:10:22.320 --> 00:10:26.110 align:start position:0%
+really for right now is what what are
+the<00:10:22.560><c> main</c><00:10:23.519><c> you</c><00:10:23.640><c> know</c><00:10:24.040><c> parts</c><00:10:24.480><c> of</c><00:10:24.680><c> a</c><00:10:25.000><c> of</c><00:10:25.160><c> a</c><00:10:25.640><c> of</c><00:10:25.880><c> web</c>
+
+00:10:26.110 --> 00:10:26.120 align:start position:0%
+the main you know parts of a of a of web
+ 
+
+00:10:26.120 --> 00:10:28.710 align:start position:0%
+the main you know parts of a of a of web
+page<00:10:26.440><c> we</c><00:10:26.560><c> have</c><00:10:26.680><c> the</c><00:10:26.800><c> doc</c><00:10:27.079><c> type</c><00:10:27.519><c> you</c><00:10:27.640><c> know</c><00:10:28.560><c> uh</c>
+
+00:10:28.710 --> 00:10:28.720 align:start position:0%
+page we have the doc type you know uh
+ 
+
+00:10:28.720 --> 00:10:31.750 align:start position:0%
+page we have the doc type you know uh
+tag<00:10:28.920><c> at</c><00:10:29.000><c> the</c><00:10:29.079><c> very</c><00:10:29.519><c> top</c><00:10:30.320><c> and</c><00:10:30.480><c> then</c><00:10:30.680><c> we</c><00:10:30.920><c> have</c><00:10:31.440><c> a</c>
+
+00:10:31.750 --> 00:10:31.760 align:start position:0%
+tag at the very top and then we have a
+ 
+
+00:10:31.760 --> 00:10:36.190 align:start position:0%
+tag at the very top and then we have a
+head<00:10:32.680><c> right</c><00:10:33.399><c> and</c><00:10:33.519><c> then</c><00:10:33.680><c> we</c><00:10:33.839><c> have</c><00:10:33.959><c> a</c><00:10:34.160><c> body</c><00:10:35.200><c> right</c>
+
+00:10:36.190 --> 00:10:36.200 align:start position:0%
+head right and then we have a body right
+ 
+
+00:10:36.200 --> 00:10:38.670 align:start position:0%
+head right and then we have a body right
+and<00:10:36.639><c> we're</c><00:10:36.800><c> going</c><00:10:36.920><c> to</c><00:10:37.079><c> talk</c><00:10:37.480><c> about</c><00:10:38.079><c> these</c>
+
+00:10:38.670 --> 00:10:38.680 align:start position:0%
+and we're going to talk about these
+ 
+
+00:10:38.680 --> 00:10:41.430 align:start position:0%
+and we're going to talk about these
+these<00:10:39.360><c> all</c><00:10:39.519><c> the</c><00:10:39.639><c> other</c><00:10:39.880><c> pieces</c><00:10:40.279><c> come</c><00:10:40.560><c> inside</c>
+
+00:10:41.430 --> 00:10:41.440 align:start position:0%
+these all the other pieces come inside
+ 
+
+00:10:41.440 --> 00:10:43.430 align:start position:0%
+these all the other pieces come inside
+of<00:10:41.720><c> either</c><00:10:42.120><c> a</c><00:10:42.360><c> head</c><00:10:42.639><c> or</c><00:10:42.800><c> a</c><00:10:42.959><c> body</c><00:10:43.240><c> we're</c><00:10:43.360><c> going</c>
+
+00:10:43.430 --> 00:10:43.440 align:start position:0%
+of either a head or a body we're going
+ 
+
+00:10:43.440 --> 00:10:46.590 align:start position:0%
+of either a head or a body we're going
+to<00:10:43.519><c> talk</c><00:10:43.639><c> about</c><00:10:43.839><c> them</c><00:10:44.040><c> separately</c><00:10:44.920><c> okay</c><00:10:45.920><c> so</c>
+
+00:10:46.590 --> 00:10:46.600 align:start position:0%
+to talk about them separately okay so
+ 
+
+00:10:46.600 --> 00:10:49.590 align:start position:0%
+to talk about them separately okay so
+that's<00:10:46.800><c> it</c><00:10:47.040><c> so</c><00:10:47.320><c> by</c><00:10:47.480><c> now</c><00:10:47.720><c> you</c><00:10:47.800><c> should</c><00:10:48.120><c> know</c><00:10:49.120><c> that</c>
+
+00:10:49.590 --> 00:10:49.600 align:start position:0%
+that's it so by now you should know that
+ 
+
+00:10:49.600 --> 00:10:51.509 align:start position:0%
+that's it so by now you should know that
+every<00:10:49.880><c> web</c><00:10:50.120><c> page</c><00:10:50.399><c> is</c><00:10:50.639><c> is</c><00:10:50.760><c> broken</c><00:10:51.079><c> down</c><00:10:51.279><c> into</c>
+
+00:10:51.509 --> 00:10:51.519 align:start position:0%
+every web page is is broken down into
+ 
+
+00:10:51.519 --> 00:10:54.389 align:start position:0%
+every web page is is broken down into
+two<00:10:51.720><c> major</c><00:10:52.079><c> parts</c><00:10:52.440><c> a</c><00:10:52.639><c> head</c><00:10:52.880><c> and</c><00:10:53.040><c> a</c><00:10:53.160><c> body</c><00:10:54.040><c> and</c>
+
+00:10:54.389 --> 00:10:54.399 align:start position:0%
+two major parts a head and a body and
+ 
+
+00:10:54.399 --> 00:10:56.389 align:start position:0%
+two major parts a head and a body and
+every<00:10:54.760><c> modern</c><00:10:55.200><c> web</c><00:10:55.399><c> page</c><00:10:55.600><c> begins</c><00:10:55.880><c> with</c><00:10:56.040><c> dotop</c>
+
+00:10:56.389 --> 00:10:56.399 align:start position:0%
+every modern web page begins with dotop
+ 
+
+00:10:56.399 --> 00:10:59.399 align:start position:0%
+every modern web page begins with dotop
+HTML
+

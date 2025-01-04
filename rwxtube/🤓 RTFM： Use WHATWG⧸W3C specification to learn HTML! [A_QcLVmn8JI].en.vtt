@@ -1,0 +1,2744 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.319 --> 00:00:05.510 align:start position:0%
+ 
+all<00:00:01.520><c> right</c><00:00:02.040><c> where</c><00:00:03.000><c> should</c><00:00:03.320><c> you</c><00:00:03.800><c> look</c><00:00:04.600><c> for</c>
+
+00:00:05.510 --> 00:00:05.520 align:start position:0%
+all right where should you look for
+ 
+
+00:00:05.520 --> 00:00:10.629 align:start position:0%
+all right where should you look for
+information<00:00:06.520><c> about</c><00:00:07.120><c> HTML</c><00:00:08.120><c> and</c><00:00:08.599><c> CSS</c><00:00:09.599><c> and</c><00:00:09.800><c> web</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+information about HTML and CSS and web
+ 
+
+00:00:10.639 --> 00:00:13.430 align:start position:0%
+information about HTML and CSS and web
+development<00:00:11.639><c> you</c><00:00:12.040><c> probably</c><00:00:12.840><c> have</c><00:00:13.040><c> already</c><00:00:13.360><c> if</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+development you probably have already if
+ 
+
+00:00:13.440 --> 00:00:14.990 align:start position:0%
+development you probably have already if
+you<00:00:13.639><c> started</c><00:00:13.960><c> to</c><00:00:14.200><c> ask</c><00:00:14.400><c> yourself</c><00:00:14.799><c> this</c>
+
+00:00:14.990 --> 00:00:15.000 align:start position:0%
+you started to ask yourself this
+ 
+
+00:00:15.000 --> 00:00:16.670 align:start position:0%
+you started to ask yourself this
+question<00:00:15.360><c> you</c><00:00:15.480><c> know</c><00:00:15.799><c> that</c><00:00:16.000><c> the</c><00:00:16.080><c> internet</c><00:00:16.520><c> and</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+question you know that the internet and
+ 
+
+00:00:16.680 --> 00:00:18.550 align:start position:0%
+question you know that the internet and
+a<00:00:16.840><c> random</c><00:00:17.240><c> Google</c><00:00:17.520><c> search</c><00:00:17.880><c> is</c><00:00:18.039><c> going</c><00:00:18.160><c> to</c>
+
+00:00:18.550 --> 00:00:18.560 align:start position:0%
+a random Google search is going to
+ 
+
+00:00:18.560 --> 00:00:22.150 align:start position:0%
+a random Google search is going to
+inundate<00:00:19.160><c> you</c><00:00:19.600><c> with</c><00:00:19.800><c> a</c><00:00:20.039><c> ton</c><00:00:20.480><c> of</c><00:00:20.800><c> crap</c><00:00:21.800><c> and</c><00:00:22.000><c> I</c>
+
+00:00:22.150 --> 00:00:22.160 align:start position:0%
+inundate you with a ton of crap and I
+ 
+
+00:00:22.160 --> 00:00:24.630 align:start position:0%
+inundate you with a ton of crap and I
+mean<00:00:22.640><c> crap</c><00:00:23.039><c> there</c><00:00:23.119><c> is</c><00:00:23.320><c> a</c><00:00:23.640><c> bunch</c><00:00:24.039><c> of</c><00:00:24.359><c> really</c>
+
+00:00:24.630 --> 00:00:24.640 align:start position:0%
+mean crap there is a bunch of really
+ 
+
+00:00:24.640 --> 00:00:26.790 align:start position:0%
+mean crap there is a bunch of really
+horrible<00:00:25.199><c> documentation</c><00:00:25.920><c> out</c><00:00:26.160><c> there</c><00:00:26.439><c> and</c><00:00:26.640><c> I'm</c>
+
+00:00:26.790 --> 00:00:26.800 align:start position:0%
+horrible documentation out there and I'm
+ 
+
+00:00:26.800 --> 00:00:31.069 align:start position:0%
+horrible documentation out there and I'm
+going<00:00:26.920><c> to</c><00:00:27.119><c> tell</c><00:00:27.519><c> you</c><00:00:28.519><c> rtfm</c><00:00:29.400><c> my</c><00:00:29.560><c> friends</c>
+
+00:00:31.069 --> 00:00:31.079 align:start position:0%
+going to tell you rtfm my friends
+ 
+
+00:00:31.079 --> 00:00:35.150 align:start position:0%
+going to tell you rtfm my friends
+rtfm<00:00:32.079><c> read</c><00:00:32.480><c> the</c><00:00:33.000><c> fancy</c><00:00:33.600><c> manual</c><00:00:34.600><c> and</c><00:00:34.800><c> what</c><00:00:34.920><c> do</c><00:00:35.040><c> I</c>
+
+00:00:35.150 --> 00:00:35.160 align:start position:0%
+rtfm read the fancy manual and what do I
+ 
+
+00:00:35.160 --> 00:00:38.670 align:start position:0%
+rtfm read the fancy manual and what do I
+mean<00:00:35.480><c> by</c><00:00:35.640><c> a</c><00:00:35.840><c> fancy</c><00:00:36.399><c> manual</c><00:00:37.399><c> um</c><00:00:38.079><c> the</c><00:00:38.239><c> best</c><00:00:38.480><c> place</c>
+
+00:00:38.670 --> 00:00:38.680 align:start position:0%
+mean by a fancy manual um the best place
+ 
+
+00:00:38.680 --> 00:00:42.510 align:start position:0%
+mean by a fancy manual um the best place
+to<00:00:38.840><c> learn</c><00:00:39.160><c> web</c><00:00:39.399><c> development</c><00:00:40.320><c> is</c><00:00:41.039><c> from</c><00:00:41.559><c> the</c><00:00:41.800><c> web</c>
+
+00:00:42.510 --> 00:00:42.520 align:start position:0%
+to learn web development is from the web
+ 
+
+00:00:42.520 --> 00:00:45.350 align:start position:0%
+to learn web development is from the web
+specification<00:00:43.559><c> and</c><00:00:44.559><c> this</c><00:00:44.719><c> is</c><00:00:45.000><c> a</c><00:00:45.079><c> lot</c><00:00:45.200><c> of</c>
+
+00:00:45.350 --> 00:00:45.360 align:start position:0%
+specification and this is a lot of
+ 
+
+00:00:45.360 --> 00:00:50.110 align:start position:0%
+specification and this is a lot of
+people<00:00:46.079><c> try</c><00:00:46.520><c> to</c><00:00:47.320><c> like</c><00:00:48.320><c> uh</c><00:00:49.199><c> you</c><00:00:49.360><c> know</c><00:00:49.600><c> make</c><00:00:49.800><c> up</c>
+
+00:00:50.110 --> 00:00:50.120 align:start position:0%
+people try to like uh you know make up
+ 
+
+00:00:50.120 --> 00:00:52.869 align:start position:0%
+people try to like uh you know make up
+different<00:00:51.120><c> different</c><00:00:51.480><c> ways</c><00:00:51.719><c> of</c><00:00:51.879><c> doing</c><00:00:52.239><c> this</c>
+
+00:00:52.869 --> 00:00:52.879 align:start position:0%
+different different ways of doing this
+ 
+
+00:00:52.879 --> 00:00:56.069 align:start position:0%
+different different ways of doing this
+and<00:00:53.280><c> they</c><00:00:53.480><c> end</c><00:00:53.640><c> up</c><00:00:54.160><c> failing</c><00:00:55.160><c> and</c><00:00:55.440><c> I'm</c><00:00:55.559><c> going</c><00:00:55.640><c> to</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+and they end up failing and I'm going to
+ 
+
+00:00:56.079 --> 00:00:58.910 align:start position:0%
+and they end up failing and I'm going to
+show<00:00:56.320><c> you</c><00:00:56.480><c> what</c><00:00:56.600><c> I</c><00:00:56.680><c> mean</c><00:00:56.920><c> by</c><00:00:57.079><c> that</c><00:00:57.480><c> so</c>
+
+00:00:58.910 --> 00:00:58.920 align:start position:0%
+show you what I mean by that so
+ 
+
+00:00:58.920 --> 00:01:01.470 align:start position:0%
+show you what I mean by that so
+unfortunately<00:01:00.000><c> W3</c><00:01:00.519><c> schools</c><00:01:00.960><c> it's</c><00:01:01.120><c> funny</c>
+
+00:01:01.470 --> 00:01:01.480 align:start position:0%
+unfortunately W3 schools it's funny
+ 
+
+00:01:01.480 --> 00:01:04.070 align:start position:0%
+unfortunately W3 schools it's funny
+because<00:01:01.840><c> there</c><00:01:01.960><c> used</c><00:01:02.160><c> to</c><00:01:02.359><c> be</c><00:01:02.920><c> this</c><00:01:03.239><c> okay</c><00:01:03.399><c> so</c><00:01:03.600><c> W3</c>
+
+00:01:04.070 --> 00:01:04.080 align:start position:0%
+because there used to be this okay so W3
+ 
+
+00:01:04.080 --> 00:01:07.710 align:start position:0%
+because there used to be this okay so W3
+schools<00:01:04.439><c> is</c><00:01:04.680><c> not</c><00:01:04.839><c> a</c><00:01:05.040><c> bad</c><00:01:05.320><c> thing</c><00:01:06.320><c> right</c><00:01:07.320><c> um</c><00:01:07.600><c> it</c>
+
+00:01:07.710 --> 00:01:07.720 align:start position:0%
+schools is not a bad thing right um it
+ 
+
+00:01:07.720 --> 00:01:10.390 align:start position:0%
+schools is not a bad thing right um it
+does<00:01:08.119><c> organize</c><00:01:08.799><c> a</c><00:01:08.920><c> bunch</c><00:01:09.080><c> of</c><00:01:09.240><c> the</c><00:01:09.360><c> code</c><00:01:09.840><c> but</c>
+
+00:01:10.390 --> 00:01:10.400 align:start position:0%
+does organize a bunch of the code but
+ 
+
+00:01:10.400 --> 00:01:13.630 align:start position:0%
+does organize a bunch of the code but
+you<00:01:10.600><c> need</c><00:01:10.799><c> to</c><00:01:11.439><c> understand</c><00:01:12.119><c> that</c><00:01:12.840><c> this</c><00:01:12.960><c> is</c><00:01:13.560><c> let</c>
+
+00:01:13.630 --> 00:01:13.640 align:start position:0%
+you need to understand that this is let
+ 
+
+00:01:13.640 --> 00:01:15.830 align:start position:0%
+you need to understand that this is let
+me<00:01:13.799><c> just</c><00:01:13.920><c> tell</c><00:01:14.080><c> you</c><00:01:14.240><c> about</c><00:01:14.439><c> this</c><00:01:14.560><c> so</c><00:01:14.759><c> W3</c>
+
+00:01:15.830 --> 00:01:15.840 align:start position:0%
+me just tell you about this so W3
+ 
+
+00:01:15.840 --> 00:01:21.310 align:start position:0%
+me just tell you about this so W3
+pools<00:01:16.840><c> um</c><00:01:17.520><c> W3</c><00:01:18.159><c> fools</c><00:01:19.159><c> was</c><00:01:19.680><c> once</c><00:01:20.240><c> they</c><00:01:20.360><c> have</c><00:01:20.479><c> CS</c>
+
+00:01:21.310 --> 00:01:21.320 align:start position:0%
+pools um W3 fools was once they have CS
+ 
+
+00:01:21.320 --> 00:01:25.990 align:start position:0%
+pools um W3 fools was once they have CS
+now<00:01:22.320><c> uh</c><00:01:22.799><c> W3</c><00:01:23.680><c> school</c><00:01:24.479><c> is</c><00:01:25.079><c> this</c><00:01:25.400><c> this</c><00:01:25.560><c> is</c>
+
+00:01:25.990 --> 00:01:26.000 align:start position:0%
+now uh W3 school is this this is
+ 
+
+00:01:26.000 --> 00:01:29.950 align:start position:0%
+now uh W3 school is this this is
+actually<00:01:26.920><c> this</c><00:01:27.200><c> every</c><00:01:27.360><c> time</c><00:01:27.600><c> I</c><00:01:27.720><c> see</c><00:01:28.600><c> W3</c><00:01:29.600><c> uh</c>
+
+00:01:29.950 --> 00:01:29.960 align:start position:0%
+actually this every time I see W3 uh
+ 
+
+00:01:29.960 --> 00:01:32.230 align:start position:0%
+actually this every time I see W3 uh
+which<00:01:30.119><c> is</c><00:01:30.320><c> they</c><00:01:30.640><c> completely</c><00:01:31.079><c> owned</c><00:01:31.520><c> the</c><00:01:31.680><c> SEO</c>
+
+00:01:32.230 --> 00:01:32.240 align:start position:0%
+which is they completely owned the SEO
+ 
+
+00:01:32.240 --> 00:01:34.469 align:start position:0%
+which is they completely owned the SEO
+to<00:01:32.399><c> have</c><00:01:32.520><c> it</c><00:01:32.720><c> pop</c><00:01:33.000><c> up</c><00:01:33.640><c> but</c><00:01:33.880><c> it's</c><00:01:34.079><c> important</c>
+
+00:01:34.469 --> 00:01:34.479 align:start position:0%
+to have it pop up but it's important
+ 
+
+00:01:34.479 --> 00:01:36.469 align:start position:0%
+to have it pop up but it's important
+that<00:01:34.600><c> you</c><00:01:35.119><c> understand</c><00:01:35.360><c> that</c><00:01:35.560><c> this</c><00:01:35.759><c> resource</c>
+
+00:01:36.469 --> 00:01:36.479 align:start position:0%
+that you understand that this resource
+ 
+
+00:01:36.479 --> 00:01:40.749 align:start position:0%
+that you understand that this resource
+has<00:01:36.880><c> historically</c><00:01:38.000><c> sucked</c><00:01:39.200><c> bad</c><00:01:40.200><c> um</c><00:01:40.439><c> it</c><00:01:40.600><c> has</c>
+
+00:01:40.749 --> 00:01:40.759 align:start position:0%
+has historically sucked bad um it has
+ 
+
+00:01:40.759 --> 00:01:43.350 align:start position:0%
+has historically sucked bad um it has
+been<00:01:41.000><c> a</c><00:01:41.280><c> really</c><00:01:41.840><c> horrible</c><00:01:42.439><c> place</c><00:01:42.680><c> to</c><00:01:42.880><c> go</c><00:01:43.200><c> it</c>
+
+00:01:43.350 --> 00:01:43.360 align:start position:0%
+been a really horrible place to go it
+ 
+
+00:01:43.360 --> 00:01:44.910 align:start position:0%
+been a really horrible place to go it
+had<00:01:43.520><c> a</c><00:01:43.640><c> lot</c><00:01:43.759><c> of</c><00:01:43.880><c> people</c><00:01:44.079><c> from</c><00:01:44.200><c> the</c><00:01:44.360><c> officially</c>
+
+00:01:44.910 --> 00:01:44.920 align:start position:0%
+had a lot of people from the officially
+ 
+
+00:01:44.920 --> 00:01:47.389 align:start position:0%
+had a lot of people from the officially
+from<00:01:45.159><c> the</c><00:01:45.320><c> community</c><00:01:45.960><c> who</c><00:01:46.280><c> who</c><00:01:46.560><c> took</c><00:01:46.719><c> it</c><00:01:47.159><c> who</c>
+
+00:01:47.389 --> 00:01:47.399 align:start position:0%
+from the community who who took it who
+ 
+
+00:01:47.399 --> 00:01:49.789 align:start position:0%
+from the community who who took it who
+made<00:01:47.680><c> W3</c><00:01:48.200><c> fools</c><00:01:48.680><c> because</c><00:01:48.920><c> they</c><00:01:49.040><c> were</c><00:01:49.280><c> so</c><00:01:49.560><c> put</c>
+
+00:01:49.789 --> 00:01:49.799 align:start position:0%
+made W3 fools because they were so put
+ 
+
+00:01:49.799 --> 00:01:52.870 align:start position:0%
+made W3 fools because they were so put
+off<00:01:50.079><c> by</c><00:01:50.240><c> how</c><00:01:50.520><c> hard</c><00:01:50.799><c> it</c><00:01:51.040><c> was</c><00:01:52.040><c> uh</c><00:01:52.200><c> they</c><00:01:52.360><c> had</c><00:01:52.520><c> to</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+off by how hard it was uh they had to
+ 
+
+00:01:52.880 --> 00:01:54.510 align:start position:0%
+off by how hard it was uh they had to
+actually<00:01:53.240><c> change</c><00:01:53.640><c> this</c><00:01:53.880><c> and</c><00:01:54.000><c> saying</c><00:01:54.360><c> they</c>
+
+00:01:54.510 --> 00:01:54.520 align:start position:0%
+actually change this and saying they
+ 
+
+00:01:54.520 --> 00:01:57.310 align:start position:0%
+actually change this and saying they
+have<00:01:54.920><c> largely</c><00:01:55.560><c> resolved</c><00:01:56.119><c> these</c><00:01:56.360><c> issues</c>
+
+00:01:57.310 --> 00:01:57.320 align:start position:0%
+have largely resolved these issues
+ 
+
+00:01:57.320 --> 00:01:59.190 align:start position:0%
+have largely resolved these issues
+largely<00:01:57.960><c> resolved</c><00:01:58.439><c> does</c><00:01:58.600><c> not</c><00:01:58.759><c> mean</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+largely resolved does not mean
+ 
+
+00:01:59.200 --> 00:02:03.709 align:start position:0%
+largely resolved does not mean
+completely<00:02:00.079><c> resolved</c><00:02:01.079><c> so</c><00:02:01.840><c> again</c><00:02:02.719><c> if</c><00:02:02.880><c> you</c><00:02:03.240><c> are</c>
+
+00:02:03.709 --> 00:02:03.719 align:start position:0%
+completely resolved so again if you are
+ 
+
+00:02:03.719 --> 00:02:05.510 align:start position:0%
+completely resolved so again if you are
+being<00:02:04.000><c> sent</c><00:02:04.360><c> here</c><00:02:04.520><c> and</c><00:02:04.640><c> by</c><00:02:04.759><c> the</c><00:02:04.840><c> way</c><00:02:05.079><c> I</c><00:02:05.200><c> do</c><00:02:05.399><c> I</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+being sent here and by the way I do I
+ 
+
+00:02:05.520 --> 00:02:06.789 align:start position:0%
+being sent here and by the way I do I
+regularly<00:02:05.920><c> go</c><00:02:06.039><c> here</c><00:02:06.159><c> to</c><00:02:06.280><c> look</c><00:02:06.399><c> up</c><00:02:06.520><c> a</c><00:02:06.600><c> little</c>
+
+00:02:06.789 --> 00:02:06.799 align:start position:0%
+regularly go here to look up a little
+ 
+
+00:02:06.799 --> 00:02:08.749 align:start position:0%
+regularly go here to look up a little
+thing<00:02:06.960><c> that</c><00:02:07.079><c> I</c><00:02:07.200><c> can't</c><00:02:07.399><c> figure</c><00:02:07.640><c> out</c><00:02:08.360><c> but</c><00:02:08.520><c> that's</c>
+
+00:02:08.749 --> 00:02:08.759 align:start position:0%
+thing that I can't figure out but that's
+ 
+
+00:02:08.759 --> 00:02:11.150 align:start position:0%
+thing that I can't figure out but that's
+really<00:02:08.959><c> not</c><00:02:09.200><c> the</c><00:02:09.399><c> official</c><00:02:10.280><c> source</c><00:02:10.759><c> and</c><00:02:10.920><c> it</c>
+
+00:02:11.150 --> 00:02:11.160 align:start position:0%
+really not the official source and it
+ 
+
+00:02:11.160 --> 00:02:13.470 align:start position:0%
+really not the official source and it
+does<00:02:11.480><c> kind</c><00:02:11.599><c> of</c><00:02:11.800><c> annoy</c><00:02:12.160><c> me</c><00:02:12.599><c> that</c><00:02:12.840><c> the</c><00:02:12.959><c> searches</c>
+
+00:02:13.470 --> 00:02:13.480 align:start position:0%
+does kind of annoy me that the searches
+ 
+
+00:02:13.480 --> 00:02:16.750 align:start position:0%
+does kind of annoy me that the searches
+don't<00:02:13.800><c> even</c><00:02:14.200><c> find</c><00:02:14.680><c> the</c><00:02:14.879><c> official</c><00:02:15.280><c> source</c><00:02:16.239><c> so</c>
+
+00:02:16.750 --> 00:02:16.760 align:start position:0%
+don't even find the official source so
+ 
+
+00:02:16.760 --> 00:02:21.509 align:start position:0%
+don't even find the official source so
+the<00:02:17.239><c> uh</c><00:02:17.879><c> W3</c><00:02:18.879><c> uh</c><00:02:19.040><c> working</c><00:02:19.879><c> group</c><00:02:20.879><c> um</c><00:02:21.200><c> we</c><00:02:21.319><c> won't</c>
+
+00:02:21.509 --> 00:02:21.519 align:start position:0%
+the uh W3 uh working group um we won't
+ 
+
+00:02:21.519 --> 00:02:23.630 align:start position:0%
+the uh W3 uh working group um we won't
+get<00:02:21.640><c> into</c><00:02:21.879><c> the</c><00:02:22.080><c> history</c><00:02:22.760><c> of</c><00:02:23.200><c> the</c><00:02:23.319><c> working</c>
+
+00:02:23.630 --> 00:02:23.640 align:start position:0%
+get into the history of the working
+ 
+
+00:02:23.640 --> 00:02:27.070 align:start position:0%
+get into the history of the working
+group<00:02:24.040><c> The</c><00:02:24.200><c> W3</c><00:02:24.800><c> working</c><00:02:25.280><c> group</c><00:02:26.280><c> um</c><00:02:26.800><c> working</c>
+
+00:02:27.070 --> 00:02:27.080 align:start position:0%
+group The W3 working group um working
+ 
+
+00:02:27.080 --> 00:02:30.270 align:start position:0%
+group The W3 working group um working
+groups<00:02:27.319><c> are</c><00:02:27.519><c> the</c><00:02:27.640><c> heart</c><00:02:27.760><c> of</c><00:02:27.879><c> the</c><00:02:28.000><c> w3c</c><00:02:28.720><c> w3c</c>
+
+00:02:30.270 --> 00:02:30.280 align:start position:0%
+groups are the heart of the w3c w3c
+ 
+
+00:02:30.280 --> 00:02:33.430 align:start position:0%
+groups are the heart of the w3c w3c
+historically<00:02:31.000><c> has</c><00:02:31.200><c> been</c><00:02:31.519><c> the</c><00:02:31.680><c> place</c><00:02:31.879><c> to</c><00:02:32.280><c> go</c><00:02:33.280><c> uh</c>
+
+00:02:33.430 --> 00:02:33.440 align:start position:0%
+historically has been the place to go uh
+ 
+
+00:02:33.440 --> 00:02:36.390 align:start position:0%
+historically has been the place to go uh
+for<00:02:33.879><c> they</c><00:02:34.200><c> actually</c><00:02:34.480><c> literally</c><00:02:34.959><c> created</c><00:02:35.280><c> the</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+for they actually literally created the
+ 
+
+00:02:36.400 --> 00:02:39.630 align:start position:0%
+for they actually literally created the
+specification<00:02:37.400><c> um</c><00:02:38.200><c> unfortunately</c><00:02:38.920><c> there</c><00:02:39.040><c> was</c>
+
+00:02:39.630 --> 00:02:39.640 align:start position:0%
+specification um unfortunately there was
+ 
+
+00:02:39.640 --> 00:02:42.390 align:start position:0%
+specification um unfortunately there was
+also<00:02:40.640><c> they</c><00:02:40.800><c> didn't</c><00:02:41.239><c> keep</c><00:02:41.519><c> up</c><00:02:41.879><c> I</c><00:02:41.920><c> mean</c><00:02:42.159><c> it's</c>
+
+00:02:42.390 --> 00:02:42.400 align:start position:0%
+also they didn't keep up I mean it's
+ 
+
+00:02:42.400 --> 00:02:45.270 align:start position:0%
+also they didn't keep up I mean it's
+it's<00:02:42.519><c> hard</c><00:02:42.720><c> for</c><00:02:42.840><c> you</c><00:02:42.920><c> to</c><00:02:43.080><c> know</c><00:02:43.360><c> about</c><00:02:43.920><c> this</c><00:02:44.920><c> um</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+it's hard for you to know about this um
+ 
+
+00:02:45.280 --> 00:02:47.309 align:start position:0%
+it's hard for you to know about this um
+there's<00:02:45.680><c> w3c</c><00:02:46.599><c> and</c><00:02:46.720><c> then</c><00:02:46.840><c> there's</c><00:02:47.040><c> another</c>
+
+00:02:47.309 --> 00:02:47.319 align:start position:0%
+there's w3c and then there's another
+ 
+
+00:02:47.319 --> 00:02:50.030 align:start position:0%
+there's w3c and then there's another
+thing<00:02:47.560><c> called</c><00:02:47.760><c> the</c><00:02:47.920><c> W3</c><00:02:48.680><c> working</c><00:02:49.159><c> group</c><00:02:49.920><c> which</c>
+
+00:02:50.030 --> 00:02:50.040 align:start position:0%
+thing called the W3 working group which
+ 
+
+00:02:50.040 --> 00:02:52.710 align:start position:0%
+thing called the W3 working group which
+was<00:02:50.239><c> created</c><00:02:50.680><c> primarily</c><00:02:51.280><c> from</c><00:02:51.720><c> people</c><00:02:52.040><c> from</c>
+
+00:02:52.710 --> 00:02:52.720 align:start position:0%
+was created primarily from people from
+ 
+
+00:02:52.720 --> 00:02:56.350 align:start position:0%
+was created primarily from people from
+Google<00:02:53.840><c> um</c><00:02:54.840><c> uh</c>
+
+00:02:56.350 --> 00:02:56.360 align:start position:0%
+Google um uh
+ 
+
+00:02:56.360 --> 00:03:00.030 align:start position:0%
+Google um uh
+W3<00:02:57.360><c> uh</c><00:02:58.040><c> why</c><00:02:58.280><c> why</c><00:02:58.400><c> isn't</c><00:02:58.680><c> it</c><00:02:59.400><c> you</c><00:02:59.519><c> know</c><00:02:59.640><c> what</c><00:02:59.920><c> I</c>
+
+00:03:00.030 --> 00:03:00.040 align:start position:0%
+W3 uh why why isn't it you know what I
+ 
+
+00:03:00.040 --> 00:03:01.350 align:start position:0%
+W3 uh why why isn't it you know what I
+think<00:03:00.440><c> I</c><00:03:00.519><c> think</c><00:03:00.640><c> it's</c><00:03:00.800><c> because</c><00:03:01.000><c> the</c><00:03:01.080><c> working</c>
+
+00:03:01.350 --> 00:03:01.360 align:start position:0%
+think I think it's because the working
+ 
+
+00:03:01.360 --> 00:03:03.309 align:start position:0%
+think I think it's because the working
+group<00:03:01.680><c> finally</c><00:03:02.040><c> resolved</c><00:03:02.480><c> their</c><00:03:02.680><c> drama</c><00:03:03.200><c> and</c>
+
+00:03:03.309 --> 00:03:03.319 align:start position:0%
+group finally resolved their drama and
+ 
+
+00:03:03.319 --> 00:03:05.589 align:start position:0%
+group finally resolved their drama and
+said<00:03:03.640><c> no</c><00:03:03.840><c> go</c><00:03:03.959><c> to</c><00:03:04.120><c> w3c</c><00:03:04.840><c> for</c>
+
+00:03:05.589 --> 00:03:05.599 align:start position:0%
+said no go to w3c for
+ 
+
+00:03:05.599 --> 00:03:09.309 align:start position:0%
+said no go to w3c for
+everything<00:03:06.640><c> um</c><00:03:07.640><c> I</c><00:03:07.959><c> think</c><00:03:08.360><c> they</c><00:03:08.599><c> finally</c><00:03:09.120><c> went</c>
+
+00:03:09.309 --> 00:03:09.319 align:start position:0%
+everything um I think they finally went
+ 
+
+00:03:09.319 --> 00:03:10.309 align:start position:0%
+everything um I think they finally went
+ahead<00:03:09.599><c> a</c><00:03:09.680><c> lot</c><00:03:09.799><c> of</c><00:03:09.879><c> people</c><00:03:10.040><c> have</c><00:03:10.159><c> been</c>
+
+00:03:10.309 --> 00:03:10.319 align:start position:0%
+ahead a lot of people have been
+ 
+
+00:03:10.319 --> 00:03:12.110 align:start position:0%
+ahead a lot of people have been
+recommending<00:03:10.959><c> M</c>
+
+00:03:12.110 --> 00:03:12.120 align:start position:0%
+recommending M
+ 
+
+00:03:12.120 --> 00:03:15.350 align:start position:0%
+recommending M
+Milla<00:03:13.120><c> uh</c><00:03:13.599><c> okay</c><00:03:13.799><c> so</c><00:03:13.959><c> here</c><00:03:14.080><c> it</c><00:03:14.159><c> is</c><00:03:14.280><c> the</c><00:03:14.400><c> HTML</c><00:03:15.239><c> the</c>
+
+00:03:15.350 --> 00:03:15.360 align:start position:0%
+Milla uh okay so here it is the HTML the
+ 
+
+00:03:15.360 --> 00:03:16.670 align:start position:0%
+Milla uh okay so here it is the HTML the
+HTML<00:03:15.799><c> working</c>
+
+00:03:16.670 --> 00:03:16.680 align:start position:0%
+HTML working
+ 
+
+00:03:16.680 --> 00:03:20.430 align:start position:0%
+HTML working
+group<00:03:17.680><c> um</c><00:03:18.640><c> I'm</c><00:03:18.760><c> trying</c><00:03:18.959><c> to</c><00:03:19.120><c> think</c>
+
+00:03:20.430 --> 00:03:20.440 align:start position:0%
+group um I'm trying to think
+ 
+
+00:03:20.440 --> 00:03:21.990 align:start position:0%
+group um I'm trying to think
+w3c
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+w3c
+ 
+
+00:03:22.000 --> 00:03:27.830 align:start position:0%
+w3c
+uh<00:03:23.000><c> uh</c><00:03:23.440><c> working</c><00:03:24.159><c> group</c><00:03:25.080><c> HTML</c><00:03:25.879><c> working</c><00:03:26.840><c> group</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+uh uh working group HTML working group
+ 
+
+00:03:27.840 --> 00:03:31.110 align:start position:0%
+uh uh working group HTML working group
+I'm<00:03:27.959><c> trying</c><00:03:28.200><c> to</c><00:03:28.360><c> find</c><00:03:28.519><c> it</c><00:03:28.840><c> it's</c><00:03:29.080><c> actually</c><00:03:29.400><c> hard</c>
+
+00:03:31.110 --> 00:03:31.120 align:start position:0%
+I'm trying to find it it's actually hard
+ 
+
+00:03:31.120 --> 00:03:33.910 align:start position:0%
+I'm trying to find it it's actually hard
+okay<00:03:31.519><c> let's</c><00:03:31.720><c> see</c><00:03:32.159><c> chartered</c><00:03:32.640><c> until</c>
+
+00:03:33.910 --> 00:03:33.920 align:start position:0%
+okay let's see chartered until
+ 
+
+00:03:33.920 --> 00:03:37.229 align:start position:0%
+okay let's see chartered until
+blah<00:03:34.920><c> I</c><00:03:35.000><c> mean</c><00:03:35.239><c> I'm</c><00:03:35.480><c> kind</c><00:03:35.599><c> of</c><00:03:36.159><c> Interest</c><00:03:37.040><c> where</c>
+
+00:03:37.229 --> 00:03:37.239 align:start position:0%
+blah I mean I'm kind of Interest where
+ 
+
+00:03:37.239 --> 00:03:40.509 align:start position:0%
+blah I mean I'm kind of Interest where
+is<00:03:37.400><c> it</c><00:03:37.599><c> how</c><00:03:37.760><c> come</c><00:03:37.920><c> it's</c><00:03:38.080><c> still</c><00:03:38.360><c> so</c><00:03:38.599><c> hard</c><00:03:38.799><c> to</c>
+
+00:03:40.509 --> 00:03:40.519 align:start position:0%
+is it how come it's still so hard to
+ 
+
+00:03:40.519 --> 00:03:42.830 align:start position:0%
+is it how come it's still so hard to
+find
+
+00:03:42.830 --> 00:03:42.840 align:start position:0%
+find
+ 
+
+00:03:42.840 --> 00:03:45.750 align:start position:0%
+find
+uh<00:03:43.840><c> yeah</c><00:03:44.040><c> HTML</c><00:03:44.640><c> has</c><00:03:44.840><c> had</c><00:03:45.120><c> problems</c><00:03:45.439><c> in</c><00:03:45.560><c> the</c>
+
+00:03:45.750 --> 00:03:45.760 align:start position:0%
+uh yeah HTML has had problems in the
+ 
+
+00:03:45.760 --> 00:03:46.430 align:start position:0%
+uh yeah HTML has had problems in the
+past
+
+00:03:46.430 --> 00:03:46.440 align:start position:0%
+past
+ 
+
+00:03:46.440 --> 00:03:47.710 align:start position:0%
+past
+[Music]
+
+00:03:47.710 --> 00:03:47.720 align:start position:0%
+[Music]
+ 
+
+00:03:47.720 --> 00:03:51.470 align:start position:0%
+[Music]
+um<00:03:49.000><c> so</c><00:03:50.000><c> okay</c><00:03:50.400><c> let's</c><00:03:50.640><c> let's</c><00:03:50.920><c> actually</c><00:03:51.159><c> just</c><00:03:51.319><c> go</c>
+
+00:03:51.470 --> 00:03:51.480 align:start position:0%
+um so okay let's let's actually just go
+ 
+
+00:03:51.480 --> 00:03:54.869 align:start position:0%
+um so okay let's let's actually just go
+look<00:03:51.599><c> at</c><00:03:51.760><c> this</c><00:03:51.959><c> history</c><00:03:52.640><c> of</c><00:03:53.640><c> uh</c><00:03:54.120><c> web</c>
+
+00:03:54.869 --> 00:03:54.879 align:start position:0%
+look at this history of uh web
+ 
+
+00:03:54.879 --> 00:03:59.789 align:start position:0%
+look at this history of uh web
+specifications<00:03:56.079><c> okay</c><00:03:57.079><c> including</c><00:03:57.519><c> HTML</c><00:03:58.720><c> so</c>
+
+00:03:59.789 --> 00:03:59.799 align:start position:0%
+specifications okay including HTML so
+ 
+
+00:03:59.799 --> 00:04:02.509 align:start position:0%
+specifications okay including HTML so
+the<00:04:00.000><c> w3c</c><00:04:01.000><c> was</c><00:04:01.159><c> the</c><00:04:01.319><c> original</c><00:04:01.799><c> one</c><00:04:02.239><c> and</c><00:04:02.319><c> then</c>
+
+00:04:02.509 --> 00:04:02.519 align:start position:0%
+the w3c was the original one and then
+ 
+
+00:04:02.519 --> 00:04:05.390 align:start position:0%
+the w3c was the original one and then
+they<00:04:02.720><c> stopped</c><00:04:03.200><c> updating</c><00:04:03.799><c> stuff</c><00:04:04.720><c> and</c>
+
+00:04:05.390 --> 00:04:05.400 align:start position:0%
+they stopped updating stuff and
+ 
+
+00:04:05.400 --> 00:04:07.429 align:start position:0%
+they stopped updating stuff and
+everybody<00:04:05.879><c> was</c><00:04:06.120><c> like</c><00:04:06.640><c> why</c><00:04:06.840><c> can't</c><00:04:07.079><c> they</c><00:04:07.239><c> do</c>
+
+00:04:07.429 --> 00:04:07.439 align:start position:0%
+everybody was like why can't they do
+ 
+
+00:04:07.439 --> 00:04:10.149 align:start position:0%
+everybody was like why can't they do
+anything<00:04:07.799><c> they</c><00:04:08.000><c> become</c><00:04:08.280><c> completely</c><00:04:09.159><c> unusable</c>
+
+00:04:10.149 --> 00:04:10.159 align:start position:0%
+anything they become completely unusable
+ 
+
+00:04:10.159 --> 00:04:16.270 align:start position:0%
+anything they become completely unusable
+and<00:04:10.360><c> so</c><00:04:11.200><c> the</c><00:04:12.319><c> um</c><00:04:13.319><c> the</c><00:04:14.040><c> the</c><00:04:14.480><c> other</c><00:04:15.480><c> group</c><00:04:16.040><c> came</c>
+
+00:04:16.270 --> 00:04:16.280 align:start position:0%
+and so the um the the other group came
+ 
+
+00:04:16.280 --> 00:04:20.229 align:start position:0%
+and so the um the the other group came
+up<00:04:16.840><c> and</c><00:04:17.040><c> they</c><00:04:17.239><c> said</c><00:04:18.000><c> we're</c><00:04:18.199><c> going</c><00:04:18.320><c> to</c><00:04:18.519><c> do</c><00:04:18.759><c> it</c>
+
+00:04:20.229 --> 00:04:20.239 align:start position:0%
+up and they said we're going to do it
+ 
+
+00:04:20.239 --> 00:04:24.350 align:start position:0%
+up and they said we're going to do it
+instead<00:04:21.239><c> and</c><00:04:22.199><c> this</c><00:04:22.360><c> is</c><00:04:22.639><c> not</c><00:04:23.120><c> accurate</c><00:04:23.560><c> at</c><00:04:23.720><c> all</c>
+
+00:04:24.350 --> 00:04:24.360 align:start position:0%
+instead and this is not accurate at all
+ 
+
+00:04:24.360 --> 00:04:26.830 align:start position:0%
+instead and this is not accurate at all
+and<00:04:24.759><c> but</c><00:04:24.919><c> they</c><00:04:25.080><c> came</c><00:04:25.240><c> up</c><00:04:25.400><c> with</c><00:04:25.560><c> HTML</c>
+
+00:04:26.830 --> 00:04:26.840 align:start position:0%
+and but they came up with HTML
+ 
+
+00:04:26.840 --> 00:04:30.830 align:start position:0%
+and but they came up with HTML
+5<00:04:27.840><c> um</c><00:04:28.199><c> so</c><00:04:28.639><c> HTML</c><00:04:29.280><c> 5</c>
+
+00:04:30.830 --> 00:04:30.840 align:start position:0%
+5 um so HTML 5
+ 
+
+00:04:30.840 --> 00:04:32.710 align:start position:0%
+5 um so HTML 5
+and<00:04:31.000><c> this</c><00:04:31.520><c> I'm</c><00:04:31.680><c> actually</c><00:04:31.919><c> kind</c><00:04:32.039><c> of</c><00:04:32.199><c> glad</c><00:04:32.560><c> we're</c>
+
+00:04:32.710 --> 00:04:32.720 align:start position:0%
+and this I'm actually kind of glad we're
+ 
+
+00:04:32.720 --> 00:04:35.029 align:start position:0%
+and this I'm actually kind of glad we're
+having<00:04:32.919><c> trouble</c><00:04:33.280><c> here</c><00:04:34.080><c> because</c><00:04:34.320><c> it's</c><00:04:34.560><c> so</c><00:04:34.800><c> hard</c>
+
+00:04:35.029 --> 00:04:35.039 align:start position:0%
+having trouble here because it's so hard
+ 
+
+00:04:35.039 --> 00:04:37.830 align:start position:0%
+having trouble here because it's so hard
+to<00:04:35.199><c> get</c><00:04:35.400><c> the</c><00:04:35.680><c> actual</c><00:04:36.479><c> documentation</c><00:04:37.479><c> there</c><00:04:37.720><c> it</c>
+
+00:04:37.830 --> 00:04:37.840 align:start position:0%
+to get the actual documentation there it
+ 
+
+00:04:37.840 --> 00:04:39.870 align:start position:0%
+to get the actual documentation there it
+is<00:04:38.120><c> what</c><00:04:38.360><c> WG</c><00:04:39.039><c> that's</c><00:04:39.199><c> the</c><00:04:39.280><c> one</c><00:04:39.440><c> I</c><00:04:39.520><c> was</c><00:04:39.680><c> looking</c>
+
+00:04:39.870 --> 00:04:39.880 align:start position:0%
+is what WG that's the one I was looking
+ 
+
+00:04:39.880 --> 00:04:42.870 align:start position:0%
+is what WG that's the one I was looking
+for<00:04:40.680><c> I</c><00:04:40.759><c> was</c><00:04:40.919><c> looking</c><00:04:41.160><c> for</c><00:04:41.400><c> it's</c><00:04:41.560><c> what</c><00:04:41.800><c> WG</c><00:04:42.759><c> okay</c>
+
+00:04:42.870 --> 00:04:42.880 align:start position:0%
+for I was looking for it's what WG okay
+ 
+
+00:04:42.880 --> 00:04:45.230 align:start position:0%
+for I was looking for it's what WG okay
+so<00:04:43.240><c> this</c>
+
+00:04:45.230 --> 00:04:45.240 align:start position:0%
+so this
+ 
+
+00:04:45.240 --> 00:04:47.590 align:start position:0%
+so this
+so<00:04:46.240><c> I</c><00:04:46.360><c> gotta</c><00:04:46.680><c> I</c><00:04:46.759><c> got</c><00:04:46.840><c> to</c><00:04:47.000><c> tell</c><00:04:47.120><c> you</c><00:04:47.280><c> about</c><00:04:47.440><c> this</c>
+
+00:04:47.590 --> 00:04:47.600 align:start position:0%
+so I gotta I got to tell you about this
+ 
+
+00:04:47.600 --> 00:04:48.909 align:start position:0%
+so I gotta I got to tell you about this
+because<00:04:47.680><c> you're</c><00:04:47.800><c> going</c><00:04:47.880><c> to</c><00:04:48.000><c> get</c><00:04:48.160><c> confused</c>
+
+00:04:48.909 --> 00:04:48.919 align:start position:0%
+because you're going to get confused
+ 
+
+00:04:48.919 --> 00:04:51.469 align:start position:0%
+because you're going to get confused
+you're<00:04:49.199><c> like</c><00:04:49.520><c> what</c><00:04:49.680><c> the</c><00:04:49.880><c> hell</c><00:04:50.280><c> is</c><00:04:50.440><c> the</c><00:04:50.639><c> what</c>
+
+00:04:51.469 --> 00:04:51.479 align:start position:0%
+you're like what the hell is the what
+ 
+
+00:04:51.479 --> 00:04:55.550 align:start position:0%
+you're like what the hell is the what
+WG<00:04:52.479><c> um</c><00:04:53.199><c> okay</c><00:04:53.400><c> so</c><00:04:53.919><c> the</c><00:04:54.240><c> what</c>
+
+00:04:55.550 --> 00:04:55.560 align:start position:0%
+WG um okay so the what
+ 
+
+00:04:55.560 --> 00:04:58.629 align:start position:0%
+WG um okay so the what
+WG<00:04:56.560><c> in</c><00:04:56.759><c> fact</c><00:04:57.000><c> let's</c><00:04:57.240><c> let's</c><00:04:57.479><c> go</c><00:04:57.800><c> let's</c><00:04:57.960><c> go</c><00:04:58.320><c> there</c>
+
+00:04:58.629 --> 00:04:58.639 align:start position:0%
+WG in fact let's let's go let's go there
+ 
+
+00:04:58.639 --> 00:05:01.590 align:start position:0%
+WG in fact let's let's go let's go there
+let's<00:04:58.880><c> go</c><00:04:59.039><c> to</c><00:04:59.199><c> the</c><00:04:59.360><c> what</c><00:05:00.000><c> WG</c><00:05:01.000><c> uh</c><00:05:01.120><c> and</c><00:05:01.240><c> let's</c><00:05:01.440><c> see</c>
+
+00:05:01.590 --> 00:05:01.600 align:start position:0%
+let's go to the what WG uh and let's see
+ 
+
+00:05:01.600 --> 00:05:02.950 align:start position:0%
+let's go to the what WG uh and let's see
+what<00:05:01.759><c> they</c><00:05:01.880><c> have</c><00:05:02.000><c> to</c><00:05:02.160><c> say</c><00:05:02.320><c> about</c><00:05:02.600><c> what</c><00:05:02.759><c> they</c>
+
+00:05:02.950 --> 00:05:02.960 align:start position:0%
+what they have to say about what they
+ 
+
+00:05:02.960 --> 00:05:06.830 align:start position:0%
+what they have to say about what they
+are<00:05:03.960><c> um</c><00:05:04.240><c> all</c><00:05:04.400><c> right</c><00:05:04.680><c> so</c><00:05:05.320><c> okay</c><00:05:06.080><c> the</c><00:05:06.280><c> maintained</c>
+
+00:05:06.830 --> 00:05:06.840 align:start position:0%
+are um all right so okay the maintained
+ 
+
+00:05:06.840 --> 00:05:10.909 align:start position:0%
+are um all right so okay the maintained
+and<00:05:07.039><c> evolved</c><00:05:07.560><c> HTML</c><00:05:08.199><c> since</c><00:05:09.240><c> 2004</c><00:05:10.240><c> so</c><00:05:10.479><c> the</c><00:05:10.600><c> short</c>
+
+00:05:10.909 --> 00:05:10.919 align:start position:0%
+and evolved HTML since 2004 so the short
+ 
+
+00:05:10.919 --> 00:05:12.830 align:start position:0%
+and evolved HTML since 2004 so the short
+answer<00:05:11.160><c> to</c><00:05:11.360><c> this</c><00:05:11.560><c> drama</c><00:05:11.960><c> in</c><00:05:12.120><c> the</c><00:05:12.280><c> history</c><00:05:12.600><c> is</c>
+
+00:05:12.830 --> 00:05:12.840 align:start position:0%
+answer to this drama in the history is
+ 
+
+00:05:12.840 --> 00:05:16.430 align:start position:0%
+answer to this drama in the history is
+very<00:05:13.120><c> simple</c><00:05:14.120><c> the</c><00:05:14.639><c> original</c><00:05:15.440><c> organization</c>
+
+00:05:16.430 --> 00:05:16.440 align:start position:0%
+very simple the original organization
+ 
+
+00:05:16.440 --> 00:05:19.070 align:start position:0%
+very simple the original organization
+that<00:05:16.840><c> that</c><00:05:17.080><c> created</c><00:05:17.840><c> the</c><00:05:18.199><c> absolutely</c>
+
+00:05:19.070 --> 00:05:19.080 align:start position:0%
+that that created the absolutely
+ 
+
+00:05:19.080 --> 00:05:23.430 align:start position:0%
+that that created the absolutely
+horrible<00:05:19.759><c> xhtml</c><00:05:21.199><c> standard</c><00:05:22.199><c> um</c><00:05:22.680><c> which</c><00:05:22.800><c> is</c><00:05:23.080><c> pre</c>
+
+00:05:23.430 --> 00:05:23.440 align:start position:0%
+horrible xhtml standard um which is pre
+ 
+
+00:05:23.440 --> 00:05:28.909 align:start position:0%
+horrible xhtml standard um which is pre
+HTML<00:05:24.680><c> 5</c><00:05:25.680><c> um</c><00:05:26.560><c> was</c><00:05:26.800><c> the</c><00:05:27.120><c> w3c</c><00:05:28.120><c> and</c><00:05:28.360><c> there</c><00:05:28.479><c> were</c><00:05:28.720><c> so</c>
+
+00:05:28.909 --> 00:05:28.919 align:start position:0%
+HTML 5 um was the w3c and there were so
+ 
+
+00:05:28.919 --> 00:05:30.870 align:start position:0%
+HTML 5 um was the w3c and there were so
+many<00:05:29.199><c> problems</c><00:05:29.520><c> with</c><00:05:29.759><c> with</c><00:05:29.880><c> it</c><00:05:30.280><c> and</c><00:05:30.680><c> I'm</c><00:05:30.800><c> going</c>
+
+00:05:30.870 --> 00:05:30.880 align:start position:0%
+many problems with with it and I'm going
+ 
+
+00:05:30.880 --> 00:05:33.029 align:start position:0%
+many problems with with it and I'm going
+to<00:05:31.120><c> get</c><00:05:31.880><c> negative</c><00:05:32.240><c> comments</c><00:05:32.600><c> there's</c><00:05:32.759><c> no</c><00:05:32.880><c> way</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+to get negative comments there's no way
+ 
+
+00:05:33.039 --> 00:05:36.070 align:start position:0%
+to get negative comments there's no way
+around<00:05:33.440><c> it</c><00:05:34.440><c> and</c><00:05:34.600><c> I</c><00:05:34.680><c> mean</c><00:05:34.800><c> it</c><00:05:34.919><c> was</c><00:05:35.240><c> bad</c><00:05:35.960><c> there</c>
+
+00:05:36.070 --> 00:05:36.080 align:start position:0%
+around it and I mean it was bad there
+ 
+
+00:05:36.080 --> 00:05:38.110 align:start position:0%
+around it and I mean it was bad there
+were<00:05:36.600><c> they</c><00:05:36.720><c> tried</c><00:05:36.960><c> to</c><00:05:37.120><c> push</c><00:05:37.520><c> a</c><00:05:37.680><c> bunch</c><00:05:37.880><c> of</c>
+
+00:05:38.110 --> 00:05:38.120 align:start position:0%
+were they tried to push a bunch of
+ 
+
+00:05:38.120 --> 00:05:40.710 align:start position:0%
+were they tried to push a bunch of
+really<00:05:38.360><c> bad</c><00:05:38.600><c> ideas</c><00:05:39.479><c> and</c><00:05:39.600><c> the</c><00:05:39.800><c> whole</c><00:05:40.080><c> world</c>
+
+00:05:40.710 --> 00:05:40.720 align:start position:0%
+really bad ideas and the whole world
+ 
+
+00:05:40.720 --> 00:05:42.150 align:start position:0%
+really bad ideas and the whole world
+pretty<00:05:40.919><c> much</c><00:05:41.080><c> all</c><00:05:41.199><c> the</c><00:05:41.319><c> developers</c><00:05:41.759><c> were</c><00:05:41.960><c> like</c>
+
+00:05:42.150 --> 00:05:42.160 align:start position:0%
+pretty much all the developers were like
+ 
+
+00:05:42.160 --> 00:05:43.710 align:start position:0%
+pretty much all the developers were like
+no<00:05:42.360><c> this</c><00:05:42.440><c> is</c><00:05:42.800><c> absolutely</c><00:05:43.240><c> horrible</c><00:05:43.600><c> it's</c>
+
+00:05:43.710 --> 00:05:43.720 align:start position:0%
+no this is absolutely horrible it's
+ 
+
+00:05:43.720 --> 00:05:45.309 align:start position:0%
+no this is absolutely horrible it's
+almost<00:05:43.919><c> like</c><00:05:44.080><c> they</c><00:05:44.160><c> don't</c><00:05:44.479><c> actually</c><00:05:44.800><c> use</c><00:05:45.080><c> the</c>
+
+00:05:45.309 --> 00:05:45.319 align:start position:0%
+almost like they don't actually use the
+ 
+
+00:05:45.319 --> 00:05:46.950 align:start position:0%
+almost like they don't actually use the
+specification<00:05:46.039><c> of</c><00:05:46.199><c> the</c><00:05:46.360><c> technology</c><00:05:46.840><c> that</c>
+
+00:05:46.950 --> 00:05:46.960 align:start position:0%
+specification of the technology that
+ 
+
+00:05:46.960 --> 00:05:49.270 align:start position:0%
+specification of the technology that
+they're<00:05:47.160><c> creating</c><00:05:47.560><c> which</c><00:05:47.680><c> is</c><00:05:47.880><c> largely</c><00:05:48.479><c> true</c>
+
+00:05:49.270 --> 00:05:49.280 align:start position:0%
+they're creating which is largely true
+ 
+
+00:05:49.280 --> 00:05:51.070 align:start position:0%
+they're creating which is largely true
+the<00:05:49.479><c> specification</c><00:05:50.160><c> body</c><00:05:50.680><c> became</c>
+
+00:05:51.070 --> 00:05:51.080 align:start position:0%
+the specification body became
+ 
+
+00:05:51.080 --> 00:05:52.710 align:start position:0%
+the specification body became
+disconnected<00:05:51.759><c> from</c><00:05:51.960><c> the</c><00:05:52.120><c> developers</c><00:05:52.560><c> who</c>
+
+00:05:52.710 --> 00:05:52.720 align:start position:0%
+disconnected from the developers who
+ 
+
+00:05:52.720 --> 00:05:55.029 align:start position:0%
+disconnected from the developers who
+were<00:05:52.919><c> actually</c><00:05:53.240><c> using</c><00:05:53.680><c> it</c><00:05:54.080><c> and</c><00:05:54.240><c> by</c><00:05:54.400><c> developers</c>
+
+00:05:55.029 --> 00:05:55.039 align:start position:0%
+were actually using it and by developers
+ 
+
+00:05:55.039 --> 00:05:57.270 align:start position:0%
+were actually using it and by developers
+I<00:05:55.120><c> mean</c><00:05:55.639><c> the</c><00:05:55.800><c> the</c><00:05:55.960><c> largest</c><00:05:56.400><c> representation</c><00:05:57.120><c> of</c>
+
+00:05:57.270 --> 00:05:57.280 align:start position:0%
+I mean the the largest representation of
+ 
+
+00:05:57.280 --> 00:05:59.270 align:start position:0%
+I mean the the largest representation of
+developers<00:05:57.840><c> which</c><00:05:58.000><c> included</c><00:05:58.759><c> the</c><00:05:58.919><c> Googles</c>
+
+00:05:59.270 --> 00:05:59.280 align:start position:0%
+developers which included the Googles
+ 
+
+00:05:59.280 --> 00:06:01.029 align:start position:0%
+developers which included the Googles
+and<00:05:59.360><c> the</c><00:05:59.440><c> most</c><00:05:59.759><c> zillas</c><00:06:00.199><c> and</c><00:06:00.440><c> the</c><00:06:00.759><c> and</c><00:06:00.880><c> the</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+and the most zillas and the and the
+ 
+
+00:06:01.039 --> 00:06:03.990 align:start position:0%
+and the most zillas and the and the
+microsofts<00:06:01.680><c> and</c><00:06:01.919><c> all</c><00:06:02.039><c> of</c><00:06:02.240><c> those</c><00:06:02.680><c> people</c><00:06:03.680><c> uh</c>
+
+00:06:03.990 --> 00:06:04.000 align:start position:0%
+microsofts and all of those people uh
+ 
+
+00:06:04.000 --> 00:06:07.710 align:start position:0%
+microsofts and all of those people uh
+they<00:06:04.160><c> were</c><00:06:04.400><c> the</c><00:06:04.520><c> ones</c><00:06:04.919><c> doing</c><00:06:05.280><c> it</c><00:06:05.599><c> all</c><00:06:06.599><c> and</c><00:06:07.280><c> and</c>
+
+00:06:07.710 --> 00:06:07.720 align:start position:0%
+they were the ones doing it all and and
+ 
+
+00:06:07.720 --> 00:06:11.710 align:start position:0%
+they were the ones doing it all and and
+so<00:06:08.240><c> that</c><00:06:08.639><c> became</c><00:06:09.520><c> the</c><00:06:10.000><c> the</c><00:06:10.919><c> you</c><00:06:11.039><c> know</c><00:06:11.360><c> these</c>
+
+00:06:11.710 --> 00:06:11.720 align:start position:0%
+so that became the the you know these
+ 
+
+00:06:11.720 --> 00:06:14.189 align:start position:0%
+so that became the the you know these
+these<00:06:12.000><c> people</c><00:06:12.479><c> that</c><00:06:12.639><c> were</c><00:06:12.919><c> making</c><00:06:13.280><c> the</c><00:06:13.440><c> web</c>
+
+00:06:14.189 --> 00:06:14.199 align:start position:0%
+these people that were making the web
+ 
+
+00:06:14.199 --> 00:06:16.749 align:start position:0%
+these people that were making the web
+browsers<00:06:15.199><c> uh</c><00:06:15.360><c> and</c><00:06:15.479><c> that</c><00:06:15.720><c> were</c><00:06:16.039><c> having</c><00:06:16.280><c> to</c><00:06:16.440><c> deal</c>
+
+00:06:16.749 --> 00:06:16.759 align:start position:0%
+browsers uh and that were having to deal
+ 
+
+00:06:16.759 --> 00:06:18.830 align:start position:0%
+browsers uh and that were having to deal
+with<00:06:16.880><c> this</c><00:06:17.120><c> HTML</c><00:06:18.120><c> it</c><00:06:18.199><c> was</c><00:06:18.440><c> kind</c><00:06:18.560><c> of</c><00:06:18.680><c> a</c>
+
+00:06:18.830 --> 00:06:18.840 align:start position:0%
+with this HTML it was kind of a
+ 
+
+00:06:18.840 --> 00:06:21.790 align:start position:0%
+with this HTML it was kind of a
+disconnect<00:06:19.360><c> because</c><00:06:19.599><c> w3c</c><00:06:20.599><c> I</c><00:06:21.039><c> I</c><00:06:21.199><c> promise</c><00:06:21.479><c> you</c>
+
+00:06:21.790 --> 00:06:21.800 align:start position:0%
+disconnect because w3c I I promise you
+ 
+
+00:06:21.800 --> 00:06:23.950 align:start position:0%
+disconnect because w3c I I promise you
+this<00:06:21.919><c> is</c><00:06:22.039><c> going</c><00:06:22.160><c> to</c><00:06:23.120><c> relevant</c><00:06:23.599><c> to</c><00:06:23.759><c> where</c><00:06:23.880><c> you</c>
+
+00:06:23.950 --> 00:06:23.960 align:start position:0%
+this is going to relevant to where you
+ 
+
+00:06:23.960 --> 00:06:26.189 align:start position:0%
+this is going to relevant to where you
+should<00:06:24.160><c> go</c><00:06:24.319><c> learn</c><00:06:25.120><c> right</c><00:06:25.720><c> because</c><00:06:25.960><c> you</c><00:06:26.080><c> need</c>
+
+00:06:26.189 --> 00:06:26.199 align:start position:0%
+should go learn right because you need
+ 
+
+00:06:26.199 --> 00:06:27.830 align:start position:0%
+should go learn right because you need
+to<00:06:26.319><c> know</c><00:06:26.479><c> the</c><00:06:26.639><c> history</c><00:06:27.199><c> you</c><00:06:27.319><c> need</c><00:06:27.479><c> to</c><00:06:27.599><c> know</c><00:06:27.720><c> the</c>
+
+00:06:27.830 --> 00:06:27.840 align:start position:0%
+to know the history you need to know the
+ 
+
+00:06:27.840 --> 00:06:29.909 align:start position:0%
+to know the history you need to know the
+history<00:06:28.280><c> of</c><00:06:29.000><c> why</c><00:06:29.240><c> this</c><00:06:29.360><c> is</c><00:06:29.639><c> the</c><00:06:29.759><c> most</c>
+
+00:06:29.909 --> 00:06:29.919 align:start position:0%
+history of why this is the most
+ 
+
+00:06:29.919 --> 00:06:31.629 align:start position:0%
+history of why this is the most
+definitive<00:06:30.400><c> source</c><00:06:30.639><c> for</c><00:06:30.919><c> Learning</c><00:06:31.280><c> and</c><00:06:31.479><c> how</c>
+
+00:06:31.629 --> 00:06:31.639 align:start position:0%
+definitive source for Learning and how
+ 
+
+00:06:31.639 --> 00:06:35.510 align:start position:0%
+definitive source for Learning and how
+it<00:06:31.759><c> came</c><00:06:31.919><c> to</c><00:06:32.080><c> be</c><00:06:32.360><c> that</c><00:06:32.599><c> way</c><00:06:33.599><c> um</c><00:06:34.120><c> so</c><00:06:34.520><c> so</c><00:06:34.720><c> the</c><00:06:34.840><c> w3c</c>
+
+00:06:35.510 --> 00:06:35.520 align:start position:0%
+it came to be that way um so so the w3c
+ 
+
+00:06:35.520 --> 00:06:36.909 align:start position:0%
+it came to be that way um so so the w3c
+which<00:06:35.599><c> was</c><00:06:35.759><c> making</c><00:06:36.000><c> all</c><00:06:36.160><c> the</c><00:06:36.639><c> they</c><00:06:36.720><c> were</c>
+
+00:06:36.909 --> 00:06:36.919 align:start position:0%
+which was making all the they were
+ 
+
+00:06:36.919 --> 00:06:38.309 align:start position:0%
+which was making all the they were
+specifying<00:06:37.440><c> everything</c><00:06:37.840><c> but</c><00:06:38.000><c> they</c><00:06:38.199><c> they</c>
+
+00:06:38.309 --> 00:06:38.319 align:start position:0%
+specifying everything but they they
+ 
+
+00:06:38.319 --> 00:06:39.710 align:start position:0%
+specifying everything but they they
+weren't<00:06:38.560><c> involved</c><00:06:38.919><c> with</c><00:06:39.080><c> making</c><00:06:39.319><c> any</c><00:06:39.479><c> of</c><00:06:39.599><c> the</c>
+
+00:06:39.710 --> 00:06:39.720 align:start position:0%
+weren't involved with making any of the
+ 
+
+00:06:39.720 --> 00:06:41.710 align:start position:0%
+weren't involved with making any of the
+web<00:06:39.880><c> browsers</c><00:06:40.319><c> at</c><00:06:40.440><c> all</c><00:06:41.199><c> and</c><00:06:41.280><c> so</c><00:06:41.440><c> the</c><00:06:41.560><c> web</c>
+
+00:06:41.710 --> 00:06:41.720 align:start position:0%
+web browsers at all and so the web
+ 
+
+00:06:41.720 --> 00:06:43.589 align:start position:0%
+web browsers at all and so the web
+browser<00:06:42.039><c> manufacturers</c><00:06:42.680><c> were</c><00:06:42.880><c> over</c><00:06:43.120><c> here</c><00:06:43.479><c> the</c>
+
+00:06:43.589 --> 00:06:43.599 align:start position:0%
+browser manufacturers were over here the
+ 
+
+00:06:43.599 --> 00:06:45.749 align:start position:0%
+browser manufacturers were over here the
+working<00:06:43.919><c> group</c><00:06:44.240><c> The</c><00:06:44.400><c> what</c><00:06:44.639><c> WG</c><00:06:45.199><c> working</c><00:06:45.560><c> group</c>
+
+00:06:45.749 --> 00:06:45.759 align:start position:0%
+working group The what WG working group
+ 
+
+00:06:45.759 --> 00:06:48.150 align:start position:0%
+working group The what WG working group
+they're<00:06:45.960><c> like</c><00:06:46.759><c> well</c><00:06:47.120><c> we</c><00:06:47.240><c> want</c><00:06:47.440><c> the</c><00:06:47.560><c> blink</c><00:06:47.880><c> tag</c>
+
+00:06:48.150 --> 00:06:48.160 align:start position:0%
+they're like well we want the blink tag
+ 
+
+00:06:48.160 --> 00:06:49.589 align:start position:0%
+they're like well we want the blink tag
+and<00:06:48.319><c> we</c><00:06:48.440><c> want</c><00:06:48.680><c> this</c><00:06:48.880><c> and</c><00:06:49.039><c> this</c><00:06:49.160><c> and</c><00:06:49.319><c> this</c><00:06:49.440><c> and</c>
+
+00:06:49.589 --> 00:06:49.599 align:start position:0%
+and we want this and this and this and
+ 
+
+00:06:49.599 --> 00:06:52.230 align:start position:0%
+and we want this and this and this and
+this<00:06:49.919><c> right</c><00:06:50.800><c> and</c><00:06:51.199><c> you</c><00:06:51.280><c> know</c><00:06:51.400><c> the</c><00:06:51.520><c> Milla</c>
+
+00:06:52.230 --> 00:06:52.240 align:start position:0%
+this right and you know the Milla
+ 
+
+00:06:52.240 --> 00:06:56.629 align:start position:0%
+this right and you know the Milla
+Network<00:06:52.800><c> that</c><00:06:53.080><c> they</c><00:06:53.319><c> got</c><00:06:54.080><c> um</c><00:06:54.960><c> all</c><00:06:55.160><c> of</c><00:06:55.280><c> it</c><00:06:55.759><c> right</c>
+
+00:06:56.629 --> 00:06:56.639 align:start position:0%
+Network that they got um all of it right
+ 
+
+00:06:56.639 --> 00:07:00.350 align:start position:0%
+Network that they got um all of it right
+and<00:06:57.280><c> and</c><00:06:57.360><c> so</c><00:06:57.560><c> they're</c><00:06:57.759><c> like</c><00:06:58.319><c> screw</c><00:06:58.800><c> you</c><00:06:59.120><c> w</c><00:06:59.840><c> see</c>
+
+00:07:00.350 --> 00:07:00.360 align:start position:0%
+and and so they're like screw you w see
+ 
+
+00:07:00.360 --> 00:07:02.469 align:start position:0%
+and and so they're like screw you w see
+we're<00:07:00.520><c> going</c><00:07:00.599><c> to</c><00:07:00.720><c> do</c><00:07:00.879><c> our</c><00:07:01.039><c> own</c><00:07:01.319><c> thing</c><00:07:01.879><c> and</c><00:07:02.120><c> they</c>
+
+00:07:02.469 --> 00:07:02.479 align:start position:0%
+we're going to do our own thing and they
+ 
+
+00:07:02.479 --> 00:07:05.350 align:start position:0%
+we're going to do our own thing and they
+released<00:07:03.120><c> the</c><00:07:03.319><c> HTML</c><00:07:04.039><c> 5</c>
+
+00:07:05.350 --> 00:07:05.360 align:start position:0%
+released the HTML 5
+ 
+
+00:07:05.360 --> 00:07:07.950 align:start position:0%
+released the HTML 5
+specification<00:07:06.360><c> um</c><00:07:06.720><c> and</c><00:07:06.960><c> that</c><00:07:07.199><c> became</c><00:07:07.800><c> the</c>
+
+00:07:07.950 --> 00:07:07.960 align:start position:0%
+specification um and that became the
+ 
+
+00:07:07.960 --> 00:07:11.230 align:start position:0%
+specification um and that became the
+living<00:07:08.400><c> standard</c><00:07:08.919><c> since</c><00:07:09.879><c> 2004</c><00:07:10.879><c> and</c><00:07:11.000><c> they</c>
+
+00:07:11.230 --> 00:07:11.240 align:start position:0%
+living standard since 2004 and they
+ 
+
+00:07:11.240 --> 00:07:14.270 align:start position:0%
+living standard since 2004 and they
+basically<00:07:11.840><c> took</c><00:07:12.120><c> over</c><00:07:12.840><c> from</c><00:07:13.000><c> the</c><00:07:13.199><c> w3c</c><00:07:14.080><c> without</c>
+
+00:07:14.270 --> 00:07:14.280 align:start position:0%
+basically took over from the w3c without
+ 
+
+00:07:14.280 --> 00:07:17.309 align:start position:0%
+basically took over from the w3c without
+even<00:07:14.560><c> asking</c><00:07:15.000><c> they</c><00:07:15.120><c> said</c><00:07:15.400><c> look</c><00:07:16.120><c> we</c><00:07:16.360><c> make</c><00:07:16.879><c> every</c>
+
+00:07:17.309 --> 00:07:17.319 align:start position:0%
+even asking they said look we make every
+ 
+
+00:07:17.319 --> 00:07:20.869 align:start position:0%
+even asking they said look we make every
+major<00:07:17.800><c> browser</c><00:07:18.479><c> on</c><00:07:18.639><c> the</c><00:07:19.120><c> planet</c><00:07:20.120><c> and</c><00:07:20.440><c> we</c><00:07:20.680><c> are</c>
+
+00:07:20.869 --> 00:07:20.879 align:start position:0%
+major browser on the planet and we are
+ 
+
+00:07:20.879 --> 00:07:24.029 align:start position:0%
+major browser on the planet and we are
+going<00:07:21.000><c> to</c><00:07:21.160><c> tell</c><00:07:21.560><c> you</c><00:07:22.240><c> what</c><00:07:22.520><c> our</c><00:07:22.800><c> browsers</c><00:07:23.680><c> can</c>
+
+00:07:24.029 --> 00:07:24.039 align:start position:0%
+going to tell you what our browsers can
+ 
+
+00:07:24.039 --> 00:07:26.150 align:start position:0%
+going to tell you what our browsers can
+do<00:07:25.039><c> and</c><00:07:25.160><c> then</c><00:07:25.319><c> you're</c><00:07:25.479><c> going</c><00:07:25.599><c> to</c><00:07:25.800><c> decide</c>
+
+00:07:26.150 --> 00:07:26.160 align:start position:0%
+do and then you're going to decide
+ 
+
+00:07:26.160 --> 00:07:27.790 align:start position:0%
+do and then you're going to decide
+whether<00:07:26.360><c> you</c><00:07:26.440><c> want</c><00:07:26.560><c> to</c><00:07:26.680><c> get</c><00:07:26.840><c> in</c><00:07:27.000><c> line</c><00:07:27.199><c> or</c><00:07:27.360><c> not</c>
+
+00:07:27.790 --> 00:07:27.800 align:start position:0%
+whether you want to get in line or not
+ 
+
+00:07:27.800 --> 00:07:30.189 align:start position:0%
+whether you want to get in line or not
+and<00:07:28.479><c> fast</c><00:07:28.840><c> forward</c>
+
+00:07:30.189 --> 00:07:30.199 align:start position:0%
+and fast forward
+ 
+
+00:07:30.199 --> 00:07:31.230 align:start position:0%
+and fast forward
+um
+
+00:07:31.230 --> 00:07:31.240 align:start position:0%
+um
+ 
+
+00:07:31.240 --> 00:07:34.150 align:start position:0%
+um
+to<00:07:32.240><c> uh</c><00:07:32.800><c> to</c><00:07:33.240><c> like</c><00:07:33.440><c> let's</c><00:07:33.680><c> actually</c><00:07:33.840><c> look</c><00:07:34.000><c> at</c>
+
+00:07:34.150 --> 00:07:34.160 align:start position:0%
+to uh to like let's actually look at
+ 
+
+00:07:34.160 --> 00:07:37.029 align:start position:0%
+to uh to like let's actually look at
+there's<00:07:34.319><c> a</c><00:07:34.680><c> here</c><00:07:34.800><c> we</c><00:07:34.960><c> go</c><00:07:35.840><c> uh</c><00:07:35.960><c> the</c><00:07:36.080><c> hyper</c><00:07:36.360><c> Tex</c><00:07:36.599><c> we</c>
+
+00:07:37.029 --> 00:07:37.039 align:start position:0%
+there's a here we go uh the hyper Tex we
+ 
+
+00:07:37.039 --> 00:07:38.070 align:start position:0%
+there's a here we go uh the hyper Tex we
+is<00:07:37.120><c> a</c><00:07:37.160><c> community</c><00:07:37.479><c> people</c><00:07:37.680><c> interested</c><00:07:37.960><c> in</c>
+
+00:07:38.070 --> 00:07:38.080 align:start position:0%
+is a community people interested in
+ 
+
+00:07:38.080 --> 00:07:40.350 align:start position:0%
+is a community people interested in
+evolving<00:07:38.400><c> the</c><00:07:38.520><c> web</c><00:07:38.720><c> through</c><00:07:38.919><c> TS</c><00:07:39.479><c> and</c><00:07:39.639><c> tests</c><00:07:40.199><c> we</c>
+
+00:07:40.350 --> 00:07:40.360 align:start position:0%
+evolving the web through TS and tests we
+ 
+
+00:07:40.360 --> 00:07:42.710 align:start position:0%
+evolving the web through TS and tests we
+finded<00:07:40.680><c> by</c><00:07:40.840><c> individuals</c><00:07:41.280><c> from</c><00:07:41.479><c> Apple</c><00:07:41.759><c> Milla</c>
+
+00:07:42.710 --> 00:07:42.720 align:start position:0%
+finded by individuals from Apple Milla
+ 
+
+00:07:42.720 --> 00:07:45.070 align:start position:0%
+finded by individuals from Apple Milla
+uh<00:07:42.840><c> opens</c><00:07:43.400><c> Opera</c><00:07:43.759><c> software</c><00:07:44.039><c> in</c><00:07:44.440><c> 2004</c><00:07:44.879><c> after</c>
+
+00:07:45.070 --> 00:07:45.080 align:start position:0%
+uh opens Opera software in 2004 after
+ 
+
+00:07:45.080 --> 00:07:48.270 align:start position:0%
+uh opens Opera software in 2004 after
+the<00:07:45.280><c> w3c</c><00:07:46.520><c> workshop</c><00:07:47.520><c> uh</c><00:07:47.639><c> Apple</c><00:07:47.879><c> Milla</c><00:07:48.199><c> and</c>
+
+00:07:48.270 --> 00:07:48.280 align:start position:0%
+the w3c workshop uh Apple Milla and
+ 
+
+00:07:48.280 --> 00:07:49.469 align:start position:0%
+the w3c workshop uh Apple Milla and
+Opera<00:07:48.560><c> were</c><00:07:48.759><c> becoming</c><00:07:49.039><c> increasingly</c>
+
+00:07:49.469 --> 00:07:49.479 align:start position:0%
+Opera were becoming increasingly
+ 
+
+00:07:49.479 --> 00:07:51.710 align:start position:0%
+Opera were becoming increasingly
+concerned<00:07:49.879><c> about</c><00:07:50.120><c> the</c><00:07:50.240><c> direction</c><00:07:50.639><c> of</c><00:07:50.800><c> xhtml</c>
+
+00:07:51.710 --> 00:07:51.720 align:start position:0%
+concerned about the direction of xhtml
+ 
+
+00:07:51.720 --> 00:07:53.510 align:start position:0%
+concerned about the direction of xhtml
+lack<00:07:51.879><c> of</c><00:07:52.000><c> interest</c><00:07:52.280><c> in</c><00:07:52.400><c> HTML</c><00:07:53.000><c> because</c><00:07:53.159><c> it</c>
+
+00:07:53.510 --> 00:07:53.520 align:start position:0%
+lack of interest in HTML because it
+ 
+
+00:07:53.520 --> 00:07:55.510 align:start position:0%
+lack of interest in HTML because it
+sucked<00:07:54.520><c> uh</c><00:07:54.639><c> so</c><00:07:54.879><c> in</c><00:07:55.039><c> response</c><00:07:55.360><c> these</c>
+
+00:07:55.510 --> 00:07:55.520 align:start position:0%
+sucked uh so in response these
+ 
+
+00:07:55.520 --> 00:07:56.830 align:start position:0%
+sucked uh so in response these
+organizations<00:07:56.000><c> set</c><00:07:56.199><c> about</c><00:07:56.400><c> with</c><00:07:56.479><c> a</c><00:07:56.599><c> mission</c>
+
+00:07:56.830 --> 00:07:56.840 align:start position:0%
+organizations set about with a mission
+ 
+
+00:07:56.840 --> 00:07:59.589 align:start position:0%
+organizations set about with a mission
+to<00:07:56.960><c> make</c><00:07:57.080><c> it</c><00:07:57.280><c> better</c><00:07:58.280><c> uh</c><00:07:58.400><c> in</c><00:07:58.520><c> 2000</c><00:07:59.000><c> so</c><00:07:59.159><c> this</c><00:07:59.240><c> is</c>
+
+00:07:59.589 --> 00:07:59.599 align:start position:0%
+to make it better uh in 2000 so this is
+ 
+
+00:07:59.599 --> 00:08:02.390 align:start position:0%
+to make it better uh in 2000 so this is
+important<00:08:00.319><c> in</c><00:08:00.479><c> 2017</c><00:08:01.400><c> Apple</c><00:08:01.680><c> Google</c><00:08:01.960><c> Microsoft</c>
+
+00:08:02.390 --> 00:08:02.400 align:start position:0%
+important in 2017 Apple Google Microsoft
+ 
+
+00:08:02.400 --> 00:08:04.510 align:start position:0%
+important in 2017 Apple Google Microsoft
+and<00:08:02.520><c> Milla</c><00:08:03.000><c> helped</c><00:08:03.280><c> develop</c><00:08:03.639><c> an</c><00:08:03.800><c> IPR</c><00:08:04.280><c> policy</c>
+
+00:08:04.510 --> 00:08:04.520 align:start position:0%
+and Milla helped develop an IPR policy
+ 
+
+00:08:04.520 --> 00:08:06.230 align:start position:0%
+and Milla helped develop an IPR policy
+on<00:08:04.720><c> government</c><00:08:05.039><c> structure</c><00:08:05.400><c> of</c>
+
+00:08:06.230 --> 00:08:06.240 align:start position:0%
+on government structure of
+ 
+
+00:08:06.240 --> 00:08:09.670 align:start position:0%
+on government structure of
+wwg<00:08:07.240><c> um</c><00:08:08.000><c> and</c><00:08:08.199><c> as</c><00:08:08.360><c> far</c><00:08:08.560><c> as</c><00:08:08.759><c> like</c><00:08:09.000><c> God</c><00:08:09.280><c> it</c><00:08:09.440><c> sounds</c>
+
+00:08:09.670 --> 00:08:09.680 align:start position:0%
+wwg um and as far as like God it sounds
+ 
+
+00:08:09.680 --> 00:08:10.909 align:start position:0%
+wwg um and as far as like God it sounds
+like<00:08:09.840><c> they</c><00:08:10.000><c> took</c><00:08:10.159><c> it</c>
+
+00:08:10.909 --> 00:08:10.919 align:start position:0%
+like they took it
+ 
+
+00:08:10.919 --> 00:08:14.629 align:start position:0%
+like they took it
+back<00:08:11.919><c> okay</c><00:08:12.039><c> so</c><00:08:12.440><c> so</c><00:08:12.759><c> last</c><00:08:12.960><c> time</c><00:08:13.159><c> I</c><00:08:13.319><c> read</c><00:08:13.680><c> this</c>
+
+00:08:14.629 --> 00:08:14.639 align:start position:0%
+back okay so so last time I read this
+ 
+
+00:08:14.639 --> 00:08:16.270 align:start position:0%
+back okay so so last time I read this
+last<00:08:14.840><c> time</c><00:08:15.000><c> I</c><00:08:15.120><c> read</c><00:08:15.360><c> this</c><00:08:15.560><c> there</c><00:08:15.720><c> was</c><00:08:15.840><c> a</c><00:08:16.039><c> thing</c>
+
+00:08:16.270 --> 00:08:16.280 align:start position:0%
+last time I read this there was a thing
+ 
+
+00:08:16.280 --> 00:08:18.070 align:start position:0%
+last time I read this there was a thing
+that<00:08:16.400><c> said</c><00:08:16.919><c> by</c><00:08:17.080><c> the</c><00:08:17.199><c> way</c><00:08:17.479><c> we're</c><00:08:17.680><c> singing</c>
+
+00:08:18.070 --> 00:08:18.080 align:start position:0%
+that said by the way we're singing
+ 
+
+00:08:18.080 --> 00:08:21.270 align:start position:0%
+that said by the way we're singing
+Kumbaya<00:08:18.759><c> with</c><00:08:18.919><c> w3c</c><00:08:19.759><c> again</c><00:08:20.120><c> and</c><00:08:20.319><c> w3c</c><00:08:21.000><c> is</c><00:08:21.120><c> in</c>
+
+00:08:21.270 --> 00:08:21.280 align:start position:0%
+Kumbaya with w3c again and w3c is in
+ 
+
+00:08:21.280 --> 00:08:23.230 align:start position:0%
+Kumbaya with w3c again and w3c is in
+charge<00:08:21.639><c> again</c><00:08:21.919><c> but</c><00:08:22.159><c> it</c><00:08:22.280><c> seems</c><00:08:22.560><c> like</c><00:08:22.720><c> there's</c>
+
+00:08:23.230 --> 00:08:23.240 align:start position:0%
+charge again but it seems like there's
+ 
+
+00:08:23.240 --> 00:08:26.350 align:start position:0%
+charge again but it seems like there's
+no<00:08:24.240><c> I</c><00:08:24.319><c> don't</c><00:08:24.599><c> see</c><00:08:25.400><c> I</c>
+
+00:08:26.350 --> 00:08:26.360 align:start position:0%
+no I don't see I
+ 
+
+00:08:26.360 --> 00:08:28.350 align:start position:0%
+no I don't see I
+don't<00:08:27.360><c> I</c><00:08:27.440><c> think</c><00:08:27.639><c> they</c><00:08:27.759><c> might</c><00:08:27.919><c> have</c><00:08:28.039><c> changed</c>
+
+00:08:28.350 --> 00:08:28.360 align:start position:0%
+don't I think they might have changed
+ 
+
+00:08:28.360 --> 00:08:30.149 align:start position:0%
+don't I think they might have changed
+their<00:08:28.560><c> mind</c><00:08:28.879><c> again</c>
+
+00:08:30.149 --> 00:08:30.159 align:start position:0%
+their mind again
+ 
+
+00:08:30.159 --> 00:08:31.990 align:start position:0%
+their mind again
+I<00:08:30.240><c> think</c><00:08:30.440><c> they</c><00:08:30.599><c> might</c><00:08:30.720><c> have</c><00:08:30.879><c> said</c><00:08:31.159><c> nope</c><00:08:31.720><c> nope</c>
+
+00:08:31.990 --> 00:08:32.000 align:start position:0%
+I think they might have said nope nope
+ 
+
+00:08:32.000 --> 00:08:33.630 align:start position:0%
+I think they might have said nope nope
+w3c<00:08:32.719><c> doesn't</c><00:08:32.919><c> know</c><00:08:33.039><c> what</c><00:08:33.159><c> they're</c><00:08:33.279><c> doing</c><00:08:33.560><c> it</c>
+
+00:08:33.630 --> 00:08:33.640 align:start position:0%
+w3c doesn't know what they're doing it
+ 
+
+00:08:33.640 --> 00:08:34.909 align:start position:0%
+w3c doesn't know what they're doing it
+takes<00:08:33.839><c> them</c><00:08:33.959><c> forever</c><00:08:34.200><c> to</c><00:08:34.320><c> get</c><00:08:34.440><c> anything</c><00:08:34.680><c> done</c>
+
+00:08:34.909 --> 00:08:34.919 align:start position:0%
+takes them forever to get anything done
+ 
+
+00:08:34.919 --> 00:08:36.389 align:start position:0%
+takes them forever to get anything done
+we're<00:08:35.039><c> just</c><00:08:35.159><c> going</c><00:08:35.279><c> to</c><00:08:35.399><c> keep</c><00:08:35.560><c> it</c><00:08:36.000><c> there</c><00:08:36.159><c> used</c>
+
+00:08:36.389 --> 00:08:36.399 align:start position:0%
+we're just going to keep it there used
+ 
+
+00:08:36.399 --> 00:08:39.269 align:start position:0%
+we're just going to keep it there used
+to<00:08:36.599><c> be</c><00:08:37.479><c> there</c><00:08:37.560><c> used</c><00:08:37.719><c> to</c><00:08:37.800><c> be</c><00:08:37.919><c> a</c><00:08:38.039><c> fact</c><00:08:38.360><c> here</c><00:08:38.680><c> that</c>
+
+00:08:39.269 --> 00:08:39.279 align:start position:0%
+to be there used to be a fact here that
+ 
+
+00:08:39.279 --> 00:08:41.709 align:start position:0%
+to be there used to be a fact here that
+said<00:08:40.279><c> that</c><00:08:40.839><c> that</c><00:08:41.000><c> they</c><00:08:41.279><c> do</c><00:08:41.360><c> it</c><00:08:41.440><c> you</c><00:08:41.519><c> know</c><00:08:41.599><c> what</c>
+
+00:08:41.709 --> 00:08:41.719 align:start position:0%
+said that that they do it you know what
+ 
+
+00:08:41.719 --> 00:08:43.990 align:start position:0%
+said that that they do it you know what
+let's<00:08:41.839><c> ask</c><00:08:42.039><c> chat</c><00:08:42.279><c> GPT</c><00:08:42.719><c> what</c><00:08:42.839><c> chat</c><00:08:43.080><c> GPT</c><00:08:43.479><c> has</c><00:08:43.599><c> to</c>
+
+00:08:43.990 --> 00:08:44.000 align:start position:0%
+let's ask chat GPT what chat GPT has to
+ 
+
+00:08:44.000 --> 00:08:48.829 align:start position:0%
+let's ask chat GPT what chat GPT has to
+say<00:08:45.000><c> um</c><00:08:45.880><c> uh</c><00:08:46.120><c> what</c><00:08:46.440><c> is</c><00:08:46.760><c> the</c>
+
+00:08:48.829 --> 00:08:48.839 align:start position:0%
+say um uh what is the
+ 
+
+00:08:48.839 --> 00:08:53.470 align:start position:0%
+say um uh what is the
+relationship<00:08:49.839><c> uh</c><00:08:50.680><c> between</c>
+
+00:08:53.470 --> 00:08:53.480 align:start position:0%
+relationship uh between
+ 
+
+00:08:53.480 --> 00:08:57.829 align:start position:0%
+relationship uh between
+w3c<00:08:54.480><c> uh</c><00:08:54.959><c> and</c><00:08:55.519><c> what</c><00:08:56.320><c> uh</c><00:08:56.560><c> WG</c><00:08:57.200><c> believe</c><00:08:57.399><c> it</c><00:08:57.519><c> or</c><00:08:57.640><c> not</c>
+
+00:08:57.829 --> 00:08:57.839 align:start position:0%
+w3c uh and what uh WG believe it or not
+ 
+
+00:08:57.839 --> 00:08:59.509 align:start position:0%
+w3c uh and what uh WG believe it or not
+this<00:08:57.959><c> is</c><00:08:58.120><c> going</c><00:08:58.200><c> to</c><00:08:58.760><c> answer</c><00:08:59.040><c> the</c><00:08:59.120><c> question</c>
+
+00:08:59.509 --> 00:08:59.519 align:start position:0%
+this is going to answer the question
+ 
+
+00:08:59.519 --> 00:09:01.030 align:start position:0%
+this is going to answer the question
+about<00:08:59.680><c> where</c><00:08:59.800><c> you</c><00:08:59.880><c> should</c><00:09:00.040><c> learn</c><00:09:00.279><c> HTML</c>
+
+00:09:01.030 --> 00:09:01.040 align:start position:0%
+about where you should learn HTML
+ 
+
+00:09:01.040 --> 00:09:03.590 align:start position:0%
+about where you should learn HTML
+because<00:09:01.680><c> you</c><00:09:01.880><c> can't</c><00:09:02.240><c> answer</c><00:09:02.519><c> the</c><00:09:02.720><c> question</c>
+
+00:09:03.590 --> 00:09:03.600 align:start position:0%
+because you can't answer the question
+ 
+
+00:09:03.600 --> 00:09:05.150 align:start position:0%
+because you can't answer the question
+seriously<00:09:04.079><c> people</c><00:09:04.360><c> you</c><00:09:04.519><c> can't</c><00:09:04.760><c> answer</c><00:09:05.000><c> the</c>
+
+00:09:05.150 --> 00:09:05.160 align:start position:0%
+seriously people you can't answer the
+ 
+
+00:09:05.160 --> 00:09:06.470 align:start position:0%
+seriously people you can't answer the
+question<00:09:05.480><c> about</c><00:09:05.839><c> where</c><00:09:06.000><c> you</c><00:09:06.079><c> should</c><00:09:06.279><c> learn</c>
+
+00:09:06.470 --> 00:09:06.480 align:start position:0%
+question about where you should learn
+ 
+
+00:09:06.480 --> 00:09:08.710 align:start position:0%
+question about where you should learn
+HTML<00:09:07.040><c> until</c><00:09:07.320><c> you</c><00:09:07.519><c> know</c><00:09:07.760><c> who's</c><00:09:08.040><c> in</c><00:09:08.200><c> charge</c><00:09:08.480><c> of</c>
+
+00:09:08.710 --> 00:09:08.720 align:start position:0%
+HTML until you know who's in charge of
+ 
+
+00:09:08.720 --> 00:09:10.430 align:start position:0%
+HTML until you know who's in charge of
+defining<00:09:09.200><c> the</c>
+
+00:09:10.430 --> 00:09:10.440 align:start position:0%
+defining the
+ 
+
+00:09:10.440 --> 00:09:13.710 align:start position:0%
+defining the
+standard<00:09:11.440><c> right</c><00:09:12.200><c> w3c</c><00:09:13.040><c> the</c><00:09:13.120><c> worldwide</c><00:09:13.519><c> Web</c>
+
+00:09:13.710 --> 00:09:13.720 align:start position:0%
+standard right w3c the worldwide Web
+ 
+
+00:09:13.720 --> 00:09:16.750 align:start position:0%
+standard right w3c the worldwide Web
+Consortium<00:09:14.279><c> and</c><00:09:14.880><c> what</c><00:09:15.079><c> WG</c><00:09:15.920><c> web</c><00:09:16.200><c> hypertex</c>
+
+00:09:16.750 --> 00:09:16.760 align:start position:0%
+Consortium and what WG web hypertex
+ 
+
+00:09:16.760 --> 00:09:18.069 align:start position:0%
+Consortium and what WG web hypertex
+application<00:09:17.160><c> technology</c><00:09:17.560><c> working</c><00:09:17.800><c> group</c><00:09:17.959><c> are</c>
+
+00:09:18.069 --> 00:09:18.079 align:start position:0%
+application technology working group are
+ 
+
+00:09:18.079 --> 00:09:19.470 align:start position:0%
+application technology working group are
+two<00:09:18.240><c> entities</c><00:09:18.600><c> that</c><00:09:18.720><c> develop</c><00:09:19.040><c> standards</c><00:09:19.360><c> for</c>
+
+00:09:19.470 --> 00:09:19.480 align:start position:0%
+two entities that develop standards for
+ 
+
+00:09:19.480 --> 00:09:21.630 align:start position:0%
+two entities that develop standards for
+the<00:09:19.600><c> web</c><00:09:20.079><c> w33</c><00:09:20.640><c> is</c><00:09:20.760><c> original</c><00:09:21.160><c> Tim</c><00:09:21.320><c> burners</c>
+
+00:09:21.630 --> 00:09:21.640 align:start position:0%
+the web w33 is original Tim burners
+ 
+
+00:09:21.640 --> 00:09:24.150 align:start position:0%
+the web w33 is original Tim burners
+leeenter<00:09:22.320><c> of</c><00:09:22.480><c> the</c><00:09:22.600><c> web</c><00:09:22.920><c> what</c><00:09:23.040><c> WG</c><00:09:23.440><c> started</c><00:09:23.839><c> as</c><00:09:23.920><c> a</c>
+
+00:09:24.150 --> 00:09:24.160 align:start position:0%
+leeenter of the web what WG started as a
+ 
+
+00:09:24.160 --> 00:09:25.910 align:start position:0%
+leeenter of the web what WG started as a
+rebellion<00:09:24.880><c> among</c><00:09:25.120><c> browser</c><00:09:25.480><c> developers</c>
+
+00:09:25.910 --> 00:09:25.920 align:start position:0%
+rebellion among browser developers
+ 
+
+00:09:25.920 --> 00:09:27.590 align:start position:0%
+rebellion among browser developers
+against<00:09:26.160><c> the</c><00:09:26.279><c> w3c</c><00:09:26.839><c> due</c><00:09:27.000><c> to</c><00:09:27.079><c> his</c><00:09:27.200><c> frustration</c>
+
+00:09:27.590 --> 00:09:27.600 align:start position:0%
+against the w3c due to his frustration
+ 
+
+00:09:27.600 --> 00:09:29.590 align:start position:0%
+against the w3c due to his frustration
+over<00:09:27.800><c> slow</c><00:09:28.040><c> progress</c><00:09:28.480><c> I</c><00:09:28.560><c> already</c><00:09:28.800><c> said</c><00:09:29.079><c> that</c>
+
+00:09:29.590 --> 00:09:29.600 align:start position:0%
+over slow progress I already said that
+ 
+
+00:09:29.600 --> 00:09:30.829 align:start position:0%
+over slow progress I already said that
+the<00:09:29.680><c> Rebellion</c><00:09:30.079><c> resulted</c><00:09:30.440><c> in</c><00:09:30.519><c> the</c><00:09:30.600><c> creation</c>
+
+00:09:30.829 --> 00:09:30.839 align:start position:0%
+the Rebellion resulted in the creation
+ 
+
+00:09:30.839 --> 00:09:34.350 align:start position:0%
+the Rebellion resulted in the creation
+of<00:09:30.920><c> HTML</c><00:09:31.399><c> 5</c><00:09:31.720><c> which</c><00:09:31.839><c> is</c><00:09:32.399><c> wildly</c><00:09:33.320><c> accepted</c><00:09:33.959><c> as</c>
+
+00:09:34.350 --> 00:09:34.360 align:start position:0%
+of HTML 5 which is wildly accepted as
+ 
+
+00:09:34.360 --> 00:09:37.470 align:start position:0%
+of HTML 5 which is wildly accepted as
+really<00:09:34.800><c> awesome</c><00:09:35.560><c> uh</c><00:09:35.680><c> HTML</c><00:09:36.160><c> 5</c><00:09:36.399><c> is</c><00:09:36.640><c> an</c><00:09:36.839><c> amazing</c>
+
+00:09:37.470 --> 00:09:37.480 align:start position:0%
+really awesome uh HTML 5 is an amazing
+ 
+
+00:09:37.480 --> 00:09:39.870 align:start position:0%
+really awesome uh HTML 5 is an amazing
+standard<00:09:38.480><c> uh</c><00:09:38.600><c> for</c><00:09:38.720><c> many</c><00:09:38.880><c> years</c><00:09:39.079><c> W</c><00:09:39.279><c> wgm</c><00:09:39.720><c> did</c>
+
+00:09:39.870 --> 00:09:39.880 align:start position:0%
+standard uh for many years W wgm did
+ 
+
+00:09:39.880 --> 00:09:41.630 align:start position:0%
+standard uh for many years W wgm did
+work<00:09:40.120><c> separately</c><00:09:40.880><c> uh</c><00:09:41.000><c> each</c><00:09:41.160><c> with</c><00:09:41.279><c> its</c><00:09:41.440><c> own</c>
+
+00:09:41.630 --> 00:09:41.640 align:start position:0%
+work separately uh each with its own
+ 
+
+00:09:41.640 --> 00:09:44.670 align:start position:0%
+work separately uh each with its own
+version<00:09:42.360><c> but</c><00:09:42.519><c> in</c><00:09:42.760><c> 2019</c><00:09:43.640><c> there</c><00:09:43.760><c> it</c><00:09:43.920><c> is</c><00:09:44.519><c> they</c>
+
+00:09:44.670 --> 00:09:44.680 align:start position:0%
+version but in 2019 there it is they
+ 
+
+00:09:44.680 --> 00:09:46.389 align:start position:0%
+version but in 2019 there it is they
+announced<00:09:45.079><c> an</c><00:09:45.240><c> agreement</c><00:09:45.640><c> to</c><00:09:45.800><c> work</c><00:09:46.200><c> together</c>
+
+00:09:46.389 --> 00:09:46.399 align:start position:0%
+announced an agreement to work together
+ 
+
+00:09:46.399 --> 00:09:48.949 align:start position:0%
+announced an agreement to work together
+to<00:09:46.560><c> create</c><00:09:46.800><c> a</c><00:09:46.959><c> single</c><00:09:47.240><c> version</c><00:09:47.519><c> of</c><00:09:47.640><c> HTML</c><00:09:48.440><c> known</c>
+
+00:09:48.949 --> 00:09:48.959 align:start position:0%
+to create a single version of HTML known
+ 
+
+00:09:48.959 --> 00:09:52.389 align:start position:0%
+to create a single version of HTML known
+as<00:09:49.480><c> the</c><00:09:49.839><c> quote</c><00:09:50.279><c> Living</c><00:09:51.040><c> standard</c><00:09:51.920><c> maintained</c>
+
+00:09:52.389 --> 00:09:52.399 align:start position:0%
+as the quote Living standard maintained
+ 
+
+00:09:52.399 --> 00:09:54.790 align:start position:0%
+as the quote Living standard maintained
+by<00:09:52.560><c> what</c><00:09:52.760><c> WG</c><00:09:53.120><c> but</c><00:09:53.360><c> officially</c><00:09:53.920><c> endorsed</c><00:09:54.440><c> by</c>
+
+00:09:54.790 --> 00:09:54.800 align:start position:0%
+by what WG but officially endorsed by
+ 
+
+00:09:54.800 --> 00:09:56.990 align:start position:0%
+by what WG but officially endorsed by
+w3c<00:09:55.800><c> this</c><00:09:55.959><c> development</c><00:09:56.320><c> marked</c><00:09:56.600><c> an</c><00:09:56.720><c> important</c>
+
+00:09:56.990 --> 00:09:57.000 align:start position:0%
+w3c this development marked an important
+ 
+
+00:09:57.000 --> 00:09:58.310 align:start position:0%
+w3c this development marked an important
+unification<00:09:57.560><c> how</c><00:09:57.680><c> the</c><00:09:57.760><c> web</c><00:09:57.920><c> standards</c>
+
+00:09:58.310 --> 00:09:58.320 align:start position:0%
+unification how the web standards
+ 
+
+00:09:58.320 --> 00:10:01.990 align:start position:0%
+unification how the web standards
+developed<00:09:58.760><c> in</c><00:09:58.920><c> other</c><00:09:59.519><c> words</c><00:10:00.000><c> w3c</c><00:10:00.920><c> said</c><00:10:01.839><c> yeah</c>
+
+00:10:01.990 --> 00:10:02.000 align:start position:0%
+developed in other words w3c said yeah
+ 
+
+00:10:02.000 --> 00:10:03.990 align:start position:0%
+developed in other words w3c said yeah
+we're<00:10:02.279><c> good</c><00:10:02.560><c> you</c><00:10:02.720><c> do</c><00:10:02.920><c> it</c><00:10:03.360><c> yeah</c><00:10:03.600><c> yeah</c><00:10:03.760><c> you're</c>
+
+00:10:03.990 --> 00:10:04.000 align:start position:0%
+we're good you do it yeah yeah you're
+ 
+
+00:10:04.000 --> 00:10:05.470 align:start position:0%
+we're good you do it yeah yeah you're
+good<00:10:04.279><c> rubber</c>
+
+00:10:05.470 --> 00:10:05.480 align:start position:0%
+good rubber
+ 
+
+00:10:05.480 --> 00:10:08.910 align:start position:0%
+good rubber
+stamp<00:10:06.480><c> rubber</c><00:10:06.839><c> stamp</c><00:10:07.480><c> rubber</c><00:10:07.839><c> stamp</c><00:10:08.680><c> because</c>
+
+00:10:08.910 --> 00:10:08.920 align:start position:0%
+stamp rubber stamp rubber stamp because
+ 
+
+00:10:08.920 --> 00:10:11.030 align:start position:0%
+stamp rubber stamp rubber stamp because
+they<00:10:09.079><c> had</c><00:10:09.240><c> no</c><00:10:09.480><c> power</c><00:10:10.079><c> they</c><00:10:10.279><c> lost</c><00:10:10.640><c> all</c><00:10:10.839><c> the</c>
+
+00:10:11.030 --> 00:10:11.040 align:start position:0%
+they had no power they lost all the
+ 
+
+00:10:11.040 --> 00:10:13.910 align:start position:0%
+they had no power they lost all the
+power<00:10:11.440><c> every</c><00:10:11.760><c> single</c><00:10:12.160><c> browser</c><00:10:12.920><c> manufacturer</c>
+
+00:10:13.910 --> 00:10:13.920 align:start position:0%
+power every single browser manufacturer
+ 
+
+00:10:13.920 --> 00:10:16.550 align:start position:0%
+power every single browser manufacturer
+had<00:10:14.120><c> decided</c><00:10:14.519><c> to</c><00:10:14.680><c> join</c><00:10:15.000><c> what</c><00:10:15.200><c> WG</c><00:10:15.680><c> and</c><00:10:15.800><c> so</c><00:10:15.959><c> w3c</c>
+
+00:10:16.550 --> 00:10:16.560 align:start position:0%
+had decided to join what WG and so w3c
+ 
+
+00:10:16.560 --> 00:10:19.509 align:start position:0%
+had decided to join what WG and so w3c
+is<00:10:16.720><c> like</c>
+
+00:10:19.509 --> 00:10:19.519 align:start position:0%
+ 
+ 
+
+00:10:19.519 --> 00:10:22.110 align:start position:0%
+ 
+huh<00:10:20.519><c> so</c><00:10:20.800><c> they</c><00:10:20.959><c> joined</c>
+
+00:10:22.110 --> 00:10:22.120 align:start position:0%
+huh so they joined
+ 
+
+00:10:22.120 --> 00:10:25.670 align:start position:0%
+huh so they joined
+it<00:10:23.120><c> that's</c><00:10:23.440><c> exactly</c><00:10:23.880><c> what</c><00:10:24.079><c> happened</c><00:10:25.079><c> um</c>
+
+00:10:25.670 --> 00:10:25.680 align:start position:0%
+it that's exactly what happened um
+ 
+
+00:10:25.680 --> 00:10:28.389 align:start position:0%
+it that's exactly what happened um
+anyway<00:10:26.279><c> so</c><00:10:26.680><c> this</c><00:10:26.800><c> is</c><00:10:26.920><c> where</c><00:10:27.079><c> the</c><00:10:27.200><c> standard</c><00:10:27.640><c> is</c>
+
+00:10:28.389 --> 00:10:28.399 align:start position:0%
+anyway so this is where the standard is
+ 
+
+00:10:28.399 --> 00:10:30.910 align:start position:0%
+anyway so this is where the standard is
+so<00:10:28.959><c> read</c><00:10:29.800><c> read</c><00:10:29.959><c> it</c><00:10:30.120><c> for</c><00:10:30.279><c> yourselves</c><00:10:30.720><c> my</c>
+
+00:10:30.910 --> 00:10:30.920 align:start position:0%
+so read read it for yourselves my
+ 
+
+00:10:30.920 --> 00:10:34.150 align:start position:0%
+so read read it for yourselves my
+friends<00:10:31.680><c> read</c><00:10:32.160><c> the</c><00:10:32.440><c> HTML</c><00:10:33.160><c> living</c>
+
+00:10:34.150 --> 00:10:34.160 align:start position:0%
+friends read the HTML living
+ 
+
+00:10:34.160 --> 00:10:38.629 align:start position:0%
+friends read the HTML living
+standard<00:10:35.160><c> um</c><00:10:35.920><c> this</c><00:10:36.279><c> by</c><00:10:36.399><c> the</c><00:10:36.480><c> way</c><00:10:36.680><c> includes</c><00:10:37.639><c> CSS</c>
+
+00:10:38.629 --> 00:10:38.639 align:start position:0%
+standard um this by the way includes CSS
+ 
+
+00:10:38.639 --> 00:10:41.110 align:start position:0%
+standard um this by the way includes CSS
+uh<00:10:38.760><c> even</c><00:10:38.959><c> though</c><00:10:39.079><c> I</c><00:10:39.160><c> don't</c><00:10:39.360><c> think</c><00:10:39.560><c> CSS</c><00:10:40.240><c> is</c><00:10:40.760><c> is</c>
+
+00:10:41.110 --> 00:10:41.120 align:start position:0%
+uh even though I don't think CSS is is
+ 
+
+00:10:41.120 --> 00:10:44.150 align:start position:0%
+uh even though I don't think CSS is is
+written<00:10:41.839><c> here</c><00:10:42.240><c> let's</c><00:10:42.440><c> go</c><00:10:42.600><c> see</c><00:10:42.760><c> if</c><00:10:42.880><c> we</c><00:10:43.000><c> can</c><00:10:43.240><c> find</c>
+
+00:10:44.150 --> 00:10:44.160 align:start position:0%
+written here let's go see if we can find
+ 
+
+00:10:44.160 --> 00:10:49.269 align:start position:0%
+written here let's go see if we can find
+it<00:10:45.160><c> um</c><00:10:45.959><c> okay</c><00:10:46.279><c> but</c><00:10:46.560><c> anyway</c><00:10:47.560><c> um</c><00:10:48.279><c> CSS</c><00:10:48.880><c> is</c><00:10:49.040><c> actually</c>
+
+00:10:49.269 --> 00:10:49.279 align:start position:0%
+it um okay but anyway um CSS is actually
+ 
+
+00:10:49.279 --> 00:10:51.790 align:start position:0%
+it um okay but anyway um CSS is actually
+a<00:10:49.399><c> part</c><00:10:49.519><c> of</c><00:10:49.639><c> the</c><00:10:50.120><c> standard</c><00:10:51.120><c> um</c><00:10:51.480><c> I</c><00:10:51.560><c> wonder</c><00:10:51.720><c> if</c>
+
+00:10:51.790 --> 00:10:51.800 align:start position:0%
+a part of the standard um I wonder if
+ 
+
+00:10:51.800 --> 00:10:53.670 align:start position:0%
+a part of the standard um I wonder if
+it's<00:10:51.959><c> listed</c><00:10:52.200><c> under</c><00:10:52.480><c> the</c><00:10:52.639><c> different</c><00:10:52.880><c> standard</c>
+
+00:10:53.670 --> 00:10:53.680 align:start position:0%
+it's listed under the different standard
+ 
+
+00:10:53.680 --> 00:10:56.069 align:start position:0%
+it's listed under the different standard
+compatibility<00:10:54.680><c> console</c><00:10:55.160><c> Dom</c><00:10:55.519><c> the</c><00:10:55.680><c> document</c>
+
+00:10:56.069 --> 00:10:56.079 align:start position:0%
+compatibility console Dom the document
+ 
+
+00:10:56.079 --> 00:10:57.430 align:start position:0%
+compatibility console Dom the document
+object<00:10:56.360><c> model</c><00:10:56.639><c> is</c><00:10:56.760><c> something</c><00:10:56.959><c> you'll</c><00:10:57.160><c> need</c><00:10:57.279><c> to</c>
+
+00:10:57.430 --> 00:10:57.440 align:start position:0%
+object model is something you'll need to
+ 
+
+00:10:57.440 --> 00:10:59.629 align:start position:0%
+object model is something you'll need to
+know<00:10:58.040><c> eventually</c>
+
+00:10:59.629 --> 00:10:59.639 align:start position:0%
+know eventually
+ 
+
+00:10:59.639 --> 00:11:04.710 align:start position:0%
+know eventually
+um<00:11:00.240><c> HTML</c><00:11:01.200><c> infra</c><00:11:02.200><c> MIM</c><00:11:02.560><c> snipping</c><00:11:03.480><c> what</c><00:11:04.480><c> I</c><00:11:04.560><c> don't</c>
+
+00:11:04.710 --> 00:11:04.720 align:start position:0%
+um HTML infra MIM snipping what I don't
+ 
+
+00:11:04.720 --> 00:11:06.430 align:start position:0%
+um HTML infra MIM snipping what I don't
+know<00:11:04.880><c> about</c><00:11:05.079><c> these</c><00:11:05.200><c> other</c><00:11:05.399><c> ones</c><00:11:05.600><c> URL</c><00:11:06.200><c> what</c><00:11:06.320><c> is</c>
+
+00:11:06.430 --> 00:11:06.440 align:start position:0%
+know about these other ones URL what is
+ 
+
+00:11:06.440 --> 00:11:08.350 align:start position:0%
+know about these other ones URL what is
+the<00:11:06.600><c> URL</c><00:11:07.040><c> what</c><00:11:07.160><c> is</c><00:11:07.360><c> URL</c><00:11:07.720><c> standards</c><00:11:08.160><c> web</c>
+
+00:11:08.350 --> 00:11:08.360 align:start position:0%
+the URL what is URL standards web
+ 
+
+00:11:08.360 --> 00:11:09.870 align:start position:0%
+the URL what is URL standards web
+sockets<00:11:08.880><c> which</c><00:11:09.000><c> is</c><00:11:09.200><c> super</c><00:11:09.519><c> cool</c><00:11:09.720><c> if</c><00:11:09.760><c> you're</c>
+
+00:11:09.870 --> 00:11:09.880 align:start position:0%
+sockets which is super cool if you're
+ 
+
+00:11:09.880 --> 00:11:11.150 align:start position:0%
+sockets which is super cool if you're
+going<00:11:09.959><c> to</c><00:11:10.079><c> do</c><00:11:10.240><c> any</c><00:11:10.399><c> kind</c><00:11:10.519><c> of</c><00:11:10.639><c> web</c><00:11:10.839><c> games</c><00:11:11.040><c> you</c>
+
+00:11:11.150 --> 00:11:11.160 align:start position:0%
+going to do any kind of web games you
+ 
+
+00:11:11.160 --> 00:11:12.230 align:start position:0%
+going to do any kind of web games you
+need<00:11:11.279><c> to</c><00:11:11.399><c> know</c>
+
+00:11:12.230 --> 00:11:12.240 align:start position:0%
+need to know
+ 
+
+00:11:12.240 --> 00:11:15.629 align:start position:0%
+need to know
+it<00:11:13.240><c> uh</c><00:11:13.519><c> don't</c><00:11:13.760><c> use</c><00:11:14.040><c> the</c><00:11:14.200><c> Mozilla</c><00:11:14.680><c> dos</c>
+
+00:11:15.629 --> 00:11:15.639 align:start position:0%
+it uh don't use the Mozilla dos
+ 
+
+00:11:15.639 --> 00:11:17.870 align:start position:0%
+it uh don't use the Mozilla dos
+everybody<00:11:16.079><c> says</c><00:11:16.440><c> to</c><00:11:16.600><c> use</c><00:11:16.839><c> misila</c><00:11:17.320><c> do</c><00:11:17.639><c> and</c><00:11:17.800><c> they</c>
+
+00:11:17.870 --> 00:11:17.880 align:start position:0%
+everybody says to use misila do and they
+ 
+
+00:11:17.880 --> 00:11:21.069 align:start position:0%
+everybody says to use misila do and they
+are<00:11:18.440><c> dramatically</c><00:11:19.079><c> out</c><00:11:19.240><c> of</c><00:11:19.440><c> date</c><00:11:19.680><c> and</c><00:11:20.079><c> wrong</c>
+
+00:11:21.069 --> 00:11:21.079 align:start position:0%
+are dramatically out of date and wrong
+ 
+
+00:11:21.079 --> 00:11:22.949 align:start position:0%
+are dramatically out of date and wrong
+uh<00:11:21.160><c> I</c><00:11:21.240><c> know</c><00:11:21.480><c> this</c><00:11:21.680><c> firsthand</c><00:11:22.440><c> I've</c><00:11:22.600><c> used</c><00:11:22.839><c> the</c>
+
+00:11:22.949 --> 00:11:22.959 align:start position:0%
+uh I know this firsthand I've used the
+ 
+
+00:11:22.959 --> 00:11:24.629 align:start position:0%
+uh I know this firsthand I've used the
+Milla<00:11:23.440><c> do</c><00:11:23.680><c> many</c><00:11:23.920><c> times</c><00:11:24.160><c> I've</c><00:11:24.360><c> actually</c>
+
+00:11:24.629 --> 00:11:24.639 align:start position:0%
+Milla do many times I've actually
+ 
+
+00:11:24.639 --> 00:11:26.829 align:start position:0%
+Milla do many times I've actually
+submitted<00:11:25.120><c> Corrections</c><00:11:25.720><c> which</c><00:11:26.120><c> remain</c>
+
+00:11:26.829 --> 00:11:26.839 align:start position:0%
+submitted Corrections which remain
+ 
+
+00:11:26.839 --> 00:11:29.829 align:start position:0%
+submitted Corrections which remain
+uncommitted<00:11:27.839><c> um</c><00:11:28.200><c> I'm</c><00:11:28.360><c> telling</c><00:11:28.639><c> you</c><00:11:28.880><c> people</c>
+
+00:11:29.829 --> 00:11:29.839 align:start position:0%
+uncommitted um I'm telling you people
+ 
+
+00:11:29.839 --> 00:11:32.590 align:start position:0%
+uncommitted um I'm telling you people
+read<00:11:30.360><c> the</c><00:11:30.560><c> manual</c><00:11:31.560><c> and</c><00:11:31.800><c> and</c><00:11:31.959><c> most</c><00:11:32.200><c> people</c><00:11:32.440><c> will</c>
+
+00:11:32.590 --> 00:11:32.600 align:start position:0%
+read the manual and and most people will
+ 
+
+00:11:32.600 --> 00:11:34.230 align:start position:0%
+read the manual and and most people will
+say<00:11:32.880><c> but</c><00:11:33.000><c> the</c><00:11:33.120><c> manual</c><00:11:33.399><c> is</c><00:11:33.519><c> too</c><00:11:33.680><c> hard</c><00:11:33.839><c> to</c><00:11:33.959><c> read</c>
+
+00:11:34.230 --> 00:11:34.240 align:start position:0%
+say but the manual is too hard to read
+ 
+
+00:11:34.240 --> 00:11:37.110 align:start position:0%
+say but the manual is too hard to read
+it's<00:11:34.519><c> actually</c><00:11:34.959><c> not</c><00:11:35.519><c> look</c><00:11:36.160><c> right</c><00:11:36.399><c> here</c><00:11:36.920><c> read</c>
+
+00:11:37.110 --> 00:11:37.120 align:start position:0%
+it's actually not look right here read
+ 
+
+00:11:37.120 --> 00:11:39.590 align:start position:0%
+it's actually not look right here read
+the<00:11:37.279><c> HTML</c><00:11:38.160><c> living</c><00:11:38.399><c> standards</c><00:11:39.040><c> let</c><00:11:39.160><c> me</c><00:11:39.320><c> let</c><00:11:39.440><c> me</c>
+
+00:11:39.590 --> 00:11:39.600 align:start position:0%
+the HTML living standards let me let me
+ 
+
+00:11:39.600 --> 00:11:41.310 align:start position:0%
+the HTML living standards let me let me
+let<00:11:39.720><c> me</c><00:11:39.880><c> test</c><00:11:40.120><c> you</c><00:11:40.240><c> on</c><00:11:40.399><c> this</c><00:11:40.680><c> how</c><00:11:40.800><c> many</c><00:11:41.040><c> people</c>
+
+00:11:41.310 --> 00:11:41.320 align:start position:0%
+let me test you on this how many people
+ 
+
+00:11:41.320 --> 00:11:43.350 align:start position:0%
+let me test you on this how many people
+think<00:11:41.560><c> that</c><00:11:41.720><c> the</c><00:11:41.839><c> Bold</c><00:11:42.200><c> tag</c><00:11:42.639><c> and</c><00:11:42.760><c> the</c><00:11:42.920><c> italic</c>
+
+00:11:43.350 --> 00:11:43.360 align:start position:0%
+think that the Bold tag and the italic
+ 
+
+00:11:43.360 --> 00:11:45.430 align:start position:0%
+think that the Bold tag and the italic
+tag<00:11:43.680><c> B</c><00:11:43.880><c> and</c><00:11:44.040><c> I</c><00:11:44.320><c> are</c><00:11:44.519><c> actually</c><00:11:44.800><c> no</c><00:11:44.920><c> longer</c><00:11:45.279><c> part</c>
+
+00:11:45.430 --> 00:11:45.440 align:start position:0%
+tag B and I are actually no longer part
+ 
+
+00:11:45.440 --> 00:11:47.829 align:start position:0%
+tag B and I are actually no longer part
+of<00:11:45.519><c> the</c><00:11:45.639><c> standard</c><00:11:46.600><c> I</c><00:11:46.800><c> guarantee</c><00:11:47.279><c> you</c><00:11:47.519><c> at</c><00:11:47.639><c> least</c>
+
+00:11:47.829 --> 00:11:47.839 align:start position:0%
+of the standard I guarantee you at least
+ 
+
+00:11:47.839 --> 00:11:49.310 align:start position:0%
+of the standard I guarantee you at least
+one<00:11:48.000><c> person</c><00:11:48.240><c> listening</c><00:11:48.560><c> to</c><00:11:48.760><c> this</c><00:11:48.920><c> will</c><00:11:49.079><c> be</c>
+
+00:11:49.310 --> 00:11:49.320 align:start position:0%
+one person listening to this will be
+ 
+
+00:11:49.320 --> 00:11:51.550 align:start position:0%
+one person listening to this will be
+like<00:11:49.880><c> B</c><00:11:50.120><c> and</c><00:11:50.320><c> I</c><00:11:50.560><c> are</c><00:11:50.920><c> you're</c><00:11:51.079><c> not</c><00:11:51.200><c> supposed</c><00:11:51.480><c> to</c>
+
+00:11:51.550 --> 00:11:51.560 align:start position:0%
+like B and I are you're not supposed to
+ 
+
+00:11:51.560 --> 00:11:53.470 align:start position:0%
+like B and I are you're not supposed to
+use<00:11:51.720><c> them</c><00:11:51.920><c> because</c><00:11:52.120><c> they're</c><00:11:52.360><c> documented</c>
+
+00:11:53.470 --> 00:11:53.480 align:start position:0%
+use them because they're documented
+ 
+
+00:11:53.480 --> 00:11:56.310 align:start position:0%
+use them because they're documented
+incorrectly<00:11:54.480><c> uh</c><00:11:54.600><c> in</c><00:11:54.760><c> different</c><00:11:55.079><c> places</c><00:11:55.720><c> and</c>
+
+00:11:56.310 --> 00:11:56.320 align:start position:0%
+incorrectly uh in different places and
+ 
+
+00:11:56.320 --> 00:11:58.910 align:start position:0%
+incorrectly uh in different places and
+so<00:11:56.920><c> again</c><00:11:57.600><c> go</c><00:11:57.880><c> to</c><00:11:58.120><c> the</c><00:11:58.320><c> standard</c><00:11:58.720><c> and</c><00:11:58.800><c> I'm</c>
+
+00:11:58.910 --> 00:11:58.920 align:start position:0%
+so again go to the standard and I'm
+ 
+
+00:11:58.920 --> 00:12:03.069 align:start position:0%
+so again go to the standard and I'm
+going<00:11:59.000><c> to</c><00:11:59.279><c> say</c><00:11:59.399><c> it</c><00:11:59.560><c> again</c><00:12:00.560><c> in</c><00:12:00.800><c> all</c><00:12:01.120><c> cases</c><00:12:02.000><c> go</c><00:12:02.560><c> to</c>
+
+00:12:03.069 --> 00:12:03.079 align:start position:0%
+going to say it again in all cases go to
+ 
+
+00:12:03.079 --> 00:12:05.710 align:start position:0%
+going to say it again in all cases go to
+the<00:12:03.320><c> standard</c><00:12:04.240><c> get</c><00:12:04.440><c> used</c><00:12:04.720><c> to</c><00:12:04.920><c> reading</c><00:12:05.519><c> the</c>
+
+00:12:05.710 --> 00:12:05.720 align:start position:0%
+the standard get used to reading the
+ 
+
+00:12:05.720 --> 00:12:08.190 align:start position:0%
+the standard get used to reading the
+standard<00:12:06.200><c> docs</c><00:12:06.800><c> get</c><00:12:06.920><c> used</c><00:12:07.160><c> to</c><00:12:07.320><c> reading</c><00:12:07.600><c> rfc's</c>
+
+00:12:08.190 --> 00:12:08.200 align:start position:0%
+standard docs get used to reading rfc's
+ 
+
+00:12:08.200 --> 00:12:09.829 align:start position:0%
+standard docs get used to reading rfc's
+get<00:12:08.320><c> used</c><00:12:08.519><c> to</c><00:12:08.680><c> reading</c><00:12:09.120><c> go</c><00:12:09.320><c> finding</c><00:12:09.560><c> out</c><00:12:09.720><c> what</c>
+
+00:12:09.829 --> 00:12:09.839 align:start position:0%
+get used to reading go finding out what
+ 
+
+00:12:09.839 --> 00:12:12.150 align:start position:0%
+get used to reading go finding out what
+the<00:12:09.959><c> standard</c><00:12:10.320><c> is</c><00:12:10.480><c> and</c><00:12:10.680><c> going</c><00:12:11.040><c> there</c><00:12:11.720><c> every</c>
+
+00:12:12.150 --> 00:12:12.160 align:start position:0%
+the standard is and going there every
+ 
+
+00:12:12.160 --> 00:12:14.670 align:start position:0%
+the standard is and going there every
+time<00:12:12.800><c> you</c><00:12:13.000><c> read</c><00:12:13.360><c> somebody's</c><00:12:13.920><c> interpretation</c>
+
+00:12:14.670 --> 00:12:14.680 align:start position:0%
+time you read somebody's interpretation
+ 
+
+00:12:14.680 --> 00:12:16.389 align:start position:0%
+time you read somebody's interpretation
+no<00:12:14.839><c> matter</c><00:12:15.199><c> how</c><00:12:15.360><c> well</c><00:12:15.560><c> intended</c><00:12:16.000><c> no</c><00:12:16.160><c> matter</c>
+
+00:12:16.389 --> 00:12:16.399 align:start position:0%
+no matter how well intended no matter
+ 
+
+00:12:16.399 --> 00:12:19.150 align:start position:0%
+no matter how well intended no matter
+how<00:12:16.560><c> well</c><00:12:16.760><c> funded</c><00:12:17.199><c> whether</c><00:12:17.399><c> it's</c><00:12:17.600><c> W3</c><00:12:18.120><c> fools</c><00:12:18.839><c> to</c>
+
+00:12:19.150 --> 00:12:19.160 align:start position:0%
+how well funded whether it's W3 fools to
+ 
+
+00:12:19.160 --> 00:12:22.470 align:start position:0%
+how well funded whether it's W3 fools to
+I'm<00:12:19.279><c> sorry</c><00:12:19.639><c> W3</c><00:12:20.120><c> schools</c><00:12:21.000><c> or</c><00:12:21.199><c> it's</c><00:12:21.399><c> Mozilla</c><00:12:22.279><c> or</c>
+
+00:12:22.470 --> 00:12:22.480 align:start position:0%
+I'm sorry W3 schools or it's Mozilla or
+ 
+
+00:12:22.480 --> 00:12:25.110 align:start position:0%
+I'm sorry W3 schools or it's Mozilla or
+it's<00:12:22.760><c> Microsoft</c><00:12:23.600><c> you're</c><00:12:23.959><c> always</c><00:12:24.440><c> getting</c>
+
+00:12:25.110 --> 00:12:25.120 align:start position:0%
+it's Microsoft you're always getting
+ 
+
+00:12:25.120 --> 00:12:27.990 align:start position:0%
+it's Microsoft you're always getting
+somebody<00:12:25.600><c> else's</c><00:12:26.440><c> interpretation</c><00:12:27.440><c> of</c><00:12:27.639><c> the</c>
+
+00:12:27.990 --> 00:12:28.000 align:start position:0%
+somebody else's interpretation of the
+ 
+
+00:12:28.000 --> 00:12:30.350 align:start position:0%
+somebody else's interpretation of the
+specification<00:12:29.000><c> when</c><00:12:29.399><c> instead</c><00:12:30.040><c> you</c><00:12:30.199><c> could</c>
+
+00:12:30.350 --> 00:12:30.360 align:start position:0%
+specification when instead you could
+ 
+
+00:12:30.360 --> 00:12:32.750 align:start position:0%
+specification when instead you could
+have<00:12:30.480><c> learned</c><00:12:30.800><c> it</c><00:12:31.079><c> correctly</c><00:12:31.800><c> by</c><00:12:31.959><c> reading</c><00:12:32.519><c> the</c>
+
+00:12:32.750 --> 00:12:32.760 align:start position:0%
+have learned it correctly by reading the
+ 
+
+00:12:32.760 --> 00:12:34.829 align:start position:0%
+have learned it correctly by reading the
+specification<00:12:33.760><c> no</c><00:12:33.920><c> matter</c><00:12:34.160><c> how</c><00:12:34.320><c> much</c><00:12:34.519><c> extra</c>
+
+00:12:34.829 --> 00:12:34.839 align:start position:0%
+specification no matter how much extra
+ 
+
+00:12:34.839 --> 00:12:36.750 align:start position:0%
+specification no matter how much extra
+work<00:12:35.040><c> it</c><00:12:35.199><c> takes</c><00:12:35.399><c> to</c><00:12:35.560><c> do</c><00:12:35.760><c> that</c><00:12:36.199><c> that</c><00:12:36.320><c> goes</c><00:12:36.560><c> for</c>
+
+00:12:36.750 --> 00:12:36.760 align:start position:0%
+work it takes to do that that goes for
+ 
+
+00:12:36.760 --> 00:12:39.069 align:start position:0%
+work it takes to do that that goes for
+everything<00:12:37.240><c> it</c><00:12:37.360><c> goes</c><00:12:37.519><c> for</c><00:12:37.720><c> The</c><00:12:37.880><c> Bash</c><00:12:38.160><c> man</c><00:12:38.560><c> page</c>
+
+00:12:39.069 --> 00:12:39.079 align:start position:0%
+everything it goes for The Bash man page
+ 
+
+00:12:39.079 --> 00:12:40.189 align:start position:0%
+everything it goes for The Bash man page
+if<00:12:39.160><c> you're</c><00:12:39.279><c> going</c><00:12:39.360><c> to</c><00:12:39.480><c> learn</c><00:12:39.639><c> how</c><00:12:39.760><c> to</c><00:12:39.839><c> do</c><00:12:39.959><c> bash</c>
+
+00:12:40.189 --> 00:12:40.199 align:start position:0%
+if you're going to learn how to do bash
+ 
+
+00:12:40.199 --> 00:12:41.990 align:start position:0%
+if you're going to learn how to do bash
+shell<00:12:40.440><c> scripting</c><00:12:41.160><c> best</c><00:12:41.360><c> to</c><00:12:41.480><c> learn</c><00:12:41.680><c> it</c><00:12:41.839><c> from</c>
+
+00:12:41.990 --> 00:12:42.000 align:start position:0%
+shell scripting best to learn it from
+ 
+
+00:12:42.000 --> 00:12:44.110 align:start position:0%
+shell scripting best to learn it from
+the<00:12:42.120><c> man</c><00:12:42.480><c> page</c><00:12:43.000><c> which</c><00:12:43.160><c> was</c><00:12:43.320><c> written</c><00:12:43.720><c> by</c><00:12:44.000><c> The</c>
+
+00:12:44.110 --> 00:12:44.120 align:start position:0%
+the man page which was written by The
+ 
+
+00:12:44.120 --> 00:12:46.430 align:start position:0%
+the man page which was written by The
+Bash<00:12:44.440><c> people</c><00:12:44.920><c> not</c><00:12:45.240><c> somebody's</c><00:12:45.800><c> third-party</c>
+
+00:12:46.430 --> 00:12:46.440 align:start position:0%
+Bash people not somebody's third-party
+ 
+
+00:12:46.440 --> 00:12:47.670 align:start position:0%
+Bash people not somebody's third-party
+book<00:12:46.639><c> that</c><00:12:46.720><c> you</c><00:12:46.839><c> had</c><00:12:46.959><c> to</c><00:12:47.079><c> pay</c><00:12:47.199><c> money</c><00:12:47.440><c> for</c>
+
+00:12:47.670 --> 00:12:47.680 align:start position:0%
+book that you had to pay money for
+ 
+
+00:12:47.680 --> 00:12:50.509 align:start position:0%
+book that you had to pay money for
+that's<00:12:47.880><c> not</c><00:12:48.079><c> even</c><00:12:48.360><c> correct</c><00:12:48.800><c> anymore</c><00:12:49.800><c> okay</c><00:12:50.199><c> so</c>
+
+00:12:50.509 --> 00:12:50.519 align:start position:0%
+that's not even correct anymore okay so
+ 
+
+00:12:50.519 --> 00:12:51.990 align:start position:0%
+that's not even correct anymore okay so
+I<00:12:50.600><c> mean</c><00:12:50.760><c> this</c><00:12:50.880><c> is</c><00:12:51.000><c> a</c><00:12:51.120><c> little</c><00:12:51.279><c> bit</c><00:12:51.399><c> of</c><00:12:51.480><c> a</c><00:12:51.639><c> rent</c>
+
+00:12:51.990 --> 00:12:52.000 align:start position:0%
+I mean this is a little bit of a rent
+ 
+
+00:12:52.000 --> 00:12:54.030 align:start position:0%
+I mean this is a little bit of a rent
+but<00:12:52.320><c> it's</c><00:12:52.560><c> it's</c><00:12:52.720><c> annoying</c><00:12:53.399><c> because</c><00:12:53.800><c> people</c>
+
+00:12:54.030 --> 00:12:54.040 align:start position:0%
+but it's it's annoying because people
+ 
+
+00:12:54.040 --> 00:12:56.189 align:start position:0%
+but it's it's annoying because people
+are<00:12:54.360><c> constantly</c><00:12:54.920><c> recommending</c><00:12:55.880><c> their</c>
+
+00:12:56.189 --> 00:12:56.199 align:start position:0%
+are constantly recommending their
+ 
+
+00:12:56.199 --> 00:12:58.430 align:start position:0%
+are constantly recommending their
+favorite<00:12:56.639><c> replacement</c><00:12:57.399><c> for</c><00:12:57.680><c> the</c><00:12:57.959><c> actual</c>
+
+00:12:58.430 --> 00:12:58.440 align:start position:0%
+favorite replacement for the actual
+ 
+
+00:12:58.440 --> 00:13:00.470 align:start position:0%
+favorite replacement for the actual
+standard
+
+00:13:00.470 --> 00:13:00.480 align:start position:0%
+standard
+ 
+
+00:13:00.480 --> 00:13:03.189 align:start position:0%
+standard
+okay<00:13:01.000><c> and</c><00:13:01.240><c> and</c><00:13:01.360><c> I'm</c><00:13:01.519><c> telling</c><00:13:01.760><c> you</c><00:13:02.000><c> right</c><00:13:02.199><c> now</c>
+
+00:13:03.189 --> 00:13:03.199 align:start position:0%
+okay and and I'm telling you right now
+ 
+
+00:13:03.199 --> 00:13:07.430 align:start position:0%
+okay and and I'm telling you right now
+go<00:13:03.720><c> to</c><00:13:04.519><c> you've</c><00:13:04.760><c> never</c><00:13:04.959><c> heard</c><00:13:05.360><c> what</c><00:13:05.680><c> WG</c><00:13:06.680><c> because</c>
+
+00:13:07.430 --> 00:13:07.440 align:start position:0%
+go to you've never heard what WG because
+ 
+
+00:13:07.440 --> 00:13:11.069 align:start position:0%
+go to you've never heard what WG because
+you<00:13:07.639><c> didn't</c><00:13:08.160><c> seek</c><00:13:08.519><c> out</c><00:13:08.880><c> the</c><00:13:09.360><c> standard</c><00:13:10.360><c> right</c>
+
+00:13:11.069 --> 00:13:11.079 align:start position:0%
+you didn't seek out the standard right
+ 
+
+00:13:11.079 --> 00:13:12.790 align:start position:0%
+you didn't seek out the standard right
+the<00:13:11.360><c> actual</c><00:13:11.760><c> standards</c><00:13:12.240><c> body</c><00:13:12.560><c> that's</c>
+
+00:13:12.790 --> 00:13:12.800 align:start position:0%
+the actual standards body that's
+ 
+
+00:13:12.800 --> 00:13:14.629 align:start position:0%
+the actual standards body that's
+responsible<00:13:13.360><c> for</c><00:13:13.639><c> defining</c><00:13:14.079><c> the</c><00:13:14.240><c> standards</c>
+
+00:13:14.629 --> 00:13:14.639 align:start position:0%
+responsible for defining the standards
+ 
+
+00:13:14.639 --> 00:13:16.949 align:start position:0%
+responsible for defining the standards
+for<00:13:14.839><c> the</c><00:13:15.000><c> entire</c><00:13:15.360><c> worldwide</c><00:13:15.920><c> web</c><00:13:16.440><c> that</c><00:13:16.600><c> is</c>
+
+00:13:16.949 --> 00:13:16.959 align:start position:0%
+for the entire worldwide web that is
+ 
+
+00:13:16.959 --> 00:13:19.509 align:start position:0%
+for the entire worldwide web that is
+contributed<00:13:17.519><c> to</c><00:13:17.880><c> by</c><00:13:18.160><c> every</c><00:13:18.519><c> major</c><00:13:18.880><c> browser</c>
+
+00:13:19.509 --> 00:13:19.519 align:start position:0%
+contributed to by every major browser
+ 
+
+00:13:19.519 --> 00:13:22.389 align:start position:0%
+contributed to by every major browser
+manufacturer<00:13:20.519><c> should</c><00:13:20.760><c> be</c><00:13:21.120><c> considered</c><00:13:22.120><c> the</c>
+
+00:13:22.389 --> 00:13:22.399 align:start position:0%
+manufacturer should be considered the
+ 
+
+00:13:22.399 --> 00:13:24.990 align:start position:0%
+manufacturer should be considered the
+company<00:13:22.959><c> the</c><00:13:23.199><c> authority</c><00:13:23.839><c> to</c><00:13:24.079><c> refer</c><00:13:24.399><c> to</c><00:13:24.760><c> and</c><00:13:24.880><c> if</c>
+
+00:13:24.990 --> 00:13:25.000 align:start position:0%
+company the authority to refer to and if
+ 
+
+00:13:25.000 --> 00:13:27.870 align:start position:0%
+company the authority to refer to and if
+you<00:13:25.240><c> don't</c><00:13:25.560><c> know</c><00:13:25.920><c> about</c><00:13:26.199><c> it</c><00:13:26.639><c> I'm</c><00:13:26.920><c> sorry</c><00:13:27.519><c> but</c>
+
+00:13:27.870 --> 00:13:27.880 align:start position:0%
+you don't know about it I'm sorry but
+ 
+
+00:13:27.880 --> 00:13:30.470 align:start position:0%
+you don't know about it I'm sorry but
+this<00:13:28.160><c> is</c><00:13:28.440><c> the</c><00:13:28.639><c> standard</c><00:13:29.600><c> and</c><00:13:29.800><c> now</c><00:13:29.959><c> you</c><00:13:30.079><c> know</c>
+
+00:13:30.470 --> 00:13:30.480 align:start position:0%
+this is the standard and now you know
+ 
+
+00:13:30.480 --> 00:13:32.990 align:start position:0%
+this is the standard and now you know
+now<00:13:30.639><c> you</c><00:13:30.800><c> know</c><00:13:31.720><c> if</c><00:13:31.920><c> I'm</c><00:13:32.279><c> if</c><00:13:32.399><c> I'm</c><00:13:32.519><c> sounding</c><00:13:32.880><c> a</c>
+
+00:13:32.990 --> 00:13:33.000 align:start position:0%
+now you know if I'm if I'm sounding a
+ 
+
+00:13:33.000 --> 00:13:35.750 align:start position:0%
+now you know if I'm if I'm sounding a
+little<00:13:33.240><c> bit</c><00:13:33.560><c> you</c><00:13:33.920><c> know</c><00:13:34.920><c> passion</c><00:13:35.360><c> or</c><00:13:35.639><c> like</c>
+
+00:13:35.750 --> 00:13:35.760 align:start position:0%
+little bit you know passion or like
+ 
+
+00:13:35.760 --> 00:13:37.230 align:start position:0%
+little bit you know passion or like
+triggered<00:13:36.160><c> or</c><00:13:36.279><c> something</c><00:13:36.560><c> it's</c><00:13:36.720><c> because</c><00:13:36.920><c> I'm</c>
+
+00:13:37.230 --> 00:13:37.240 align:start position:0%
+triggered or something it's because I'm
+ 
+
+00:13:37.240 --> 00:13:40.670 align:start position:0%
+triggered or something it's because I'm
+so<00:13:37.680><c> annoyed</c><00:13:38.519><c> that</c><00:13:38.800><c> professionals</c><00:13:39.680><c> don't</c><00:13:40.040><c> know</c>
+
+00:13:40.670 --> 00:13:40.680 align:start position:0%
+so annoyed that professionals don't know
+ 
+
+00:13:40.680 --> 00:13:42.710 align:start position:0%
+so annoyed that professionals don't know
+about<00:13:41.000><c> the</c><00:13:41.279><c> professional</c><00:13:41.880><c> specification</c><00:13:42.519><c> for</c>
+
+00:13:42.710 --> 00:13:42.720 align:start position:0%
+about the professional specification for
+ 
+
+00:13:42.720 --> 00:13:45.189 align:start position:0%
+about the professional specification for
+HTML<00:13:43.680><c> even</c><00:13:43.920><c> though</c><00:13:44.040><c> they're</c><00:13:44.240><c> being</c><00:13:44.560><c> paid</c><00:13:45.079><c> to</c>
+
+00:13:45.189 --> 00:13:45.199 align:start position:0%
+HTML even though they're being paid to
+ 
+
+00:13:45.199 --> 00:13:47.310 align:start position:0%
+HTML even though they're being paid to
+know<00:13:45.800><c> how</c><00:13:45.959><c> to</c><00:13:46.120><c> code</c><00:13:46.360><c> in</c><00:13:46.480><c> HTML</c><00:13:46.920><c> and</c><00:13:47.000><c> do</c><00:13:47.160><c> web</c>
+
+00:13:47.310 --> 00:13:47.320 align:start position:0%
+know how to code in HTML and do web
+ 
+
+00:13:47.320 --> 00:13:49.310 align:start position:0%
+know how to code in HTML and do web
+development<00:13:48.000><c> about</c><00:13:48.279><c> 50%</c><00:13:48.880><c> of</c><00:13:49.000><c> the</c><00:13:49.120><c> web</c>
+
+00:13:49.310 --> 00:13:49.320 align:start position:0%
+development about 50% of the web
+ 
+
+00:13:49.320 --> 00:13:51.110 align:start position:0%
+development about 50% of the web
+developers<00:13:49.800><c> out</c><00:13:50.000><c> there</c><00:13:50.240><c> have</c><00:13:50.399><c> never</c><00:13:50.759><c> even</c>
+
+00:13:51.110 --> 00:13:51.120 align:start position:0%
+developers out there have never even
+ 
+
+00:13:51.120 --> 00:13:54.110 align:start position:0%
+developers out there have never even
+heard<00:13:51.720><c> what</c><00:13:51.920><c> WG</c><00:13:52.720><c> is</c><00:13:53.279><c> they</c><00:13:53.399><c> could</c><00:13:53.560><c> never</c><00:13:53.839><c> even</c>
+
+00:13:54.110 --> 00:13:54.120 align:start position:0%
+heard what WG is they could never even
+ 
+
+00:13:54.120 --> 00:13:55.829 align:start position:0%
+heard what WG is they could never even
+tell<00:13:54.360><c> you</c><00:13:54.519><c> where</c><00:13:54.680><c> to</c><00:13:54.800><c> find</c><00:13:55.000><c> the</c><00:13:55.160><c> specification</c>
+
+00:13:55.829 --> 00:13:55.839 align:start position:0%
+tell you where to find the specification
+ 
+
+00:13:55.839 --> 00:13:57.629 align:start position:0%
+tell you where to find the specification
+and<00:13:55.959><c> yet</c><00:13:56.160><c> these</c><00:13:56.360><c> people</c><00:13:56.959><c> are</c><00:13:57.160><c> writing</c>
+
+00:13:57.629 --> 00:13:57.639 align:start position:0%
+and yet these people are writing
+ 
+
+00:13:57.639 --> 00:14:00.389 align:start position:0%
+and yet these people are writing
+applications<00:13:58.440><c> every</c><00:13:58.720><c> day</c><00:13:59.120><c> for</c><00:13:59.279><c> the</c><00:13:59.519><c> for</c><00:13:59.759><c> banks</c>
+
+00:14:00.389 --> 00:14:00.399 align:start position:0%
+applications every day for the for banks
+ 
+
+00:14:00.399 --> 00:14:02.710 align:start position:0%
+applications every day for the for banks
+and<00:14:00.519><c> for</c><00:14:00.680><c> Netscape</c><00:14:01.680><c> I</c><00:14:01.759><c> mean</c><00:14:01.920><c> Netflix</c><00:14:02.440><c> and</c><00:14:02.560><c> for</c>
+
+00:14:02.710 --> 00:14:02.720 align:start position:0%
+and for Netscape I mean Netflix and for
+ 
+
+00:14:02.720 --> 00:14:04.230 align:start position:0%
+and for Netscape I mean Netflix and for
+all<00:14:02.880><c> these</c><00:14:03.040><c> other</c><00:14:03.320><c> organizations</c><00:14:03.959><c> so</c><00:14:04.160><c> yeah</c>
+
+00:14:04.230 --> 00:14:04.240 align:start position:0%
+all these other organizations so yeah
+ 
+
+00:14:04.240 --> 00:14:06.069 align:start position:0%
+all these other organizations so yeah
+you're<00:14:04.360><c> going</c><00:14:04.480><c> to</c><00:14:04.560><c> see</c><00:14:04.720><c> me</c><00:14:04.880><c> rant</c><00:14:05.199><c> about</c><00:14:05.480><c> this</c>
+
+00:14:06.069 --> 00:14:06.079 align:start position:0%
+you're going to see me rant about this
+ 
+
+00:14:06.079 --> 00:14:09.670 align:start position:0%
+you're going to see me rant about this
+read<00:14:06.839><c> the</c><00:14:07.639><c> and</c><00:14:07.920><c> manual</c><00:14:08.759><c> read</c><00:14:09.000><c> the</c><00:14:09.120><c> manual</c><00:14:09.519><c> know</c>
+
+00:14:09.670 --> 00:14:09.680 align:start position:0%
+read the and manual read the manual know
+ 
+
+00:14:09.680 --> 00:14:11.470 align:start position:0%
+read the and manual read the manual know
+where<00:14:09.800><c> the</c><00:14:09.920><c> manual</c><00:14:10.360><c> is</c><00:14:10.680><c> know</c><00:14:10.880><c> who</c><00:14:11.079><c> wrote</c><00:14:11.320><c> the</c>
+
+00:14:11.470 --> 00:14:11.480 align:start position:0%
+where the manual is know who wrote the
+ 
+
+00:14:11.480 --> 00:14:13.870 align:start position:0%
+where the manual is know who wrote the
+manual<00:14:12.160><c> and</c><00:14:12.360><c> find</c><00:14:12.639><c> who</c><00:14:12.800><c> has</c><00:14:12.959><c> the</c><00:14:13.079><c> manual</c><00:14:13.560><c> there</c>
+
+00:14:13.870 --> 00:14:13.880 align:start position:0%
+manual and find who has the manual there
+ 
+
+00:14:13.880 --> 00:14:17.389 align:start position:0%
+manual and find who has the manual there
+I'm<00:14:14.040><c> done</c><00:14:14.680><c> all</c><00:14:14.800><c> right</c><00:14:14.920><c> so</c><00:14:15.199><c> this</c><00:14:15.279><c> is</c><00:14:15.360><c> the</c>
+
+00:14:17.389 --> 00:14:17.399 align:start position:0%
+I'm done all right so this is the
+ 
+
+00:14:17.399 --> 00:14:19.749 align:start position:0%
+I'm done all right so this is the
+manual<00:14:18.399><c> uh</c><00:14:18.800><c> and</c><00:14:18.920><c> it</c><00:14:19.040><c> doesn't</c><00:14:19.279><c> work</c><00:14:19.440><c> in</c><00:14:19.600><c> half</c>
+
+00:14:19.749 --> 00:14:19.759 align:start position:0%
+manual uh and it doesn't work in half
+ 
+
+00:14:19.759 --> 00:14:20.910 align:start position:0%
+manual uh and it doesn't work in half
+the<00:14:19.880><c> browsers</c><00:14:20.240><c> and</c><00:14:20.320><c> it</c><00:14:20.440><c> doesn't</c><00:14:20.600><c> matter</c><00:14:20.800><c> to</c>
+
+00:14:20.910 --> 00:14:20.920 align:start position:0%
+the browsers and it doesn't matter to
+ 
+
+00:14:20.920 --> 00:14:22.430 align:start position:0%
+the browsers and it doesn't matter to
+you<00:14:21.160><c> yeah</c><00:14:21.360><c> well</c><00:14:21.560><c> in</c><00:14:21.680><c> this</c><00:14:21.839><c> case</c><00:14:22.040><c> that's</c><00:14:22.240><c> not</c>
+
+00:14:22.430 --> 00:14:22.440 align:start position:0%
+you yeah well in this case that's not
+ 
+
+00:14:22.440 --> 00:14:25.590 align:start position:0%
+you yeah well in this case that's not
+the<00:14:22.600><c> case</c><00:14:23.600><c> this</c><00:14:23.800><c> case</c><00:14:24.079><c> 10x</c><00:14:24.560><c> programmer</c><00:14:25.320><c> this</c>
+
+00:14:25.590 --> 00:14:25.600 align:start position:0%
+the case this case 10x programmer this
+ 
+
+00:14:25.600 --> 00:14:27.189 align:start position:0%
+the case this case 10x programmer this
+actually<00:14:26.079><c> is</c><00:14:26.279><c> the</c><00:14:26.480><c> standard</c><00:14:26.959><c> and</c><00:14:27.079><c> the</c>
+
+00:14:27.189 --> 00:14:27.199 align:start position:0%
+actually is the standard and the
+ 
+
+00:14:27.199 --> 00:14:28.790 align:start position:0%
+actually is the standard and the
+standard<00:14:27.560><c> was</c><00:14:27.720><c> created</c><00:14:28.079><c> by</c><00:14:28.199><c> the</c><00:14:28.320><c> people</c><00:14:28.560><c> who</c>
+
+00:14:28.790 --> 00:14:28.800 align:start position:0%
+standard was created by the people who
+ 
+
+00:14:28.800 --> 00:14:29.790 align:start position:0%
+standard was created by the people who
+made
+
+00:14:29.790 --> 00:14:29.800 align:start position:0%
+made
+ 
+
+00:14:29.800 --> 00:14:32.670 align:start position:0%
+made
+the<00:14:30.000><c> browser</c><00:14:30.880><c> so</c><00:14:31.320><c> pay</c><00:14:31.519><c> attention</c><00:14:32.360><c> make</c><00:14:32.519><c> sure</c>
+
+00:14:32.670 --> 00:14:32.680 align:start position:0%
+the browser so pay attention make sure
+ 
+
+00:14:32.680 --> 00:14:35.269 align:start position:0%
+the browser so pay attention make sure
+you<00:14:32.839><c> learn</c><00:14:33.079><c> it</c><00:14:33.560><c> don't</c><00:14:33.800><c> get</c><00:14:33.920><c> left</c><00:14:34.160><c> in</c><00:14:34.279><c> the</c><00:14:34.440><c> dust</c>
+
+00:14:35.269 --> 00:14:35.279 align:start position:0%
+you learn it don't get left in the dust
+ 
+
+00:14:35.279 --> 00:14:39.079 align:start position:0%
+you learn it don't get left in the dust
+that's<00:14:35.480><c> all</c><00:14:35.680><c> for</c><00:14:35.880><c> this</c><00:14:36.079><c> video</c>
+

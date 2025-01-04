@@ -1,0 +1,1440 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.960 --> 00:00:05.510 align:start position:0%
+ 
+this<00:00:01.160><c> video</c><00:00:01.599><c> is</c><00:00:01.839><c> about</c><00:00:02.800><c> yaml</c><00:00:03.800><c> document</c>
+
+00:00:05.510 --> 00:00:05.520 align:start position:0%
+this video is about yaml document
+ 
+
+00:00:05.520 --> 00:00:07.550 align:start position:0%
+this video is about yaml document
+streams<00:00:06.520><c> you're</c><00:00:06.680><c> like</c><00:00:06.839><c> what's</c><00:00:07.000><c> a</c><00:00:07.120><c> yaml</c>
+
+00:00:07.550 --> 00:00:07.560 align:start position:0%
+streams you're like what's a yaml
+ 
+
+00:00:07.560 --> 00:00:10.509 align:start position:0%
+streams you're like what's a yaml
+document<00:00:08.120><c> stream</c><00:00:08.639><c> this</c><00:00:08.760><c> is</c><00:00:08.880><c> a</c><00:00:09.080><c> yaml</c><00:00:09.559><c> document</c>
+
+00:00:10.509 --> 00:00:10.519 align:start position:0%
+document stream this is a yaml document
+ 
+
+00:00:10.519 --> 00:00:15.310 align:start position:0%
+document stream this is a yaml document
+stream<00:00:11.519><c> all</c><00:00:12.040><c> right</c><00:00:13.040><c> right</c><00:00:13.280><c> here</c><00:00:14.000><c> we</c><00:00:14.280><c> have</c><00:00:15.200><c> we</c>
+
+00:00:15.310 --> 00:00:15.320 align:start position:0%
+stream all right right here we have we
+ 
+
+00:00:15.320 --> 00:00:17.750 align:start position:0%
+stream all right right here we have we
+have<00:00:15.480><c> multiple</c><00:00:16.000><c> yaml</c><00:00:16.359><c> documents</c><00:00:17.160><c> and</c><00:00:17.320><c> you</c>
+
+00:00:17.750 --> 00:00:17.760 align:start position:0%
+have multiple yaml documents and you
+ 
+
+00:00:17.760 --> 00:00:20.470 align:start position:0%
+have multiple yaml documents and you
+generally<00:00:18.320><c> can</c><00:00:18.600><c> identify</c><00:00:19.160><c> them</c><00:00:19.960><c> from</c><00:00:20.199><c> their</c>
+
+00:00:20.470 --> 00:00:20.480 align:start position:0%
+generally can identify them from their
+ 
+
+00:00:20.480 --> 00:00:22.750 align:start position:0%
+generally can identify them from their
+triple<00:00:21.039><c> dots</c><00:00:22.039><c> and</c><00:00:22.160><c> it</c><00:00:22.320><c> gets</c><00:00:22.519><c> kind</c><00:00:22.640><c> of</c>
+
+00:00:22.750 --> 00:00:22.760 align:start position:0%
+triple dots and it gets kind of
+ 
+
+00:00:22.760 --> 00:00:24.150 align:start position:0%
+triple dots and it gets kind of
+interesting<00:00:23.119><c> down</c><00:00:23.279><c> here</c><00:00:23.439><c> but</c><00:00:23.560><c> I</c><00:00:23.640><c> want</c><00:00:23.760><c> you</c><00:00:23.880><c> to</c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+interesting down here but I want you to
+ 
+
+00:00:24.160 --> 00:00:26.150 align:start position:0%
+interesting down here but I want you to
+pay<00:00:24.800><c> close</c><00:00:25.160><c> attention</c><00:00:25.480><c> to</c><00:00:25.680><c> this</c><00:00:25.880><c> and</c><00:00:26.039><c> I'm</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+pay close attention to this and I'm
+ 
+
+00:00:26.160 --> 00:00:28.749 align:start position:0%
+pay close attention to this and I'm
+making<00:00:26.519><c> this</c><00:00:27.160><c> video</c>
+
+00:00:28.749 --> 00:00:28.759 align:start position:0%
+making this video
+ 
+
+00:00:28.759 --> 00:00:31.589 align:start position:0%
+making this video
+because<00:00:29.759><c> this</c><00:00:30.080><c> is</c><00:00:30.439><c> very</c><00:00:30.759><c> frequently</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+because this is very frequently
+ 
+
+00:00:31.599 --> 00:00:34.549 align:start position:0%
+because this is very frequently
+misunderstood<00:00:32.599><c> and</c><00:00:32.759><c> there</c><00:00:32.880><c> are</c><00:00:33.239><c> so</c><00:00:33.840><c> many</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+misunderstood and there are so many
+ 
+
+00:00:34.559 --> 00:00:37.069 align:start position:0%
+misunderstood and there are so many
+applications<00:00:35.280><c> that</c><00:00:35.399><c> are</c><00:00:35.600><c> parsing</c><00:00:36.239><c> yaml</c>
+
+00:00:37.069 --> 00:00:37.079 align:start position:0%
+applications that are parsing yaml
+ 
+
+00:00:37.079 --> 00:00:39.869 align:start position:0%
+applications that are parsing yaml
+totally<00:00:37.640><c> incorrectly</c><00:00:38.640><c> by</c><00:00:38.920><c> thinking</c><00:00:39.399><c> they</c>
+
+00:00:39.869 --> 00:00:39.879 align:start position:0%
+totally incorrectly by thinking they
+ 
+
+00:00:39.879 --> 00:00:42.709 align:start position:0%
+totally incorrectly by thinking they
+understand<00:00:40.120><c> yaml</c><00:00:40.640><c> if</c><00:00:40.800><c> you</c><00:00:41.000><c> are</c><00:00:41.239><c> not</c><00:00:41.800><c> parsing</c>
+
+00:00:42.709 --> 00:00:42.719 align:start position:0%
+understand yaml if you are not parsing
+ 
+
+00:00:42.719 --> 00:00:46.430 align:start position:0%
+understand yaml if you are not parsing
+yaml<00:00:43.840><c> using</c><00:00:44.840><c> a</c><00:00:45.000><c> standard</c><00:00:45.440><c> library</c><00:00:45.840><c> and</c><00:00:46.039><c> even</c>
+
+00:00:46.430 --> 00:00:46.440 align:start position:0%
+yaml using a standard library and even
+ 
+
+00:00:46.440 --> 00:00:48.270 align:start position:0%
+yaml using a standard library and even
+then<00:00:46.800><c> those</c><00:00:47.000><c> libraries</c><00:00:47.480><c> are</c><00:00:47.680><c> broken</c><00:00:48.199><c> I'm</c>
+
+00:00:48.270 --> 00:00:48.280 align:start position:0%
+then those libraries are broken I'm
+ 
+
+00:00:48.280 --> 00:00:49.630 align:start position:0%
+then those libraries are broken I'm
+going<00:00:48.399><c> to</c><00:00:48.520><c> show</c><00:00:48.680><c> you</c><00:00:48.879><c> that</c><00:00:49.079><c> there's</c><00:00:49.239><c> a</c><00:00:49.399><c> place</c>
+
+00:00:49.630 --> 00:00:49.640 align:start position:0%
+going to show you that there's a place
+ 
+
+00:00:49.640 --> 00:00:51.029 align:start position:0%
+going to show you that there's a place
+down<00:00:49.800><c> here</c><00:00:50.079><c> where</c><00:00:50.280><c> this</c><00:00:50.360><c> one</c><00:00:50.520><c> is</c><00:00:50.760><c> actually</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+down here where this one is actually
+ 
+
+00:00:51.039 --> 00:00:53.670 align:start position:0%
+down here where this one is actually
+broken<00:00:51.399><c> the</c><00:00:51.520><c> yl</c><00:00:51.840><c> be3</c><00:00:52.199><c> pars</c><00:00:52.440><c> of</c><00:00:52.600><c> foro</c><00:00:53.359><c> is</c>
+
+00:00:53.670 --> 00:00:53.680 align:start position:0%
+broken the yl be3 pars of foro is
+ 
+
+00:00:53.680 --> 00:00:56.750 align:start position:0%
+broken the yl be3 pars of foro is
+totally<00:00:54.559><c> broken</c><00:00:55.559><c> but</c><00:00:56.239><c> that's</c><00:00:56.440><c> the</c><00:00:56.600><c> best</c>
+
+00:00:56.750 --> 00:00:56.760 align:start position:0%
+totally broken but that's the best
+ 
+
+00:00:56.760 --> 00:00:59.310 align:start position:0%
+totally broken but that's the best
+you're<00:00:56.920><c> going</c><00:00:57.039><c> to</c><00:00:57.239><c> get</c><00:00:57.520><c> if</c><00:00:57.640><c> you</c><00:00:57.960><c> try</c><00:00:58.719><c> to</c><00:00:59.039><c> do</c>
+
+00:00:59.310 --> 00:00:59.320 align:start position:0%
+you're going to get if you try to do
+ 
+
+00:00:59.320 --> 00:01:00.869 align:start position:0%
+you're going to get if you try to do
+this<00:00:59.640><c> with</c><00:01:00.000><c> regular</c><00:01:00.280><c> expressions</c><00:01:00.680><c> or</c>
+
+00:01:00.869 --> 00:01:00.879 align:start position:0%
+this with regular expressions or
+ 
+
+00:01:00.879 --> 00:01:03.830 align:start position:0%
+this with regular expressions or
+something<00:01:01.480><c> you</c><00:01:01.879><c> will</c><00:01:02.480><c> fail</c><00:01:03.199><c> and</c><00:01:03.320><c> let</c><00:01:03.440><c> me</c><00:01:03.640><c> tell</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+something you will fail and let me tell
+ 
+
+00:01:03.840 --> 00:01:06.950 align:start position:0%
+something you will fail and let me tell
+you<00:01:04.119><c> why</c><00:01:04.760><c> because</c><00:01:05.239><c> this</c><00:01:05.400><c> is</c><00:01:05.640><c> a</c><00:01:05.880><c> totally</c><00:01:06.439><c> valid</c>
+
+00:01:06.950 --> 00:01:06.960 align:start position:0%
+you why because this is a totally valid
+ 
+
+00:01:06.960 --> 00:01:11.030 align:start position:0%
+you why because this is a totally valid
+yaml<00:01:07.759><c> document</c><00:01:08.720><c> stream</c><00:01:09.720><c> so</c><00:01:10.280><c> let's</c><00:01:10.479><c> do</c><00:01:10.720><c> this</c>
+
+00:01:11.030 --> 00:01:11.040 align:start position:0%
+yaml document stream so let's do this
+ 
+
+00:01:11.040 --> 00:01:14.070 align:start position:0%
+yaml document stream so let's do this
+everybody<00:01:11.439><c> in</c><00:01:11.560><c> the</c><00:01:11.720><c> chat</c><00:01:12.600><c> where</c><00:01:13.000><c> are</c><00:01:13.560><c> the</c>
+
+00:01:14.070 --> 00:01:14.080 align:start position:0%
+everybody in the chat where are the
+ 
+
+00:01:14.080 --> 00:01:16.310 align:start position:0%
+everybody in the chat where are the
+documents<00:01:15.080><c> where</c><00:01:15.240><c> is</c><00:01:15.400><c> the</c><00:01:15.600><c> beginning</c><00:01:16.159><c> and</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+documents where is the beginning and
+ 
+
+00:01:16.320 --> 00:01:18.630 align:start position:0%
+documents where is the beginning and
+where<00:01:16.439><c> does</c><00:01:16.600><c> the</c><00:01:16.840><c> document</c>
+
+00:01:18.630 --> 00:01:18.640 align:start position:0%
+where does the document
+ 
+
+00:01:18.640 --> 00:01:24.390 align:start position:0%
+where does the document
+end<00:01:19.640><c> okay</c><00:01:19.799><c> so</c><00:01:20.000><c> there's</c><00:01:20.280><c> 1</c><00:01:21.000><c> 2</c><00:01:22.040><c> 3</c><00:01:23.040><c> 4</c><00:01:23.759><c> 5</c><00:01:24.079><c> six</c>
+
+00:01:24.390 --> 00:01:24.400 align:start position:0%
+end okay so there's 1 2 3 4 5 six
+ 
+
+00:01:24.400 --> 00:01:26.910 align:start position:0%
+end okay so there's 1 2 3 4 5 six
+there's<00:01:24.680><c> six</c><00:01:25.119><c> documents</c><00:01:25.560><c> in</c>
+
+00:01:26.910 --> 00:01:26.920 align:start position:0%
+there's six documents in
+ 
+
+00:01:26.920 --> 00:01:30.990 align:start position:0%
+there's six documents in
+here<00:01:27.920><c> where</c><00:01:28.079><c> do</c><00:01:28.240><c> they</c><00:01:28.400><c> start</c><00:01:28.640><c> and</c><00:01:28.840><c> end</c>
+
+00:01:30.990 --> 00:01:31.000 align:start position:0%
+here where do they start and end
+ 
+
+00:01:31.000 --> 00:01:32.350 align:start position:0%
+here where do they start and end
+if<00:01:31.079><c> you</c><00:01:31.200><c> said</c><00:01:31.439><c> that</c><00:01:31.560><c> the</c><00:01:31.680><c> first</c><00:01:31.960><c> document</c>
+
+00:01:32.350 --> 00:01:32.360 align:start position:0%
+if you said that the first document
+ 
+
+00:01:32.360 --> 00:01:33.710 align:start position:0%
+if you said that the first document
+starts<00:01:32.759><c> right</c><00:01:32.920><c> after</c><00:01:33.159><c> here</c><00:01:33.360><c> after</c><00:01:33.560><c> the</c>
+
+00:01:33.710 --> 00:01:33.720 align:start position:0%
+starts right after here after the
+ 
+
+00:01:33.720 --> 00:01:35.950 align:start position:0%
+starts right after here after the
+document<00:01:34.079><c> separator</c><00:01:34.720><c> you'd</c><00:01:34.960><c> be</c>
+
+00:01:35.950 --> 00:01:35.960 align:start position:0%
+document separator you'd be
+ 
+
+00:01:35.960 --> 00:01:38.350 align:start position:0%
+document separator you'd be
+wrong<00:01:36.960><c> the</c><00:01:37.079><c> first</c><00:01:37.360><c> document</c><00:01:37.640><c> starts</c><00:01:38.159><c> right</c>
+
+00:01:38.350 --> 00:01:38.360 align:start position:0%
+wrong the first document starts right
+ 
+
+00:01:38.360 --> 00:01:41.749 align:start position:0%
+wrong the first document starts right
+here<00:01:39.200><c> and</c><00:01:39.320><c> it</c><00:01:39.479><c> goes</c><00:01:39.759><c> all</c><00:01:39.920><c> the</c><00:01:40.040><c> way</c><00:01:40.240><c> through</c><00:01:40.680><c> to</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+here and it goes all the way through to
+ 
+
+00:01:41.759 --> 00:01:44.830 align:start position:0%
+here and it goes all the way through to
+here<00:01:43.159><c> wrong</c>
+
+00:01:44.830 --> 00:01:44.840 align:start position:0%
+here wrong
+ 
+
+00:01:44.840 --> 00:01:48.149 align:start position:0%
+here wrong
+here<00:01:45.840><c> that's</c><00:01:46.079><c> the</c><00:01:46.240><c> first</c>
+
+00:01:48.149 --> 00:01:48.159 align:start position:0%
+here that's the first
+ 
+
+00:01:48.159 --> 00:01:51.030 align:start position:0%
+here that's the first
+document<00:01:49.159><c> and</c><00:01:49.320><c> there</c><00:01:49.479><c> is</c><00:01:49.719><c> no</c><00:01:50.200><c> marker</c><00:01:50.759><c> for</c><00:01:50.920><c> the</c>
+
+00:01:51.030 --> 00:01:51.040 align:start position:0%
+document and there is no marker for the
+ 
+
+00:01:51.040 --> 00:01:52.749 align:start position:0%
+document and there is no marker for the
+end<00:01:51.200><c> of</c><00:01:51.320><c> the</c><00:01:51.479><c> document</c><00:01:51.799><c> including</c><00:01:52.159><c> triple</c><00:01:52.560><c> do</c>
+
+00:01:52.749 --> 00:01:52.759 align:start position:0%
+end of the document including triple do
+ 
+
+00:01:52.759 --> 00:01:55.149 align:start position:0%
+end of the document including triple do
+triple<00:01:53.079><c> dot</c><00:01:53.280><c> if</c><00:01:53.360><c> you</c><00:01:53.439><c> know</c><00:01:53.560><c> what</c><00:01:53.640><c> that</c><00:01:54.000><c> is</c><00:01:55.000><c> that</c>
+
+00:01:55.149 --> 00:01:55.159 align:start position:0%
+triple dot if you know what that is that
+ 
+
+00:01:55.159 --> 00:01:57.429 align:start position:0%
+triple dot if you know what that is that
+does<00:01:55.360><c> not</c><00:01:55.799><c> that</c><00:01:55.960><c> does</c><00:01:56.079><c> not</c><00:01:56.320><c> indicate</c><00:01:56.920><c> the</c><00:01:57.079><c> end</c>
+
+00:01:57.429 --> 00:01:57.439 align:start position:0%
+does not that does not indicate the end
+ 
+
+00:01:57.439 --> 00:01:59.990 align:start position:0%
+does not that does not indicate the end
+of<00:01:57.560><c> a</c><00:01:57.719><c> yaml</c><00:01:58.159><c> document</c>
+
+00:01:59.990 --> 00:02:00.000 align:start position:0%
+of a yaml document
+ 
+
+00:02:00.000 --> 00:02:01.990 align:start position:0%
+of a yaml document
+the<00:02:00.159><c> official</c><00:02:00.600><c> specification</c><00:02:01.360><c> says</c><00:02:01.640><c> that</c><00:02:01.840><c> the</c>
+
+00:02:01.990 --> 00:02:02.000 align:start position:0%
+the official specification says that the
+ 
+
+00:02:02.000 --> 00:02:03.550 align:start position:0%
+the official specification says that the
+beginning<00:02:02.360><c> of</c><00:02:02.560><c> another</c><00:02:02.960><c> document</c><00:02:03.280><c> in</c><00:02:03.399><c> a</c>
+
+00:02:03.550 --> 00:02:03.560 align:start position:0%
+beginning of another document in a
+ 
+
+00:02:03.560 --> 00:02:06.029 align:start position:0%
+beginning of another document in a
+document<00:02:03.880><c> stream</c><00:02:04.799><c> is</c><00:02:05.039><c> something</c><00:02:05.439><c> that</c><00:02:05.640><c> begins</c>
+
+00:02:06.029 --> 00:02:06.039 align:start position:0%
+document stream is something that begins
+ 
+
+00:02:06.039 --> 00:02:08.229 align:start position:0%
+document stream is something that begins
+with<00:02:06.640><c> this</c>
+
+00:02:08.229 --> 00:02:08.239 align:start position:0%
+with this
+ 
+
+00:02:08.239 --> 00:02:11.470 align:start position:0%
+with this
+or<00:02:09.239><c> another</c><00:02:09.599><c> document</c>
+
+00:02:11.470 --> 00:02:11.480 align:start position:0%
+or another document
+ 
+
+00:02:11.480 --> 00:02:15.070 align:start position:0%
+or another document
+identifier<00:02:12.480><c> so</c><00:02:12.840><c> the</c><00:02:13.080><c> next</c><00:02:13.520><c> document</c><00:02:14.000><c> is</c>
+
+00:02:15.070 --> 00:02:15.080 align:start position:0%
+identifier so the next document is
+ 
+
+00:02:15.080 --> 00:02:17.790 align:start position:0%
+identifier so the next document is
+here<00:02:16.080><c> including</c><00:02:16.920><c> the</c><00:02:17.080><c> document</c><00:02:17.519><c> which</c><00:02:17.640><c> comes</c>
+
+00:02:17.790 --> 00:02:17.800 align:start position:0%
+here including the document which comes
+ 
+
+00:02:17.800 --> 00:02:19.550 align:start position:0%
+here including the document which comes
+on<00:02:17.959><c> the</c><00:02:18.080><c> second</c><00:02:18.319><c> line</c><00:02:18.519><c> so</c><00:02:18.920><c> basically</c><00:02:19.360><c> you</c><00:02:19.480><c> know</c>
+
+00:02:19.550 --> 00:02:19.560 align:start position:0%
+on the second line so basically you know
+ 
+
+00:02:19.560 --> 00:02:20.949 align:start position:0%
+on the second line so basically you know
+how<00:02:19.680><c> many</c><00:02:19.959><c> times</c><00:02:20.200><c> you</c><00:02:20.319><c> know</c><00:02:20.440><c> how</c><00:02:20.560><c> many</c><00:02:20.720><c> times</c>
+
+00:02:20.949 --> 00:02:20.959 align:start position:0%
+how many times you know how many times
+ 
+
+00:02:20.959 --> 00:02:23.990 align:start position:0%
+how many times you know how many times
+I've<00:02:21.080><c> seen</c><00:02:21.360><c> people</c><00:02:22.200><c> assume</c><00:02:23.200><c> that</c><00:02:23.360><c> the</c><00:02:23.480><c> triple</c>
+
+00:02:23.990 --> 00:02:24.000 align:start position:0%
+I've seen people assume that the triple
+ 
+
+00:02:24.000 --> 00:02:25.830 align:start position:0%
+I've seen people assume that the triple
+Dash<00:02:24.360><c> is</c><00:02:24.519><c> the</c><00:02:24.680><c> beginning</c><00:02:25.040><c> of</c><00:02:25.120><c> a</c><00:02:25.319><c> document</c><00:02:25.720><c> and</c>
+
+00:02:25.830 --> 00:02:25.840 align:start position:0%
+Dash is the beginning of a document and
+ 
+
+00:02:25.840 --> 00:02:28.030 align:start position:0%
+Dash is the beginning of a document and
+they<00:02:26.000><c> just</c><00:02:26.200><c> do</c><00:02:26.480><c> a</c><00:02:26.680><c> flat</c><00:02:26.959><c> shell</c><00:02:27.400><c> parse</c><00:02:27.760><c> of</c><00:02:27.920><c> the</c>
+
+00:02:28.030 --> 00:02:28.040 align:start position:0%
+they just do a flat shell parse of the
+ 
+
+00:02:28.040 --> 00:02:31.550 align:start position:0%
+they just do a flat shell parse of the
+whole<00:02:28.680><c> thing</c><00:02:29.680><c> that</c><00:02:29.920><c> that's</c><00:02:30.160><c> wrong</c><00:02:30.879><c> why</c>
+
+00:02:31.550 --> 00:02:31.560 align:start position:0%
+whole thing that that's wrong why
+ 
+
+00:02:31.560 --> 00:02:34.270 align:start position:0%
+whole thing that that's wrong why
+because<00:02:32.200><c> if</c><00:02:32.360><c> you</c><00:02:32.800><c> split</c><00:02:33.319><c> this</c><00:02:33.519><c> file</c><00:02:33.959><c> based</c><00:02:34.200><c> on</c>
+
+00:02:34.270 --> 00:02:34.280 align:start position:0%
+because if you split this file based on
+ 
+
+00:02:34.280 --> 00:02:36.990 align:start position:0%
+because if you split this file based on
+the<00:02:34.440><c> triple</c><00:02:34.840><c> do</c><00:02:35.400><c> dashes</c><00:02:36.400><c> you're</c><00:02:36.599><c> going</c><00:02:36.720><c> to</c>
+
+00:02:36.990 --> 00:02:37.000 align:start position:0%
+the triple do dashes you're going to
+ 
+
+00:02:37.000 --> 00:02:41.270 align:start position:0%
+the triple do dashes you're going to
+leave<00:02:37.879><c> metadata</c><00:02:38.879><c> for</c><00:02:39.239><c> the</c><00:02:39.640><c> upcoming</c><00:02:40.360><c> document</c>
+
+00:02:41.270 --> 00:02:41.280 align:start position:0%
+leave metadata for the upcoming document
+ 
+
+00:02:41.280 --> 00:02:45.470 align:start position:0%
+leave metadata for the upcoming document
+behind<00:02:42.280><c> in</c><00:02:42.760><c> the</c><00:02:43.040><c> previous</c>
+
+00:02:45.470 --> 00:02:45.480 align:start position:0%
+behind in the previous
+ 
+
+00:02:45.480 --> 00:02:49.589 align:start position:0%
+behind in the previous
+buffer<00:02:46.480><c> so</c><00:02:46.720><c> it's</c><00:02:46.920><c> wrong</c><00:02:47.640><c> splitting</c><00:02:48.239><c> this</c><00:02:48.599><c> file</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+buffer so it's wrong splitting this file
+ 
+
+00:02:49.599 --> 00:02:52.790 align:start position:0%
+buffer so it's wrong splitting this file
+into<00:02:50.000><c> things</c><00:02:50.239><c> that</c><00:02:50.440><c> have</c><00:02:50.640><c> triple</c><00:02:51.000><c> dashes</c><00:02:51.560><c> is</c>
+
+00:02:52.790 --> 00:02:52.800 align:start position:0%
+into things that have triple dashes is
+ 
+
+00:02:52.800 --> 00:02:54.990 align:start position:0%
+into things that have triple dashes is
+wrong<00:02:53.800><c> you</c><00:02:54.000><c> how</c><00:02:54.120><c> many</c><00:02:54.280><c> times</c><00:02:54.480><c> I</c><00:02:54.560><c> see</c><00:02:54.760><c> people</c>
+
+00:02:54.990 --> 00:02:55.000 align:start position:0%
+wrong you how many times I see people
+ 
+
+00:02:55.000 --> 00:02:57.550 align:start position:0%
+wrong you how many times I see people
+all<00:02:55.159><c> the</c><00:02:55.319><c> time</c><00:02:55.720><c> all</c><00:02:55.879><c> the</c><00:02:56.000><c> time</c><00:02:56.200><c> people</c><00:02:56.400><c> do</c><00:02:56.560><c> that</c>
+
+00:02:57.550 --> 00:02:57.560 align:start position:0%
+all the time all the time people do that
+ 
+
+00:02:57.560 --> 00:02:59.830 align:start position:0%
+all the time all the time people do that
+so<00:02:57.920><c> so</c><00:02:58.159><c> here</c><00:02:58.280><c> you</c><00:02:58.480><c> go</c><00:02:59.040><c> this</c><00:02:59.159><c> is</c><00:02:59.280><c> the</c><00:02:59.400><c> next</c><00:02:59.599><c> do</c>
+
+00:02:59.830 --> 00:02:59.840 align:start position:0%
+so so here you go this is the next do
+ 
+
+00:02:59.840 --> 00:03:02.470 align:start position:0%
+so so here you go this is the next do
+doent<00:03:00.599><c> where's</c><00:03:00.840><c> the</c><00:03:01.000><c> next</c><00:03:01.200><c> one</c><00:03:01.640><c> right</c><00:03:01.920><c> here</c>
+
+00:03:02.470 --> 00:03:02.480 align:start position:0%
+doent where's the next one right here
+ 
+
+00:03:02.480 --> 00:03:04.750 align:start position:0%
+doent where's the next one right here
+that's<00:03:02.760><c> right</c><00:03:03.159><c> you</c><00:03:03.319><c> can</c><00:03:03.560><c> set</c><00:03:03.760><c> up</c><00:03:03.920><c> your</c><00:03:04.120><c> tags</c>
+
+00:03:04.750 --> 00:03:04.760 align:start position:0%
+that's right you can set up your tags
+ 
+
+00:03:04.760 --> 00:03:06.869 align:start position:0%
+that's right you can set up your tags
+these<00:03:04.959><c> tags</c><00:03:05.280><c> provide</c><00:03:05.560><c> metadata</c><00:03:06.239><c> that</c><00:03:06.480><c> that</c>
+
+00:03:06.869 --> 00:03:06.879 align:start position:0%
+these tags provide metadata that that
+ 
+
+00:03:06.879 --> 00:03:08.550 align:start position:0%
+these tags provide metadata that that
+allow<00:03:07.280><c> some</c><00:03:07.400><c> of</c><00:03:07.480><c> the</c><00:03:07.560><c> more</c><00:03:07.840><c> complex</c><00:03:08.239><c> things</c><00:03:08.400><c> in</c>
+
+00:03:08.550 --> 00:03:08.560 align:start position:0%
+allow some of the more complex things in
+ 
+
+00:03:08.560 --> 00:03:10.830 align:start position:0%
+allow some of the more complex things in
+y<00:03:09.159><c> most</c><00:03:09.319><c> people</c><00:03:09.480><c> don't</c><00:03:09.640><c> ever</c><00:03:09.879><c> use</c><00:03:10.519><c> doesn't</c>
+
+00:03:10.830 --> 00:03:10.840 align:start position:0%
+y most people don't ever use doesn't
+ 
+
+00:03:10.840 --> 00:03:12.910 align:start position:0%
+y most people don't ever use doesn't
+matter<00:03:11.560><c> that</c><00:03:11.680><c> is</c><00:03:11.879><c> how</c><00:03:12.080><c> the</c><00:03:12.239><c> specification</c><00:03:12.760><c> is</c>
+
+00:03:12.910 --> 00:03:12.920 align:start position:0%
+matter that is how the specification is
+ 
+
+00:03:12.920 --> 00:03:14.149 align:start position:0%
+matter that is how the specification is
+written<00:03:13.280><c> you</c><00:03:13.360><c> want</c><00:03:13.440><c> to</c><00:03:13.560><c> do</c><00:03:13.680><c> it</c><00:03:13.840><c> right</c><00:03:14.000><c> that's</c>
+
+00:03:14.149 --> 00:03:14.159 align:start position:0%
+written you want to do it right that's
+ 
+
+00:03:14.159 --> 00:03:16.750 align:start position:0%
+written you want to do it right that's
+how<00:03:14.280><c> you</c><00:03:14.400><c> do</c><00:03:14.959><c> it</c><00:03:15.959><c> yeah</c><00:03:16.200><c> and</c><00:03:16.400><c> what</c><00:03:16.560><c> what</c><00:03:16.640><c> the</c>
+
+00:03:16.750 --> 00:03:16.760 align:start position:0%
+how you do it yeah and what what the
+ 
+
+00:03:16.760 --> 00:03:18.149 align:start position:0%
+how you do it yeah and what what the
+hell's<00:03:17.000><c> going</c><00:03:17.159><c> on</c><00:03:17.239><c> with</c><00:03:17.360><c> these</c><00:03:17.519><c> comments</c><00:03:17.920><c> down</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+hell's going on with these comments down
+ 
+
+00:03:18.159 --> 00:03:20.630 align:start position:0%
+hell's going on with these comments down
+here<00:03:18.640><c> right</c><00:03:19.440><c> what</c><00:03:19.560><c> are</c><00:03:19.720><c> they</c><00:03:19.920><c> associated</c><00:03:20.440><c> with</c>
+
+00:03:20.630 --> 00:03:20.640 align:start position:0%
+here right what are they associated with
+ 
+
+00:03:20.640 --> 00:03:22.589 align:start position:0%
+here right what are they associated with
+this<00:03:20.799><c> first</c><00:03:21.040><c> thing</c><00:03:21.239><c> here</c><00:03:22.040><c> we'll</c><00:03:22.239><c> talk</c><00:03:22.400><c> about</c>
+
+00:03:22.589 --> 00:03:22.599 align:start position:0%
+this first thing here we'll talk about
+ 
+
+00:03:22.599 --> 00:03:26.070 align:start position:0%
+this first thing here we'll talk about
+that<00:03:22.760><c> another</c><00:03:23.480><c> time</c><00:03:24.480><c> that</c><00:03:24.640><c> is</c><00:03:24.799><c> the</c><00:03:25.000><c> next</c>
+
+00:03:26.070 --> 00:03:26.080 align:start position:0%
+that another time that is the next
+ 
+
+00:03:26.080 --> 00:03:27.830 align:start position:0%
+that another time that is the next
+document<00:03:27.080><c> okay</c><00:03:27.200><c> here's</c><00:03:27.400><c> one</c><00:03:27.519><c> that's</c><00:03:27.680><c> going</c><00:03:27.760><c> to</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+document okay here's one that's going to
+ 
+
+00:03:27.840 --> 00:03:30.589 align:start position:0%
+document okay here's one that's going to
+blow<00:03:28.120><c> people</c><00:03:28.480><c> away</c><00:03:29.480><c> remember</c><00:03:29.920><c> how</c><00:03:30.239><c> how</c><00:03:30.360><c> many</c>
+
+00:03:30.589 --> 00:03:30.599 align:start position:0%
+blow people away remember how how many
+ 
+
+00:03:30.599 --> 00:03:32.550 align:start position:0%
+blow people away remember how how many
+people<00:03:30.840><c> are</c><00:03:31.000><c> splitting</c><00:03:31.920><c> they're</c><00:03:32.120><c> splitting</c>
+
+00:03:32.550 --> 00:03:32.560 align:start position:0%
+people are splitting they're splitting
+ 
+
+00:03:32.560 --> 00:03:34.110 align:start position:0%
+people are splitting they're splitting
+on<00:03:32.680><c> the</c><00:03:32.840><c> triple</c><00:03:33.200><c> dot</c><00:03:33.439><c> because</c><00:03:33.680><c> they</c><00:03:33.840><c> think</c>
+
+00:03:34.110 --> 00:03:34.120 align:start position:0%
+on the triple dot because they think
+ 
+
+00:03:34.120 --> 00:03:35.630 align:start position:0%
+on the triple dot because they think
+that<00:03:34.280><c> there's</c><00:03:34.560><c> just</c><00:03:34.799><c> whites</c><00:03:35.080><c> space</c><00:03:35.400><c> at</c><00:03:35.519><c> the</c>
+
+00:03:35.630 --> 00:03:35.640 align:start position:0%
+that there's just whites space at the
+ 
+
+00:03:35.640 --> 00:03:37.229 align:start position:0%
+that there's just whites space at the
+end
+
+00:03:37.229 --> 00:03:37.239 align:start position:0%
+end
+ 
+
+00:03:37.239 --> 00:03:42.550 align:start position:0%
+end
+wrong<00:03:38.239><c> wrong</c><00:03:39.000><c> wrong</c><00:03:39.319><c> wrong</c><00:03:39.599><c> wrong</c><00:03:39.879><c> wrong</c><00:03:40.319><c> so</c>
+
+00:03:42.550 --> 00:03:42.560 align:start position:0%
+wrong wrong wrong wrong wrong wrong so
+ 
+
+00:03:42.560 --> 00:03:46.470 align:start position:0%
+wrong wrong wrong wrong wrong wrong so
+wrong<00:03:43.560><c> you</c><00:03:43.799><c> can</c><00:03:44.200><c> have</c><00:03:45.200><c> the</c><00:03:45.519><c> D</c><00:03:45.760><c> the</c><00:03:46.000><c> document</c>
+
+00:03:46.470 --> 00:03:46.480 align:start position:0%
+wrong you can have the D the document
+ 
+
+00:03:46.480 --> 00:03:49.030 align:start position:0%
+wrong you can have the D the document
+the<00:03:46.640><c> beginning</c><00:03:47.040><c> of</c><00:03:47.159><c> a</c><00:03:47.439><c> document</c><00:03:48.439><c> is</c><00:03:48.680><c> three</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+the beginning of a document is three
+ 
+
+00:03:49.040 --> 00:03:51.110 align:start position:0%
+the beginning of a document is three
+dashes<00:03:49.720><c> and</c><00:03:49.920><c> a</c>
+
+00:03:51.110 --> 00:03:51.120 align:start position:0%
+dashes and a
+ 
+
+00:03:51.120 --> 00:03:54.589 align:start position:0%
+dashes and a
+space<00:03:52.120><c> period</c><00:03:52.799><c> you</c><00:03:52.959><c> can</c><00:03:53.200><c> put</c><00:03:53.560><c> anything</c><00:03:54.200><c> after</c>
+
+00:03:54.589 --> 00:03:54.599 align:start position:0%
+space period you can put anything after
+ 
+
+00:03:54.599 --> 00:03:56.509 align:start position:0%
+space period you can put anything after
+here<00:03:54.920><c> and</c><00:03:55.000><c> you</c><00:03:55.120><c> can</c><00:03:55.360><c> immediately</c><00:03:56.000><c> start</c><00:03:56.319><c> a</c>
+
+00:03:56.509 --> 00:03:56.519 align:start position:0%
+here and you can immediately start a
+ 
+
+00:03:56.519 --> 00:03:58.110 align:start position:0%
+here and you can immediately start a
+document<00:03:56.799><c> you</c><00:03:56.879><c> can</c><00:03:57.079><c> put</c><00:03:57.200><c> a</c><00:03:57.280><c> map</c><00:03:57.560><c> value</c><00:03:57.879><c> here</c><00:03:58.040><c> if</c>
+
+00:03:58.110 --> 00:03:58.120 align:start position:0%
+document you can put a map value here if
+ 
+
+00:03:58.120 --> 00:04:00.149 align:start position:0%
+document you can put a map value here if
+you<00:03:58.239><c> wanted</c><00:03:58.519><c> to</c>
+
+00:04:00.149 --> 00:04:00.159 align:start position:0%
+you wanted to
+ 
+
+00:04:00.159 --> 00:04:02.710 align:start position:0%
+you wanted to
+that<00:04:00.319><c> is</c><00:04:00.680><c> valid</c><00:04:01.120><c> yaml</c><00:04:01.799><c> so</c><00:04:02.079><c> if</c><00:04:02.239><c> you</c><00:04:02.400><c> are</c>
+
+00:04:02.710 --> 00:04:02.720 align:start position:0%
+that is valid yaml so if you are
+ 
+
+00:04:02.720 --> 00:04:05.350 align:start position:0%
+that is valid yaml so if you are
+splitting<00:04:03.519><c> the</c><00:04:03.720><c> file</c><00:04:04.200><c> based</c><00:04:04.480><c> on</c><00:04:04.640><c> Triple</c><00:04:05.079><c> do</c>
+
+00:04:05.350 --> 00:04:05.360 align:start position:0%
+splitting the file based on Triple do
+ 
+
+00:04:05.360 --> 00:04:07.470 align:start position:0%
+splitting the file based on Triple do
+triple<00:04:05.799><c> Dash</c><00:04:06.200><c> and</c><00:04:06.400><c> you</c><00:04:06.720><c> are</c><00:04:07.040><c> and</c><00:04:07.120><c> you</c><00:04:07.239><c> are</c>
+
+00:04:07.470 --> 00:04:07.480 align:start position:0%
+triple Dash and you are and you are
+ 
+
+00:04:07.480 --> 00:04:10.110 align:start position:0%
+triple Dash and you are and you are
+expecting<00:04:08.120><c> there</c><00:04:08.280><c> to</c><00:04:08.480><c> be</c><00:04:09.079><c> nothing</c><00:04:09.560><c> after</c><00:04:09.879><c> that</c>
+
+00:04:10.110 --> 00:04:10.120 align:start position:0%
+expecting there to be nothing after that
+ 
+
+00:04:10.120 --> 00:04:11.429 align:start position:0%
+expecting there to be nothing after that
+because<00:04:10.319><c> that's</c><00:04:10.519><c> how</c><00:04:10.640><c> you've</c><00:04:10.840><c> seen</c><00:04:11.079><c> it</c><00:04:11.239><c> and</c>
+
+00:04:11.429 --> 00:04:11.439 align:start position:0%
+because that's how you've seen it and
+ 
+
+00:04:11.439 --> 00:04:13.190 align:start position:0%
+because that's how you've seen it and
+everything<00:04:11.760><c> that's</c><00:04:11.959><c> ever</c><00:04:12.200><c> been</c><00:04:12.400><c> producing</c><00:04:12.840><c> y</c>
+
+00:04:13.190 --> 00:04:13.200 align:start position:0%
+everything that's ever been producing y
+ 
+
+00:04:13.200 --> 00:04:16.150 align:start position:0%
+everything that's ever been producing y
+you're<00:04:13.319><c> doing</c><00:04:13.519><c> it</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+ 
+ 
+
+00:04:16.160 --> 00:04:18.949 align:start position:0%
+ 
+wrong<00:04:17.160><c> and</c><00:04:17.359><c> and</c><00:04:17.600><c> I</c><00:04:17.959><c> I'm</c><00:04:18.199><c> very</c><00:04:18.400><c> sorry</c><00:04:18.680><c> to</c><00:04:18.840><c> have</c>
+
+00:04:18.949 --> 00:04:18.959 align:start position:0%
+wrong and and I I'm very sorry to have
+ 
+
+00:04:18.959 --> 00:04:21.349 align:start position:0%
+wrong and and I I'm very sorry to have
+to<00:04:19.079><c> tell</c><00:04:19.239><c> you</c><00:04:19.440><c> that</c><00:04:20.120><c> here's</c><00:04:20.400><c> another</c><00:04:20.759><c> case</c>
+
+00:04:21.349 --> 00:04:21.359 align:start position:0%
+to tell you that here's another case
+ 
+
+00:04:21.359 --> 00:04:24.070 align:start position:0%
+to tell you that here's another case
+here's<00:04:21.519><c> a</c><00:04:21.720><c> case</c><00:04:21.959><c> where</c><00:04:22.120><c> the</c><00:04:22.320><c> value</c><00:04:22.960><c> begins</c><00:04:23.440><c> on</c>
+
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+here's a case where the value begins on
+ 
+
+00:04:24.080 --> 00:04:26.749 align:start position:0%
+here's a case where the value begins on
+the<00:04:24.400><c> second</c><00:04:24.720><c> line</c><00:04:25.320><c> but</c><00:04:25.520><c> the</c><00:04:25.720><c> tag</c><00:04:26.160><c> is</c><00:04:26.320><c> on</c><00:04:26.560><c> the</c>
+
+00:04:26.749 --> 00:04:26.759 align:start position:0%
+the second line but the tag is on the
+ 
+
+00:04:26.759 --> 00:04:31.990 align:start position:0%
+the second line but the tag is on the
+same<00:04:27.080><c> line</c><00:04:28.080><c> as</c><00:04:28.880><c> the</c><00:04:29.080><c> triple</c><00:04:29.440><c> Dash</c>
+
+00:04:31.990 --> 00:04:32.000 align:start position:0%
+ 
+ 
+
+00:04:32.000 --> 00:04:33.510 align:start position:0%
+ 
+and<00:04:32.160><c> this</c><00:04:32.240><c> is</c><00:04:32.400><c> an</c><00:04:32.560><c> example</c><00:04:32.960><c> of</c><00:04:33.080><c> one</c><00:04:33.240><c> that's</c>
+
+00:04:33.510 --> 00:04:33.520 align:start position:0%
+and this is an example of one that's
+ 
+
+00:04:33.520 --> 00:04:35.790 align:start position:0%
+and this is an example of one that's
+actually<00:04:33.880><c> broken</c><00:04:34.759><c> this</c><00:04:34.880><c> is</c><00:04:35.080><c> an</c><00:04:35.280><c> example</c><00:04:35.639><c> of</c>
+
+00:04:35.790 --> 00:04:35.800 align:start position:0%
+actually broken this is an example of
+ 
+
+00:04:35.800 --> 00:04:37.230 align:start position:0%
+actually broken this is an example of
+one<00:04:36.080><c> which</c><00:04:36.320><c> you'll</c><00:04:36.479><c> have</c><00:04:36.560><c> to</c><00:04:36.720><c> watch</c><00:04:36.919><c> the</c><00:04:37.039><c> other</c>
+
+00:04:37.230 --> 00:04:37.240 align:start position:0%
+one which you'll have to watch the other
+ 
+
+00:04:37.240 --> 00:04:40.469 align:start position:0%
+one which you'll have to watch the other
+video<00:04:37.600><c> but</c><00:04:38.560><c> what</c><00:04:38.759><c> this</c><00:04:38.960><c> says</c><00:04:39.240><c> is</c><00:04:39.479><c> we've</c>
+
+00:04:40.469 --> 00:04:40.479 align:start position:0%
+video but what this says is we've
+ 
+
+00:04:40.479 --> 00:04:44.189 align:start position:0%
+video but what this says is we've
+declared<00:04:41.479><c> this</c><00:04:41.600><c> is</c><00:04:41.919><c> supposed</c><00:04:42.440><c> to</c><00:04:42.680><c> see</c><00:04:43.120><c> this</c><00:04:43.960><c> as</c>
+
+00:04:44.189 --> 00:04:44.199 align:start position:0%
+declared this is supposed to see this as
+ 
+
+00:04:44.199 --> 00:04:47.909 align:start position:0%
+declared this is supposed to see this as
+a<00:04:44.520><c> single</c><00:04:45.199><c> string</c><00:04:45.919><c> as</c><00:04:46.160><c> if</c><00:04:46.560><c> I</c><00:04:46.759><c> had</c><00:04:46.960><c> written</c><00:04:47.240><c> it</c>
+
+00:04:47.909 --> 00:04:47.919 align:start position:0%
+a single string as if I had written it
+ 
+
+00:04:47.919 --> 00:04:49.710 align:start position:0%
+a single string as if I had written it
+something<00:04:48.400><c> like</c><00:04:48.639><c> this</c><00:04:48.919><c> if</c><00:04:49.039><c> I</c><00:04:49.160><c> had</c><00:04:49.320><c> written</c><00:04:49.560><c> it</c>
+
+00:04:49.710 --> 00:04:49.720 align:start position:0%
+something like this if I had written it
+ 
+
+00:04:49.720 --> 00:04:52.430 align:start position:0%
+something like this if I had written it
+sort<00:04:49.919><c> of</c><00:04:50.160><c> like</c><00:04:50.360><c> this</c><00:04:50.680><c> right</c><00:04:51.440><c> by</c><00:04:51.639><c> putting</c><00:04:52.080><c> the</c>
+
+00:04:52.430 --> 00:04:52.440 align:start position:0%
+sort of like this right by putting the
+ 
+
+00:04:52.440 --> 00:04:55.909 align:start position:0%
+sort of like this right by putting the
+the<00:04:52.680><c> the</c><00:04:52.800><c> bang</c><00:04:53.080><c> bang</c><00:04:53.320><c> St</c><00:04:53.880><c> up</c><00:04:54.160><c> here</c><00:04:55.160><c> as</c><00:04:55.320><c> the</c><00:04:55.560><c> tag</c>
+
+00:04:55.909 --> 00:04:55.919 align:start position:0%
+the the bang bang St up here as the tag
+ 
+
+00:04:55.919 --> 00:04:59.350 align:start position:0%
+the the bang bang St up here as the tag
+tag<00:04:56.199><c> definition</c><00:04:57.199><c> this</c><00:04:57.320><c> is</c><00:04:57.880><c> by</c><00:04:58.479><c> specification</c>
+
+00:04:59.350 --> 00:04:59.360 align:start position:0%
+tag definition this is by specification
+ 
+
+00:04:59.360 --> 00:05:01.230 align:start position:0%
+tag definition this is by specification
+super<00:04:59.720><c> supposed</c><00:05:00.039><c> to</c><00:05:00.160><c> be</c><00:05:00.440><c> interpreted</c><00:05:01.000><c> as</c><00:05:01.120><c> a</c>
+
+00:05:01.230 --> 00:05:01.240 align:start position:0%
+super supposed to be interpreted as a
+ 
+
+00:05:01.240 --> 00:05:04.270 align:start position:0%
+super supposed to be interpreted as a
+single<00:05:01.479><c> string</c><00:05:01.960><c> and</c><00:05:02.199><c> it</c><00:05:02.440><c> is</c><00:05:02.800><c> not</c><00:05:03.639><c> interpreted</c>
+
+00:05:04.270 --> 00:05:04.280 align:start position:0%
+single string and it is not interpreted
+ 
+
+00:05:04.280 --> 00:05:07.830 align:start position:0%
+single string and it is not interpreted
+as<00:05:04.360><c> a</c><00:05:04.520><c> single</c><00:05:04.800><c> string</c><00:05:05.720><c> by</c><00:05:06.440><c> the</c><00:05:06.600><c> yaml</c><00:05:07.000><c> V3</c>
+
+00:05:07.830 --> 00:05:07.840 align:start position:0%
+as a single string by the yaml V3
+ 
+
+00:05:07.840 --> 00:05:10.710 align:start position:0%
+as a single string by the yaml V3
+Library<00:05:08.280><c> created</c><00:05:08.600><c> by</c><00:05:09.039><c> canonical</c><00:05:10.039><c> and</c><00:05:10.280><c> now</c>
+
+00:05:10.710 --> 00:05:10.720 align:start position:0%
+Library created by canonical and now
+ 
+
+00:05:10.720 --> 00:05:14.189 align:start position:0%
+Library created by canonical and now
+which<00:05:10.840><c> is</c><00:05:11.039><c> now</c><00:05:11.320><c> the</c><00:05:11.520><c> the</c><00:05:12.120><c> final</c><00:05:13.120><c> Authority</c><00:05:13.840><c> in</c>
+
+00:05:14.189 --> 00:05:14.199 align:start position:0%
+which is now the the final Authority in
+ 
+
+00:05:14.199 --> 00:05:16.110 align:start position:0%
+which is now the the final Authority in
+yaml<00:05:14.840><c> for</c><00:05:15.160><c> it's</c><00:05:15.280><c> built</c><00:05:15.479><c> into</c><00:05:15.800><c> everything</c>
+
+00:05:16.110 --> 00:05:16.120 align:start position:0%
+yaml for it's built into everything
+ 
+
+00:05:16.120 --> 00:05:19.070 align:start position:0%
+yaml for it's built into everything
+kubernetes<00:05:17.000><c> everything</c><00:05:18.000><c> so</c><00:05:18.400><c> so</c><00:05:18.600><c> that</c><00:05:18.720><c> is</c><00:05:18.960><c> I'm</c>
+
+00:05:19.070 --> 00:05:19.080 align:start position:0%
+kubernetes everything so so that is I'm
+ 
+
+00:05:19.080 --> 00:05:20.230 align:start position:0%
+kubernetes everything so so that is I'm
+going<00:05:19.160><c> to</c><00:05:19.280><c> prove</c><00:05:19.560><c> I'll</c><00:05:19.680><c> show</c><00:05:19.840><c> you</c><00:05:19.919><c> how</c><00:05:20.080><c> that's</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+going to prove I'll show you how that's
+ 
+
+00:05:20.240 --> 00:05:23.469 align:start position:0%
+going to prove I'll show you how that's
+not<00:05:20.360><c> a</c><00:05:20.520><c> thing</c><00:05:20.919><c> here's</c><00:05:21.199><c> another</c><00:05:21.440><c> one</c><00:05:22.000><c> so</c><00:05:22.840><c> this</c>
+
+00:05:23.469 --> 00:05:23.479 align:start position:0%
+not a thing here's another one so this
+ 
+
+00:05:23.479 --> 00:05:26.590 align:start position:0%
+not a thing here's another one so this
+is<00:05:24.479><c> what</c><00:05:24.600><c> is</c><00:05:24.800><c> this</c><00:05:25.039><c> this</c><00:05:25.160><c> is</c><00:05:25.240><c> a</c><00:05:25.400><c> valid</c><00:05:25.720><c> yamal</c>
+
+00:05:26.590 --> 00:05:26.600 align:start position:0%
+is what is this this is a valid yamal
+ 
+
+00:05:26.600 --> 00:05:29.110 align:start position:0%
+is what is this this is a valid yamal
+document<00:05:27.600><c> containing</c><00:05:28.199><c> What</c><00:05:28.479><c> containing</c><00:05:28.960><c> a</c>
+
+00:05:29.110 --> 00:05:29.120 align:start position:0%
+document containing What containing a
+ 
+
+00:05:29.120 --> 00:05:30.510 align:start position:0%
+document containing What containing a
+sequence
+
+00:05:30.510 --> 00:05:30.520 align:start position:0%
+sequence
+ 
+
+00:05:30.520 --> 00:05:33.749 align:start position:0%
+sequence
+right<00:05:31.280><c> 1</c><00:05:31.520><c> two</c><00:05:31.919><c> three</c><00:05:32.919><c> and</c><00:05:33.080><c> we're</c><00:05:33.199><c> not</c><00:05:33.639><c> we're</c>
+
+00:05:33.749 --> 00:05:33.759 align:start position:0%
+right 1 two three and we're not we're
+ 
+
+00:05:33.759 --> 00:05:34.909 align:start position:0%
+right 1 two three and we're not we're
+not<00:05:33.840><c> even</c><00:05:34.000><c> going</c><00:05:34.080><c> to</c><00:05:34.160><c> get</c><00:05:34.280><c> into</c><00:05:34.479><c> the</c><00:05:34.600><c> regular</c>
+
+00:05:34.909 --> 00:05:34.919 align:start position:0%
+not even going to get into the regular
+ 
+
+00:05:34.919 --> 00:05:35.990 align:start position:0%
+not even going to get into the regular
+things<00:05:35.160><c> people</c><00:05:35.360><c> complain</c><00:05:35.680><c> about</c><00:05:35.840><c> when</c><00:05:35.919><c> they</c>
+
+00:05:35.990 --> 00:05:36.000 align:start position:0%
+things people complain about when they
+ 
+
+00:05:36.000 --> 00:05:37.670 align:start position:0%
+things people complain about when they
+do<00:05:36.160><c> yaml</c><00:05:36.520><c> they</c><00:05:36.600><c> complain</c><00:05:36.919><c> about</c><00:05:37.120><c> false</c><00:05:37.479><c> and</c>
+
+00:05:37.670 --> 00:05:37.680 align:start position:0%
+do yaml they complain about false and
+ 
+
+00:05:37.680 --> 00:05:39.350 align:start position:0%
+do yaml they complain about false and
+true<00:05:37.919><c> and</c><00:05:38.039><c> all</c><00:05:38.240><c> that</c><00:05:38.400><c> stuff</c><00:05:39.080><c> which</c><00:05:39.199><c> are</c>
+
+00:05:39.350 --> 00:05:39.360 align:start position:0%
+true and all that stuff which are
+ 
+
+00:05:39.360 --> 00:05:40.749 align:start position:0%
+true and all that stuff which are
+interpreted<00:05:39.800><c> differently</c><00:05:40.160><c> by</c><00:05:40.319><c> pretty</c><00:05:40.520><c> much</c>
+
+00:05:40.749 --> 00:05:40.759 align:start position:0%
+interpreted differently by pretty much
+ 
+
+00:05:40.759 --> 00:05:42.350 align:start position:0%
+interpreted differently by pretty much
+every<00:05:40.960><c> single</c><00:05:41.240><c> parser</c><00:05:41.639><c> out</c>
+
+00:05:42.350 --> 00:05:42.360 align:start position:0%
+every single parser out
+ 
+
+00:05:42.360 --> 00:05:45.029 align:start position:0%
+every single parser out
+there<00:05:43.360><c> so</c><00:05:43.720><c> hopefully</c><00:05:44.080><c> this</c><00:05:44.160><c> will</c><00:05:44.520><c> give</c><00:05:44.680><c> you</c><00:05:44.880><c> a</c>
+
+00:05:45.029 --> 00:05:45.039 align:start position:0%
+there so hopefully this will give you a
+ 
+
+00:05:45.039 --> 00:05:47.110 align:start position:0%
+there so hopefully this will give you a
+heads<00:05:45.280><c> up</c><00:05:45.759><c> because</c><00:05:46.560><c> if</c><00:05:46.680><c> you're</c><00:05:46.800><c> going</c><00:05:46.880><c> to</c><00:05:47.000><c> go</c>
+
+00:05:47.110 --> 00:05:47.120 align:start position:0%
+heads up because if you're going to go
+ 
+
+00:05:47.120 --> 00:05:48.029 align:start position:0%
+heads up because if you're going to go
+through<00:05:47.280><c> and</c><00:05:47.400><c> you're</c><00:05:47.479><c> going</c><00:05:47.560><c> to</c><00:05:47.680><c> parse</c><00:05:47.919><c> the</c>
+
+00:05:48.029 --> 00:05:48.039 align:start position:0%
+through and you're going to parse the
+ 
+
+00:05:48.039 --> 00:05:49.469 align:start position:0%
+through and you're going to parse the
+AML<00:05:48.319><c> data</c><00:05:48.639><c> and</c><00:05:48.720><c> you're</c><00:05:48.840><c> going</c><00:05:48.919><c> to</c><00:05:49.039><c> split</c><00:05:49.280><c> it</c>
+
+00:05:49.469 --> 00:05:49.479 align:start position:0%
+AML data and you're going to split it
+ 
+
+00:05:49.479 --> 00:05:52.749 align:start position:0%
+AML data and you're going to split it
+number<00:05:49.680><c> one</c><00:05:50.120><c> don't</c><00:05:50.720><c> split</c><00:05:51.479><c> based</c><00:05:51.759><c> on</c><00:05:52.160><c> Triple</c>
+
+00:05:52.749 --> 00:05:52.759 align:start position:0%
+number one don't split based on Triple
+ 
+
+00:05:52.759 --> 00:05:56.350 align:start position:0%
+number one don't split based on Triple
+Dash<00:05:53.199><c> don't</c><00:05:53.400><c> do</c><00:05:53.560><c> it</c><00:05:54.319><c> two</c><00:05:55.000><c> know</c><00:05:55.680><c> that</c><00:05:56.039><c> stuff</c>
+
+00:05:56.350 --> 00:05:56.360 align:start position:0%
+Dash don't do it two know that stuff
+ 
+
+00:05:56.360 --> 00:05:58.590 align:start position:0%
+Dash don't do it two know that stuff
+that<00:05:56.560><c> begins</c><00:05:56.919><c> with</c><00:05:57.120><c> percent</c><00:05:57.759><c> goes</c><00:05:58.080><c> with</c><00:05:58.280><c> the</c>
+
+00:05:58.590 --> 00:05:58.600 align:start position:0%
+that begins with percent goes with the
+ 
+
+00:05:58.600 --> 00:06:00.430 align:start position:0%
+that begins with percent goes with the
+docu<00:05:58.919><c> the</c><00:05:59.039><c> proceeding</c><00:05:59.680><c> document</c><00:06:00.120><c> that's</c><00:06:00.280><c> the</c>
+
+00:06:00.430 --> 00:06:00.440 align:start position:0%
+docu the proceeding document that's the
+ 
+
+00:06:00.440 --> 00:06:01.909 align:start position:0%
+docu the proceeding document that's the
+beginning<00:06:00.919><c> that</c><00:06:01.000><c> is</c><00:06:01.199><c> the</c><00:06:01.360><c> true</c><00:06:01.600><c> beginning</c>
+
+00:06:01.909 --> 00:06:01.919 align:start position:0%
+beginning that is the true beginning
+ 
+
+00:06:01.919 --> 00:06:03.150 align:start position:0%
+beginning that is the true beginning
+that's<00:06:02.080><c> the</c><00:06:02.199><c> med</c><00:06:02.639><c> the</c><00:06:02.759><c> beginning</c><00:06:02.960><c> of</c><00:06:03.039><c> a</c>
+
+00:06:03.150 --> 00:06:03.160 align:start position:0%
+that's the med the beginning of a
+ 
+
+00:06:03.160 --> 00:06:06.110 align:start position:0%
+that's the med the beginning of a
+document<00:06:03.520><c> and</c><00:06:03.639><c> it</c><00:06:03.759><c> does</c><00:06:04.280><c> exist</c><00:06:05.280><c> three</c><00:06:05.960><c> you</c>
+
+00:06:06.110 --> 00:06:06.120 align:start position:0%
+document and it does exist three you
+ 
+
+00:06:06.120 --> 00:06:07.430 align:start position:0%
+document and it does exist three you
+know<00:06:06.280><c> that</c><00:06:06.400><c> the</c><00:06:06.520><c> Y</c><00:06:06.800><c> be</c><00:06:06.919><c> three</c><00:06:07.080><c> parts</c><00:06:07.280><c> is</c>
+
+00:06:07.430 --> 00:06:07.440 align:start position:0%
+know that the Y be three parts is
+ 
+
+00:06:07.440 --> 00:06:09.550 align:start position:0%
+know that the Y be three parts is
+probably<00:06:07.800><c> pretty</c><00:06:08.039><c> broken</c><00:06:08.840><c> and</c><00:06:09.080><c> where</c><00:06:09.280><c> you</c><00:06:09.360><c> can</c>
+
+00:06:09.550 --> 00:06:09.560 align:start position:0%
+probably pretty broken and where you can
+ 
+
+00:06:09.560 --> 00:06:12.029 align:start position:0%
+probably pretty broken and where you can
+put<00:06:09.800><c> you</c><00:06:09.919><c> know</c><00:06:10.160><c> stuff</c><00:06:10.400><c> on</c><00:06:10.520><c> the</c><00:06:10.639><c> same</c><00:06:10.880><c> line</c><00:06:11.160><c> so</c>
+
+00:06:12.029 --> 00:06:12.039 align:start position:0%
+put you know stuff on the same line so
+ 
+
+00:06:12.039 --> 00:06:13.909 align:start position:0%
+put you know stuff on the same line so
+these<00:06:12.199><c> are</c><00:06:12.400><c> things</c><00:06:12.680><c> if</c><00:06:12.840><c> you</c><00:06:13.039><c> if</c><00:06:13.160><c> you</c><00:06:13.479><c> actually</c>
+
+00:06:13.909 --> 00:06:13.919 align:start position:0%
+these are things if you if you actually
+ 
+
+00:06:13.919 --> 00:06:16.309 align:start position:0%
+these are things if you if you actually
+yaml<00:06:14.400><c> yaml</c><00:06:14.759><c> is</c><00:06:14.880><c> a</c><00:06:15.039><c> disaster</c><00:06:15.840><c> okay</c><00:06:16.039><c> it's</c><00:06:16.199><c> the</c>
+
+00:06:16.309 --> 00:06:16.319 align:start position:0%
+yaml yaml is a disaster okay it's the
+ 
+
+00:06:16.319 --> 00:06:19.749 align:start position:0%
+yaml yaml is a disaster okay it's the
+best<00:06:16.599><c> disaster</c><00:06:17.039><c> that</c><00:06:17.160><c> we</c><00:06:17.319><c> have</c><00:06:17.639><c> right</c><00:06:18.160><c> now</c><00:06:19.160><c> and</c>
+
+00:06:19.749 --> 00:06:19.759 align:start position:0%
+best disaster that we have right now and
+ 
+
+00:06:19.759 --> 00:06:22.390 align:start position:0%
+best disaster that we have right now and
+actually<00:06:20.280><c> I</c><00:06:20.680><c> I</c><00:06:20.800><c> know</c><00:06:21.160><c> people</c><00:06:21.599><c> who</c><00:06:21.800><c> know</c><00:06:22.120><c> people</c>
+
+00:06:22.390 --> 00:06:22.400 align:start position:0%
+actually I I know people who know people
+ 
+
+00:06:22.400 --> 00:06:25.270 align:start position:0%
+actually I I know people who know people
+who<00:06:22.680><c> igny</c><00:06:23.080><c> who</c><00:06:23.280><c> and</c><00:06:23.440><c> others</c><00:06:23.720><c> who</c><00:06:23.880><c> created</c><00:06:24.280><c> yaml</c>
+
+00:06:25.270 --> 00:06:25.280 align:start position:0%
+who igny who and others who created yaml
+ 
+
+00:06:25.280 --> 00:06:27.670 align:start position:0%
+who igny who and others who created yaml
+I'm<00:06:25.400><c> not</c><00:06:25.599><c> ungrateful</c><00:06:26.479><c> I</c><00:06:26.599><c> just</c><00:06:26.720><c> feel</c><00:06:27.000><c> like</c><00:06:27.560><c> you</c>
+
+00:06:27.670 --> 00:06:27.680 align:start position:0%
+I'm not ungrateful I just feel like you
+ 
+
+00:06:27.680 --> 00:06:29.309 align:start position:0%
+I'm not ungrateful I just feel like you
+know<00:06:28.080><c> it's</c><00:06:28.199><c> one</c><00:06:28.319><c> of</c><00:06:28.440><c> these</c><00:06:28.599><c> over</c><00:06:28.880><c> engineered</c>
+
+00:06:29.309 --> 00:06:29.319 align:start position:0%
+know it's one of these over engineered
+ 
+
+00:06:29.319 --> 00:06:31.390 align:start position:0%
+know it's one of these over engineered
+things<00:06:29.720><c> really</c><00:06:29.840><c> smart</c><00:06:30.120><c> people</c><00:06:30.360><c> do</c><00:06:31.000><c> they</c><00:06:31.240><c> they</c>
+
+00:06:31.390 --> 00:06:31.400 align:start position:0%
+things really smart people do they they
+ 
+
+00:06:31.400 --> 00:06:33.430 align:start position:0%
+things really smart people do they they
+make<00:06:31.840><c> they</c><00:06:31.960><c> have</c><00:06:32.080><c> a</c><00:06:32.160><c> good</c><00:06:32.360><c> idea</c><00:06:33.039><c> and</c><00:06:33.160><c> then</c><00:06:33.280><c> they</c>
+
+00:06:33.430 --> 00:06:33.440 align:start position:0%
+make they have a good idea and then they
+ 
+
+00:06:33.440 --> 00:06:34.790 align:start position:0%
+make they have a good idea and then they
+throw<00:06:33.759><c> a</c><00:06:33.880><c> bunch</c><00:06:34.039><c> of</c><00:06:34.199><c> other</c><00:06:34.560><c> in</c><00:06:34.680><c> there</c>
+
+00:06:34.790 --> 00:06:34.800 align:start position:0%
+throw a bunch of other in there
+ 
+
+00:06:34.800 --> 00:06:37.430 align:start position:0%
+throw a bunch of other in there
+that<00:06:34.919><c> doesn't</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+ 
+ 
+
+00:06:37.440 --> 00:06:39.749 align:start position:0%
+ 
+belong<00:06:38.440><c> you</c><00:06:38.599><c> know</c><00:06:38.840><c> if</c><00:06:38.960><c> it</c><00:06:39.240><c> if</c><00:06:39.360><c> they</c><00:06:39.479><c> had</c><00:06:39.639><c> made</c>
+
+00:06:39.749 --> 00:06:39.759 align:start position:0%
+belong you know if it if they had made
+ 
+
+00:06:39.759 --> 00:06:41.270 align:start position:0%
+belong you know if it if they had made
+it<00:06:39.960><c> compatible</c><00:06:40.400><c> with</c><00:06:40.520><c> Json</c><00:06:40.919><c> and</c><00:06:41.000><c> people</c><00:06:41.160><c> have</c>
+
+00:06:41.270 --> 00:06:41.280 align:start position:0%
+it compatible with Json and people have
+ 
+
+00:06:41.280 --> 00:06:43.230 align:start position:0%
+it compatible with Json and people have
+been<00:06:41.360><c> fighting</c><00:06:41.639><c> about</c><00:06:41.800><c> it</c><00:06:42.520><c> doesn't</c><00:06:42.840><c> matter</c>
+
+00:06:43.230 --> 00:06:43.240 align:start position:0%
+been fighting about it doesn't matter
+ 
+
+00:06:43.240 --> 00:06:44.990 align:start position:0%
+been fighting about it doesn't matter
+the<00:06:43.360><c> yaml</c><00:06:43.720><c> overlords</c><00:06:44.160><c> have</c><00:06:44.360><c> decided</c><00:06:44.759><c> that</c><00:06:44.880><c> is</c>
+
+00:06:44.990 --> 00:06:45.000 align:start position:0%
+the yaml overlords have decided that is
+ 
+
+00:06:45.000 --> 00:06:46.430 align:start position:0%
+the yaml overlords have decided that is
+what<00:06:45.120><c> we're</c><00:06:45.280><c> going</c><00:06:45.440><c> to</c><00:06:45.639><c> use</c><00:06:45.840><c> for</c><00:06:46.039><c> everything</c>
+
+00:06:46.430 --> 00:06:46.440 align:start position:0%
+what we're going to use for everything
+ 
+
+00:06:46.440 --> 00:06:48.589 align:start position:0%
+what we're going to use for everything
+so<00:06:46.840><c> you</c><00:06:47.000><c> better</c><00:06:47.319><c> parse</c><00:06:47.599><c> it</c><00:06:47.800><c> properly</c><00:06:48.360><c> and</c><00:06:48.479><c> by</c>
+
+00:06:48.589 --> 00:06:48.599 align:start position:0%
+so you better parse it properly and by
+ 
+
+00:06:48.599 --> 00:06:50.029 align:start position:0%
+so you better parse it properly and by
+the<00:06:48.680><c> way</c><00:06:49.000><c> the</c><00:06:49.120><c> only</c><00:06:49.360><c> way</c><00:06:49.479><c> to</c><00:06:49.639><c> parse</c><00:06:49.880><c> it</c>
+
+00:06:50.029 --> 00:06:50.039 align:start position:0%
+the way the only way to parse it
+ 
+
+00:06:50.039 --> 00:06:51.990 align:start position:0%
+the way the only way to parse it
+properly<00:06:50.440><c> is</c><00:06:50.560><c> to</c><00:06:50.639><c> do</c><00:06:50.759><c> a</c><00:06:50.880><c> recursive</c><00:06:51.280><c> dentry</c>
+
+00:06:51.990 --> 00:06:52.000 align:start position:0%
+properly is to do a recursive dentry
+ 
+
+00:06:52.000 --> 00:06:54.710 align:start position:0%
+properly is to do a recursive dentry
+parser<00:06:52.800><c> by</c><00:06:53.039><c> writing</c><00:06:54.039><c> Yeah</c><00:06:54.240><c> by</c><00:06:54.400><c> writing</c>
+
+00:06:54.710 --> 00:06:54.720 align:start position:0%
+parser by writing Yeah by writing
+ 
+
+00:06:54.720 --> 00:06:56.430 align:start position:0%
+parser by writing Yeah by writing
+something<00:06:54.960><c> like</c><00:06:55.080><c> a</c><00:06:55.240><c> closure</c><00:06:55.759><c> that</c><00:06:56.039><c> that's</c><00:06:56.240><c> in</c>
+
+00:06:56.430 --> 00:06:56.440 align:start position:0%
+something like a closure that that's in
+ 
+
+00:06:56.440 --> 00:06:59.869 align:start position:0%
+something like a closure that that's in
+a<00:06:57.039><c> that</c><00:06:57.240><c> operates</c><00:06:57.840><c> on</c><00:06:58.759><c> by</c><00:06:58.879><c> walking</c><00:06:59.160><c> the</c><00:06:59.800><c> the</c>
+
+00:06:59.869 --> 00:06:59.879 align:start position:0%
+a that operates on by walking the the
+ 
+
+00:06:59.879 --> 00:07:03.749 align:start position:0%
+a that operates on by walking the the
+node<00:07:00.120><c> tree</c><00:07:00.400><c> the</c><00:07:00.520><c> node.</c><00:07:01.039><c> yaml</c><00:07:02.039><c> uh</c><00:07:03.039><c> uh</c><00:07:03.319><c> type</c>
+
+00:07:03.749 --> 00:07:03.759 align:start position:0%
+node tree the node. yaml uh uh type
+ 
+
+00:07:03.759 --> 00:07:06.909 align:start position:0%
+node tree the node. yaml uh uh type
+which<00:07:04.240><c> I</c><00:07:04.520><c> guarantee</c><00:07:05.039><c> you</c><00:07:05.680><c> 90%</c><00:07:06.440><c> of</c><00:07:06.560><c> the</c><00:07:06.680><c> people</c>
+
+00:07:06.909 --> 00:07:06.919 align:start position:0%
+which I guarantee you 90% of the people
+ 
+
+00:07:06.919 --> 00:07:10.070 align:start position:0%
+which I guarantee you 90% of the people
+watching<00:07:07.199><c> this</c><00:07:07.319><c> video</c><00:07:07.960><c> have</c><00:07:08.240><c> never</c><00:07:08.879><c> heard</c><00:07:09.840><c> of</c>
+
+00:07:10.070 --> 00:07:10.080 align:start position:0%
+watching this video have never heard of
+ 
+
+00:07:10.080 --> 00:07:13.350 align:start position:0%
+watching this video have never heard of
+yl.<00:07:10.960><c> node</c><00:07:11.800><c> and</c><00:07:11.960><c> that</c><00:07:12.080><c> is</c><00:07:12.240><c> the</c><00:07:12.520><c> most</c><00:07:12.919><c> important</c>
+
+00:07:13.350 --> 00:07:13.360 align:start position:0%
+yl. node and that is the most important
+ 
+
+00:07:13.360 --> 00:07:14.790 align:start position:0%
+yl. node and that is the most important
+thing<00:07:13.560><c> you</c><00:07:13.680><c> could</c><00:07:14.000><c> discover</c><00:07:14.240><c> this</c><00:07:14.400><c> year</c><00:07:14.680><c> in</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+thing you could discover this year in
+ 
+
+00:07:14.800 --> 00:07:16.830 align:start position:0%
+thing you could discover this year in
+terms<00:07:15.000><c> of</c><00:07:15.160><c> yaml</c><00:07:15.840><c> because</c><00:07:16.160><c> once</c><00:07:16.319><c> you</c><00:07:16.520><c> know</c>
+
+00:07:16.830 --> 00:07:16.840 align:start position:0%
+terms of yaml because once you know
+ 
+
+00:07:16.840 --> 00:07:19.309 align:start position:0%
+terms of yaml because once you know
+about<00:07:17.080><c> it</c><00:07:17.560><c> you</c><00:07:17.680><c> can</c><00:07:17.840><c> Marshall</c><00:07:18.280><c> to</c><00:07:18.520><c> and</c><00:07:18.759><c> from</c><00:07:19.080><c> it</c>
+
+00:07:19.309 --> 00:07:19.319 align:start position:0%
+about it you can Marshall to and from it
+ 
+
+00:07:19.319 --> 00:07:22.469 align:start position:0%
+about it you can Marshall to and from it
+and<00:07:19.440><c> you</c><00:07:19.599><c> have</c><00:07:20.000><c> exact</c><00:07:20.680><c> direct</c><00:07:21.199><c> control</c><00:07:22.080><c> over</c>
+
+00:07:22.469 --> 00:07:22.479 align:start position:0%
+and you have exact direct control over
+ 
+
+00:07:22.479 --> 00:07:23.950 align:start position:0%
+and you have exact direct control over
+all<00:07:22.639><c> of</c><00:07:22.759><c> the</c><00:07:22.919><c> types</c><00:07:23.199><c> that</c><00:07:23.319><c> are</c><00:07:23.560><c> pars</c><00:07:23.759><c> from</c><00:07:23.840><c> the</c>
+
+00:07:23.950 --> 00:07:23.960 align:start position:0%
+all of the types that are pars from the
+ 
+
+00:07:23.960 --> 00:07:25.350 align:start position:0%
+all of the types that are pars from the
+m<00:07:24.160><c> willb</c><00:07:24.360><c> 3</c><00:07:24.560><c> parser</c><00:07:24.879><c> and</c><00:07:25.000><c> that's</c><00:07:25.120><c> in</c><00:07:25.240><c> a</c>
+
+00:07:25.350 --> 00:07:25.360 align:start position:0%
+m willb 3 parser and that's in a
+ 
+
+00:07:25.360 --> 00:07:29.879 align:start position:0%
+m willb 3 parser and that's in a
+different<00:07:25.840><c> video</c><00:07:26.840><c> so</c><00:07:27.039><c> that's</c><00:07:27.199><c> all</c><00:07:27.400><c> for</c><00:07:27.560><c> now</c>
+

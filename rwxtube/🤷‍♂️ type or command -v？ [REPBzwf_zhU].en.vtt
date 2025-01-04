@@ -1,0 +1,608 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.359 --> 00:00:01.829 align:start position:0%
+ 
+if<00:00:00.480><c> you've</c><00:00:00.680><c> been</c><00:00:00.840><c> shell</c><00:00:01.160><c> scripting</c><00:00:01.520><c> for</c><00:00:01.680><c> any</c>
+
+00:00:01.829 --> 00:00:01.839 align:start position:0%
+if you've been shell scripting for any
+ 
+
+00:00:01.839 --> 00:00:04.910 align:start position:0%
+if you've been shell scripting for any
+amount<00:00:02.040><c> of</c><00:00:02.240><c> time</c><00:00:03.159><c> you</c><00:00:03.600><c> probably</c><00:00:04.040><c> used</c><00:00:04.640><c> the</c>
+
+00:00:04.910 --> 00:00:04.920 align:start position:0%
+amount of time you probably used the
+ 
+
+00:00:04.920 --> 00:00:06.990 align:start position:0%
+amount of time you probably used the
+type<00:00:05.279><c> command</c>
+
+00:00:06.990 --> 00:00:07.000 align:start position:0%
+type command
+ 
+
+00:00:07.000 --> 00:00:11.310 align:start position:0%
+type command
+typ<00:00:08.000><c> and</c><00:00:08.240><c> you</c><00:00:08.599><c> might</c><00:00:08.920><c> be</c><00:00:09.360><c> doing</c><00:00:09.760><c> it</c><00:00:10.280><c> wrong</c><00:00:11.120><c> in</c>
+
+00:00:11.310 --> 00:00:11.320 align:start position:0%
+typ and you might be doing it wrong in
+ 
+
+00:00:11.320 --> 00:00:14.030 align:start position:0%
+typ and you might be doing it wrong in
+fact<00:00:12.160><c> it</c><00:00:12.280><c> was</c><00:00:12.960><c> some</c><00:00:13.160><c> years</c><00:00:13.440><c> back</c><00:00:13.599><c> that</c><00:00:13.719><c> I</c>
+
+00:00:14.030 --> 00:00:14.040 align:start position:0%
+fact it was some years back that I
+ 
+
+00:00:14.040 --> 00:00:15.190 align:start position:0%
+fact it was some years back that I
+discovered<00:00:14.360><c> this</c><00:00:14.519><c> difference</c><00:00:14.839><c> and</c><00:00:14.960><c> here's</c>
+
+00:00:15.190 --> 00:00:15.200 align:start position:0%
+discovered this difference and here's
+ 
+
+00:00:15.200 --> 00:00:17.470 align:start position:0%
+discovered this difference and here's
+the<00:00:15.360><c> answer</c><00:00:15.599><c> from</c><00:00:15.759><c> Chad</c><00:00:16.039><c> GPT</c><00:00:16.680><c> about</c><00:00:17.039><c> why</c><00:00:17.240><c> you</c>
+
+00:00:17.470 --> 00:00:17.480 align:start position:0%
+the answer from Chad GPT about why you
+ 
+
+00:00:17.480 --> 00:00:20.189 align:start position:0%
+the answer from Chad GPT about why you
+might<00:00:17.680><c> want</c><00:00:17.840><c> to</c><00:00:18.080><c> do</c>
+
+00:00:20.189 --> 00:00:20.199 align:start position:0%
+might want to do
+ 
+
+00:00:20.199 --> 00:00:22.470 align:start position:0%
+might want to do
+command-v<00:00:21.199><c> uh</c><00:00:21.320><c> the</c><00:00:21.439><c> command-v</c><00:00:22.160><c> is</c><00:00:22.240><c> better</c>
+
+00:00:22.470 --> 00:00:22.480 align:start position:0%
+command-v uh the command-v is better
+ 
+
+00:00:22.480 --> 00:00:24.550 align:start position:0%
+command-v uh the command-v is better
+than<00:00:22.680><c> type</c><00:00:23.000><c> in</c><00:00:23.160><c> certain</c><00:00:23.439><c> scenarios</c><00:00:24.000><c> such</c><00:00:24.279><c> as</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+than type in certain scenarios such as
+ 
+
+00:00:24.560 --> 00:00:26.509 align:start position:0%
+than type in certain scenarios such as
+non-interactive<00:00:25.560><c> shell</c><00:00:25.880><c> scripts</c><00:00:26.240><c> because</c><00:00:26.439><c> it</c>
+
+00:00:26.509 --> 00:00:26.519 align:start position:0%
+non-interactive shell scripts because it
+ 
+
+00:00:26.519 --> 00:00:29.950 align:start position:0%
+non-interactive shell scripts because it
+is<00:00:26.800><c> specified</c><00:00:27.320><c> by</c><00:00:27.640><c> posix</c><00:00:28.640><c> and</c><00:00:28.920><c> has</c><00:00:29.199><c> a</c><00:00:29.359><c> more</c>
+
+00:00:29.950 --> 00:00:29.960 align:start position:0%
+is specified by posix and has a more
+ 
+
+00:00:29.960 --> 00:00:31.990 align:start position:0%
+is specified by posix and has a more
+predictable<00:00:30.400><c> Behavior</c><00:00:30.920><c> it</c><00:00:31.080><c> only</c><00:00:31.320><c> outputs</c><00:00:31.800><c> the</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+predictable Behavior it only outputs the
+ 
+
+00:00:32.000 --> 00:00:34.790 align:start position:0%
+predictable Behavior it only outputs the
+file<00:00:32.360><c> name</c><00:00:33.200><c> of</c><00:00:33.360><c> the</c><00:00:33.520><c> script</c><00:00:33.920><c> or</c><00:00:34.120><c> command</c><00:00:34.480><c> to</c><00:00:34.600><c> be</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+file name of the script or command to be
+ 
+
+00:00:34.800 --> 00:00:36.709 align:start position:0%
+file name of the script or command to be
+executed<00:00:35.320><c> while</c><00:00:35.559><c> type</c><00:00:35.800><c> must</c><00:00:36.079><c> return</c><00:00:36.239><c> Alias</c><00:00:36.559><c> as</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+executed while type must return Alias as
+ 
+
+00:00:36.719 --> 00:00:38.750 align:start position:0%
+executed while type must return Alias as
+functions<00:00:37.120><c> blah</c><00:00:37.399><c> blah</c><00:00:37.600><c> blah</c><00:00:38.239><c> which</c><00:00:38.399><c> makes</c><00:00:38.600><c> it</c>
+
+00:00:38.750 --> 00:00:38.760 align:start position:0%
+functions blah blah blah which makes it
+ 
+
+00:00:38.760 --> 00:00:40.750 align:start position:0%
+functions blah blah blah which makes it
+a<00:00:38.920><c> more</c><00:00:39.320><c> complex</c><00:00:39.760><c> tool</c><00:00:40.079><c> and</c><00:00:40.239><c> less</c><00:00:40.440><c> safe</c><00:00:40.640><c> in</c>
+
+00:00:40.750 --> 00:00:40.760 align:start position:0%
+a more complex tool and less safe in
+ 
+
+00:00:40.760 --> 00:00:42.389 align:start position:0%
+a more complex tool and less safe in
+scripts<00:00:41.079><c> intended</c><00:00:41.399><c> for</c><00:00:41.520><c> wi</c><00:00:41.680><c> spread</c><00:00:41.879><c> a</c><00:00:42.160><c> across</c>
+
+00:00:42.389 --> 00:00:42.399 align:start position:0%
+scripts intended for wi spread a across
+ 
+
+00:00:42.399 --> 00:00:44.950 align:start position:0%
+scripts intended for wi spread a across
+different<00:00:42.680><c> systems</c><00:00:43.079><c> moreover</c><00:00:43.920><c> command-b</c><00:00:44.760><c> is</c>
+
+00:00:44.950 --> 00:00:44.960 align:start position:0%
+different systems moreover command-b is
+ 
+
+00:00:44.960 --> 00:00:47.110 align:start position:0%
+different systems moreover command-b is
+available<00:00:45.320><c> on</c><00:00:45.480><c> a</c><00:00:45.640><c> larger</c><00:00:46.280><c> variety</c><00:00:46.640><c> of</c><00:00:46.800><c> systems</c>
+
+00:00:47.110 --> 00:00:47.120 align:start position:0%
+available on a larger variety of systems
+ 
+
+00:00:47.120 --> 00:00:49.150 align:start position:0%
+available on a larger variety of systems
+and<00:00:47.239><c> shells</c><00:00:47.800><c> than</c><00:00:48.000><c> the</c><00:00:48.160><c> type</c><00:00:48.480><c> command</c><00:00:48.879><c> so</c><00:00:49.039><c> it's</c>
+
+00:00:49.150 --> 00:00:49.160 align:start position:0%
+and shells than the type command so it's
+ 
+
+00:00:49.160 --> 00:00:51.430 align:start position:0%
+and shells than the type command so it's
+more<00:00:49.440><c> portable</c><00:00:50.399><c> so</c><00:00:50.559><c> if</c><00:00:50.640><c> you</c><00:00:50.760><c> aim</c><00:00:50.920><c> for</c><00:00:51.079><c> maximum</c>
+
+00:00:51.430 --> 00:00:51.440 align:start position:0%
+more portable so if you aim for maximum
+ 
+
+00:00:51.440 --> 00:00:53.470 align:start position:0%
+more portable so if you aim for maximum
+portability<00:00:51.879><c> and</c><00:00:52.000><c> simplicity</c><00:00:52.480><c> use</c>
+
+00:00:53.470 --> 00:00:53.480 align:start position:0%
+portability and simplicity use
+ 
+
+00:00:53.480 --> 00:00:55.470 align:start position:0%
+portability and simplicity use
+command-v
+
+00:00:55.470 --> 00:00:55.480 align:start position:0%
+command-v
+ 
+
+00:00:55.480 --> 00:00:57.470 align:start position:0%
+command-v
+instead<00:00:56.480><c> uh</c><00:00:56.600><c> and</c><00:00:56.719><c> just</c><00:00:56.800><c> to</c><00:00:56.920><c> give</c><00:00:57.039><c> you</c><00:00:57.160><c> a</c><00:00:57.280><c> sense</c>
+
+00:00:57.470 --> 00:00:57.480 align:start position:0%
+instead uh and just to give you a sense
+ 
+
+00:00:57.480 --> 00:01:00.910 align:start position:0%
+instead uh and just to give you a sense
+of<00:00:57.680><c> this</c><00:00:58.280><c> um</c><00:00:59.039><c> I</c><00:00:59.160><c> did</c><00:00:59.480><c> several</c><00:01:00.120><c> comparisons</c>
+
+00:01:00.910 --> 00:01:00.920 align:start position:0%
+of this um I did several comparisons
+ 
+
+00:01:00.920 --> 00:01:03.189 align:start position:0%
+of this um I did several comparisons
+here<00:01:01.199><c> so</c><00:01:01.960><c> first</c><00:01:02.160><c> of</c><00:01:02.320><c> all</c><00:01:02.519><c> if</c><00:01:02.640><c> you</c><00:01:02.719><c> do</c><00:01:02.960><c> type</c>
+
+00:01:03.189 --> 00:01:03.199 align:start position:0%
+here so first of all if you do type
+ 
+
+00:01:03.199 --> 00:01:07.270 align:start position:0%
+here so first of all if you do type
+Schmo<00:01:03.879><c> Schmo</c><00:01:04.439><c> is</c><00:01:04.600><c> an</c><00:01:05.240><c> alias</c><00:01:06.240><c> and</c><00:01:06.840><c> um</c><00:01:07.040><c> let's</c>
+
+00:01:07.270 --> 00:01:07.280 align:start position:0%
+Schmo Schmo is an alias and um let's
+ 
+
+00:01:07.280 --> 00:01:10.590 align:start position:0%
+Schmo Schmo is an alias and um let's
+actually<00:01:07.680><c> Echo</c><00:01:08.400><c> the</c><00:01:08.640><c> last</c>
+
+00:01:10.590 --> 00:01:10.600 align:start position:0%
+actually Echo the last
+ 
+
+00:01:10.600 --> 00:01:15.710 align:start position:0%
+actually Echo the last
+um<00:01:11.600><c> the</c><00:01:12.119><c> the</c><00:01:12.880><c> the</c><00:01:13.640><c> oopsie</c><00:01:14.640><c> the</c><00:01:14.840><c> last</c>
+
+00:01:15.710 --> 00:01:15.720 align:start position:0%
+um the the the oopsie the last
+ 
+
+00:01:15.720 --> 00:01:19.910 align:start position:0%
+um the the the oopsie the last
+return<00:01:16.799><c> um</c><00:01:17.799><c> and</c><00:01:18.080><c> let's</c><00:01:18.360><c> do</c><00:01:19.000><c> so</c><00:01:19.280><c> Schmo</c><00:01:19.720><c> is</c><00:01:19.799><c> an</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+return um and let's do so Schmo is an
+ 
+
+00:01:19.920 --> 00:01:21.429 align:start position:0%
+return um and let's do so Schmo is an
+alias<00:01:20.320><c> if</c><00:01:20.439><c> I</c>
+
+00:01:21.429 --> 00:01:21.439 align:start position:0%
+alias if I
+ 
+
+00:01:21.439 --> 00:01:24.510 align:start position:0%
+alias if I
+do<00:01:22.439><c> uh</c><00:01:22.840><c> command-</c>
+
+00:01:24.510 --> 00:01:24.520 align:start position:0%
+do uh command-
+ 
+
+00:01:24.520 --> 00:01:27.390 align:start position:0%
+do uh command-
+VM<00:01:25.520><c> it</c><00:01:25.720><c> does</c><00:01:25.960><c> say</c><00:01:26.159><c> it's</c><00:01:26.320><c> an</c><00:01:26.560><c> alias</c><00:01:27.040><c> which</c><00:01:27.240><c> I</c>
+
+00:01:27.390 --> 00:01:27.400 align:start position:0%
+VM it does say it's an alias which I
+ 
+
+00:01:27.400 --> 00:01:29.870 align:start position:0%
+VM it does say it's an alias which I
+find<00:01:27.799><c> fascinating</c><00:01:28.479><c> because</c><00:01:28.799><c> this</c><00:01:29.320><c> answer</c>
+
+00:01:29.870 --> 00:01:29.880 align:start position:0%
+find fascinating because this answer
+ 
+
+00:01:29.880 --> 00:01:31.109 align:start position:0%
+find fascinating because this answer
+from<00:01:30.040><c> chat</c>
+
+00:01:31.109 --> 00:01:31.119 align:start position:0%
+from chat
+ 
+
+00:01:31.119 --> 00:01:33.749 align:start position:0%
+from chat
+GPT<00:01:32.119><c> might</c><00:01:32.560><c> be</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+GPT might be
+ 
+
+00:01:33.759 --> 00:01:35.469 align:start position:0%
+GPT might be
+wrong
+
+00:01:35.469 --> 00:01:35.479 align:start position:0%
+wrong
+ 
+
+00:01:35.479 --> 00:01:38.469 align:start position:0%
+wrong
+because<00:01:36.479><c> that</c><00:01:36.840><c> showed</c><00:01:37.240><c> me</c><00:01:37.600><c> the</c>
+
+00:01:38.469 --> 00:01:38.479 align:start position:0%
+because that showed me the
+ 
+
+00:01:38.479 --> 00:01:42.429 align:start position:0%
+because that showed me the
+Alias<00:01:39.479><c> k-b</c><00:01:40.360><c> Schmo</c><00:01:41.000><c> was</c><00:01:41.360><c> not</c><00:01:41.680><c> able</c><00:01:41.920><c> to</c><00:01:42.079><c> do</c><00:01:42.280><c> the</c>
+
+00:01:42.429 --> 00:01:42.439 align:start position:0%
+Alias k-b Schmo was not able to do the
+ 
+
+00:01:42.439 --> 00:01:43.149 align:start position:0%
+Alias k-b Schmo was not able to do the
+right
+
+00:01:43.149 --> 00:01:43.159 align:start position:0%
+right
+ 
+
+00:01:43.159 --> 00:01:44.670 align:start position:0%
+right
+thing
+
+00:01:44.670 --> 00:01:44.680 align:start position:0%
+thing
+ 
+
+00:01:44.680 --> 00:01:46.310 align:start position:0%
+thing
+um
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+um
+ 
+
+00:01:46.320 --> 00:01:48.870 align:start position:0%
+um
+so<00:01:47.320><c> I</c><00:01:47.399><c> don't</c><00:01:47.600><c> know</c><00:01:48.159><c> I</c><00:01:48.240><c> don't</c><00:01:48.360><c> know</c><00:01:48.560><c> that</c><00:01:48.719><c> does</c>
+
+00:01:48.870 --> 00:01:48.880 align:start position:0%
+so I don't know I don't know that does
+ 
+
+00:01:48.880 --> 00:01:50.670 align:start position:0%
+so I don't know I don't know that does
+make<00:01:49.000><c> me</c><00:01:49.200><c> interested</c><00:01:49.880><c> um</c><00:01:50.040><c> I</c><00:01:50.119><c> do</c><00:01:50.280><c> want</c><00:01:50.360><c> to</c><00:01:50.560><c> like</c>
+
+00:01:50.670 --> 00:01:50.680 align:start position:0%
+make me interested um I do want to like
+ 
+
+00:01:50.680 --> 00:01:53.149 align:start position:0%
+make me interested um I do want to like
+get<00:01:50.799><c> onto</c><00:01:51.000><c> a</c><00:01:51.119><c> BSD</c><00:01:51.520><c> system</c><00:01:51.799><c> and</c><00:01:51.920><c> see</c><00:01:52.880><c> um</c><00:01:53.000><c> let's</c>
+
+00:01:53.149 --> 00:01:53.159 align:start position:0%
+get onto a BSD system and see um let's
+ 
+
+00:01:53.159 --> 00:01:55.469 align:start position:0%
+get onto a BSD system and see um let's
+try<00:01:53.320><c> it</c><00:01:53.439><c> with</c><00:01:53.560><c> a</c><00:01:53.920><c> let's</c><00:01:54.079><c> try</c><00:01:54.280><c> it</c><00:01:54.479><c> with</c><00:01:54.799><c> a</c><00:01:55.200><c> here's</c>
+
+00:01:55.469 --> 00:01:55.479 align:start position:0%
+try it with a let's try it with a here's
+ 
+
+00:01:55.479 --> 00:01:59.069 align:start position:0%
+try it with a let's try it with a here's
+clone<00:01:56.360><c> clone</c><00:01:56.640><c> is</c><00:01:56.759><c> a</c><00:01:57.439><c> function</c><00:01:58.439><c> and</c><00:01:58.640><c> it</c><00:01:58.960><c> it</c>
+
+00:01:59.069 --> 00:01:59.079 align:start position:0%
+clone clone is a function and it it
+ 
+
+00:01:59.079 --> 00:02:01.870 align:start position:0%
+clone clone is a function and it it
+resolves<00:01:59.479><c> it</c><00:01:59.600><c> like</c><00:01:59.719><c> that</c><00:02:00.119><c> if</c><00:02:00.240><c> I</c><00:02:00.320><c> do</c><00:02:00.880><c> type</c>
+
+00:02:01.870 --> 00:02:01.880 align:start position:0%
+resolves it like that if I do type
+ 
+
+00:02:01.880 --> 00:02:03.109 align:start position:0%
+resolves it like that if I do type
+you'll<00:02:02.119><c> get</c><00:02:02.240><c> the</c><00:02:02.360><c> full</c><00:02:02.600><c> function</c><00:02:02.880><c> there's</c><00:02:03.000><c> a</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+you'll get the full function there's a
+ 
+
+00:02:03.119 --> 00:02:05.709 align:start position:0%
+you'll get the full function there's a
+whole<00:02:03.280><c> video</c><00:02:03.520><c> on</c><00:02:03.680><c> the</c><00:02:03.759><c> Clone</c><00:02:04.560><c> function</c><00:02:05.560><c> and</c>
+
+00:02:05.709 --> 00:02:05.719 align:start position:0%
+whole video on the Clone function and
+ 
+
+00:02:05.719 --> 00:02:07.950 align:start position:0%
+whole video on the Clone function and
+let's<00:02:05.920><c> do</c><00:02:06.360><c> something</c><00:02:07.039><c> you</c><00:02:07.119><c> know</c><00:02:07.320><c> predictable</c>
+
+00:02:07.950 --> 00:02:07.960 align:start position:0%
+let's do something you know predictable
+ 
+
+00:02:07.960 --> 00:02:08.790 align:start position:0%
+let's do something you know predictable
+like
+
+00:02:08.790 --> 00:02:08.800 align:start position:0%
+like
+ 
+
+00:02:08.800 --> 00:02:13.710 align:start position:0%
+like
+LS<00:02:09.800><c> type</c><00:02:10.160><c> LS</c><00:02:11.000><c> oh</c><00:02:11.400><c> well</c><00:02:11.879><c> let's</c><00:02:12.080><c> not</c><00:02:12.239><c> use</c><00:02:12.720><c> LS</c>
+
+00:02:13.710 --> 00:02:13.720 align:start position:0%
+LS type LS oh well let's not use LS
+ 
+
+00:02:13.720 --> 00:02:17.470 align:start position:0%
+LS type LS oh well let's not use LS
+let's<00:02:13.879><c> use</c><00:02:14.120><c> date</c><00:02:15.120><c> all</c><00:02:15.239><c> right</c><00:02:15.400><c> so</c><00:02:15.920><c> date</c><00:02:16.920><c> uh</c>
+
+00:02:17.470 --> 00:02:17.480 align:start position:0%
+let's use date all right so date uh
+ 
+
+00:02:17.480 --> 00:02:22.070 align:start position:0%
+let's use date all right so date uh
+command-v<00:02:18.840><c> date</c><00:02:19.840><c> at</c><00:02:20.120><c> user</c><00:02:20.360><c> bin</c><00:02:20.640><c> date</c>
+
+00:02:22.070 --> 00:02:22.080 align:start position:0%
+command-v date at user bin date
+ 
+
+00:02:22.080 --> 00:02:25.550 align:start position:0%
+command-v date at user bin date
+so<00:02:23.080><c> so</c><00:02:23.400><c> that</c><00:02:23.599><c> is</c><00:02:24.000><c> pretty</c>
+
+00:02:25.550 --> 00:02:25.560 align:start position:0%
+so so that is pretty
+ 
+
+00:02:25.560 --> 00:02:27.670 align:start position:0%
+so so that is pretty
+predictable<00:02:26.560><c> uh</c><00:02:26.760><c> give</c><00:02:26.959><c> that</c><00:02:27.280><c> give</c><00:02:27.400><c> that</c><00:02:27.560><c> a</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+predictable uh give that give that a
+ 
+
+00:02:27.680 --> 00:02:30.190 align:start position:0%
+predictable uh give that give that a
+shot<00:02:28.080><c> give</c><00:02:28.239><c> that</c><00:02:28.360><c> a</c><00:02:28.519><c> look</c><00:02:29.440><c> uh</c><00:02:29.680><c> I</c><00:02:29.920><c> would</c><00:02:30.040><c> love</c><00:02:30.120><c> to</c>
+
+00:02:30.190 --> 00:02:30.200 align:start position:0%
+shot give that a look uh I would love to
+ 
+
+00:02:30.200 --> 00:02:31.750 align:start position:0%
+shot give that a look uh I would love to
+hear<00:02:30.360><c> in</c><00:02:30.440><c> the</c><00:02:30.519><c> comments</c><00:02:30.879><c> if</c><00:02:31.000><c> you've</c><00:02:31.200><c> used</c><00:02:31.519><c> the</c>
+
+00:02:31.750 --> 00:02:31.760 align:start position:0%
+hear in the comments if you've used the
+ 
+
+00:02:31.760 --> 00:02:33.350 align:start position:0%
+hear in the comments if you've used the
+if<00:02:31.840><c> you've</c><00:02:32.000><c> used</c><00:02:32.280><c> this</c><00:02:32.480><c> before</c><00:02:32.920><c> I've</c><00:02:33.120><c> started</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+if you've used this before I've started
+ 
+
+00:02:33.360 --> 00:02:36.710 align:start position:0%
+if you've used this before I've started
+putting<00:02:33.599><c> command-b</c><00:02:34.319><c> and</c><00:02:34.920><c> everything</c><00:02:35.920><c> um</c>
+
+00:02:36.710 --> 00:02:36.720 align:start position:0%
+putting command-b and everything um
+ 
+
+00:02:36.720 --> 00:02:38.750 align:start position:0%
+putting command-b and everything um
+because<00:02:37.080><c> I</c><00:02:37.160><c> wanted</c><00:02:37.440><c> to</c><00:02:37.599><c> work</c><00:02:37.959><c> in</c><00:02:38.239><c> in</c><00:02:38.400><c> posic</c>
+
+00:02:38.750 --> 00:02:38.760 align:start position:0%
+because I wanted to work in in posic
+ 
+
+00:02:38.760 --> 00:02:42.830 align:start position:0%
+because I wanted to work in in posic
+Shell<00:02:39.080><c> as</c><00:02:39.200><c> well</c><00:02:39.319><c> as</c><00:02:39.840><c> bash</c><00:02:40.840><c> um</c><00:02:41.720><c> I'm</c><00:02:42.200><c> concerned</c>
+
+00:02:42.830 --> 00:02:42.840 align:start position:0%
+Shell as well as bash um I'm concerned
+ 
+
+00:02:42.840 --> 00:02:47.110 align:start position:0%
+Shell as well as bash um I'm concerned
+that<00:02:43.040><c> the</c><00:02:43.840><c> command</c><00:02:44.840><c> command</c><00:02:45.519><c> in</c><00:02:45.879><c> bash</c><00:02:46.599><c> is</c>
+
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+that the command command in bash is
+ 
+
+00:02:47.120 --> 00:02:50.509 align:start position:0%
+that the command command in bash is
+actually<00:02:47.599><c> not</c><00:02:48.080><c> the</c><00:02:48.360><c> same</c><00:02:49.040><c> as</c><00:02:49.200><c> in</c><00:02:49.440><c> a</c><00:02:50.159><c> and</c><00:02:50.319><c> other</c>
+
+00:02:50.509 --> 00:02:50.519 align:start position:0%
+actually not the same as in a and other
+ 
+
+00:02:50.519 --> 00:02:53.390 align:start position:0%
+actually not the same as in a and other
+things<00:02:50.800><c> but</c><00:02:51.239><c> take</c><00:02:51.440><c> a</c><00:02:51.599><c> look</c><00:02:52.200><c> um</c><00:02:52.720><c> but</c><00:02:53.000><c> yeah</c><00:02:53.159><c> it's</c>
+
+00:02:53.390 --> 00:02:53.400 align:start position:0%
+things but take a look um but yeah it's
+ 
+
+00:02:53.400 --> 00:02:55.229 align:start position:0%
+things but take a look um but yeah it's
+purported<00:02:53.920><c> to</c><00:02:54.080><c> be</c><00:02:54.319><c> more</c><00:02:54.599><c> AC</c><00:02:54.720><c> crossplatform</c>
+
+00:02:55.229 --> 00:02:55.239 align:start position:0%
+purported to be more AC crossplatform
+ 
+
+00:02:55.239 --> 00:02:57.270 align:start position:0%
+purported to be more AC crossplatform
+and<00:02:56.120><c> if</c><00:02:56.200><c> for</c><00:02:56.360><c> no</c><00:02:56.519><c> other</c><00:02:56.720><c> reason</c><00:02:57.040><c> that's</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+and if for no other reason that's
+ 
+
+00:02:57.280 --> 00:02:59.270 align:start position:0%
+and if for no other reason that's
+probably<00:02:57.519><c> better</c><00:02:57.760><c> than</c><00:02:57.920><c> type</c><00:02:58.519><c> I</c><00:02:58.599><c> do</c><00:02:58.800><c> use</c><00:02:59.040><c> type</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+probably better than type I do use type
+ 
+
+00:02:59.280 --> 00:03:00.430 align:start position:0%
+probably better than type I do use type
+from<00:02:59.360><c> the</c><00:02:59.440><c> command</c><00:02:59.680><c> line</c><00:02:59.879><c> interactively</c><00:03:00.360><c> all</c>
+
+00:03:00.430 --> 00:03:00.440 align:start position:0%
+from the command line interactively all
+ 
+
+00:03:00.440 --> 00:03:01.430 align:start position:0%
+from the command line interactively all
+the<00:03:00.480><c> time</c><00:03:00.599><c> it's</c><00:03:00.720><c> easier</c><00:03:00.959><c> to</c><00:03:01.120><c> type</c><00:03:01.319><c> and</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+the time it's easier to type and
+ 
+
+00:03:01.440 --> 00:03:03.710 align:start position:0%
+the time it's easier to type and
+everything<00:03:01.920><c> but</c><00:03:02.319><c> whenever</c><00:03:02.720><c> I'm</c><00:03:03.080><c> in</c><00:03:03.200><c> a</c><00:03:03.400><c> shell</c>
+
+00:03:03.710 --> 00:03:03.720 align:start position:0%
+everything but whenever I'm in a shell
+ 
+
+00:03:03.720 --> 00:03:05.589 align:start position:0%
+everything but whenever I'm in a shell
+script<00:03:04.000><c> and</c><00:03:04.120><c> I</c><00:03:04.200><c> want</c><00:03:04.280><c> to</c><00:03:04.440><c> make</c><00:03:04.599><c> sure</c><00:03:04.920><c> that</c><00:03:05.120><c> I'm</c>
+
+00:03:05.589 --> 00:03:05.599 align:start position:0%
+script and I want to make sure that I'm
+ 
+
+00:03:05.599 --> 00:03:08.149 align:start position:0%
+script and I want to make sure that I'm
+checking<00:03:05.959><c> for</c><00:03:06.120><c> the</c><00:03:06.280><c> existing</c><00:03:06.640><c> sub</c><00:03:07.040><c> command</c><00:03:08.040><c> uh</c>
+
+00:03:08.149 --> 00:03:08.159 align:start position:0%
+checking for the existing sub command uh
+ 
+
+00:03:08.159 --> 00:03:12.319 align:start position:0%
+checking for the existing sub command uh
+I<00:03:08.280><c> use</c><00:03:08.519><c> command</c><00:03:09.080><c> for</c><00:03:09.319><c> that</c>
+

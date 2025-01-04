@@ -1,0 +1,768 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:04.550 align:start position:0%
+ 
+as<00:00:01.079><c> we</c><00:00:01.280><c> have</c><00:00:01.439><c> been</c><00:00:01.680><c> talking</c><00:00:02.159><c> about</c><00:00:03.440><c> HTML</c><00:00:04.440><c> and</c>
+
+00:00:04.550 --> 00:00:04.560 align:start position:0%
+as we have been talking about HTML and
+ 
+
+00:00:04.560 --> 00:00:06.829 align:start position:0%
+as we have been talking about HTML and
+the<00:00:04.680><c> origins</c><00:00:05.160><c> of</c><00:00:05.319><c> it</c><00:00:05.720><c> and</c><00:00:05.839><c> the</c><00:00:06.000><c> dock</c><00:00:06.319><c> type</c>
+
+00:00:06.829 --> 00:00:06.839 align:start position:0%
+the origins of it and the dock type
+ 
+
+00:00:06.839 --> 00:00:09.910 align:start position:0%
+the origins of it and the dock type
+element<00:00:07.839><c> and</c><00:00:08.360><c> I</c><00:00:08.519><c> actually</c><00:00:08.840><c> mentioned</c><00:00:09.639><c> the</c>
+
+00:00:09.910 --> 00:00:09.920 align:start position:0%
+element and I actually mentioned the
+ 
+
+00:00:09.920 --> 00:00:12.110 align:start position:0%
+element and I actually mentioned the
+exclamation<00:00:10.599><c> point</c><00:00:11.160><c> that's</c><00:00:11.320><c> in</c><00:00:11.480><c> the</c><00:00:11.599><c> doc</c><00:00:11.880><c> type</c>
+
+00:00:12.110 --> 00:00:12.120 align:start position:0%
+exclamation point that's in the doc type
+ 
+
+00:00:12.120 --> 00:00:15.829 align:start position:0%
+exclamation point that's in the doc type
+element<00:00:13.120><c> being</c><00:00:13.400><c> a</c><00:00:13.599><c> part</c><00:00:13.799><c> of</c><00:00:14.000><c> stml</c><00:00:14.960><c> originally</c>
+
+00:00:15.829 --> 00:00:15.839 align:start position:0%
+element being a part of stml originally
+ 
+
+00:00:15.839 --> 00:00:18.910 align:start position:0%
+element being a part of stml originally
+and<00:00:16.600><c> as</c><00:00:16.800><c> well</c><00:00:17.160><c> as</c><00:00:17.359><c> the</c><00:00:17.600><c> common</c><00:00:18.400><c> element</c><00:00:18.800><c> which</c>
+
+00:00:18.910 --> 00:00:18.920 align:start position:0%
+and as well as the common element which
+ 
+
+00:00:18.920 --> 00:00:21.470 align:start position:0%
+and as well as the common element which
+we<00:00:19.039><c> haven't</c><00:00:19.240><c> talked</c><00:00:19.520><c> about</c><00:00:19.840><c> yet</c><00:00:20.840><c> and</c><00:00:21.160><c> I</c><00:00:21.279><c> was</c>
+
+00:00:21.470 --> 00:00:21.480 align:start position:0%
+we haven't talked about yet and I was
+ 
+
+00:00:21.480 --> 00:00:24.990 align:start position:0%
+we haven't talked about yet and I was
+reminded<00:00:22.439><c> some</c><00:00:22.680><c> time</c><00:00:22.920><c> ago</c><00:00:23.480><c> when</c><00:00:23.680><c> I</c><00:00:23.840><c> read</c><00:00:24.240><c> about</c>
+
+00:00:24.990 --> 00:00:25.000 align:start position:0%
+reminded some time ago when I read about
+ 
+
+00:00:25.000 --> 00:00:27.630 align:start position:0%
+reminded some time ago when I read about
+this<00:00:25.400><c> the</c><00:00:25.599><c> drama</c><00:00:26.119><c> related</c><00:00:26.480><c> to</c><00:00:26.679><c> this</c><00:00:26.880><c> and</c><00:00:27.039><c> to</c>
+
+00:00:27.630 --> 00:00:27.640 align:start position:0%
+this the drama related to this and to
+ 
+
+00:00:27.640 --> 00:00:29.189 align:start position:0%
+this the drama related to this and to
+understand<00:00:27.960><c> this</c><00:00:28.279><c> this</c><00:00:28.400><c> is</c><00:00:28.640><c> extra</c><00:00:29.000><c> you</c><00:00:29.080><c> don't</c>
+
+00:00:29.189 --> 00:00:29.199 align:start position:0%
+understand this this is extra you don't
+ 
+
+00:00:29.199 --> 00:00:30.990 align:start position:0%
+understand this this is extra you don't
+need<00:00:29.320><c> to</c><00:00:29.439><c> know</c><00:00:29.599><c> this</c>
+
+00:00:30.990 --> 00:00:31.000 align:start position:0%
+need to know this
+ 
+
+00:00:31.000 --> 00:00:35.510 align:start position:0%
+need to know this
+but<00:00:31.759><c> sgml</c><00:00:32.759><c> which</c><00:00:33.040><c> I</c><00:00:33.160><c> don't</c><00:00:33.520><c> even</c><00:00:33.840><c> know</c><00:00:34.640><c> what</c><00:00:35.239><c> it</c>
+
+00:00:35.510 --> 00:00:35.520 align:start position:0%
+but sgml which I don't even know what it
+ 
+
+00:00:35.520 --> 00:00:37.270 align:start position:0%
+but sgml which I don't even know what it
+stands<00:00:35.960><c> for</c>
+
+00:00:37.270 --> 00:00:37.280 align:start position:0%
+stands for
+ 
+
+00:00:37.280 --> 00:00:40.709 align:start position:0%
+stands for
+honestly<00:00:38.280><c> uh</c><00:00:38.719><c> what</c><00:00:39.200><c> is</c>
+
+00:00:40.709 --> 00:00:40.719 align:start position:0%
+honestly uh what is
+ 
+
+00:00:40.719 --> 00:00:43.350 align:start position:0%
+honestly uh what is
+sgml<00:00:41.719><c> I</c><00:00:41.800><c> don't</c><00:00:42.039><c> remember</c><00:00:42.640><c> sdml</c><00:00:43.039><c> stands</c><00:00:43.239><c> for</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+sgml I don't remember sdml stands for
+ 
+
+00:00:43.360 --> 00:00:44.709 align:start position:0%
+sgml I don't remember sdml stands for
+standard<00:00:43.640><c> generalized</c><00:00:44.079><c> markup</c><00:00:44.360><c> language</c>
+
+00:00:44.709 --> 00:00:44.719 align:start position:0%
+standard generalized markup language
+ 
+
+00:00:44.719 --> 00:00:46.029 align:start position:0%
+standard generalized markup language
+system<00:00:45.000><c> for</c><00:00:45.160><c> organizing</c><00:00:45.600><c> and</c><00:00:45.719><c> tagging</c>
+
+00:00:46.029 --> 00:00:46.039 align:start position:0%
+system for organizing and tagging
+ 
+
+00:00:46.039 --> 00:00:48.069 align:start position:0%
+system for organizing and tagging
+elements<00:00:46.320><c> of</c><00:00:46.440><c> a</c><00:00:46.600><c> document</c><00:00:47.399><c> allowing</c><00:00:47.960><c> a</c>
+
+00:00:48.069 --> 00:00:48.079 align:start position:0%
+elements of a document allowing a
+ 
+
+00:00:48.079 --> 00:00:50.310 align:start position:0%
+elements of a document allowing a
+sharing<00:00:48.399><c> of</c><00:00:48.600><c> document</c><00:00:48.960><c> formats</c><00:00:49.640><c> HTML</c><00:00:50.079><c> was</c><00:00:50.199><c> the</c>
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+sharing of document formats HTML was the
+ 
+
+00:00:50.320 --> 00:00:54.229 align:start position:0%
+sharing of document formats HTML was the
+basis<00:00:50.520><c> for</c><00:00:50.719><c> development</c><00:00:51.039><c> of</c><00:00:51.120><c> HTML</c><00:00:52.000><c> and</c><00:00:52.719><c> XML</c><00:00:53.719><c> um</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+basis for development of HTML and XML um
+ 
+
+00:00:54.239 --> 00:00:56.630 align:start position:0%
+basis for development of HTML and XML um
+so<00:00:54.480><c> it</c><00:00:54.600><c> is</c><00:00:54.719><c> the</c><00:00:54.879><c> predecessor</c><00:00:55.480><c> to</c><00:00:55.680><c> it</c><00:00:56.120><c> um</c><00:00:56.320><c> it</c><00:00:56.440><c> is</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+so it is the predecessor to it um it is
+ 
+
+00:00:56.640 --> 00:00:58.229 align:start position:0%
+so it is the predecessor to it um it is
+the<00:00:56.840><c> thing</c><00:00:57.239><c> with</c><00:00:57.440><c> you</c><00:00:57.559><c> know</c><00:00:57.719><c> the</c><00:00:57.879><c> angle</c>
+
+00:00:58.229 --> 00:00:58.239 align:start position:0%
+the thing with you know the angle
+ 
+
+00:00:58.239 --> 00:01:00.229 align:start position:0%
+the thing with you know the angle
+brackets<00:00:58.800><c> and</c><00:00:58.920><c> then</c><00:00:59.039><c> the</c><00:00:59.160><c> key</c><00:00:59.399><c> equals</c><00:00:59.760><c> back</c>
+
+00:01:00.229 --> 00:01:00.239 align:start position:0%
+brackets and then the key equals back
+ 
+
+00:01:00.239 --> 00:01:03.270 align:start position:0%
+brackets and then the key equals back
+pairs<00:01:00.559><c> within</c><00:01:00.800><c> those</c><00:01:01.199><c> attributes</c><00:01:02.199><c> that</c><00:01:02.559><c> is</c>
+
+00:01:03.270 --> 00:01:03.280 align:start position:0%
+pairs within those attributes that is
+ 
+
+00:01:03.280 --> 00:01:05.670 align:start position:0%
+pairs within those attributes that is
+the<00:01:03.519><c> that's</c><00:01:03.719><c> the</c><00:01:03.879><c> origin</c><00:01:04.479><c> of</c><00:01:04.640><c> the</c><00:01:04.839><c> Syntax</c><00:01:05.360><c> for</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+the that's the origin of the Syntax for
+ 
+
+00:01:05.680 --> 00:01:09.469 align:start position:0%
+the that's the origin of the Syntax for
+that<00:01:06.680><c> um</c><00:01:07.360><c> and</c><00:01:07.720><c> I</c><00:01:07.840><c> think</c><00:01:08.040><c> it's</c><00:01:08.360><c> a</c><00:01:08.600><c> note</c><00:01:09.040><c> that</c>
+
+00:01:09.469 --> 00:01:09.479 align:start position:0%
+that um and I think it's a note that
+ 
+
+00:01:09.479 --> 00:01:12.590 align:start position:0%
+that um and I think it's a note that
+sgml<00:01:10.479><c> had</c><00:01:10.960><c> you</c><00:01:11.080><c> know</c><00:01:11.240><c> one</c><00:01:11.400><c> of</c><00:01:11.560><c> its</c><00:01:12.159><c> type</c><00:01:12.400><c> of</c>
+
+00:01:12.590 --> 00:01:12.600 align:start position:0%
+sgml had you know one of its type of
+ 
+
+00:01:12.600 --> 00:01:13.910 align:start position:0%
+sgml had you know one of its type of
+elements<00:01:13.119><c> had</c><00:01:13.320><c> the</c><00:01:13.560><c> you</c><00:01:13.640><c> know</c><00:01:13.799><c> the</c>
+
+00:01:13.910 --> 00:01:13.920 align:start position:0%
+elements had the you know the
+ 
+
+00:01:13.920 --> 00:01:15.749 align:start position:0%
+elements had the you know the
+exclamation<00:01:14.600><c> point</c><00:01:14.920><c> in</c><00:01:15.040><c> front</c><00:01:15.240><c> of</c><00:01:15.360><c> it</c><00:01:15.600><c> and</c>
+
+00:01:15.749 --> 00:01:15.759 align:start position:0%
+exclamation point in front of it and
+ 
+
+00:01:15.759 --> 00:01:17.429 align:start position:0%
+exclamation point in front of it and
+that<00:01:16.360><c> when</c><00:01:16.439><c> you</c><00:01:16.560><c> see</c><00:01:16.759><c> doc</c><00:01:17.040><c> type</c><00:01:17.240><c> and</c><00:01:17.320><c> you're</c>
+
+00:01:17.429 --> 00:01:17.439 align:start position:0%
+that when you see doc type and you're
+ 
+
+00:01:17.439 --> 00:01:18.710 align:start position:0%
+that when you see doc type and you're
+like<00:01:17.600><c> it</c><00:01:17.759><c> looks</c><00:01:17.960><c> different</c><00:01:18.200><c> and</c><00:01:18.360><c> you</c><00:01:18.439><c> see</c><00:01:18.600><c> a</c>
+
+00:01:18.710 --> 00:01:18.720 align:start position:0%
+like it looks different and you see a
+ 
+
+00:01:18.720 --> 00:01:19.710 align:start position:0%
+like it looks different and you see a
+comments<00:01:19.040><c> and</c><00:01:19.159><c> they</c><00:01:19.280><c> look</c><00:01:19.400><c> different</c><00:01:19.600><c> than</c>
+
+00:01:19.710 --> 00:01:19.720 align:start position:0%
+comments and they look different than
+ 
+
+00:01:19.720 --> 00:01:20.630 align:start position:0%
+comments and they look different than
+all<00:01:19.840><c> the</c><00:01:19.960><c> rest</c><00:01:20.119><c> because</c><00:01:20.280><c> they</c><00:01:20.400><c> have</c><00:01:20.520><c> that</c>
+
+00:01:20.630 --> 00:01:20.640 align:start position:0%
+all the rest because they have that
+ 
+
+00:01:20.640 --> 00:01:22.030 align:start position:0%
+all the rest because they have that
+exclamation<00:01:21.159><c> point</c><00:01:21.360><c> that's</c><00:01:21.520><c> where</c><00:01:21.640><c> it</c><00:01:21.799><c> came</c>
+
+00:01:22.030 --> 00:01:22.040 align:start position:0%
+exclamation point that's where it came
+ 
+
+00:01:22.040 --> 00:01:24.950 align:start position:0%
+exclamation point that's where it came
+from<00:01:22.600><c> it</c><00:01:22.720><c> came</c><00:01:22.880><c> from</c><00:01:23.040><c> HTML</c><00:01:23.759><c> but</c><00:01:24.320><c> I</c><00:01:24.439><c> think</c><00:01:24.600><c> it's</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+from it came from HTML but I think it's
+ 
+
+00:01:24.960 --> 00:01:28.069 align:start position:0%
+from it came from HTML but I think it's
+interesting<00:01:25.439><c> to</c><00:01:25.960><c> note</c><00:01:26.960><c> um</c><00:01:27.439><c> in</c><00:01:27.600><c> fact</c><00:01:27.799><c> I'm</c><00:01:28.000><c> kind</c>
+
+00:01:28.069 --> 00:01:28.079 align:start position:0%
+interesting to note um in fact I'm kind
+ 
+
+00:01:28.079 --> 00:01:31.230 align:start position:0%
+interesting to note um in fact I'm kind
+of<00:01:28.240><c> curious</c><00:01:28.520><c> Which</c><00:01:28.680><c> hat</c><00:01:28.880><c> GPT</c><00:01:29.320><c> has</c><00:01:29.439><c> to</c><00:01:29.560><c> say</c><00:01:30.240><c> um</c>
+
+00:01:31.230 --> 00:01:31.240 align:start position:0%
+of curious Which hat GPT has to say um
+ 
+
+00:01:31.240 --> 00:01:37.710 align:start position:0%
+of curious Which hat GPT has to say um
+uh<00:01:31.640><c> did</c><00:01:32.439><c> uh</c><00:01:32.880><c> does</c><00:01:33.880><c> uh</c><00:01:34.000><c> HTML</c><00:01:34.920><c> 5</c><00:01:35.920><c> uh</c><00:01:36.479><c> Implement</c><00:01:37.479><c> uh</c>
+
+00:01:37.710 --> 00:01:37.720 align:start position:0%
+uh did uh does uh HTML 5 uh Implement uh
+ 
+
+00:01:37.720 --> 00:01:42.030 align:start position:0%
+uh did uh does uh HTML 5 uh Implement uh
+is<00:01:38.040><c> let's</c><00:01:38.439><c> see</c><00:01:39.439><c> uh</c><00:01:39.600><c> is</c><00:01:39.880><c> HTML</c><00:01:40.560><c> 5</c>
+
+00:01:42.030 --> 00:01:42.040 align:start position:0%
+is let's see uh is HTML 5
+ 
+
+00:01:42.040 --> 00:01:45.310 align:start position:0%
+is let's see uh is HTML 5
+implemented<00:01:43.040><c> uh</c><00:01:43.240><c> in</c><00:01:43.600><c> HTML</c><00:01:44.320><c> and</c><00:01:44.799><c> my</c><00:01:44.960><c> from</c><00:01:45.119><c> my</c>
+
+00:01:45.310 --> 00:01:45.320 align:start position:0%
+implemented uh in HTML and my from my
+ 
+
+00:01:45.320 --> 00:01:46.870 align:start position:0%
+implemented uh in HTML and my from my
+memory<00:01:45.920><c> Serv</c><00:01:46.320><c> when</c><00:01:46.439><c> I</c><00:01:46.520><c> was</c><00:01:46.600><c> reading</c>
+
+00:01:46.870 --> 00:01:46.880 align:start position:0%
+memory Serv when I was reading
+ 
+
+00:01:46.880 --> 00:01:48.670 align:start position:0%
+memory Serv when I was reading
+specification<00:01:47.479><c> they</c><00:01:47.640><c> actually</c><00:01:47.840><c> broke</c><00:01:48.240><c> ties</c>
+
+00:01:48.670 --> 00:01:48.680 align:start position:0%
+specification they actually broke ties
+ 
+
+00:01:48.680 --> 00:01:50.230 align:start position:0%
+specification they actually broke ties
+with<00:01:48.840><c> it</c><00:01:49.040><c> when</c><00:01:49.240><c> they</c><00:01:49.439><c> decided</c><00:01:49.759><c> to</c><00:01:49.880><c> change</c><00:01:50.119><c> the</c>
+
+00:01:50.230 --> 00:01:50.240 align:start position:0%
+with it when they decided to change the
+ 
+
+00:01:50.240 --> 00:01:55.310 align:start position:0%
+with it when they decided to change the
+doc<00:01:50.799><c> type</c><00:01:51.799><c> um</c><00:01:52.479><c> no</c><00:01:52.759><c> HTML</c><00:01:53.399><c> 5</c><00:01:53.719><c> is</c><00:01:54.119><c> not</c><00:01:54.719><c> implemented</c>
+
+00:01:55.310 --> 00:01:55.320 align:start position:0%
+doc type um no HTML 5 is not implemented
+ 
+
+00:01:55.320 --> 00:01:57.749 align:start position:0%
+doc type um no HTML 5 is not implemented
+in<00:01:55.560><c> HTML</c><00:01:56.560><c> although</c><00:01:56.880><c> the</c><00:01:57.000><c> earlier</c><00:01:57.320><c> versions</c><00:01:57.600><c> of</c>
+
+00:01:57.749 --> 00:01:57.759 align:start position:0%
+in HTML although the earlier versions of
+ 
+
+00:01:57.759 --> 00:02:00.190 align:start position:0%
+in HTML although the earlier versions of
+HTML<00:01:58.240><c> were</c><00:01:58.399><c> stml</c><00:01:58.840><c> applications</c><00:01:59.360><c> HTML</c>
+
+00:02:00.190 --> 00:02:00.200 align:start position:0%
+HTML were stml applications HTML
+ 
+
+00:02:00.200 --> 00:02:02.749 align:start position:0%
+HTML were stml applications HTML
+abandoned<00:02:00.799><c> HTML</c><00:02:01.799><c> and</c><00:02:01.920><c> instead</c><00:02:02.200><c> is</c><00:02:02.320><c> using</c><00:02:02.600><c> its</c>
+
+00:02:02.749 --> 00:02:02.759 align:start position:0%
+abandoned HTML and instead is using its
+ 
+
+00:02:02.759 --> 00:02:04.590 align:start position:0%
+abandoned HTML and instead is using its
+own<00:02:03.079><c> par</c><00:02:03.479><c> parsing</c><00:02:03.799><c> rules</c><00:02:04.159><c> which</c><00:02:04.280><c> were</c>
+
+00:02:04.590 --> 00:02:04.600 align:start position:0%
+own par parsing rules which were
+ 
+
+00:02:04.600 --> 00:02:06.190 align:start position:0%
+own par parsing rules which were
+specially<00:02:05.240><c> developed</c><00:02:05.719><c> to</c><00:02:05.880><c> handle</c><00:02:06.119><c> the</c>
+
+00:02:06.190 --> 00:02:06.200 align:start position:0%
+specially developed to handle the
+ 
+
+00:02:06.200 --> 00:02:07.630 align:start position:0%
+specially developed to handle the
+various<00:02:06.479><c> issues</c><00:02:06.799><c> in</c><00:02:06.960><c> contemporary</c><00:02:07.439><c> web</c>
+
+00:02:07.630 --> 00:02:07.640 align:start position:0%
+various issues in contemporary web
+ 
+
+00:02:07.640 --> 00:02:10.949 align:start position:0%
+various issues in contemporary web
+development<00:02:08.520><c> so</c><00:02:08.920><c> most</c><00:02:09.280><c> importantly</c><00:02:10.280><c> the</c><00:02:10.479><c> dock</c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+development so most importantly the dock
+ 
+
+00:02:10.959 --> 00:02:11.910 align:start position:0%
+development so most importantly the dock
+type
+
+00:02:11.910 --> 00:02:11.920 align:start position:0%
+type
+ 
+
+00:02:11.920 --> 00:02:16.229 align:start position:0%
+type
+element<00:02:12.920><c> um</c><00:02:13.480><c> was</c><00:02:14.000><c> sort</c><00:02:14.200><c> of</c><00:02:14.440><c> mandated</c><00:02:15.120><c> by</c><00:02:15.319><c> stml</c>
+
+00:02:16.229 --> 00:02:16.239 align:start position:0%
+element um was sort of mandated by stml
+ 
+
+00:02:16.239 --> 00:02:19.030 align:start position:0%
+element um was sort of mandated by stml
+and<00:02:16.440><c> that</c><00:02:17.360><c> it</c><00:02:17.959><c> if</c><00:02:18.040><c> you</c><00:02:18.160><c> see</c><00:02:18.400><c> in</c><00:02:18.519><c> one</c><00:02:18.640><c> of</c><00:02:18.760><c> the</c><00:02:18.840><c> old</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+and that it if you see in one of the old
+ 
+
+00:02:19.040 --> 00:02:21.509 align:start position:0%
+and that it if you see in one of the old
+ones<00:02:19.280><c> you'll</c><00:02:19.480><c> see</c><00:02:19.680><c> it</c><00:02:19.920><c> it</c><00:02:20.120><c> kind</c><00:02:20.239><c> of</c><00:02:20.440><c> links</c><00:02:20.920><c> to</c>
+
+00:02:21.509 --> 00:02:21.519 align:start position:0%
+ones you'll see it it kind of links to
+ 
+
+00:02:21.519 --> 00:02:22.229 align:start position:0%
+ones you'll see it it kind of links to
+the
+
+00:02:22.229 --> 00:02:22.239 align:start position:0%
+the
+ 
+
+00:02:22.239 --> 00:02:25.070 align:start position:0%
+the
+specification<00:02:23.239><c> of</c><00:02:23.480><c> the</c><00:02:23.640><c> Syntax</c><00:02:24.360><c> for</c><00:02:24.800><c> that</c>
+
+00:02:25.070 --> 00:02:25.080 align:start position:0%
+specification of the Syntax for that
+ 
+
+00:02:25.080 --> 00:02:27.030 align:start position:0%
+specification of the Syntax for that
+document<00:02:25.480><c> using</c><00:02:25.760><c> HTML</c><00:02:26.280><c> and</c><00:02:26.360><c> you</c><00:02:26.480><c> get</c><00:02:26.599><c> this</c><00:02:26.800><c> big</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+document using HTML and you get this big
+ 
+
+00:02:27.040 --> 00:02:30.990 align:start position:0%
+document using HTML and you get this big
+long<00:02:27.599><c> annoying</c><00:02:28.239><c> you</c><00:02:28.360><c> know</c><00:02:28.560><c> first</c><00:02:28.920><c> line</c><00:02:30.160><c> and</c><00:02:30.760><c> I</c>
+
+00:02:30.990 --> 00:02:31.000 align:start position:0%
+long annoying you know first line and I
+ 
+
+00:02:31.000 --> 00:02:33.190 align:start position:0%
+long annoying you know first line and I
+believe<00:02:31.800><c> I</c><00:02:31.920><c> believe</c><00:02:32.239><c> the</c><00:02:32.400><c> reason</c><00:02:32.760><c> that</c><00:02:32.959><c> they</c>
+
+00:02:33.190 --> 00:02:33.200 align:start position:0%
+believe I believe the reason that they
+ 
+
+00:02:33.200 --> 00:02:35.830 align:start position:0%
+believe I believe the reason that they
+broke<00:02:33.640><c> the</c><00:02:33.840><c> primary</c><00:02:34.280><c> reason</c><00:02:34.560><c> for</c><00:02:34.800><c> breaking</c>
+
+00:02:35.830 --> 00:02:35.840 align:start position:0%
+broke the primary reason for breaking
+ 
+
+00:02:35.840 --> 00:02:38.430 align:start position:0%
+broke the primary reason for breaking
+with<00:02:36.840><c> um</c><00:02:37.239><c> compliance</c><00:02:37.720><c> with</c><00:02:37.879><c> the</c><00:02:37.959><c> HTML</c>
+
+00:02:38.430 --> 00:02:38.440 align:start position:0%
+with um compliance with the HTML
+ 
+
+00:02:38.440 --> 00:02:41.790 align:start position:0%
+with um compliance with the HTML
+standard<00:02:38.920><c> was</c><00:02:39.400><c> that</c><00:02:39.920><c> line</c><00:02:40.920><c> um</c><00:02:41.159><c> and</c><00:02:41.319><c> now</c><00:02:41.640><c> the</c>
+
+00:02:41.790 --> 00:02:41.800 align:start position:0%
+standard was that line um and now the
+ 
+
+00:02:41.800 --> 00:02:44.470 align:start position:0%
+standard was that line um and now the
+doc<00:02:42.040><c> type</c><00:02:42.239><c> is</c><00:02:42.400><c> is</c><00:02:42.560><c> Doc</c><00:02:42.800><c> type</c><00:02:43.080><c> space</c><00:02:43.440><c> HTML</c><00:02:44.319><c> which</c>
+
+00:02:44.470 --> 00:02:44.480 align:start position:0%
+doc type is is Doc type space HTML which
+ 
+
+00:02:44.480 --> 00:02:47.470 align:start position:0%
+doc type is is Doc type space HTML which
+would<00:02:44.720><c> be</c><00:02:45.519><c> I</c><00:02:45.640><c> believe</c><00:02:46.040><c> a</c><00:02:46.159><c> pretty</c><00:02:46.440><c> blatant</c><00:02:47.200><c> uh</c>
+
+00:02:47.470 --> 00:02:47.480 align:start position:0%
+would be I believe a pretty blatant uh
+ 
+
+00:02:47.480 --> 00:02:50.990 align:start position:0%
+would be I believe a pretty blatant uh
+violation<00:02:48.480><c> of</c><00:02:48.800><c> of</c><00:02:48.959><c> HTML</c><00:02:49.920><c> yeah</c><00:02:50.159><c> Paula</c><00:02:50.519><c> mentions</c>
+
+00:02:50.990 --> 00:02:51.000 align:start position:0%
+violation of of HTML yeah Paula mentions
+ 
+
+00:02:51.000 --> 00:02:53.070 align:start position:0%
+violation of of HTML yeah Paula mentions
+xhtml<00:02:52.000><c> so</c>
+
+00:02:53.070 --> 00:02:53.080 align:start position:0%
+xhtml so
+ 
+
+00:02:53.080 --> 00:02:56.830 align:start position:0%
+xhtml so
+xhtml<00:02:54.080><c> um</c><00:02:54.239><c> HTML</c><00:02:54.800><c> 4</c><00:02:55.480><c> all</c><00:02:55.599><c> of</c><00:02:55.720><c> the</c><00:02:55.840><c> htmls</c><00:02:56.519><c> before</c>
+
+00:02:56.830 --> 00:02:56.840 align:start position:0%
+xhtml um HTML 4 all of the htmls before
+ 
+
+00:02:56.840 --> 00:02:59.550 align:start position:0%
+xhtml um HTML 4 all of the htmls before
+HTML<00:02:57.400><c> 5</c><00:02:57.720><c> which</c><00:02:57.840><c> was</c><00:02:58.040><c> created</c><00:02:58.440><c> by</c><00:02:58.640><c> the</c><00:02:58.800><c> what</c><00:02:59.080><c> WG</c>
+
+00:02:59.550 --> 00:02:59.560 align:start position:0%
+HTML 5 which was created by the what WG
+ 
+
+00:02:59.560 --> 00:03:01.910 align:start position:0%
+HTML 5 which was created by the what WG
+work<00:02:59.840><c> working</c><00:03:00.200><c> group</c><00:03:00.879><c> and</c><00:03:01.080><c> kind</c><00:03:01.200><c> of</c><00:03:01.400><c> forced</c>
+
+00:03:01.910 --> 00:03:01.920 align:start position:0%
+work working group and kind of forced
+ 
+
+00:03:01.920 --> 00:03:03.229 align:start position:0%
+work working group and kind of forced
+upon
+
+00:03:03.229 --> 00:03:03.239 align:start position:0%
+upon
+ 
+
+00:03:03.239 --> 00:03:06.830 align:start position:0%
+upon
+w3c<00:03:04.239><c> uh</c><00:03:04.680><c> because</c><00:03:04.959><c> w3c</c><00:03:05.799><c> came</c><00:03:06.000><c> out</c><00:03:06.159><c> with</c><00:03:06.319><c> the</c>
+
+00:03:06.830 --> 00:03:06.840 align:start position:0%
+w3c uh because w3c came out with the
+ 
+
+00:03:06.840 --> 00:03:09.990 align:start position:0%
+w3c uh because w3c came out with the
+extremely<00:03:07.519><c> bad</c><00:03:08.080><c> and</c><00:03:08.360><c> totally</c><00:03:08.760><c> failed</c>
+
+00:03:09.990 --> 00:03:10.000 align:start position:0%
+extremely bad and totally failed
+ 
+
+00:03:10.000 --> 00:03:15.350 align:start position:0%
+extremely bad and totally failed
+xhtml<00:03:11.000><c> and</c><00:03:11.360><c> HTML</c><00:03:12.200><c> uh</c><00:03:12.319><c> 4</c><00:03:13.280><c> versions</c><00:03:14.280><c> um</c><00:03:14.440><c> HTML</c><00:03:14.959><c> 5</c>
+
+00:03:15.350 --> 00:03:15.360 align:start position:0%
+xhtml and HTML uh 4 versions um HTML 5
+ 
+
+00:03:15.360 --> 00:03:17.309 align:start position:0%
+xhtml and HTML uh 4 versions um HTML 5
+also<00:03:15.799><c> brought</c><00:03:16.000><c> Styles</c><00:03:16.319><c> sheets</c><00:03:16.720><c> by</c><00:03:16.840><c> the</c><00:03:16.959><c> way</c><00:03:17.159><c> to</c>
+
+00:03:17.309 --> 00:03:17.319 align:start position:0%
+also brought Styles sheets by the way to
+ 
+
+00:03:17.319 --> 00:03:20.990 align:start position:0%
+also brought Styles sheets by the way to
+the<00:03:17.599><c> world</c><00:03:18.599><c> um</c><00:03:19.239><c> so</c><00:03:20.000><c> I</c><00:03:20.040><c> mean</c><00:03:20.360><c> I</c><00:03:20.519><c> I</c><00:03:20.599><c> can't</c><00:03:20.799><c> even</c>
+
+00:03:20.990 --> 00:03:21.000 align:start position:0%
+the world um so I mean I I can't even
+ 
+
+00:03:21.000 --> 00:03:23.470 align:start position:0%
+the world um so I mean I I can't even
+remember<00:03:21.280><c> the</c><00:03:21.440><c> date</c><00:03:22.239><c> but</c><00:03:22.799><c> that's</c><00:03:23.159><c> that's</c><00:03:23.319><c> the</c>
+
+00:03:23.470 --> 00:03:23.480 align:start position:0%
+remember the date but that's that's the
+ 
+
+00:03:23.480 --> 00:03:26.789 align:start position:0%
+remember the date but that's that's the
+takeaway<00:03:23.920><c> the</c><00:03:24.040><c> takeaway</c><00:03:24.720><c> is</c><00:03:25.720><c> um</c><00:03:26.080><c> anytime</c><00:03:26.640><c> I</c>
+
+00:03:26.789 --> 00:03:26.799 align:start position:0%
+takeaway the takeaway is um anytime I
+ 
+
+00:03:26.799 --> 00:03:30.509 align:start position:0%
+takeaway the takeaway is um anytime I
+mention<00:03:27.280><c> sgml</c><00:03:28.120><c> with</c><00:03:28.280><c> regard</c><00:03:28.680><c> to</c><00:03:29.519><c> H</c><00:03:29.840><c> TL</c><00:03:30.319><c> it's</c>
+
+00:03:30.509 --> 00:03:30.519 align:start position:0%
+mention sgml with regard to H TL it's
+ 
+
+00:03:30.519 --> 00:03:33.670 align:start position:0%
+mention sgml with regard to H TL it's
+because<00:03:30.920><c> I'm</c><00:03:31.159><c> old</c><00:03:31.439><c> school</c><00:03:32.239><c> and</c><00:03:32.519><c> I</c><00:03:33.080><c> I</c><00:03:33.239><c> remember</c>
+
+00:03:33.670 --> 00:03:33.680 align:start position:0%
+because I'm old school and I I remember
+ 
+
+00:03:33.680 --> 00:03:35.830 align:start position:0%
+because I'm old school and I I remember
+when<00:03:33.840><c> it</c><00:03:34.080><c> actually</c><00:03:34.480><c> mattered</c><00:03:35.480><c> um</c><00:03:35.640><c> and</c><00:03:35.760><c> it</c>
+
+00:03:35.830 --> 00:03:35.840 align:start position:0%
+when it actually mattered um and it
+ 
+
+00:03:35.840 --> 00:03:39.070 align:start position:0%
+when it actually mattered um and it
+doesn't<00:03:36.159><c> anymore</c><00:03:36.720><c> so</c><00:03:37.439><c> however</c><00:03:37.799><c> XML</c><00:03:38.560><c> is</c><00:03:38.799><c> very</c>
+
+00:03:39.070 --> 00:03:39.080 align:start position:0%
+doesn't anymore so however XML is very
+ 
+
+00:03:39.080 --> 00:03:40.710 align:start position:0%
+doesn't anymore so however XML is very
+valid<00:03:39.400><c> and</c><00:03:39.519><c> there'll</c><00:03:39.680><c> be</c><00:03:39.799><c> a</c><00:03:39.920><c> separate</c><00:03:40.239><c> Video</c>
+
+00:03:40.710 --> 00:03:40.720 align:start position:0%
+valid and there'll be a separate Video
+ 
+
+00:03:40.720 --> 00:03:44.070 align:start position:0%
+valid and there'll be a separate Video
+Extra<00:03:41.159><c> video</c><00:03:41.640><c> about</c><00:03:42.000><c> that</c><00:03:42.799><c> about</c><00:03:43.159><c> what</c><00:03:43.360><c> XML</c><00:03:43.840><c> is</c>
+
+00:03:44.070 --> 00:03:44.080 align:start position:0%
+Extra video about that about what XML is
+ 
+
+00:03:44.080 --> 00:03:46.589 align:start position:0%
+Extra video about that about what XML is
+why<00:03:44.239><c> it</c><00:03:44.400><c> matters</c><00:03:44.920><c> so</c><00:03:45.280><c> common</c><00:03:45.920><c> image</c><00:03:46.200><c> formats</c>
+
+00:03:46.589 --> 00:03:46.599 align:start position:0%
+why it matters so common image formats
+ 
+
+00:03:46.599 --> 00:03:48.509 align:start position:0%
+why it matters so common image formats
+like<00:03:46.760><c> SVG</c><00:03:47.280><c> scale</c><00:03:47.560><c> level</c><00:03:47.799><c> vector</c><00:03:48.080><c> graphics</c><00:03:48.360><c> are</c>
+
+00:03:48.509 --> 00:03:48.519 align:start position:0%
+like SVG scale level vector graphics are
+ 
+
+00:03:48.519 --> 00:03:50.470 align:start position:0%
+like SVG scale level vector graphics are
+implemented<00:03:48.959><c> in</c><00:03:49.080><c> XML</c><00:03:49.480><c> still</c><00:03:49.680><c> a</c><00:03:49.879><c> very</c><00:03:50.120><c> valid</c>
+
+00:03:50.470 --> 00:03:50.480 align:start position:0%
+implemented in XML still a very valid
+ 
+
+00:03:50.480 --> 00:03:52.509 align:start position:0%
+implemented in XML still a very valid
+very<00:03:50.680><c> important</c><00:03:51.120><c> format</c><00:03:51.840><c> Microsoft</c><00:03:52.280><c> Word</c>
+
+00:03:52.509 --> 00:03:52.519 align:start position:0%
+very important format Microsoft Word
+ 
+
+00:03:52.519 --> 00:03:55.470 align:start position:0%
+very important format Microsoft Word
+docs<00:03:52.720><c> are</c><00:03:53.400><c> in</c><00:03:53.560><c> XML</c><00:03:54.040><c> XML</c><00:03:54.439><c> is</c><00:03:54.560><c> worth</c><00:03:54.760><c> learning</c>
+
+00:03:55.470 --> 00:03:55.480 align:start position:0%
+docs are in XML XML is worth learning
+ 
+
+00:03:55.480 --> 00:03:58.830 align:start position:0%
+docs are in XML XML is worth learning
+XML<00:03:56.079><c> very</c><00:03:56.400><c> clearly</c><00:03:57.079><c> is</c><00:03:57.439><c> an</c><00:03:57.640><c> extension</c><00:03:58.079><c> of</c><00:03:58.239><c> HTML</c>
+
+00:03:58.830 --> 00:03:58.840 align:start position:0%
+XML very clearly is an extension of HTML
+ 
+
+00:03:58.840 --> 00:04:00.789 align:start position:0%
+XML very clearly is an extension of HTML
+so<00:03:59.239><c> so</c><00:03:59.439><c> knowing</c><00:03:59.920><c> what</c><00:04:00.040><c> standard</c><00:04:00.360><c> generalized</c>
+
+00:04:00.789 --> 00:04:00.799 align:start position:0%
+so so knowing what standard generalized
+ 
+
+00:04:00.799 --> 00:04:02.750 align:start position:0%
+so so knowing what standard generalized
+markup<00:04:01.200><c> language</c><00:04:01.680><c> is</c><00:04:01.879><c> is</c><00:04:02.280><c> apparently</c>
+
+00:04:02.750 --> 00:04:02.760 align:start position:0%
+markup language is is apparently
+ 
+
+00:04:02.760 --> 00:04:05.550 align:start position:0%
+markup language is is apparently
+relevant<00:04:03.239><c> still</c><00:04:03.879><c> it's</c><00:04:04.120><c> just</c><00:04:04.480><c> not</c><00:04:04.959><c> relevant</c><00:04:05.400><c> to</c>
+
+00:04:05.550 --> 00:04:05.560 align:start position:0%
+relevant still it's just not relevant to
+ 
+
+00:04:05.560 --> 00:04:08.309 align:start position:0%
+relevant still it's just not relevant to
+HTML<00:04:06.120><c> 5</c><00:04:06.480><c> any</c><00:04:06.720><c> longer</c><00:04:07.280><c> other</c><00:04:07.519><c> than</c><00:04:07.760><c> to</c><00:04:07.959><c> explain</c>
+
+00:04:08.309 --> 00:04:08.319 align:start position:0%
+HTML 5 any longer other than to explain
+ 
+
+00:04:08.319 --> 00:04:10.949 align:start position:0%
+HTML 5 any longer other than to explain
+where<00:04:08.519><c> that</c><00:04:08.680><c> exclamation</c><00:04:09.319><c> point</c><00:04:09.760><c> came</c><00:04:10.040><c> from</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+where that exclamation point came from
+ 
+
+00:04:10.959 --> 00:04:14.159 align:start position:0%
+where that exclamation point came from
+that's<00:04:11.159><c> all</c>
+

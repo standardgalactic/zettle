@@ -1,0 +1,100 @@
+00:09:39.550 --> 00:09:39.560 align:start position:0%
+those headers that say where it's going
+ 
+
+00:09:39.560 --> 00:09:42.310 align:start position:0%
+those headers that say where it's going
+to<00:09:39.720><c> go</c><00:09:40.320><c> and</c><00:09:40.440><c> it</c><00:09:40.600><c> figures</c><00:09:40.959><c> out</c><00:09:41.399><c> where</c><00:09:41.680><c> to</c><00:09:41.880><c> send</c>
+
+00:09:42.310 --> 00:09:42.320 align:start position:0%
+to go and it figures out where to send
+ 
+
+00:09:42.320 --> 00:09:45.269 align:start position:0%
+to go and it figures out where to send
+it<00:09:42.720><c> next</c><00:09:43.560><c> now</c><00:09:44.040><c> we</c><00:09:44.200><c> are</c><00:09:44.440><c> going</c><00:09:44.560><c> to</c><00:09:44.760><c> talk</c><00:09:45.079><c> a</c>
+
+00:09:45.269 --> 00:09:45.279 align:start position:0%
+it next now we are going to talk a
+ 
+
+00:09:45.279 --> 00:09:49.069 align:start position:0%
+it next now we are going to talk a
+little<00:09:45.519><c> bit</c><00:09:45.800><c> about</c><00:09:46.360><c> networking</c><00:09:47.519><c> later</c><00:09:48.519><c> uh</c><00:09:48.800><c> but</c>
+
+00:09:49.069 --> 00:09:49.079 align:start position:0%
+little bit about networking later uh but
+ 
+
+00:09:49.079 --> 00:09:51.190 align:start position:0%
+little bit about networking later uh but
+right<00:09:49.279><c> now</c><00:09:49.640><c> just</c><00:09:49.839><c> know</c><00:09:50.279><c> that</c><00:09:50.440><c> the</c><00:09:50.640><c> email</c>
+
+00:09:51.190 --> 00:09:51.200 align:start position:0%
+right now just know that the email
+ 
+
+00:09:51.200 --> 00:09:53.790 align:start position:0%
+right now just know that the email
+address<00:09:52.200><c> gives</c><00:09:52.560><c> the</c><00:09:52.800><c> server</c><00:09:53.480><c> enough</c>
+
+00:09:53.790 --> 00:09:53.800 align:start position:0%
+address gives the server enough
+ 
+
+00:09:53.800 --> 00:09:56.230 align:start position:0%
+address gives the server enough
+information<00:09:54.279><c> to</c><00:09:54.440><c> know</c><00:09:55.000><c> where</c><00:09:55.480><c> that</c><00:09:55.800><c> mail</c>
+
+00:09:56.230 --> 00:09:56.240 align:start position:0%
+information to know where that mail
+ 
+
+00:09:56.240 --> 00:09:59.550 align:start position:0%
+information to know where that mail
+needs<00:09:56.480><c> to</c><00:09:56.680><c> go</c><00:09:57.120><c> next</c><00:09:57.800><c> whether</c><00:09:58.079><c> it's</c><00:09:58.279><c> to</c><00:09:58.680><c> one</c><00:09:59.000><c> two</c>
+
+00:09:59.550 --> 00:09:59.560 align:start position:0%
+needs to go next whether it's to one two
+ 
+
+00:09:59.560 --> 00:10:02.190 align:start position:0%
+needs to go next whether it's to one two
+three<00:09:59.880><c> four</c><00:10:00.200><c> or</c><00:10:00.440><c> five</c><00:10:00.720><c> different</c><00:10:01.360><c> hops</c><00:10:01.800><c> before</c>
+
+00:10:02.190 --> 00:10:02.200 align:start position:0%
+three four or five different hops before
+ 
+
+00:10:02.200 --> 00:10:06.990 align:start position:0%
+three four or five different hops before
+it<00:10:02.399><c> gets</c><00:10:02.720><c> to</c><00:10:03.519><c> a</c><00:10:04.200><c> server</c><00:10:05.200><c> that</c><00:10:05.519><c> your</c><00:10:06.240><c> your</c><00:10:06.720><c> your</c>
+
+00:10:06.990 --> 00:10:07.000 align:start position:0%
+it gets to a server that your your your
+ 
+
+00:10:07.000 --> 00:10:08.710 align:start position:0%
+it gets to a server that your your your
+T<00:10:07.240><c> you</c><00:10:07.360><c> know</c><00:10:07.600><c> the</c><00:10:07.680><c> person</c><00:10:07.959><c> your</c><00:10:08.279><c> receiver</c><00:10:08.560><c> the</c>
+
+00:10:08.710 --> 00:10:08.720 align:start position:0%
+T you know the person your receiver the
+ 
+
+00:10:08.720 --> 00:10:10.750 align:start position:0%
+T you know the person your receiver the
+person<00:10:08.920><c> who</c><00:10:09.040><c> wants</c><00:10:09.279><c> to</c><00:10:09.399><c> get</c><00:10:09.560><c> it</c><00:10:10.160><c> they</c><00:10:10.279><c> can</c><00:10:10.480><c> then</c>
+
+00:10:10.750 --> 00:10:10.760 align:start position:0%
+person who wants to get it they can then
+ 
+
+00:10:10.760 --> 00:10:12.310 align:start position:0%
+person who wants to get it they can then
+when<00:10:11.000><c> they</c><00:10:11.279><c> they</c><00:10:11.399><c> have</c><00:10:11.560><c> their</c><00:10:11.800><c> client</c><00:10:12.160><c> their</c>
+
+00:10:12.310 --> 00:10:12.320 align:start position:0%
+when they they have their client their
+ 
+

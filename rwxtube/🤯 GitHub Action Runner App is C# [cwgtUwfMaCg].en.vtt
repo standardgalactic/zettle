@@ -1,0 +1,776 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.040 --> 00:00:03.710 align:start position:0%
+ 
+GitHub<00:00:00.920><c> actions</c><00:00:01.920><c> why</c><00:00:02.080><c> are</c><00:00:02.360><c> they</c><00:00:02.639><c> in</c>
+
+00:00:03.710 --> 00:00:03.720 align:start position:0%
+GitHub actions why are they in
+ 
+
+00:00:03.720 --> 00:00:06.990 align:start position:0%
+GitHub actions why are they in
+CP<00:00:04.720><c> so</c><00:00:05.560><c> you</c><00:00:05.680><c> know</c><00:00:05.839><c> when</c><00:00:06.000><c> I</c><00:00:06.120><c> saw</c><00:00:06.399><c> that</c><00:00:06.600><c> GitHub</c>
+
+00:00:06.990 --> 00:00:07.000 align:start position:0%
+CP so you know when I saw that GitHub
+ 
+
+00:00:07.000 --> 00:00:10.870 align:start position:0%
+CP so you know when I saw that GitHub
+actions<00:00:07.399><c> ran</c><00:00:07.839><c> on</c><00:00:08.679><c> Windows</c><00:00:09.360><c> and</c><00:00:09.559><c> Linux</c><00:00:10.280><c> and</c><00:00:10.519><c> Mac</c>
+
+00:00:10.870 --> 00:00:10.880 align:start position:0%
+actions ran on Windows and Linux and Mac
+ 
+
+00:00:10.880 --> 00:00:12.789 align:start position:0%
+actions ran on Windows and Linux and Mac
+first<00:00:11.040><c> of</c><00:00:11.080><c> all</c><00:00:11.200><c> I'm</c><00:00:11.320><c> like</c><00:00:11.759><c> why</c><00:00:11.920><c> would</c><00:00:12.120><c> you</c><00:00:12.599><c> have</c>
+
+00:00:12.789 --> 00:00:12.799 align:start position:0%
+first of all I'm like why would you have
+ 
+
+00:00:12.799 --> 00:00:15.869 align:start position:0%
+first of all I'm like why would you have
+the<00:00:12.960><c> GitHub</c><00:00:13.360><c> Runner</c><00:00:13.799><c> actions</c><00:00:14.240><c> Runner</c><00:00:15.240><c> work</c><00:00:15.599><c> on</c>
+
+00:00:15.869 --> 00:00:15.879 align:start position:0%
+the GitHub Runner actions Runner work on
+ 
+
+00:00:15.879 --> 00:00:18.470 align:start position:0%
+the GitHub Runner actions Runner work on
+Windows<00:00:16.279><c> or</c><00:00:16.520><c> Mac</c><00:00:16.920><c> that</c><00:00:17.119><c> that</c><00:00:17.240><c> seems</c><00:00:17.720><c> really</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+Windows or Mac that that seems really
+ 
+
+00:00:18.480 --> 00:00:23.070 align:start position:0%
+Windows or Mac that that seems really
+weird<00:00:19.480><c> and</c><00:00:19.880><c> cool</c><00:00:20.560><c> at</c><00:00:20.720><c> the</c><00:00:20.920><c> same</c><00:00:21.480><c> time</c><00:00:22.480><c> so</c><00:00:23.000><c> I</c>
+
+00:00:23.070 --> 00:00:23.080 align:start position:0%
+weird and cool at the same time so I
+ 
+
+00:00:23.080 --> 00:00:25.470 align:start position:0%
+weird and cool at the same time so I
+went<00:00:23.279><c> ahead</c><00:00:23.480><c> and</c><00:00:23.640><c> I</c><00:00:23.760><c> asked</c><00:00:24.039><c> chat</c><00:00:24.279><c> gbt</c><00:00:24.760><c> 4.0</c><00:00:25.359><c> and</c>
+
+00:00:25.470 --> 00:00:25.480 align:start position:0%
+went ahead and I asked chat gbt 4.0 and
+ 
+
+00:00:25.480 --> 00:00:27.750 align:start position:0%
+went ahead and I asked chat gbt 4.0 and
+here's<00:00:25.680><c> the</c><00:00:25.880><c> answer</c><00:00:26.720><c> get</c><00:00:26.880><c> up</c><00:00:27.119><c> action</c><00:00:27.400><c> Runners</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+here's the answer get up action Runners
+ 
+
+00:00:27.760 --> 00:00:29.990 align:start position:0%
+here's the answer get up action Runners
+are<00:00:27.960><c> C</c><00:00:28.439><c> for</c><00:00:28.519><c> several</c><00:00:28.880><c> reasons</c><00:00:29.320><c> CP</c><00:00:29.800><c> is</c>
+
+00:00:29.990 --> 00:00:30.000 align:start position:0%
+are C for several reasons CP is
+ 
+
+00:00:30.000 --> 00:00:31.990 align:start position:0%
+are C for several reasons CP is
+statically<00:00:30.320><c> typed</c><00:00:30.759><c> yeah</c><00:00:30.920><c> we</c><00:00:31.039><c> know</c><00:00:31.320><c> CP</c><00:00:31.800><c> is</c>
+
+00:00:31.990 --> 00:00:32.000 align:start position:0%
+statically typed yeah we know CP is
+ 
+
+00:00:32.000 --> 00:00:33.990 align:start position:0%
+statically typed yeah we know CP is
+crossplatform<00:00:32.480><c> okay</c><00:00:32.920><c> we</c><00:00:33.040><c> know</c><00:00:33.320><c> that</c>
+
+00:00:33.990 --> 00:00:34.000 align:start position:0%
+crossplatform okay we know that
+ 
+
+00:00:34.000 --> 00:00:36.510 align:start position:0%
+crossplatform okay we know that
+Microsoft<00:00:34.559><c> now</c><00:00:34.719><c> listen</c><00:00:35.040><c> this</c><00:00:35.120><c> is</c><00:00:35.239><c> a</c><00:00:35.440><c> good</c><00:00:35.640><c> one</c>
+
+00:00:36.510 --> 00:00:36.520 align:start position:0%
+Microsoft now listen this is a good one
+ 
+
+00:00:36.520 --> 00:00:38.910 align:start position:0%
+Microsoft now listen this is a good one
+Microsoft<00:00:37.239><c> the</c><00:00:37.399><c> company</c><00:00:37.719><c> that</c><00:00:37.960><c> owns</c><00:00:38.320><c> GitHub</c>
+
+00:00:38.910 --> 00:00:38.920 align:start position:0%
+Microsoft the company that owns GitHub
+ 
+
+00:00:38.920 --> 00:00:41.510 align:start position:0%
+Microsoft the company that owns GitHub
+also<00:00:39.239><c> created</c><00:00:39.760><c> C</c><00:00:40.760><c> this</c><00:00:40.879><c> means</c><00:00:41.120><c> that</c><00:00:41.280><c> they</c><00:00:41.399><c> have</c>
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+also created C this means that they have
+ 
+
+00:00:41.520 --> 00:00:43.510 align:start position:0%
+also created C this means that they have
+a<00:00:41.600><c> lot</c><00:00:41.719><c> of</c><00:00:41.879><c> experience</c><00:00:42.239><c> in</c><00:00:42.399><c> blah</c><00:00:42.760><c> so</c><00:00:42.920><c> they</c><00:00:43.239><c> had</c>
+
+00:00:43.510 --> 00:00:43.520 align:start position:0%
+a lot of experience in blah so they had
+ 
+
+00:00:43.520 --> 00:00:46.630 align:start position:0%
+a lot of experience in blah so they had
+resources<00:00:44.039><c> for</c><00:00:44.200><c> it</c><00:00:44.360><c> C</c><00:00:44.840><c> is</c><00:00:45.000><c> also</c><00:00:45.280><c> good</c><00:00:45.640><c> support</c>
+
+00:00:46.630 --> 00:00:46.640 align:start position:0%
+resources for it C is also good support
+ 
+
+00:00:46.640 --> 00:00:48.430 align:start position:0%
+resources for it C is also good support
+uh<00:00:46.800><c> for</c><00:00:47.160><c> runners</c><00:00:47.680><c> because</c><00:00:47.879><c> it</c><00:00:48.000><c> can</c><00:00:48.120><c> run</c><00:00:48.280><c> on</c>
+
+00:00:48.430 --> 00:00:48.440 align:start position:0%
+uh for runners because it can run on
+ 
+
+00:00:48.440 --> 00:00:51.189 align:start position:0%
+uh for runners because it can run on
+lots<00:00:48.640><c> of</c><00:00:48.800><c> things.net</c><00:00:49.520><c> the</c><00:00:50.320><c> normal</c><00:00:50.760><c> reasons</c>
+
+00:00:51.189 --> 00:00:51.199 align:start position:0%
+lots of things.net the normal reasons
+ 
+
+00:00:51.199 --> 00:00:52.709 align:start position:0%
+lots of things.net the normal reasons
+you<00:00:51.280><c> can</c><00:00:51.480><c> read</c><00:00:51.680><c> the</c><00:00:51.840><c> rest</c><00:00:51.960><c> of</c><00:00:52.120><c> them</c><00:00:52.320><c> pause</c><00:00:52.520><c> the</c>
+
+00:00:52.709 --> 00:00:52.719 align:start position:0%
+you can read the rest of them pause the
+ 
+
+00:00:52.719 --> 00:00:55.389 align:start position:0%
+you can read the rest of them pause the
+video<00:00:53.600><c> but</c><00:00:53.960><c> here's</c><00:00:54.320><c> the</c><00:00:54.600><c> interesting</c><00:00:55.160><c> thing</c>
+
+00:00:55.389 --> 00:00:55.399 align:start position:0%
+video but here's the interesting thing
+ 
+
+00:00:55.399 --> 00:01:00.470 align:start position:0%
+video but here's the interesting thing
+so<00:00:55.680><c> I</c><00:00:55.800><c> was</c><00:00:56.079><c> like</c><00:00:56.879><c> now</c><00:00:57.120><c> wait</c><00:00:57.280><c> a</c><00:00:57.520><c> second</c><00:00:58.120><c> didn't</c><00:00:58.760><c> C</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+so I was like now wait a second didn't C
+ 
+
+00:01:00.480 --> 00:01:03.869 align:start position:0%
+so I was like now wait a second didn't C
+I<00:01:00.559><c> mean</c><00:01:00.760><c> sorry</c><00:01:01.199><c> didn't</c><00:01:01.640><c> GitHub</c><00:01:02.160><c> actions</c><00:01:02.800><c> exist</c>
+
+00:01:03.869 --> 00:01:03.879 align:start position:0%
+I mean sorry didn't GitHub actions exist
+ 
+
+00:01:03.879 --> 00:01:06.670 align:start position:0%
+I mean sorry didn't GitHub actions exist
+before<00:01:04.879><c> Microsoft</c><00:01:05.560><c> acquired</c><00:01:06.040><c> GitHub</c><00:01:06.439><c> and</c>
+
+00:01:06.670 --> 00:01:06.680 align:start position:0%
+before Microsoft acquired GitHub and
+ 
+
+00:01:06.680 --> 00:01:08.670 align:start position:0%
+before Microsoft acquired GitHub and
+saved<00:01:07.200><c> GitHub</c><00:01:07.799><c> if</c><00:01:07.960><c> you</c><00:01:08.040><c> don't</c><00:01:08.200><c> know</c><00:01:08.400><c> about</c>
+
+00:01:08.670 --> 00:01:08.680 align:start position:0%
+saved GitHub if you don't know about
+ 
+
+00:01:08.680 --> 00:01:10.510 align:start position:0%
+saved GitHub if you don't know about
+that<00:01:09.159><c> we</c><00:01:09.280><c> should</c><00:01:09.439><c> do</c><00:01:09.600><c> a</c><00:01:09.680><c> whole</c><00:01:09.880><c> video</c><00:01:10.159><c> about</c>
+
+00:01:10.510 --> 00:01:10.520 align:start position:0%
+that we should do a whole video about
+ 
+
+00:01:10.520 --> 00:01:12.830 align:start position:0%
+that we should do a whole video about
+how<00:01:10.840><c> Microsoft</c><00:01:11.560><c> saved</c><00:01:12.080><c> GitHub</c><00:01:12.600><c> from</c>
+
+00:01:12.830 --> 00:01:12.840 align:start position:0%
+how Microsoft saved GitHub from
+ 
+
+00:01:12.840 --> 00:01:14.550 align:start position:0%
+how Microsoft saved GitHub from
+Financial<00:01:13.240><c> ruin</c><00:01:13.759><c> they</c><00:01:13.960><c> actually</c><00:01:14.240><c> did</c><00:01:14.479><c> they</c>
+
+00:01:14.550 --> 00:01:14.560 align:start position:0%
+Financial ruin they actually did they
+ 
+
+00:01:14.560 --> 00:01:16.710 align:start position:0%
+Financial ruin they actually did they
+were<00:01:14.720><c> about</c><00:01:14.880><c> to</c><00:01:15.000><c> go</c><00:01:15.119><c> under</c><00:01:16.000><c> and</c><00:01:16.240><c> GitHub</c><00:01:16.600><c> would</c>
+
+00:01:16.710 --> 00:01:16.720 align:start position:0%
+were about to go under and GitHub would
+ 
+
+00:01:16.720 --> 00:01:18.230 align:start position:0%
+were about to go under and GitHub would
+have<00:01:16.920><c> disappeared</c><00:01:17.360><c> from</c><00:01:17.520><c> the</c><00:01:17.680><c> planet</c><00:01:18.000><c> if</c><00:01:18.119><c> it</c>
+
+00:01:18.230 --> 00:01:18.240 align:start position:0%
+have disappeared from the planet if it
+ 
+
+00:01:18.240 --> 00:01:19.910 align:start position:0%
+have disappeared from the planet if it
+hadn't<00:01:18.439><c> been</c><00:01:18.600><c> for</c><00:01:18.759><c> Microsoft</c><00:01:19.200><c> swooping</c><00:01:19.520><c> in</c><00:01:19.720><c> or</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+hadn't been for Microsoft swooping in or
+ 
+
+00:01:19.920 --> 00:01:22.550 align:start position:0%
+hadn't been for Microsoft swooping in or
+some<00:01:20.119><c> other</c><00:01:20.400><c> company</c><00:01:20.799><c> that</c><00:01:20.920><c> has</c><00:01:21.240><c> actual</c><00:01:21.560><c> money</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+some other company that has actual money
+ 
+
+00:01:22.560 --> 00:01:25.069 align:start position:0%
+some other company that has actual money
+you<00:01:22.640><c> can</c><00:01:23.000><c> hate</c><00:01:23.240><c> Microsoft</c><00:01:23.680><c> i1</c><00:01:24.520><c> but</c><00:01:24.680><c> the</c><00:01:24.840><c> fact</c>
+
+00:01:25.069 --> 00:01:25.079 align:start position:0%
+you can hate Microsoft i1 but the fact
+ 
+
+00:01:25.079 --> 00:01:27.310 align:start position:0%
+you can hate Microsoft i1 but the fact
+is<00:01:25.400><c> they</c><00:01:25.560><c> had</c><00:01:25.720><c> money</c><00:01:26.360><c> and</c><00:01:26.479><c> they</c><00:01:26.640><c> kept</c><00:01:26.840><c> GitHub</c>
+
+00:01:27.310 --> 00:01:27.320 align:start position:0%
+is they had money and they kept GitHub
+ 
+
+00:01:27.320 --> 00:01:30.789 align:start position:0%
+is they had money and they kept GitHub
+alive<00:01:28.320><c> and</c><00:01:28.840><c> something</c><00:01:29.200><c> else</c><00:01:29.520><c> happened</c><00:01:30.400><c> so</c><00:01:30.680><c> I</c>
+
+00:01:30.789 --> 00:01:30.799 align:start position:0%
+alive and something else happened so I
+ 
+
+00:01:30.799 --> 00:01:33.590 align:start position:0%
+alive and something else happened so I
+went<00:01:31.000><c> ahead</c><00:01:31.280><c> and</c><00:01:31.439><c> I</c><00:01:31.600><c> asked</c><00:01:32.000><c> another</c><00:01:32.640><c> question</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+went ahead and I asked another question
+ 
+
+00:01:33.600 --> 00:01:36.710 align:start position:0%
+went ahead and I asked another question
+from<00:01:34.040><c> you</c><00:01:34.200><c> know</c><00:01:34.600><c> chat</c><00:01:34.920><c> GPT</c><00:01:35.600><c> here</c><00:01:36.159><c> did</c><00:01:36.399><c> GitHub</c>
+
+00:01:36.710 --> 00:01:36.720 align:start position:0%
+from you know chat GPT here did GitHub
+ 
+
+00:01:36.720 --> 00:01:38.429 align:start position:0%
+from you know chat GPT here did GitHub
+actions<00:01:37.079><c> exist</c><00:01:37.399><c> before</c><00:01:37.720><c> did</c><00:01:37.920><c> GitHub</c><00:01:38.200><c> company</c>
+
+00:01:38.429 --> 00:01:38.439 align:start position:0%
+actions exist before did GitHub company
+ 
+
+00:01:38.439 --> 00:01:41.230 align:start position:0%
+actions exist before did GitHub company
+acquired<00:01:38.840><c> Microsoft</c><00:01:39.399><c> and</c><00:01:39.479><c> the</c><00:01:39.600><c> answer</c><00:01:39.920><c> is</c><00:01:40.240><c> no</c>
+
+00:01:41.230 --> 00:01:41.240 align:start position:0%
+acquired Microsoft and the answer is no
+ 
+
+00:01:41.240 --> 00:01:44.310 align:start position:0%
+acquired Microsoft and the answer is no
+GitHub<00:01:41.920><c> actions</c><00:01:42.600><c> did</c><00:01:42.920><c> not</c><00:01:43.439><c> exist</c><00:01:44.000><c> before</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+GitHub actions did not exist before
+ 
+
+00:01:44.320 --> 00:01:46.310 align:start position:0%
+GitHub actions did not exist before
+Microsoft's
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+Microsoft's
+ 
+
+00:01:46.320 --> 00:01:50.469 align:start position:0%
+Microsoft's
+acquisition<00:01:47.320><c> um</c><00:01:48.159><c> of</c><00:01:48.439><c> of</c><00:01:48.680><c> this</c><00:01:49.360><c> Microsoft</c><00:01:50.360><c> uh</c>
+
+00:01:50.469 --> 00:01:50.479 align:start position:0%
+acquisition um of of this Microsoft uh
+ 
+
+00:01:50.479 --> 00:01:52.950 align:start position:0%
+acquisition um of of this Microsoft uh
+acquired<00:01:50.920><c> GitHub</c><00:01:51.280><c> in</c><00:01:51.479><c> June</c><00:01:51.960><c> 2018</c><00:01:52.600><c> GitHub</c>
+
+00:01:52.950 --> 00:01:52.960 align:start position:0%
+acquired GitHub in June 2018 GitHub
+ 
+
+00:01:52.960 --> 00:01:54.709 align:start position:0%
+acquired GitHub in June 2018 GitHub
+actions<00:01:53.280><c> was</c><00:01:53.439><c> used</c><00:01:53.680><c> to</c><00:01:53.960><c> automate</c><00:01:54.399><c> software</c>
+
+00:01:54.709 --> 00:01:54.719 align:start position:0%
+actions was used to automate software
+ 
+
+00:01:54.719 --> 00:01:56.109 align:start position:0%
+actions was used to automate software
+workflows<00:01:55.119><c> that</c><00:01:55.200><c> were</c><00:01:55.360><c> introduced</c><00:01:55.880><c> in</c>
+
+00:01:56.109 --> 00:01:56.119 align:start position:0%
+workflows that were introduced in
+ 
+
+00:01:56.119 --> 00:02:00.230 align:start position:0%
+workflows that were introduced in
+November<00:01:57.039><c> 2019</c><00:01:58.039><c> so</c><00:01:58.320><c> the</c><00:01:58.479><c> conclusion</c><00:01:59.119><c> is</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+November 2019 so the conclusion is
+ 
+
+00:02:00.240 --> 00:02:03.630 align:start position:0%
+November 2019 so the conclusion is
+GitHub<00:02:00.799><c> actions</c><00:02:01.640><c> came</c><00:02:02.200><c> from</c>
+
+00:02:03.630 --> 00:02:03.640 align:start position:0%
+GitHub actions came from
+ 
+
+00:02:03.640 --> 00:02:05.550 align:start position:0%
+GitHub actions came from
+Microsoft<00:02:04.640><c> and</c><00:02:04.799><c> I'm</c><00:02:04.920><c> going</c><00:02:05.000><c> to</c><00:02:05.159><c> put</c><00:02:05.320><c> that</c><00:02:05.479><c> in</c>
+
+00:02:05.550 --> 00:02:05.560 align:start position:0%
+Microsoft and I'm going to put that in
+ 
+
+00:02:05.560 --> 00:02:08.630 align:start position:0%
+Microsoft and I'm going to put that in
+the<00:02:05.759><c> column</c><00:02:06.200><c> that</c><00:02:06.520><c> says</c><00:02:07.520><c> of</c><00:02:07.960><c> likes</c><00:02:08.319><c> things</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+the column that says of likes things
+ 
+
+00:02:08.640 --> 00:02:10.710 align:start position:0%
+the column that says of likes things
+about<00:02:08.959><c> Microsoft</c><00:02:09.720><c> there's</c><00:02:09.959><c> plenty</c><00:02:10.200><c> of</c><00:02:10.520><c> things</c>
+
+00:02:10.710 --> 00:02:10.720 align:start position:0%
+about Microsoft there's plenty of things
+ 
+
+00:02:10.720 --> 00:02:12.589 align:start position:0%
+about Microsoft there's plenty of things
+in<00:02:10.879><c> the</c><00:02:11.000><c> column</c><00:02:11.360><c> of</c><00:02:11.599><c> don't</c><00:02:11.840><c> like</c><00:02:12.080><c> things</c><00:02:12.319><c> about</c>
+
+00:02:12.589 --> 00:02:12.599 align:start position:0%
+in the column of don't like things about
+ 
+
+00:02:12.599 --> 00:02:14.869 align:start position:0%
+in the column of don't like things about
+Microsoft<00:02:13.520><c> but</c><00:02:13.680><c> in</c><00:02:13.800><c> the</c><00:02:13.959><c> column</c><00:02:14.319><c> of</c><00:02:14.519><c> things</c><00:02:14.720><c> I</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+Microsoft but in the column of things I
+ 
+
+00:02:14.879 --> 00:02:16.390 align:start position:0%
+Microsoft but in the column of things I
+like<00:02:15.080><c> about</c><00:02:15.319><c> Microsoft</c><00:02:15.879><c> one</c><00:02:15.959><c> of</c><00:02:16.080><c> them</c><00:02:16.200><c> is</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+like about Microsoft one of them is
+ 
+
+00:02:16.400 --> 00:02:18.110 align:start position:0%
+like about Microsoft one of them is
+saved<00:02:16.760><c> GitHub</c><00:02:17.080><c> from</c><00:02:17.239><c> Financial</c><00:02:17.560><c> ruin</c><00:02:17.959><c> the</c>
+
+00:02:18.110 --> 00:02:18.120 align:start position:0%
+saved GitHub from Financial ruin the
+ 
+
+00:02:18.120 --> 00:02:21.270 align:start position:0%
+saved GitHub from Financial ruin the
+second<00:02:18.319><c> one</c><00:02:18.480><c> is</c><00:02:18.640><c> GitHub</c><00:02:19.200><c> actions</c><00:02:20.200><c> and</c><00:02:21.000><c> before</c>
+
+00:02:21.270 --> 00:02:21.280 align:start position:0%
+second one is GitHub actions and before
+ 
+
+00:02:21.280 --> 00:02:24.630 align:start position:0%
+second one is GitHub actions and before
+you<00:02:21.480><c> go</c><00:02:21.879><c> off</c><00:02:22.120><c> on</c><00:02:22.680><c> well</c><00:02:23.160><c> don't</c><00:02:23.400><c> you</c><00:02:23.560><c> hate</c><00:02:23.879><c> C</c><00:02:24.319><c> no</c><00:02:24.519><c> I</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+you go off on well don't you hate C no I
+ 
+
+00:02:24.640 --> 00:02:26.470 align:start position:0%
+you go off on well don't you hate C no I
+absolutely<00:02:25.000><c> don't</c><00:02:25.360><c> I</c><00:02:25.480><c> actually</c><00:02:26.080><c> as</c><00:02:26.280><c> as</c><00:02:26.360><c> an</c>
+
+00:02:26.470 --> 00:02:26.480 align:start position:0%
+absolutely don't I actually as as an
+ 
+
+00:02:26.480 --> 00:02:28.190 align:start position:0%
+absolutely don't I actually as as an
+object-oriented<00:02:27.080><c> programming</c><00:02:27.440><c> languages</c><00:02:27.920><c> go</c>
+
+00:02:28.190 --> 00:02:28.200 align:start position:0%
+object-oriented programming languages go
+ 
+
+00:02:28.200 --> 00:02:30.790 align:start position:0%
+object-oriented programming languages go
+I<00:02:28.280><c> think</c><00:02:28.400><c> C</c><00:02:28.840><c> is</c><00:02:28.959><c> way</c><00:02:29.080><c> better</c><00:02:29.280><c> than</c><00:02:29.480><c> Java</c>
+
+00:02:30.790 --> 00:02:30.800 align:start position:0%
+I think C is way better than Java
+ 
+
+00:02:30.800 --> 00:02:31.990 align:start position:0%
+I think C is way better than Java
+of<00:02:30.920><c> course</c><00:02:31.040><c> I</c><00:02:31.160><c> haven't</c><00:02:31.360><c> written</c><00:02:31.599><c> a</c><00:02:31.720><c> single</c>
+
+00:02:31.990 --> 00:02:32.000 align:start position:0%
+of course I haven't written a single
+ 
+
+00:02:32.000 --> 00:02:34.750 align:start position:0%
+of course I haven't written a single
+line<00:02:32.200><c> of</c><00:02:32.400><c> java</c><00:02:32.760><c> officially</c><00:02:33.319><c> since</c>
+
+00:02:34.750 --> 00:02:34.760 align:start position:0%
+line of java officially since
+ 
+
+00:02:34.760 --> 00:02:38.830 align:start position:0%
+line of java officially since
+2020<00:02:35.760><c> uh</c><00:02:35.920><c> no</c><00:02:36.120><c> that's</c><00:02:36.239><c> not</c><00:02:36.400><c> true</c><00:02:36.920><c> 2000</c><00:02:37.720><c> so</c><00:02:38.200><c> yeah</c>
+
+00:02:38.830 --> 00:02:38.840 align:start position:0%
+2020 uh no that's not true 2000 so yeah
+ 
+
+00:02:38.840 --> 00:02:41.670 align:start position:0%
+2020 uh no that's not true 2000 so yeah
+I<00:02:38.920><c> haven't</c><00:02:39.120><c> done</c><00:02:39.319><c> any</c><00:02:39.480><c> job</c><00:02:39.720><c> of</c><00:02:40.319><c> officially</c><00:02:41.319><c> um</c>
+
+00:02:41.670 --> 00:02:41.680 align:start position:0%
+I haven't done any job of officially um
+ 
+
+00:02:41.680 --> 00:02:43.710 align:start position:0%
+I haven't done any job of officially um
+so<00:02:42.120><c> you</c><00:02:42.239><c> know</c><00:02:42.400><c> don't</c><00:02:42.640><c> ask</c><00:02:42.840><c> me</c><00:02:43.040><c> about</c><00:02:43.280><c> languages</c>
+
+00:02:43.710 --> 00:02:43.720 align:start position:0%
+so you know don't ask me about languages
+ 
+
+00:02:43.720 --> 00:02:44.990 align:start position:0%
+so you know don't ask me about languages
+especially<00:02:44.080><c> objectoriented</c><00:02:44.640><c> programming</c>
+
+00:02:44.990 --> 00:02:45.000 align:start position:0%
+especially objectoriented programming
+ 
+
+00:02:45.000 --> 00:02:48.710 align:start position:0%
+especially objectoriented programming
+languages<00:02:45.400><c> I</c><00:02:45.480><c> will</c><00:02:45.640><c> not</c><00:02:45.959><c> program</c><00:02:46.360><c> in</c><00:02:46.720><c> one</c><00:02:47.720><c> uh</c>
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+languages I will not program in one uh
+ 
+
+00:02:48.720 --> 00:02:50.830 align:start position:0%
+languages I will not program in one uh
+period<00:02:49.280><c> I</c><00:02:49.400><c> just</c><00:02:49.519><c> won't</c><00:02:50.000><c> I'm</c><00:02:50.200><c> I'm</c><00:02:50.319><c> too</c><00:02:50.519><c> close</c><00:02:50.680><c> to</c>
+
+00:02:50.830 --> 00:02:50.840 align:start position:0%
+period I just won't I'm I'm too close to
+ 
+
+00:02:50.840 --> 00:02:52.350 align:start position:0%
+period I just won't I'm I'm too close to
+retirement<00:02:51.280><c> I</c><00:02:51.360><c> don't</c><00:02:51.519><c> have</c><00:02:51.640><c> to</c><00:02:51.760><c> do</c><00:02:51.920><c> that</c><00:02:52.159><c> and</c><00:02:52.239><c> I</c>
+
+00:02:52.350 --> 00:02:52.360 align:start position:0%
+retirement I don't have to do that and I
+ 
+
+00:02:52.360 --> 00:02:55.670 align:start position:0%
+retirement I don't have to do that and I
+never<00:02:52.599><c> will</c><00:02:53.599><c> um</c><00:02:54.040><c> so</c><00:02:54.840><c> the</c><00:02:54.959><c> fact</c><00:02:55.159><c> that</c><00:02:55.319><c> GitHub</c>
+
+00:02:55.670 --> 00:02:55.680 align:start position:0%
+never will um so the fact that GitHub
+ 
+
+00:02:55.680 --> 00:02:57.350 align:start position:0%
+never will um so the fact that GitHub
+actions<00:02:55.959><c> and</c><00:02:56.120><c> the</c><00:02:56.200><c> GitHub</c><00:02:56.480><c> actions</c><00:02:56.800><c> Runner</c><00:02:57.200><c> is</c>
+
+00:02:57.350 --> 00:02:57.360 align:start position:0%
+actions and the GitHub actions Runner is
+ 
+
+00:02:57.360 --> 00:02:59.790 align:start position:0%
+actions and the GitHub actions Runner is
+written<00:02:57.640><c> in</c><00:02:57.800><c> C</c><00:02:58.800><c> is</c><00:02:59.040><c> extremely</c><00:02:59.480><c> intriguing</c>
+
+00:02:59.790 --> 00:02:59.800 align:start position:0%
+written in C is extremely intriguing
+ 
+
+00:02:59.800 --> 00:03:02.309 align:start position:0%
+written in C is extremely intriguing
+inging<00:03:00.120><c> to</c><00:03:00.280><c> me</c><00:03:00.920><c> and</c><00:03:01.319><c> and</c><00:03:01.480><c> I</c><00:03:01.680><c> I</c><00:03:01.760><c> like</c><00:03:01.920><c> this</c><00:03:02.080><c> deep</c>
+
+00:03:02.309 --> 00:03:02.319 align:start position:0%
+inging to me and and I I like this deep
+ 
+
+00:03:02.319 --> 00:03:04.509 align:start position:0%
+inging to me and and I I like this deep
+dive<00:03:02.519><c> I'm</c><00:03:02.640><c> doing</c><00:03:02.840><c> you'll</c><00:03:03.000><c> have</c><00:03:03.120><c> to</c><00:03:03.280><c> join</c><00:03:03.519><c> us</c><00:03:03.959><c> um</c>
+
+00:03:04.509 --> 00:03:04.519 align:start position:0%
+dive I'm doing you'll have to join us um
+ 
+
+00:03:04.519 --> 00:03:05.949 align:start position:0%
+dive I'm doing you'll have to join us um
+on<00:03:04.680><c> my</c><00:03:04.840><c> twitch</c><00:03:05.120><c> Channel</c><00:03:05.400><c> if</c><00:03:05.480><c> you</c><00:03:05.599><c> want</c><00:03:05.680><c> to</c><00:03:05.799><c> do</c>
+
+00:03:05.949 --> 00:03:05.959 align:start position:0%
+on my twitch Channel if you want to do
+ 
+
+00:03:05.959 --> 00:03:09.070 align:start position:0%
+on my twitch Channel if you want to do
+some<00:03:06.080><c> of</c><00:03:06.200><c> these</c><00:03:06.319><c> deep</c><00:03:06.560><c> Dives</c><00:03:06.879><c> with</c><00:03:07.040><c> me</c><00:03:07.640><c> but</c><00:03:08.280><c> but</c>
+
+00:03:09.070 --> 00:03:09.080 align:start position:0%
+some of these deep Dives with me but but
+ 
+
+00:03:09.080 --> 00:03:11.149 align:start position:0%
+some of these deep Dives with me but but
+the<00:03:09.280><c> the</c><00:03:09.400><c> conclusion</c><00:03:09.840><c> to</c><00:03:10.040><c> this</c><00:03:10.200><c> deep</c><00:03:10.480><c> dive</c><00:03:10.879><c> is</c>
+
+00:03:11.149 --> 00:03:11.159 align:start position:0%
+the the conclusion to this deep dive is
+ 
+
+00:03:11.159 --> 00:03:13.229 align:start position:0%
+the the conclusion to this deep dive is
+that<00:03:11.400><c> the</c><00:03:11.519><c> runners</c><00:03:12.159><c> are</c><00:03:12.519><c> actually</c><00:03:12.920><c> you</c><00:03:13.000><c> can</c>
+
+00:03:13.229 --> 00:03:13.239 align:start position:0%
+that the runners are actually you can
+ 
+
+00:03:13.239 --> 00:03:15.030 align:start position:0%
+that the runners are actually you can
+run<00:03:13.760><c> you</c><00:03:13.879><c> could</c><00:03:14.000><c> run</c><00:03:14.159><c> a</c><00:03:14.280><c> get</c><00:03:14.440><c> up</c><00:03:14.599><c> runner</c><00:03:14.879><c> on</c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+run you could run a get up runner on
+ 
+
+00:03:15.040 --> 00:03:17.630 align:start position:0%
+run you could run a get up runner on
+Windows<00:03:15.599><c> NT</c><00:03:16.599><c> uh</c><00:03:16.799><c> uh</c><00:03:16.920><c> I</c><00:03:17.000><c> thought</c><00:03:17.120><c> for</c><00:03:17.400><c> sure</c><00:03:17.560><c> it</c>
+
+00:03:17.630 --> 00:03:17.640 align:start position:0%
+Windows NT uh uh I thought for sure it
+ 
+
+00:03:17.640 --> 00:03:19.910 align:start position:0%
+Windows NT uh uh I thought for sure it
+was<00:03:17.760><c> going</c><00:03:17.840><c> to</c><00:03:17.920><c> be</c><00:03:18.080><c> a</c><00:03:18.200><c> containerized</c><00:03:19.080><c> I</c><00:03:19.159><c> mean</c>
+
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+was going to be a containerized I mean
+ 
+
+00:03:19.920 --> 00:03:22.509 align:start position:0%
+was going to be a containerized I mean
+they<00:03:20.040><c> are</c><00:03:20.360><c> containers</c><00:03:21.239><c> right</c><00:03:21.400><c> so</c><00:03:21.720><c> now</c><00:03:22.080><c> my</c><00:03:22.239><c> next</c>
+
+00:03:22.509 --> 00:03:22.519 align:start position:0%
+they are containers right so now my next
+ 
+
+00:03:22.519 --> 00:03:24.869 align:start position:0%
+they are containers right so now my next
+question<00:03:22.760><c> is</c><00:03:23.159><c> like</c><00:03:23.440><c> well</c><00:03:24.120><c> how</c><00:03:24.319><c> is</c><00:03:24.400><c> it</c><00:03:24.640><c> that</c><00:03:24.760><c> you</c>
+
+00:03:24.869 --> 00:03:24.879 align:start position:0%
+question is like well how is it that you
+ 
+
+00:03:24.879 --> 00:03:26.470 align:start position:0%
+question is like well how is it that you
+know<00:03:25.000><c> if</c><00:03:25.080><c> you</c><00:03:25.200><c> have</c><00:03:25.360><c> if</c><00:03:25.440><c> you</c><00:03:25.519><c> write</c><00:03:25.720><c> your</c><00:03:25.840><c> own</c>
+
+00:03:26.470 --> 00:03:26.480 align:start position:0%
+know if you have if you write your own
+ 
+
+00:03:26.480 --> 00:03:27.670 align:start position:0%
+know if you have if you write your own
+you<00:03:26.519><c> know</c><00:03:26.640><c> custom</c><00:03:26.959><c> actions</c><00:03:27.239><c> they</c><00:03:27.360><c> have</c><00:03:27.440><c> to</c><00:03:27.560><c> be</c>
+
+00:03:27.670 --> 00:03:27.680 align:start position:0%
+you know custom actions they have to be
+ 
+
+00:03:27.680 --> 00:03:29.550 align:start position:0%
+you know custom actions they have to be
+containers<00:03:28.400><c> those</c><00:03:28.560><c> containers</c><00:03:29.000><c> have</c><00:03:29.120><c> to</c><00:03:29.280><c> run</c>
+
+00:03:29.550 --> 00:03:29.560 align:start position:0%
+containers those containers have to run
+ 
+
+00:03:29.560 --> 00:03:30.630 align:start position:0%
+containers those containers have to run
+well<00:03:29.799><c> they're</c><00:03:29.879><c> running</c><00:03:30.080><c> on</c><00:03:30.159><c> a</c><00:03:30.239><c> runner</c><00:03:30.480><c> that's</c>
+
+00:03:30.630 --> 00:03:30.640 align:start position:0%
+well they're running on a runner that's
+ 
+
+00:03:30.640 --> 00:03:33.110 align:start position:0%
+well they're running on a runner that's
+running<00:03:30.840><c> on</c><00:03:30.959><c> Windows</c><00:03:31.280><c> how</c><00:03:31.360><c> does</c><00:03:31.519><c> that</c><00:03:32.120><c> work</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+running on Windows how does that work
+ 
+
+00:03:33.120 --> 00:03:34.630 align:start position:0%
+running on Windows how does that work
+well<00:03:33.319><c> I</c><00:03:33.480><c> imagine</c><00:03:33.920><c> it's</c><00:03:34.159><c> because</c><00:03:34.360><c> there's</c><00:03:34.519><c> a</c>
+
+00:03:34.630 --> 00:03:34.640 align:start position:0%
+well I imagine it's because there's a
+ 
+
+00:03:34.640 --> 00:03:36.789 align:start position:0%
+well I imagine it's because there's a
+container<00:03:34.959><c> engine</c><00:03:35.239><c> running</c><00:03:35.439><c> on</c><00:03:35.599><c> Windows</c><00:03:35.879><c> NT</c>
+
+00:03:36.789 --> 00:03:36.799 align:start position:0%
+container engine running on Windows NT
+ 
+
+00:03:36.799 --> 00:03:38.750 align:start position:0%
+container engine running on Windows NT
+and<00:03:37.040><c> windows</c><00:03:37.400><c> con</c><00:03:37.760><c> and</c><00:03:38.000><c> and</c><00:03:38.239><c> but</c><00:03:38.360><c> containers</c>
+
+00:03:38.750 --> 00:03:38.760 align:start position:0%
+and windows con and and but containers
+ 
+
+00:03:38.760 --> 00:03:40.149 align:start position:0%
+and windows con and and but containers
+are<00:03:38.879><c> a</c><00:03:39.000><c> Linux</c><00:03:39.319><c> technology</c><00:03:39.760><c> which</c><00:03:39.840><c> means</c><00:03:40.040><c> they</c>
+
+00:03:40.149 --> 00:03:40.159 align:start position:0%
+are a Linux technology which means they
+ 
+
+00:03:40.159 --> 00:03:42.229 align:start position:0%
+are a Linux technology which means they
+got<00:03:40.239><c> to</c><00:03:40.319><c> have</c><00:03:40.400><c> a</c><00:03:40.720><c> VM</c><00:03:41.040><c> built</c><00:03:41.239><c> in</c><00:03:41.439><c> there</c>
+
+00:03:42.229 --> 00:03:42.239 align:start position:0%
+got to have a VM built in there
+ 
+
+00:03:42.239 --> 00:03:45.110 align:start position:0%
+got to have a VM built in there
+somewhere<00:03:43.239><c> I'm</c><00:03:43.519><c> I</c><00:03:43.680><c> I</c><00:03:43.760><c> got</c><00:03:44.000><c> questions</c><00:03:44.560><c> so</c><00:03:44.920><c> we'll</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+somewhere I'm I I got questions so we'll
+ 
+
+00:03:45.120 --> 00:03:46.589 align:start position:0%
+somewhere I'm I I got questions so we'll
+we'll<00:03:45.239><c> do</c><00:03:45.400><c> those</c><00:03:45.599><c> questions</c><00:03:45.959><c> later</c><00:03:46.280><c> but</c><00:03:46.439><c> the</c>
+
+00:03:46.589 --> 00:03:46.599 align:start position:0%
+we'll do those questions later but the
+ 
+
+00:03:46.599 --> 00:03:49.789 align:start position:0%
+we'll do those questions later but the
+conclusion<00:03:47.120><c> is</c><00:03:48.000><c> Runners</c><00:03:48.560><c> are</c><00:03:48.799><c> a</c><00:03:49.080><c> Microsoft</c>
+
+00:03:49.789 --> 00:03:49.799 align:start position:0%
+conclusion is Runners are a Microsoft
+ 
+
+00:03:49.799 --> 00:03:53.390 align:start position:0%
+conclusion is Runners are a Microsoft
+thing<00:03:50.480><c> they</c><00:03:50.599><c> are</c><00:03:50.760><c> written</c><00:03:51.080><c> in</c><00:03:51.640><c> C</c><00:03:52.640><c> and</c><00:03:53.159><c> they're</c>
+
+00:03:53.390 --> 00:03:53.400 align:start position:0%
+thing they are written in C and they're
+ 
+
+00:03:53.400 --> 00:03:56.400 align:start position:0%
+thing they are written in C and they're
+awesome
+
